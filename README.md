@@ -32,7 +32,7 @@ This book is licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
-![](./cc-by.png =100x)
+![](./cc-by.png)
 
 The following is only a brief summary and no substitution for the real 
 [licence](https://creativecommons.org/licenses/by/4.0/).
