@@ -12,13 +12,16 @@
 %% ==================================
 %%
 0_intro.md
-1_glossary.md
-2_resources.md
+
+1-terms-A-L.md
+2-terms-M-Z.md
+
+99-resources.md
 
 
 %% ==================================
 
 {backmatter}
 
-30_appendix/3_also_from_this_author.md
-30_appendix/4_about-the-author.md
+30_appendix/1-also-from-this-author.md
+30_appendix/2-about-the-authors.md
