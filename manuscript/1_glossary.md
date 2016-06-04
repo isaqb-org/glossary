@@ -1,7 +1,7 @@
 {pagebreak}
 
 {#glossary}
-# Appendix A: Glossary of Terms
+# Glossary of Terms
 
 **Abstractness**
 

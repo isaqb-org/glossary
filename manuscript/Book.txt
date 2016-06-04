@@ -1,0 +1,24 @@
+%% iSAQB Glossary of Software Architecture Terminology
+%%
+%% To be published on LeanPub (https://leanpub.com/isaqbglossary)
+%% =====================================================
+
+{frontmatter}
+
+00_front/1_revisions.md
+
+{mainmatter}
+
+%% ==================================
+%%
+0_intro.md
+1_glossary.md
+2_resources.md
+
+
+%% ==================================
+
+{backmatter}
+
+30_appendix/3_also_from_this_author.md
+30_appendix/4_about-the-author.md
