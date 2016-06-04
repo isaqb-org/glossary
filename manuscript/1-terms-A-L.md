@@ -3,20 +3,18 @@
 {#glossary}
 # Glossary of Terms
 
-###### Abstractness
+##### Abstractness
 
-: Metric for the source code of object oriented systems: The number of abstract types
+Metric for the source code of object oriented systems: The number of abstract types
 (interfaces and abstract classes) divided by the total number of types.
 
 ###### Adapter
 
 The adapter is a design pattern that allows the interface of an existing component to be used from another interface. It is often used to make existing components cooperate with others without modifying their source code.
 
-  For details, see [section II-3.3](#pattern-adapter).
+####### Aggregation
 
-**Aggregation**
-
-: A form of object composition in object-oriented programming.
+A form of object composition in object-oriented programming.
 It differs from ->composition, as aggregation does not imply ownership. When the element is destroyed, the contained elements
 remain intact.
 
@@ -60,7 +58,7 @@ Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
 **Architecture view**
 
-: A representation of a system from a specific perspective. Important and well-known views are ->contect view, ->building block view, ->runtime view, ->deployment view. You find brief examples in [section II.4.5](#section-ii-4-views)
+: A representation of a system from a specific perspective. Important and well-known views are ->contect view, ->building block view, ->runtime view, ->deployment view.
 [Bass+2012] and [Rozanski+11] extensively discuss this concept.
 
 **Artifact**
@@ -143,7 +141,7 @@ It measures the strength of relationship between pieces of functionality within 
 **Command**
 
 : Design pattern in which an object is used to encapsulate
-an action. This action might be invoked or executed at a later time. For details, see [section II-3.3](#pattern-command).
+an action. This action might be invoked or executed at a later time.
 
 **Complexity**
 
@@ -306,7 +304,6 @@ limited memory and processing resources, small size.
 : Structural design pattern. A Facade offers a simplified interface to a complex
 or complicated building block (the _provider_) without any modifications to the provider.
 
-  For details, see [section II-3.3](#pattern-facade).
 
 **Factory**
 
