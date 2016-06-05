@@ -15,6 +15,12 @@ We welcome suggestions and critique of any kind: Just
 [open an issue](https://github.com/isaqb-org/glossary/issues) 
 here on Github!
 
+## Book Generation (aka "build")
+
+This repository is linked with Leanpub over a webhook: Every commit in `master` triggers
+a preview-build at Leanpub. The results (in pdf, mobi and epub formats) are stored in
+a Dropbox folder. Authors and contributors are given access to this Dropbox.
+
 
 ## Contributors
 
