@@ -20,7 +20,7 @@ where the authors maintain the original sources for this book.
 ## Licence
 
 {float=inside}
-![](./images/cc-by.png)
+![](images/cc-by.png)
 
 This book is licensed under a 
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/.
