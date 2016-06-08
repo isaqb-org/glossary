@@ -27,6 +27,7 @@ a Dropbox folder. Authors and contributors are given access to this Dropbox.
 The initial version of this glossary has been contributed by [Gernot Starke](http://gernotstarke.de).
 Prior versions of an (German) glossary had been compiled and edited by Dr. Ulrich Becker,
 Phillip Ghadir and others.
+ 
 
 Currently the contens are maintained by volunteers from the [iSAQB e.V.](http://isaqb.org),
 a non-profit volunteer association - most of them are mentioned the contributors list of this repository.

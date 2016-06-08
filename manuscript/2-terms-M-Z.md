@@ -213,7 +213,7 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 
 A wonderful programming language.
 
-{#ge_runtime_view}
+{#term__runtime_view}
 ##### Runtime View
 
 Shows the cooperation or collaboration of building blocks
@@ -287,7 +287,7 @@ aligned with that responsibility.
 
   Cohesion is sometimes considered to by synonymous for SRP.
 
-{#ge-software-quality}
+{#term_-software-quality}
 ##### Software Quality
 
 (from IEEE Standard 1061): Software quality is the degree to which software possesses a desired combination of attributes. This desired combination of attributes need to be clearly defined; otherwise, assessment of quality is left to intuition.

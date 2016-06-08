@@ -18,6 +18,13 @@ A form of object composition in object-oriented programming.
 It differs from ->composition, as aggregation does not imply ownership. When the element is destroyed, the contained elements
 remain intact.
 
+
+##### Algorithm
+
+* (noun) Term used by software developers when they
+do not want to explain what they did. 
+* A self-contained step-by-step set of operations to be performed, e.g. to perform calculations, data processing, and/or similar tasks.
+
 ##### Appropriateness
 
 (syn: adequacy, suitability) Suitability for a particular purpose.
@@ -122,7 +129,7 @@ of software architecture.
   file, program, subsystem, configuration, data-definition etc.
 
 
-{#GEBuildingBlockView}
+{#term_BuildingBlockView}
 ##### Building Block View
 
 Shows the statical structure of the system,
@@ -179,7 +186,7 @@ Plan or principle how to solve a specific problem.
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
 
 
-{#ge_context_view}
+{#term__context_view}
 ##### Context View
 
 Shows the complete system as one blackbox within its environment, either from
@@ -357,7 +364,7 @@ defined as ISO/IEC 42010:2007. Defines a (abstract) framework for the descriptio
 see _iterative and incremental development_.
 
 
-{#ge_information_hiding}
+{#term__information_hiding}
 ##### Information Hiding
 
 A fundamental principle in software design: Keep those design or implementation decisions
