@@ -19,7 +19,7 @@ where the authors maintain the original sources for this book.
 
 ## Licence
 
-{float=inside}
+{float=inside,width=25%}
 ![](images/cc-by.png)
 
 This book is licensed under a 
