@@ -2,13 +2,13 @@
 {pagebreak}
 
 {#section-about-isaqb}
-# Appendix: The iSAQB e.V. Association
+# Appendix A: The iSAQB e.V. Association
 
 {width=20%,float=inside}
 ![](images/42-backmatter/isaqb-logo.png)
 
 The International Software Architecture Qualification Board 
-[(iSAQB e.V.)]{http://isaqb.org} is a non-profit
+[(iSAQB e.V., http://isaqb.org)]{http://isaqb.org} is a non-profit
 organization with members from industry, development and consulting firms,
 education, academia and other organizations.
 

@@ -16,6 +16,8 @@
 1-terms-A-L.md
 2-terms-M-Z.md
 
+42-translations-DE.md
+
 99-resources.md
 
 

@@ -1,4 +1,4 @@
-# Appendix A: Also From This Author
+# Appendix C: Also From The Authors
 
 
 ### Communicating Software Architectures

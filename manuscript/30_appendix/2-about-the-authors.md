@@ -1,5 +1,7 @@
 
-# Appendix B: About the Author
+# Appendix B: About the Authors
+
+## Gernot Starke
 
 {width=15%,float=right}
 ![](images/42-backmatter/innoQ-logo.png)
