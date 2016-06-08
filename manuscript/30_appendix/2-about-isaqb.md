@@ -7,7 +7,8 @@
 {width=20%,float=inside}
 ![](images/42-backmatter/isaqb-logo.png)
 
-The International Software Architecture Qualification Board is a non-profit
+The International Software Architecture Qualification Board 
+[(iSAQB e.V.)]{http://isaqb.org} is a non-profit
 organization with members from industry, development and consulting firms,
 education, academia and other organizations.
 
