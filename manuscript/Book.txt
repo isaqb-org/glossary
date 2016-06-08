@@ -23,5 +23,6 @@
 
 {backmatter}
 
+30_appendix/1-about-isaqb.md
 30_appendix/1-also-from-this-author.md
 30_appendix/2-about-the-authors.md
