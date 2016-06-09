@@ -168,7 +168,7 @@ these tree.
   quality tree (see the example below).
 
   {width=60%}  
-  ![Sample Quality Tree](images/01_architecture/QualityTree.png)
+  ![Sample Quality Tree](images/QualityTree.png)
 
   [Section II.5](#section-ii-quality-tree) contains a detailed explanation.
 
@@ -228,15 +228,14 @@ They help to describe required or desired qualities of a system, in pragmatic an
 informal manner, yet making the abstract notion of “quality” concrete and tangible.
 
   {width=50%}
-  ![Generic form of (Quality) scenario](images/01_architecture/schematic-Q-scenario.png)
+  ![Generic form of (Quality) scenario](images/schematic-Q-scenario.png)
 
   * Event/stimulus: Any condition or event arriving at the system
   * System (or part of the system) is stimulated by the event.
   * Response: The activity undertaken after the arrival of the stimulus.
   * Metric (response measure): The response should be measurable in some fashion.
 
-  See [part II.5, Qualitative Evaluation](#section-ii-5-quality-scenarios).
-
+ 
 ##### SCS (Self Contained System)
 
 An architectural style, similar to ->Microservices. To quote from the site
@@ -273,7 +272,7 @@ between elements. As parallel vertical lines it shows
 the lifespan of objects or components, horizontal lines
 depict interactions between these components. See the following example.
 
-![Example of Sequence Diagram](images/42-backmatter/sequence-diagram-sample.png)
+![Example of Sequence Diagram](images/sequence-diagram-sample.png)
 
 ##### Singleton
 
