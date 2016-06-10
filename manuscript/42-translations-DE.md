@@ -10,15 +10,8 @@ between English (EN) and German (DE).
 
 A>Please note: This translation table is not supposed to be complete, several English terms will not be translated but preferably used in their original languate (e.g. many of the design pattern names).
 
-
-|English        |German           |
-|---------------|-----------------|
-|Building Block |Baustein |
-|---------------|-----------------|
-|   | |
-|---------------|-----------------|
-|   | |
-|---------------|-----------------|
-|   | |
-|---------------|-----------------|
-|   | |
+%%
+%% the actual translation tables are generated from a JSON file
+%% in the ./translator/translations directory by a Groovy application. 
+%%
+%%
