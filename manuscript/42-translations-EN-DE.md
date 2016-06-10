@@ -1,5 +1,6 @@
 {pagebreak}
 
+{#section-translations}
 # Translations
 
 {#section-translations-EN-DE}

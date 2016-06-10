@@ -1,6 +1,6 @@
 {pagebreak}
 
-{#resources}
+{#section-references}
 # Resources
 
 Bass+2012
