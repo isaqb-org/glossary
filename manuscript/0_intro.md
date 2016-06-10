@@ -20,15 +20,15 @@ Errors or ommissions can also be reported in our issue tracker on
 where the authors maintain the original sources for this book.
 
 
-## Licence
+## License
 
 {float=inside,width=25%}
 ![](images/cc-by.png)
 
 This book is licensed under a 
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/.
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-The following is only a brief summary and no substitution for the real licence.
+The following is only a brief summary and no substitution for the real license.
 
 The cc-4.0-by license means that you might:
 

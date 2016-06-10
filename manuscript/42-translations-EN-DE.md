@@ -1,9 +1,9 @@
-
 {pagebreak}
 
-{#section-translations-EN-DE}
+# Translations
 
-# Translations English to German
+{#section-translations-EN-DE}
+## Translations English to German
 
 In this section we collect the iSAQB translation of the terms
 between German (DE) and English (EN).
