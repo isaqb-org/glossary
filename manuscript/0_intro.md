@@ -9,8 +9,11 @@ _Certified Professional for Software Architecture - Foundation Level_©.
 Please be aware: This glossary is **not** intended to be a primer or course book
 on software architecture, just a collection of definitions (and links to further information).
 
-This book is work in progress. Your [feedback](mailto:gs@gernotstarke.de?subject=iSAQB%Glossary)
-is welcome!
+Furthermore, you find proposals for translations of the iSAQB terminology,
+currently between English and German (and vice-versa).
+
+
+**This book is work in progress.** 
 
 Errors or ommissions can also be reported in our issue tracker on
 [Github](https://github.com/isaqb-org/glossary/issues),
