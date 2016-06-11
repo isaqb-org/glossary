@@ -177,11 +177,13 @@ more responsible ones.
 
   In UML: When the owning element is destroyed, so are the contained elements.
 
+{#term-concept}
 ##### Concept
 
 Plan or principle how to solve a specific problem.
 
-##### Context** (of a system)
+{#term-context}
+##### Context (of a system)
 
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
 
@@ -195,8 +197,9 @@ perspective (_technical context_). The context view (or context diagram) shows
 the boundary between a system  and its environment, showing the entities in
 its environment (its neighbours) with which it interacts.
 
-  See Context
+  See [Context](#term-context).
 
+{#term-coupling}
 ##### [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)
 
 Coupling is the kind and degree of _interdependence_ between building blocks of
@@ -214,17 +217,23 @@ different optimization strategies for reading and writing data (for example,
   it's much easier to cache data that's read-only than to cache data that's
   also altered.)
 
-   There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
-   on this subject.
+There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
+on this subject.
+
 
 ##### Crosscutting concept
 
-see _concept_
+See [concept](#term-concept).
+
+Synonym: principle, rule.
+
 
 ##### Crosscutting concern
 
 Functionality of the architecture or system that affects several elements. Examples
 of such concerns are logging, transactions, security, exception handling, caching etc.
+
+See also [concept](#term-concept). 
 
 ##### Cyclomatic complexity
 
@@ -232,6 +241,7 @@ Quantitative measure, number of independent paths through a program's source cod
 It roughly correlates to the number of conditional statements (`if`, `while`) in the code +1.
 A linear sequence of statements without `if` or `while` has the cyclomatic complexity of 1.
 Many software engineers believe that higher complexity correlates to the number of defects.
+
 
 ##### Decomposition
 
@@ -241,7 +251,8 @@ that are easier to understand, implement or maintain.
 
 ##### Dependency
 
-see coupling.
+See [coupling](#term-coupling).
+
 
 ##### Dependency Injection (DI)
 
