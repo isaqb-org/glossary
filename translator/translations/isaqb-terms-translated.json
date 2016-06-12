@@ -1,0 +1,24 @@
+[
+  { "en":"Building block",
+    "de":"Baustein"
+
+  },
+  { "en": "Tradeoff",
+    "de": ["Kompromiss", "Abwägung"]
+  },
+  { "en": "Requirement",
+    "de": "Anforderung"
+  },
+  { "en": "Constraint",
+    "de": ["Randbedingung", "Einschränkung"]
+  },
+  { "en": "Runtime",
+    "de": "Laufzeit"
+  },
+  { "en": "Deployment",
+    "de": "Verteilung"
+  },
+  { "en": "",
+    "de": ""
+  }
+]
