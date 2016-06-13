@@ -21,7 +21,12 @@
 %% Translation tables
 
 42-translations-EN-DE.md
+%% include the generated translation table:
+%% generated/gen-tt-EN-DE.md
+
 43-translations-DE-EN.md
+%% include the generated translation table:
+%% generated/gen-tt-DE-EN.md
 
 
 
