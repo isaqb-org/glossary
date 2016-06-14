@@ -28,7 +28,10 @@
 %% include the generated translation table:
 %% generated/gen-tt-DE-EN.md
 
+%% ==================================
+%% Categories
 
+60-categories.md
 
 %% ==================================
 %% References to books and websites
