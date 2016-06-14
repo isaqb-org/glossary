@@ -1,79 +1,90 @@
 class TranslationTable {
 
-    String sourceLanguage // e.g. "English"
+    final String sourceLanguageCode // e.g. "en"
+    final String targetLanguageCode
 
-    String targetLanguage
+    final String sourceLanguage // e.g. "English"
 
     final String MARKDOWN_TABLE_SEPARATOR = "|----------------------|-------------------|\n"
 
-    HashMap<String, List<String>> terms
+    final Map<String,String> LANGUAGES = [en:"English", de:"German"]
+
+
+    Map<String, List<String>> terms
 
 
     TranslationTable(String sourceLang, String targetLang) {
-        this.sourceLanguage = sourceLang
-        this.targetLanguage = targetLang
+        this.sourceLanguageCode = sourceLang
+        this.targetLanguageCode = targetLang
 
-        terms = [:] // new HashMap<String,List>()
+        this.sourceLanguage = LANGUAGES.get(sourceLang)
+
+        terms = new TreeMap<String,ArrayList<String>>()
     }
 
+    // ********* adding words/terms
 
-    void addWord(String sourceWord, String targetWord) {
+    void addWords(String sourceWord, String targetWord) {
         List targets = new ArrayList();
 
         if (noTranslationExistsFor(sourceWord)) {
-            targets = [:]
-        }
-        else {
-            targets.add( terms?.get(sourceWord) )
+            targets = new TreeMap<String,ArrayList<String>>()
         }
 
         targets.add(targetWord)
+
         terms.put(sourceWord, targets)
     }
 
-    void addTermToTable( def term, String fromLang, String toLang) {
-
-        def fromTerm = term.get(fromLang)
-        def toTerm   = term.get(toLang)
-
-        if (fromTerm instanceof String) {
-           addWord( fromTerm, toTerm)
-        }
-
-        println terms
-        // both can be String or List...
-
+    void addWords(String sourceWord, List<String> targetWords) {
+        terms.put(sourceWord, targetWords)
     }
 
 
-    String translationTableToLeanpubMarkdown() {
-        return ttHeader() + ttLines()
-    }
+
+    // ********** convert to Markdown
 
     private String ttHeader() {
-        return "|${sourceLanguage}     |${targetLanguage}  |\n" +
+        return "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
                 MARKDOWN_TABLE_SEPARATOR
 
     }
 
     private String ttLines() {
         String lines = ""
-        terms.each {  singleTerm ->
-            lines = lines + termToMarkdown( singleTerm ) + "\n" +
+        terms.keySet().each {  key ->
+            lines = lines + termToMarkdown( key ) + "\n" +
                     MARKDOWN_TABLE_SEPARATOR
         }
-    }
-
-    String termToMarkdown () {
-
+        return lines
     }
 
 
-    void addWord(String sourceWord, List<String> targetWords) {
-        terms.put(sourceWord, targetWords)
+    String termToMarkdown (String key) {
+       String temp = "|${key} |${translations(terms.get(key))} |\n"
+
+        return temp
     }
 
-    //ArrayList<String>
+
+    def translations = {final List list, result=null ->
+        if (!list) return result
+        final nextRes = result ? result+", " +list.head() : list.head()
+        call (list.tail(), nextRes)
+    }
+
+
+
+
+    String translationTableToLeanpubMarkdown() {
+        return ttHeader() + ttLines()
+    }
+
+
+
+    // ********* translate words
+
+
     def translate( String sourceTerm) {
         if (translationExistsFor( sourceTerm))
             return terms.get(sourceTerm)

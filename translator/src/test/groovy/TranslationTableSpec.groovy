@@ -20,7 +20,7 @@ class TranslationTableSpec extends Specification {
     def "setup Translation Table"() {
 
         expect:
-        translationTable.targetLanguage == "German"
+        translationTable.targetLanguageCode == "German"
 
     }
 
