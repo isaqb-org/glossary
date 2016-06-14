@@ -1,24 +1,120 @@
 [
-  { "en":"Building block",
-    "de":"Baustein"
+  /* *****************************************
+        The iSAQB e.V. translation table
 
+  Rules:
+
+  0.) Source language is English (en).
+
+  1.) Every entry needs to have an English term.
+
+  2.) Every entry must have at least
+  a single translation to another language,
+  e.g. from en to de.
+
+  3.) A term might have a list of translations
+  in other languages (e.g. en:Tradeoff translates
+  to de:[Kompromiss, Abwägung]
+
+  Abbreviations:
+  en: English
+  de: German
+  fr: French
+  sp: Spanish
+  ******************************************* */
+
+  { en: "Appropriateness",
+    de: "Angemessenheit"
   },
-  { "en": "Tradeoff",
-    "de": ["Kompromiss", "Abwägung"]
+  { en: "Architectural View",
+    de: ["Architektursicht", "Sicht", "Architectural Perspective"]
   },
-  { "en": "Requirement",
-    "de": "Anforderung"
+  { en: "Artifact",
+    de: "Artefakt"
   },
-  { "en": "Constraint",
-    "de": ["Randbedingung", "Einschränkung"]
+  { en:"Building block",
+    de:"Baustein"
   },
-  { "en": "Runtime",
-    "de": "Laufzeit"
+  { en:"Building block view",
+    de:"Bausteinsicht"
   },
-  { "en": "Deployment",
-    "de": "Verteilung"
+  { en: "Compliance",
+    de: ["Erfüllung", "Einhaltung"]
   },
-  { "en": "",
-    "de": ""
+  { en: "Constraint",
+    de: ["Randbedingung", "Einschränkung"]
+  },
+  { en: "Context view",
+    de: "Kontextabgrenzung"
+  },
+  { en: "Crosscutting",
+    de: "Querschnittlich"
+  },
+  { en: "Decomposition",
+    de: "Zerlegung"
+  },
+  { en: "Dependency",
+    de: ["Abhängigkeit", "Beziehung"]
+  },
+  { en: "Deployment",
+    de: "Verteilung"
+  },
+  { en: "Design",
+    de: "Entwurf"
+  },
+  { en: "Embedded",
+    de: "Eingebettet"
+  },
+  { en: "Encapsulation",
+    de: "Kapselung"
+  },
+  { en: "Information hiding principle",
+    de: "Geheimnisprinzip"
+  },
+  { en: "Interface",
+    de: "Schnittstelle"
+  },
+  { en: "Learning goal",
+    de: "Lernziel"
+  },
+  { en: "Module",
+    de: ["Komponente", "Modul", "Baustein"]
+  },
+  { en: "Node",
+    de: "Knoten"
+  },
+  { en: "Objective",
+    de: "Ziel"
+  },
+  { en: "Pattern",
+    de: "Muster"
+  },
+  { en: "Principle",
+    de: ["Prinzip", "Konzept"]
+  },
+  { en: "Relationship",
+    de: "Beziehung"
+  },
+  { en: "Requirement",
+    de: "Anforderung"
+  },
+  { en: "Responsibility",
+    de: "Verantwortlichkeit"
+  },
+  { en: "Runtime",
+    de: "Laufzeit"
+  },
+  { en: "Term",
+    de: "Begriff"
+  },
+  { en: "Task",
+    de: "Aufgabe"
+  },
+  { en: "Tradeoff",
+    de: ["Kompromiss", "Abwägung"]
+  },
+  { en: "View",
+    de: ["Sicht", "Perspektive"]
   }
+
 ]
