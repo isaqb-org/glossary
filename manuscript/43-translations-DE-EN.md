@@ -15,9 +15,8 @@ A>Please note: This translation table is not supposed to be complete, several En
 %%
 %%
 
-{width=80%}
+{width=90%}
 
-**************************************************
 |German     |English  |
 |----------------------|-------------------|
 |Abhängigkeit |Dependency |
