@@ -11,9 +11,9 @@ located in the [public Github repository](https://github.com/isaqb-org/glossary)
 
 ## Format of Translation File  
 
-The format is simple list with map entries.
+The format is simple list with map entries, in file `translations/isaqb-terms-translated.json`.
 
-{lang="JSON",linenos=off}
+{lang="JSON",linenos=on}
 ~~~~~~~~
 [
   { en: "Appropriateness",
@@ -26,9 +26,10 @@ The format is simple list with map entries.
 ]  
 ~~~~~~~~
 
-This file is internally converted to the following Java type:
+If a single (English) term has multiple translations,
+as in line 6, use a JSON list.
 
-    Map<String, List<String>>
+This file is internally converted to a Java type: `Map<String, List<String>>`
 
 From that, Leanpub-Markdown is generated, one table per language,
 currently German ("de") and English ("en").
