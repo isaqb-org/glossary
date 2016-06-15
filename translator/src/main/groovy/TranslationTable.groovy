@@ -72,7 +72,9 @@ class TranslationTable {
 
 
     String termToMarkdown (String key) {
-       String temp = "|${key} |${terms?.get(key)?.toListString()} |\n"
+        String tmp = terms.get(key)
+
+       String temp = "|${key} |${terms?.get(key)?.join(", ")} |\n"
 
         return temp
     }
@@ -86,9 +88,7 @@ class TranslationTable {
     }
     */
 
-    String translations( String key) {
-        return terms.get(key).sort().toListString()
-    }
+
 
 
     String translationTableToLeanpubMarkdown() {

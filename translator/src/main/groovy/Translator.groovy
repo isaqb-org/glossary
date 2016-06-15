@@ -1,4 +1,3 @@
-
 class Translator {
 
     final static String FILEPATH = "translations/"
@@ -21,16 +20,16 @@ class Translator {
 
     static def parseFile(File file) {
         def slurper = new groovy.json.JsonSlurper()
-        slurper.setType( groovy.json.JsonParserType.LAX)
+        slurper.setType(groovy.json.JsonParserType.LAX)
 
-        def terms = slurper.parse( file )
+        def terms = slurper.parse(file)
 
         println "successfully parsed file ${file.name}\n"
         return terms
     }
 
 
-    static TranslationTable build_EN_TranslationTable( List terms ) {
+    static TranslationTable build_EN_TranslationTable(List terms) {
         println "Building translation table EN to DE\n"
         println "*" * 50
 
@@ -58,39 +57,37 @@ class Translator {
     }
 
 
-        static TranslationTable build_DE_TranslationTable( List terms ) {
-            println "Building translation table EN to DE\n"
-            println "*" * 50
+    static TranslationTable build_DE_TranslationTable(List terms) {
+        println "Building translation table EN to DE\n"
+        println "*" * 50
 
-            TranslationTable tt = new TranslationTable("de", "en")
+        TranslationTable tt = new TranslationTable("de", "en")
 
-            terms.each {
-                def sources = it.de
+        terms.each {
+            def sources = it.de
 
-                if (sources instanceof String) {
-                    def existingTrans = tt?.terms.get(sources)
+            if (sources instanceof String) {
+                def existingTrans = tt?.terms.get(sources)
 
+                if (existingTrans == null) existingTrans = []
+                existingTrans.add(it.en)
+                tt.put(sources, existingTrans)
+            } else if (sources instanceof List) {
+                sources.each { deWord ->
+                    def existingTrans = tt?.terms?.get(deWord)
                     if (existingTrans == null) existingTrans = []
-                    existingTrans.add( it.en )
-                    tt.put(sources, existingTrans)
-                }
-                else if (sources instanceof List) {
-                    sources.each { deWord ->
-                        def existingTrans = tt?.terms?.get( deWord )
-                        if (existingTrans == null) existingTrans = []
 
-                        existingTrans.add( it.en )
-                        tt.put(deWord, existingTrans.sort())
-                    }
+                    existingTrans.add(it.en)
+                    tt.put(deWord, existingTrans.sort())
                 }
-                else {
-                    println "error in de_en: $sources"
-                    assert false
-                }
+            } else {
+                println "error in de_en: $sources"
+                assert false
             }
-
-            return tt
         }
+
+        return tt
+    }
 
 
     static void addTermToTable(Map<String, List> term, TranslationTable translationTable, String sourceLangCode, String targetLangCode) {
@@ -98,11 +95,11 @@ class Translator {
 
         def targetWords = term.get(targetLangCode)
 
-        translationTable.addWords( sourceWords, targetWords)
+        translationTable.addWords(sourceWords, targetWords)
 
     }
 
-    static boolean isItCompliantToRules(Object termsFromJSON ) {
+    static boolean isItCompliantToRules(Object termsFromJSON) {
 
 
         assert termsFromJSON instanceof java.util.List
@@ -128,11 +125,15 @@ class Translator {
 
         listFile(translationFile)
 
-        def terms = parseFile( translationFile )
+        def terms = parseFile(translationFile)
 
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
+
+            //println "toListString():" + en_de.terms.get("Architectural View").join(", ")
+            //println "get():" + en_de.terms.get("Architectural View")
+
 
             println en_de.translationTableToLeanpubMarkdown()
 
@@ -140,8 +141,7 @@ class Translator {
 
             println de_en.translationTableToLeanpubMarkdown()
 
-        }
-        else println( "Error in JSON file - cannot proceed")
+        } else println("Error in JSON file - cannot proceed")
 
 
     }
