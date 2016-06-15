@@ -17,9 +17,14 @@ A>Please note: This translation table is not supposed to be complete, several En
 
 {width=80%}
 
+**************************************************
 |German     |English  |
 |----------------------|-------------------|
 |Abhängigkeit |Dependency |
+|----------------------|-------------------|
+|Abhängigkeit (zwischen Entwurfsentscheidungen) |Interdependency (between design decisions) |
+|----------------------|-------------------|
+|Ablaufsteuerung |Workflow management |
 |----------------------|-------------------|
 |Abwägung |Tradeoff |
 |----------------------|-------------------|
@@ -27,7 +32,25 @@ A>Please note: This translation table is not supposed to be complete, several En
 |----------------------|-------------------|
 |Angemessenheit |Appropriateness |
 |----------------------|-------------------|
-|Architektursicht |Architectural View |
+|Anpassung |Adaption |
+|----------------------|-------------------|
+|Ansatz |Approach |
+|----------------------|-------------------|
+|Arbeitsmittel |Tools |
+|----------------------|-------------------|
+|Arbeitsumgebung |Working environment |
+|----------------------|-------------------|
+|Architekturanalyse |Architecture assessment |
+|----------------------|-------------------|
+|Architekturbewertung |Architecture assessment |
+|----------------------|-------------------|
+|Architekturbewertung, Architekturanalyse |Architecture evaluation |
+|----------------------|-------------------|
+|Architekturmuster |Architectural pattern |
+|----------------------|-------------------|
+|Architektursicht |Architectural view |
+|----------------------|-------------------|
+|Architekturziel |Architectural objective |
 |----------------------|-------------------|
 |Artefakt |Artifact |
 |----------------------|-------------------|
@@ -39,19 +62,53 @@ A>Please note: This translation table is not supposed to be complete, several En
 |----------------------|-------------------|
 |Begriff |Term |
 |----------------------|-------------------|
+|Begutachtung |Assessment |
+|----------------------|-------------------|
+|Benachrichtigung |Notification |
+|----------------------|-------------------|
+|Beschreibung (von Softwarearchitektur) |Specification (of software architecture) |
+|----------------------|-------------------|
+|Beschreibungsmittel |Means for describing, Means for documenting |
+|----------------------|-------------------|
+|Betriebsprozesse (von Software) |Operational processes |
+|----------------------|-------------------|
+|Bewertung |Assessment, Evaluation |
+|----------------------|-------------------|
 |Beziehung |Dependency, Relationship |
+|----------------------|-------------------|
+|Beziehungsart |Relationship (kind of) |
+|----------------------|-------------------|
+|Domäne |Business |
+|----------------------|-------------------|
+|Einflussfaktor |Influencing Factor |
 |----------------------|-------------------|
 |Eingebettet |Embedded |
 |----------------------|-------------------|
 |Einhaltung |Compliance |
 |----------------------|-------------------|
+|Einordnung (eines Begriffes) in einen Zusammenhang |Context (of a term) |
+|----------------------|-------------------|
 |Einschränkung |Constraint |
+|----------------------|-------------------|
+|Einschätzung |Assessment |
 |----------------------|-------------------|
 |Entwurf |Design |
 |----------------------|-------------------|
 |Erfüllung |Compliance |
 |----------------------|-------------------|
+|Fachdomäne |Domain |
+|----------------------|-------------------|
+|Fachlicher Bereich |Domain |
+|----------------------|-------------------|
+|Fachlichkeit |Business |
+|----------------------|-------------------|
+|Fertigkeit |Skill |
+|----------------------|-------------------|
+|Fähigkeit |Skill |
+|----------------------|-------------------|
 |Geheimnisprinzip |Information hiding principle |
+|----------------------|-------------------|
+|Geschäftsbereich |Domain |
 |----------------------|-------------------|
 |Kapselung |Encapsulation |
 |----------------------|-------------------|
@@ -89,13 +146,15 @@ A>Please note: This translation table is not supposed to be complete, several En
 |----------------------|-------------------|
 |Schulungsanbieter |Training provider |
 |----------------------|-------------------|
-|Sicht |Architectural View, View |
+|Sicht |Architectural view, View |
 |----------------------|-------------------|
 |Unternehmens-IT-architektur |Enterprise IT architecture |
 |----------------------|-------------------|
 |Verantwortlichkeit |Responsibility |
 |----------------------|-------------------|
 |Verteilung |Deployment |
+|----------------------|-------------------|
+|Werkzeug |Tools |
 |----------------------|-------------------|
 |Zerlegung |Decomposition |
 |----------------------|-------------------|

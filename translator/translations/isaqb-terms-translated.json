@@ -23,14 +23,35 @@
   sp: Spanish
   ******************************************* */
 
+  { en: "Adaption",
+    de: "Anpassung"
+  },
+  { en: "Approach",
+    de: "Ansatz"
+  },
   { en: "Appropriateness",
     de: "Angemessenheit"
   },
-  { en: "Architectural View",
+  { en: "Architectural objective",
+    de: "Architekturziel"
+  },
+  { en: "Architectural pattern",
+    de: "Architekturmuster"
+  },
+  { en: "Architectural view",
     de: ["Architektursicht", "Sicht"]
+  },
+  { en: "Architecture assessment",
+    de: ["Architekturanalyse", "Architekturbewertung"]
+  },
+  { en: "Architecture evaluation",
+    de: "Architekturbewertung, Architekturanalyse"
   },
   { en: "Artifact",
     de: "Artefakt"
+  },
+  { en: "Assessment",
+    de: ["Bewertung", "Begutachtung", "Einschätzung"]
   },
   { en:"Building block",
     de:"Baustein"
@@ -38,6 +59,8 @@
   { en:"Building block view",
     de:"Bausteinsicht"
   },
+  { en: "Business",
+    de: ["Fachlichkeit", "Domäne"]},
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
@@ -46,6 +69,9 @@
   },
   { en: "Constraint",
     de: ["Randbedingung", "Einschränkung"]
+  },
+  { en: "Context (of a term)",
+    de: "Einordnung (eines Begriffes) in einen Zusammenhang"
   },
   { en: "Context view",
     de: "Kontextabgrenzung"
@@ -65,6 +91,9 @@
   { en: "Design",
     de: "Entwurf"
   },
+  { en: "Domain",
+    de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
+  },
   { en: "Embedded",
     de: "Eingebettet"
   },
@@ -74,8 +103,17 @@
   { en: "Enterprise IT architecture",
     de: "Unternehmens-IT-architektur"
   },
+  { en: "Evaluation",
+    de: "Bewertung"
+  },
+  { en: "Influencing Factor",
+    de: "Einflussfaktor"
+  },
   { en: "Information hiding principle",
     de: "Geheimnisprinzip"
+  },
+  { en: "Interdependency (between design decisions)",
+    de: "Abhängigkeit (zwischen Entwurfsentscheidungen)"
   },
   { en: "Interface",
     de: "Schnittstelle"
@@ -83,14 +121,26 @@
   { en: "Learning goal",
     de: "Lernziel"
   },
+  { en: "Means for describing",
+    de: "Beschreibungsmittel"
+  },
+  { en: "Means for documenting",
+    de: "Beschreibungsmittel"
+  },
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
   { en: "Node",
     de: "Knoten"
   },
+  { en: "Notification",
+    de: "Benachrichtigung"
+  },
   { en: "Objective",
     de: "Ziel"
+  },
+  { en: "Operational processes",
+    de: "Betriebsprozesse (von Software)"
   },
   { en: "Pattern",
     de: "Muster"
@@ -107,6 +157,9 @@
   { en: "Relationship",
     de: "Beziehung"
   },
+  { en: "Relationship (kind of)",
+    de: "Beziehungsart"
+  },
   { en: "Requirement",
     de: "Anforderung"
   },
@@ -116,11 +169,20 @@
   { en: "Runtime",
     de: "Laufzeit"
   },
-  { en: "Term",
-    de: "Begriff"
+  { en: "Skill",
+    de: ["Fähigkeit", "Fertigkeit"]
+  },
+  { en: "Specification (of software architecture)",
+    de: "Beschreibung (von Softwarearchitektur)"
   },
   { en: "Task",
     de: "Aufgabe"
+  },
+  { en: "Term",
+    de: "Begriff"
+  },
+  { en: "Tools",
+    de: ["Arbeitsmittel", "Werkzeug"]
   },
   { en: "Tradeoff",
     de: ["Kompromiss", "Abwägung"]
@@ -130,6 +192,12 @@
   },
   { en: "View",
     de: ["Sicht", "Perspektive"]
+  },
+  { en: "Workflow management",
+    de: "Ablaufsteuerung"
+  },
+  { en: "Working environment",
+    de: "Arbeitsumgebung"
   }
 
 ]
