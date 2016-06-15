@@ -30,21 +30,68 @@ class Translator {
     }
 
 
-    static TranslationTable buildTranslationTable( List terms, String fromLangCode, String toLangCode) {
-        println "Building translation table ($fromLangCode to $toLangCode)\n"
+    static TranslationTable build_EN_TranslationTable( List terms ) {
+        println "Building translation table EN to DE\n"
         println "*" * 50
 
-        TranslationTable tt = new TranslationTable(fromLangCode, toLangCode)
+        TranslationTable tt = new TranslationTable("en", "de")
 
-        terms.each { term ->
-            assert term instanceof Map<String, List>
+        terms.each {
+            String source = it.en
+            def translations = []
 
-            if (term.en)
-               addTermToTable( term, tt, fromLangCode, toLangCode )
+            def trans = it.de
+            if (trans instanceof String) {
+                translations.add(trans)
+            } else if (trans instanceof List) {
+                translations = trans
+            } else {
+                println "error: $trans"
+                assert false
+            }
+
+            tt.put(source, translations)
+
         }
 
         return tt
     }
+
+
+        static TranslationTable build_DE_TranslationTable( List terms ) {
+            println "Building translation table EN to DE\n"
+            println "*" * 50
+
+            TranslationTable tt = new TranslationTable("de", "en")
+
+            terms.each {
+                def sources = it.de
+
+                if (sources instanceof String) {
+                    def existingTrans = tt?.terms.get(sources)
+
+                    if (existingTrans == null) existingTrans = []
+                    existingTrans.add( it.en )
+                    tt.put(sources, existingTrans)
+                }
+                else if (sources instanceof List) {
+                    sources.each { deWord ->
+                        def existingTrans = tt?.terms?.get( deWord )
+                        if (existingTrans == null) existingTrans = []
+
+                        existingTrans.add( it.en )
+                        tt.put(deWord, existingTrans.sort())
+                    }
+                }
+                else {
+                    println "error in de_en: $sources"
+                    assert false
+                }
+            }
+
+            return tt
+        }
+
 
     static void addTermToTable(Map<String, List> term, TranslationTable translationTable, String sourceLangCode, String targetLangCode) {
         def sourceWords = term.get(sourceLangCode)
@@ -85,9 +132,13 @@ class Translator {
 
         if (isItCompliantToRules(terms)) {
 
-            en_de = buildTranslationTable(terms, "en", "de")
+            en_de = build_EN_TranslationTable(terms)
 
             println en_de.translationTableToLeanpubMarkdown()
+
+            de_en = build_DE_TranslationTable(terms)
+
+            println de_en.translationTableToLeanpubMarkdown()
 
         }
         else println( "Error in JSON file - cannot proceed")

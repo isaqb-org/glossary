@@ -24,6 +24,11 @@ class TranslationTable {
 
     // ********* adding words/terms
 
+    void put( String source, List translations) {
+        terms.put(source, translations)
+    }
+
+
     void addWords(String sourceWord, String targetWord) {
         List targets = new ArrayList();
 
@@ -40,6 +45,12 @@ class TranslationTable {
         terms.put(sourceWord, targetWords)
     }
 
+    void addWords( List sourceWords, String targetWord) {
+        sourceWords.each { sourceWord ->
+            terms.put(sourceWord, targetWord)
+        }
+    }
+
 
 
     // ********** convert to Markdown
@@ -53,7 +64,7 @@ class TranslationTable {
     private String ttLines() {
         String lines = ""
         terms.keySet().each {  key ->
-            lines = lines + termToMarkdown( key ) + "\n" +
+            lines = lines + termToMarkdown( key )  +
                     MARKDOWN_TABLE_SEPARATOR
         }
         return lines
@@ -61,19 +72,23 @@ class TranslationTable {
 
 
     String termToMarkdown (String key) {
-       String temp = "|${key} |${translations(terms.get(key))} |\n"
+       String temp = "|${key} |${terms?.get(key)?.toListString()} |\n"
 
         return temp
     }
 
-
+    /*
+    // "functional" version that does not handle de-en translation correctly
     def translations = {final List list, result=null ->
         if (!list) return result
         final nextRes = result ? result+", " +list.head() : list.head()
         call (list.tail(), nextRes)
     }
+    */
 
-
+    String translations( String key) {
+        return terms.get(key).sort().toListString()
+    }
 
 
     String translationTableToLeanpubMarkdown() {
