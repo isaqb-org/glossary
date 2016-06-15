@@ -27,7 +27,7 @@
     de: "Angemessenheit"
   },
   { en: "Architectural View",
-    de: ["Architektursicht", "Sicht", "Architectural Perspective"]
+    de: ["Architektursicht", "Sicht"]
   },
   { en: "Artifact",
     de: "Artefakt"
@@ -37,6 +37,9 @@
   },
   { en:"Building block view",
     de:"Bausteinsicht"
+  },
+  { en: "Certification authority",
+    de: "Zertifizierungsstelle"
   },
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
@@ -68,6 +71,9 @@
   { en: "Encapsulation",
     de: "Kapselung"
   },
+  { en: "Enterprise IT architecture",
+    de: "Unternehmens-IT-architektur"
+  },
   { en: "Information hiding principle",
     de: "Geheimnisprinzip"
   },
@@ -92,6 +98,12 @@
   { en: "Principle",
     de: ["Prinzip", "Konzept"]
   },
+  { en: "Quality characteristic",
+    de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
+  },
+  { en: "Quality feature",
+    de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
+  },
   { en: "Relationship",
     de: "Beziehung"
   },
@@ -112,6 +124,9 @@
   },
   { en: "Tradeoff",
     de: ["Kompromiss", "Abwägung"]
+  },
+  { en: "Training provider",
+    de: "Schulungsanbieter"
   },
   { en: "View",
     de: ["Sicht", "Perspektive"]
