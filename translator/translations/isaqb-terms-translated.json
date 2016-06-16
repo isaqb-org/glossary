@@ -190,6 +190,9 @@
   { en: "Training provider",
     de: "Schulungsanbieter"
   },
+  { en: "Uses relationship",
+    de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
+  },
   { en: "View",
     de: ["Sicht", "Perspektive"]
   },
