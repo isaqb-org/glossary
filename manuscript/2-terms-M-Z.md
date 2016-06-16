@@ -138,10 +138,10 @@ desired combination of _attributes_ (see: software quality).
    * non-runtime quality attributes_ (which cannot be observed as the system executes) and
    * business quality attributes (cost, schedule, marketability, appropriateness for organization)
 
-  Examples of runtime quality attributes are functionality, performance, security, availability,
+Examples of runtime quality attributes are functionality, performance, security, availability,
   usability and interoperability.
 
-  Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability,
+Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability,
   testability.  
 
 ##### Quality characteristic
@@ -234,7 +234,7 @@ informal manner, yet making the abstract notion of “quality” concrete and ta
   * Response: The activity undertaken after the arrival of the stimulus.
   * Metric (response measure): The response should be measurable in some fashion.
 
- 
+
 ##### SCS (Self Contained System)
 
 An architectural style, similar to ->Microservices. To quote from the site
