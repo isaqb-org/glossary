@@ -10,10 +10,10 @@ class TranslationTableSpec extends Specification {
         translationTable = new TranslationTable("English", "German")
 
         bigTable = new TranslationTable("English", "German")
-        bigTable.addWord("Adapter", "Adapter")
-        bigTable.addWord("Coupling", "Kopplung")
-        bigTable.addWord("Coupling", "Abhängigkeit")
-        bigTable.addWord("Cohesion", "Kohäsion")
+        bigTable.addWords("Adapter", "Adapter")
+        bigTable.addWords("Coupling", "Kopplung")
+        bigTable.addWords("Coupling", "Abhängigkeit")
+        bigTable.addWords("Cohesion", "Kohäsion")
     }
 
 
@@ -26,7 +26,7 @@ class TranslationTableSpec extends Specification {
 
     def "can add single term"() {
         when:
-        translationTable.addWord("Building block", "Baustein")
+        translationTable.addWords("Building block", "Baustein")
 
         then:
         translationTable.translationExistsFor("Building block") == true
@@ -36,7 +36,7 @@ class TranslationTableSpec extends Specification {
 
     def "can add multiple translations for single word"() {
         when:
-        translationTable.addWord("Tradeoff", ["Kompromiss", "Abwägung"])
+        translationTable.addWords("Tradeoff", ["Kompromiss", "Abwägung"])
 
         then:
         translationTable.terms.get("Tradeoff").size() == 2
@@ -44,54 +44,13 @@ class TranslationTableSpec extends Specification {
 
     }
 
-    def "can add terms consecutively"() {
-        when:
-        translationTable.addWord("Tradeoff", "Kompromiss")
-        translationTable.addWord("Tradeoff", "Abwägung")
-
-        then:
-        translationTable.terms.get("Tradeoff").size() == 2
-
-        translationTable.terms.get("Tradeoff").contains("Abwägung")
-    }
-
 
     def "non existent word returns empty list"() {
         when:
-        translationTable.addWord("Requirement", "Anforderung")
+        translationTable.addWords("Requirement", "Anforderung")
 
         then:
         translationTable.translate("King") == []
-
-    }
-
-    def "can fill translation table from json"() {
-
-        when:
-        def translations = '''[
-{ "en":"Building block", "de":"Baustein" },
-{ "en": "Tradeoff","de": ["Kompromiss", "Abwägung"]}
-]'''
-
-        def slurper = new groovy.json.JsonSlurper()
-        ArrayList<List, List> result = slurper.parseText(translations)
-
-        then:
-        result.size() == 2
-
-        when:
-        result.each { term ->
-            def en = term.get("en")
-            def de = term.get("de")
-
-            if (en != null)
-                translationTable.addWord(en, de)
-
-        }
-
-        then:
-        translationTable.translate("Building block").contains( "Baustein" )
-
 
     }
 

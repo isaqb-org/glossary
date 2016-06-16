@@ -8,14 +8,6 @@ class Translator {
     static TranslationTable en_de = new TranslationTable("en", "de")
     static TranslationTable de_en = new TranslationTable("de", "en")
 
-    static void listFile(File file) {
-        println("This is the original translation file:")
-        println file.absoluteFile
-        println "*" * 50
-        println(file.text)
-        println("<eof>")
-        println("\n\n")
-    }
 
 
     static def parseFile(File file) {
@@ -90,14 +82,6 @@ class Translator {
     }
 
 
-    static void addTermToTable(Map<String, List> term, TranslationTable translationTable, String sourceLangCode, String targetLangCode) {
-        def sourceWords = term.get(sourceLangCode)
-
-        def targetWords = term.get(targetLangCode)
-
-        translationTable.addWords(sourceWords, targetWords)
-
-    }
 
     static boolean isItCompliantToRules(Object termsFromJSON) {
 
@@ -123,17 +107,11 @@ class Translator {
     static void main(String... args) {
         println("\n\niSAQB Glossary Translation Markdown Generator\n\n")
 
-        listFile(translationFile)
-
         def terms = parseFile(translationFile)
 
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
-
-            //println "toListString():" + en_de.terms.get("Architectural View").join(", ")
-            //println "get():" + en_de.terms.get("Architectural View")
-
 
             println en_de.translationTableToLeanpubMarkdown()
 
