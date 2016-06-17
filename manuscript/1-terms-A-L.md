@@ -22,7 +22,7 @@ remain intact.
 ##### Algorithm
 
 * (noun) Term used by software developers when they
-do not want to explain what they did. 
+do not want to explain what they did.
 * A self-contained step-by-step set of operations to be performed, e.g. to perform calculations, data processing, and/or similar tasks.
 
 ##### Appropriateness
@@ -233,7 +233,7 @@ Synonym: principle, rule.
 Functionality of the architecture or system that affects several elements. Examples
 of such concerns are logging, transactions, security, exception handling, caching etc.
 
-See also [concept](#term-concept). 
+See also [concept](#term-concept).
 
 ##### Cyclomatic complexity
 
@@ -298,6 +298,13 @@ where "better" means the avoidance of the following three _bad characteristics_:
 
   These characteristics have been formulated by Robert Martin, quoted from [OODesign.com](http://www.oodesign.com/design-principles.html)
 
+##### Document
+
+A writing conveying information.
+
+##### Documentation
+
+A systematically ordered collection of documents and other material of any kind that makes usage or evaluation easier. Examples for "other material": presentation, video, audio, web page, image, etc.
 
 ##### Domain Driven Design** (DDD)
 

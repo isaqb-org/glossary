@@ -71,6 +71,10 @@ the _attributes_ involved directly relate to specific system _functions_
 (so modern requirements engineering likes to call these things
   _required constraints_).
 
+##### Notation
+
+A system of marks, signs, figures, or characters that is used to represent information. Examples: prose, table, bullet point list, numbered list, UML, BPMN.
+
 ##### Observer
 
 (Design pattern) "... in which an object maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The Observer pattern is a key part in the model–view–controller (MVC) architectural pattern".

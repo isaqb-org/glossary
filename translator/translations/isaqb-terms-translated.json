@@ -94,6 +94,12 @@
   { en: "Domain",
     de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
   },
+  { en: "Document",
+    de: ["Dokument"]
+  },
+  { en: "Documentation",
+    de: ["Dokumentation"]
+  },
   { en: "Embedded",
     de: "Eingebettet"
   },
@@ -132,6 +138,9 @@
   },
   { en: "Node",
     de: "Knoten"
+  },
+  { en: "Notation",
+    de: ["Notation"]
   },
   { en: "Notification",
     de: "Benachrichtigung"
