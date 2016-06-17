@@ -15,7 +15,6 @@ generate these translations by calling `./gradlew run` (on unix or osx)
 or `.\gradlew.bat run` from the command line in directory `translator`.
 
 
-
 ## Suggestions Welcome
 
 We welcome suggestions and critique of any kind: Just
@@ -27,6 +26,43 @@ here on Github!
 This repository is linked with Leanpub over a webhook: Every commit in `master` triggers
 a preview-build at Leanpub. The results (in pdf, mobi and epub formats) are stored in
 a Dropbox folder. Authors and contributors are given access to this Dropbox.
+
+## About Translations and Translation tables
+
+The tables are generated
+by a small Groovy script from a JSON file. Its format is a simple list
+with map entries, in file `translations/isaqb-terms-translated.json`.
+
+{lang="JSON",linenos=on}
+~~~~~~~~
+[
+  { en: "Appropriateness",
+    de: "Angemessenheit"
+  },
+  { en: "Architectural View",
+    de: ["Architektursicht", "Sicht"]
+  }
+  // many more words...
+]  
+~~~~~~~~
+
+If a single (English) term has multiple translations,
+as in line 6, use a JSON list.
+
+This file is internally converted to a Java `Map<String, List<String>>`.
+
+From that, Leanpub-Markdown is generated, one table
+per language, currently German ("de") and English ("en").
+
+
+### Rules for Translation
+
+1. English is the _master_ language, code "en".
+2. Every entry needs to have an English term.
+3. Every entry must have at least a single translation to another language,e.g. from en to de.
+4. A term might have a list of translations
+in other languages (e.g. en:Tradeoff translates
+to de:[Kompromiss, Abwägung]
 
 
 ## Contributors
