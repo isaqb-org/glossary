@@ -130,19 +130,20 @@ see [_software quality_](#ge-software-quality) and ->quality attributes.
 Software quality is the degree to which a system posesses the
 desired combination of _attributes_ (see: software quality).
 
-  Important quality attributes are performance, robustness, security, safety,
-  flexibiltiy, dependability, maintainability etc.. See also [ISO-25010]()
+Important quality attributes are performance, robustness, security, safety,
+flexibiltiy, dependability, maintainability etc.. See also [ISO-25010]()
 
-  It's helpful to distinguish between
-   * _runtime quality attributes_ (which can be observed at execution time of the system),
-   * non-runtime quality attributes_ (which cannot be observed as the system executes) and
-   * business quality attributes (cost, schedule, marketability, appropriateness for organization)
+It's helpful to distinguish between
+
+* _runtime quality attributes_ (which can be observed at execution time of the system),
+* non-runtime quality attributes_ (which cannot be observed as the system executes) and
+* business quality attributes (cost, schedule, marketability, appropriateness for organization)
 
 Examples of runtime quality attributes are functionality, performance, security, availability,
-  usability and interoperability.
+usability and interoperability.
 
 Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability,
-  testability.  
+testability.  
 
 ##### Quality characteristic
 
