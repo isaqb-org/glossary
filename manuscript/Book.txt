@@ -45,4 +45,3 @@
 30_appendix/1-about-isaqb.md
 30_appendix/2-about-the-authors.md
 30_appendix/3-also-from-the-authors.md
-30_appendix/4-about-translations.md
