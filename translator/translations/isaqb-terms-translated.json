@@ -142,7 +142,7 @@
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
-  { en: "Moduling Tool",
+  { en: "Modeling Tool",
     de: ["Modellierungswerkzeug"]
   },
   { en: "Node",
