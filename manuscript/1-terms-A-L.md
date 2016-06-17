@@ -306,9 +306,18 @@ A writing conveying information.
 
 A systematically ordered collection of documents and other material of any kind that makes usage or evaluation easier. Examples for "other material": presentation, video, audio, web page, image, etc.
 
+##### Documentation Build
+
+Automatic build process that collects artifacts into a consistent documentation.
+
 ##### Domain Driven Design** (DDD)
 
 "Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts." (quoted from [DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)). See [Evans-2004](#ref-evans-2004).
+
+{#term-drawing-tool}
+##### Drawing Tool
+
+A tool to create drawings that can be used in architecture documentation. Example: Visio, OmniGraffle, PowerPoint, etc. Drawing tools treat each drawing as a separate thing, this causes maintenance overhead when updating an element of the architecture that is shown in several diagrams (as opposed to a [Modeling Tool](#term-modeling-tool)).
 
 ##### Embedded system
 

@@ -13,6 +13,11 @@ Definition: „An approach to IT system specification that separates the specifi
 
 The underlying idea is to generate code from more abstract models of requirements or the domain.
 
+{#term-modeling-tool}
+##### Modeling Tool
+
+A tool that creates models (e.g. UML or BPMN models). Can be used to create consistent diagrams for documentation because it has the advantage that each model element exists only once but can be consistently displayed in many diagrams (as opposed to a mere [Drawing Tool](#term-drawing-tool)).
+
 ##### Model-View-Controller
 
 Architecture pattern, often used to implement user interfaces. It divides a
@@ -200,6 +205,9 @@ an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
+##### Repository
+
+In architecture documentation: A place where artifacts are stored before an automatic build process collects them into one consistent document.
 
 ##### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 

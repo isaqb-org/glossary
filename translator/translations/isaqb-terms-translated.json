@@ -100,6 +100,12 @@
   { en: "Documentation",
     de: ["Dokumentation"]
   },
+  { en: "Documentation Build",
+    de: ["Dokumentations-Build"]
+  },
+  { en: "Drawing Tool",
+    de: ["Mal/Zeichenprogramm"]
+  },
   { en: "Embedded",
     de: "Eingebettet"
   },
@@ -136,6 +142,9 @@
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
+  { en: "Moduling Tool",
+    de: ["Modellierungswerkzeug"]
+  },
   { en: "Node",
     de: "Knoten"
   },
@@ -168,6 +177,9 @@
   },
   { en: "Relationship (kind of)",
     de: "Beziehungsart"
+  },
+  { en: "Repository",
+    de: "Ablage"
   },
   { en: "Requirement",
     de: "Anforderung"
