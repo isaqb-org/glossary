@@ -13,6 +13,11 @@ Definition: „An approach to IT system specification that separates the specifi
 
 The underlying idea is to generate code from more abstract models of requirements or the domain.
 
+{#term-modeling-tool}
+##### Modeling Tool
+
+A tool that creates models (e.g. UML or BPMN models). Can be used to create consistent diagrams for documentation because it has the advantage that each model element exists only once but can be consistently displayed in many diagrams (as opposed to a mere [Drawing Tool](#term-drawing-tool)).
+
 ##### Model-View-Controller
 
 Architecture pattern, often used to implement user interfaces. It divides a
@@ -70,6 +75,10 @@ or _quality requirements_. The term NFR is actually misleading, as many of
 the _attributes_ involved directly relate to specific system _functions_
 (so modern requirements engineering likes to call these things
   _required constraints_).
+
+##### Notation
+
+A system of marks, signs, figures, or characters that is used to represent information. Examples: prose, table, bullet point list, numbered list, UML, BPMN.
 
 ##### Observer
 
@@ -130,19 +139,20 @@ see [_software quality_](#ge-software-quality) and ->quality attributes.
 Software quality is the degree to which a system posesses the
 desired combination of _attributes_ (see: software quality).
 
-  Important quality attributes are performance, robustness, security, safety,
-  flexibiltiy, dependability, maintainability etc.. See also [ISO-25010]()
+Important quality attributes are performance, robustness, security, safety,
+flexibiltiy, dependability, maintainability etc.. See also [ISO-25010]()
 
-  It's helpful to distinguish between
-   * _runtime quality attributes_ (which can be observed at execution time of the system),
-   * non-runtime quality attributes_ (which cannot be observed as the system executes) and
-   * business quality attributes (cost, schedule, marketability, appropriateness for organization)
+It's helpful to distinguish between
+
+* _runtime quality attributes_ (which can be observed at execution time of the system),
+* non-runtime quality attributes_ (which cannot be observed as the system executes) and
+* business quality attributes (cost, schedule, marketability, appropriateness for organization)
 
 Examples of runtime quality attributes are functionality, performance, security, availability,
-  usability and interoperability.
+usability and interoperability.
 
 Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability,
-  testability.  
+testability.  
 
 ##### Quality characteristic
 
@@ -195,6 +205,9 @@ an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
+##### Repository
+
+In architecture documentation: A place where artifacts are stored before an automatic build process collects them into one consistent document.
 
 ##### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 

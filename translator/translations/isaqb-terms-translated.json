@@ -94,6 +94,18 @@
   { en: "Domain",
     de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
   },
+  { en: "Document",
+    de: ["Dokument"]
+  },
+  { en: "Documentation",
+    de: ["Dokumentation"]
+  },
+  { en: "Documentation Build",
+    de: ["Dokumentations-Build"]
+  },
+  { en: "Drawing Tool",
+    de: ["Mal/Zeichenprogramm"]
+  },
   { en: "Embedded",
     de: "Eingebettet"
   },
@@ -130,8 +142,14 @@
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
+  { en: "Modeling Tool",
+    de: ["Modellierungswerkzeug"]
+  },
   { en: "Node",
     de: "Knoten"
+  },
+  { en: "Notation",
+    de: ["Notation"]
   },
   { en: "Notification",
     de: "Benachrichtigung"
@@ -159,6 +177,9 @@
   },
   { en: "Relationship (kind of)",
     de: "Beziehungsart"
+  },
+  { en: "Repository",
+    de: "Ablage"
   },
   { en: "Requirement",
     de: "Anforderung"
