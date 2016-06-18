@@ -300,7 +300,8 @@ where "better" means the avoidance of the following three _bad characteristics_:
 
 ##### Document
 
-A writing conveying information.
+A (usually written) artifact conveying information.
+
 
 ##### Documentation
 
@@ -310,7 +311,7 @@ A systematically ordered collection of documents and other material of any kind 
 
 Automatic build process that collects artifacts into a consistent documentation.
 
-##### Domain Driven Design** (DDD)
+##### Domain Driven Design (DDD)
 
 "Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts." (quoted from [DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)). See [Evans-2004](#ref-evans-2004).
 
@@ -404,7 +405,7 @@ attributes of ->blackboxes. Separates interface from implementation.
 
 Boundary across which two building blocks interact or communicate with each other.
 
-##### Interface Segregation Principle** (ISP)
+##### Interface Segregation Principle (ISP)
 
 Building blocks (classes, components) should be forced to depend on methods they
 don't use. ISP splits larger interfaces into smaller and more (client) specific
