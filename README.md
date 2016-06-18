@@ -69,7 +69,7 @@ to de:[Kompromiss, Abwägung]
 
 The initial version of this glossary has been contributed by [Gernot Starke](http://gernotstarke.de).
 Prior versions of an (German) glossary had been compiled and edited by Dr. Ulrich Becker,
-Phillip Ghadir and others.
+Phillip Ghadir, Dr. Carola Lilienthal and others.
 
 
 Currently the contens are maintained by volunteers from the [iSAQB e.V.](http://isaqb.org),
@@ -99,7 +99,15 @@ existing authors. Examples: Include diagrams to illustrate patterns or concepts.
 existing authors.
 4. Crosscheck one (complete) CPSA-Advanced Level module for terms missing in
 the glossary.
-(You might need a (free) Leanpub account to become an author)
+(You need a (free) Leanpub account to become an author.)
+
+## Donating to EEF (Electronic Frontier Foundation)
+
+All royalties from Leanpub sales of this book are donated to
+the [Electronic Frontier Foundation (eff.org)](http://eff.org).
+
+![](./eff-logo-name-72.jpg)
+
 
 ## Legal
 
