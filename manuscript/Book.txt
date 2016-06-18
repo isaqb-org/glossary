@@ -22,11 +22,11 @@
 
 42-translations-EN-DE.md
 %% include the generated translation table:
-%% generated/gen-tt-EN-DE.md
+generated-dont-edit/gen-tt-EN-DE.md
 
 43-translations-DE-EN.md
 %% include the generated translation table:
-%% generated/gen-tt-DE-EN.md
+generated-dont-edit/gen-tt-DE-EN.md
 
 %% ==================================
 %% Categories
