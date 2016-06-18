@@ -35,7 +35,6 @@ with map entries, in file `translations/isaqb-terms-translated.json`.
 
 
 ```
-
 [
   { en: "Appropriateness",
     de: "Angemessenheit"
@@ -54,6 +53,11 @@ This file is parsed, lightly validated for syntax errors and then converted
 to Leanpub-flavored Markdown, one table
 per language, currently German ("de") and English ("en").
 
+### Generating the Translation Tables
+You can build the translation tables by calling `gradle run`.
+The translator generates one markdown file for every language - currently
+you need to manually copy those into the `manuscript/generated-dont-edit`
+directory.
 
 ### Rules for Translation
 
