@@ -33,8 +33,9 @@ The tables are generated
 by a small Groovy script from a JSON file. Its format is a simple list
 with map entries, in file `translations/isaqb-terms-translated.json`.
 
-{lang="JSON",linenos=on}
-~~~~~~~~
+
+```
+
 [
   { en: "Appropriateness",
     de: "Angemessenheit"
@@ -44,14 +45,13 @@ with map entries, in file `translations/isaqb-terms-translated.json`.
   }
   // many more words...
 ]  
-~~~~~~~~
+```
 
 If a single (English) term has multiple translations,
-as in line 6, use a JSON list.
+as in line 6 (`de: ["Architektursicht", "Sicht"]`), use a JSON list.
 
-This file is internally converted to a Java `Map<String, List<String>>`.
-
-From that, Leanpub-Markdown is generated, one table
+This file is parsed, lightly validated for syntax errors and then converted
+to Leanpub-flavored Markdown, one table
 per language, currently German ("de") and English ("en").
 
 
@@ -109,7 +109,8 @@ the [Electronic Frontier Foundation (eff.org)](http://eff.org).
 ![](./eff-logo-name-72.jpg)
 
 
-## Legal
+
+## License
 
 This book is licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
