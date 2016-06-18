@@ -1,20 +1,5 @@
-[
   /* *****************************************
         The iSAQB e.V. translation table
-
-  Rules:
-
-  0.) Source language is English (en).
-
-  1.) Every entry needs to have an English term.
-
-  2.) Every entry must have at least
-  a single translation to another language,
-  e.g. from en to de.
-
-  3.) A term might have a list of translations
-  in other languages (e.g. en:Tradeoff translates
-  to de:[Kompromiss, Abwägung]
 
   Abbreviations:
   en: English
@@ -23,6 +8,7 @@
   sp: Spanish
   ******************************************* */
 
+[
   { en: "Adaption",
     de: "Anpassung"
   },
@@ -45,13 +31,13 @@
     de: ["Architekturanalyse", "Architekturbewertung"]
   },
   { en: "Architecture evaluation",
-    de: "Architekturbewertung, Architekturanalyse"
+    de: ["Architekturbewertung", "Architekturanalyse"]
   },
   { en: "Artifact",
     de: "Artefakt"
   },
   { en: "Assessment",
-    de: ["Bewertung", "Begutachtung", "Einschätzung"]
+    de: ["Bewertung", "Begutachtung", "Einschätzung", "Untersuchung"]
   },
   { en:"Building block",
     de:"Baustein"
@@ -60,7 +46,8 @@
     de:"Bausteinsicht"
   },
   { en: "Business",
-    de: ["Fachlichkeit", "Domäne"]},
+    de: ["Fachlichkeit", "Domäne"]
+  },
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
@@ -94,17 +81,19 @@
   { en: "Domain",
     de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
   },
+  /* suggested removals (overly trivial)
   { en: "Document",
-    de: ["Dokument"]
+    de: "Dokument"
   },
   { en: "Documentation",
-    de: ["Dokumentation"]
+    de: "Dokumentation"
   },
   { en: "Documentation Build",
-    de: ["Dokumentations-Build"]
+    de: "Dokumentations-Build"
   },
+  */
   { en: "Drawing Tool",
-    de: ["Mal/Zeichenprogramm"]
+    de: "Mal-/Zeichenprogramm"
   },
   { en: "Embedded",
     de: "Eingebettet"
@@ -113,7 +102,10 @@
     de: "Kapselung"
   },
   { en: "Enterprise IT architecture",
-    de: "Unternehmens-IT-architektur"
+    de: "Unternehmens-IT-Architektur"
+  },
+  { en: "Estimation",
+    de: "Schätzung"
   },
   { en: "Evaluation",
     de: "Bewertung"
@@ -143,13 +135,10 @@
     de: ["Komponente", "Modul", "Baustein"]
   },
   { en: "Modeling Tool",
-    de: ["Modellierungswerkzeug"]
+    de: "Modellierungswerkzeug"
   },
   { en: "Node",
     de: "Knoten"
-  },
-  { en: "Notation",
-    de: ["Notation"]
   },
   { en: "Notification",
     de: "Benachrichtigung"
