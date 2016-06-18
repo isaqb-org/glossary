@@ -46,7 +46,15 @@
 |----------------------|-------------------|
 |Design |Entwurf |
 |----------------------|-------------------|
+|Document |Dokument |
+|----------------------|-------------------|
+|Documentation |Dokumentation |
+|----------------------|-------------------|
+|Documentation Build |Dokumentations-Build |
+|----------------------|-------------------|
 |Domain |Fachdomäne, Fachlicher Bereich, Geschäftsbereich |
+|----------------------|-------------------|
+|Drawing Tool |Mal/Zeichenprogramm |
 |----------------------|-------------------|
 |Embedded |Eingebettet |
 |----------------------|-------------------|
@@ -70,9 +78,13 @@
 |----------------------|-------------------|
 |Means for documenting |Beschreibungsmittel |
 |----------------------|-------------------|
+|Modeling Tool |Modellierungswerkzeug |
+|----------------------|-------------------|
 |Module |Komponente, Modul, Baustein |
 |----------------------|-------------------|
 |Node |Knoten |
+|----------------------|-------------------|
+|Notation |Notation |
 |----------------------|-------------------|
 |Notification |Benachrichtigung |
 |----------------------|-------------------|
@@ -91,6 +103,8 @@
 |Relationship |Beziehung |
 |----------------------|-------------------|
 |Relationship (kind of) |Beziehungsart |
+|----------------------|-------------------|
+|Repository |Ablage |
 |----------------------|-------------------|
 |Requirement |Anforderung |
 |----------------------|-------------------|

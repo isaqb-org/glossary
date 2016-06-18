@@ -4,6 +4,8 @@
 |----------------------|-------------------|
 |Abhängigkeit (zwischen Entwurfsentscheidungen) |Interdependency (between design decisions) |
 |----------------------|-------------------|
+|Ablage |Repository |
+|----------------------|-------------------|
 |Ablaufsteuerung |Workflow management |
 |----------------------|-------------------|
 |Abwägung |Tradeoff |
@@ -60,6 +62,12 @@
 |----------------------|-------------------|
 |Beziehungsart |Relationship (kind of) |
 |----------------------|-------------------|
+|Dokument |Document |
+|----------------------|-------------------|
+|Dokumentation |Documentation |
+|----------------------|-------------------|
+|Dokumentations-Build |Documentation Build |
+|----------------------|-------------------|
 |Domäne |Business |
 |----------------------|-------------------|
 |Einflussfaktor |Influencing Factor |
@@ -108,9 +116,15 @@
 |----------------------|-------------------|
 |Lernziel |Learning goal |
 |----------------------|-------------------|
+|Mal/Zeichenprogramm |Drawing Tool |
+|----------------------|-------------------|
+|Modellierungswerkzeug |Modeling Tool |
+|----------------------|-------------------|
 |Modul |Module |
 |----------------------|-------------------|
 |Muster |Pattern |
+|----------------------|-------------------|
+|Notation |Notation |
 |----------------------|-------------------|
 |Nutzungsbeziehung |Uses relationship |
 |----------------------|-------------------|
