@@ -235,6 +235,7 @@ of such concerns are logging, transactions, security, exception handling, cachin
 
 See also [concept](#term-concept).
 
+
 ##### Cyclomatic complexity
 
 Quantitative measure, number of independent paths through a program's source code.
@@ -242,6 +243,7 @@ It roughly correlates to the number of conditional statements (`if`, `while`) in
 A linear sequence of statements without `if` or `while` has the cyclomatic complexity of 1.
 Many software engineers believe that higher complexity correlates to the number of defects.
 
+Category: Metric.
 
 ##### Decomposition
 

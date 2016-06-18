@@ -32,7 +32,7 @@ the following responsibilities:
 
 ##### Module
 
-(see also "Modular programming")
+(see also [Modular programming](#term-modular-programming))
 
   1. structural element or building block, usually regarded as a _black box_ with
   a clearly defined responsibility. It encapsulates data and code and
@@ -44,6 +44,8 @@ the following responsibilities:
   smaller programming units, e.g. in Python. In other languages (like Java),
   modules are called _packages_.
 
+
+{#term-modular-programming}
 ##### Modular programming
 
 "Software design technique that separates the functionality of a program into independent,
@@ -179,7 +181,6 @@ these tree.
   {width=60%}  
   ![Sample Quality Tree](images/QualityTree.png)
 
-  [Section II.5](#section-ii-quality-tree) contains a detailed explanation.
 
 ##### Quantitative evaluation
 

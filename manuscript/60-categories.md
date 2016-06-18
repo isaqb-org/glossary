@@ -29,3 +29,10 @@ Every term might belong to zero or more of the following categories:
 **Foundation**
 
 : Keywords given in the CPSA-Foundation curriculum
+
+
+**Metric**
+
+: Defined measure to what degree a software system (or related process)
+possesses some property. Examples: Size (e.g. Lines-of-Code, cyclomatic complexity,
+coupling, mean-time-between-failure)
