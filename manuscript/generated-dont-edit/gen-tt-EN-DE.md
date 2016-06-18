@@ -18,7 +18,7 @@
 |----------------------|-------------------|
 |Artifact |Artefakt |
 |----------------------|-------------------|
-|Assessment |Bewertung, Begutachtung, Einschätzung |
+|Assessment |Bewertung, Begutachtung, Einschätzung, Untersuchung |
 |----------------------|-------------------|
 |Building block |Baustein |
 |----------------------|-------------------|
@@ -46,21 +46,17 @@
 |----------------------|-------------------|
 |Design |Entwurf |
 |----------------------|-------------------|
-|Document |Dokument |
-|----------------------|-------------------|
-|Documentation |Dokumentation |
-|----------------------|-------------------|
-|Documentation Build |Dokumentations-Build |
-|----------------------|-------------------|
 |Domain |Fachdomäne, Fachlicher Bereich, Geschäftsbereich |
 |----------------------|-------------------|
-|Drawing Tool |Mal/Zeichenprogramm |
+|Drawing Tool |Mal-/Zeichenprogramm |
 |----------------------|-------------------|
 |Embedded |Eingebettet |
 |----------------------|-------------------|
 |Encapsulation |Kapselung |
 |----------------------|-------------------|
-|Enterprise IT architecture |Unternehmens-IT-architektur |
+|Enterprise IT architecture |Unternehmens-IT-Architektur |
+|----------------------|-------------------|
+|Estimation |Schätzung |
 |----------------------|-------------------|
 |Evaluation |Bewertung |
 |----------------------|-------------------|
@@ -83,8 +79,6 @@
 |Module |Komponente, Modul, Baustein |
 |----------------------|-------------------|
 |Node |Knoten |
-|----------------------|-------------------|
-|Notation |Notation |
 |----------------------|-------------------|
 |Notification |Benachrichtigung |
 |----------------------|-------------------|

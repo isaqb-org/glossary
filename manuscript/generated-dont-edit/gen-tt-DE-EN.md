@@ -22,11 +22,9 @@
 |----------------------|-------------------|
 |Arbeitsumgebung |Working environment |
 |----------------------|-------------------|
-|Architekturanalyse |Architecture assessment |
+|Architekturanalyse |Architecture assessment, Architecture evaluation |
 |----------------------|-------------------|
-|Architekturbewertung |Architecture assessment |
-|----------------------|-------------------|
-|Architekturbewertung, Architekturanalyse |Architecture evaluation |
+|Architekturbewertung |Architecture assessment, Architecture evaluation |
 |----------------------|-------------------|
 |Architekturmuster |Architectural pattern |
 |----------------------|-------------------|
@@ -61,12 +59,6 @@
 |Beziehung |Dependency, Relationship |
 |----------------------|-------------------|
 |Beziehungsart |Relationship (kind of) |
-|----------------------|-------------------|
-|Dokument |Document |
-|----------------------|-------------------|
-|Dokumentation |Documentation |
-|----------------------|-------------------|
-|Dokumentations-Build |Documentation Build |
 |----------------------|-------------------|
 |Domäne |Business |
 |----------------------|-------------------|
@@ -116,15 +108,13 @@
 |----------------------|-------------------|
 |Lernziel |Learning goal |
 |----------------------|-------------------|
-|Mal/Zeichenprogramm |Drawing Tool |
+|Mal-/Zeichenprogramm |Drawing Tool |
 |----------------------|-------------------|
 |Modellierungswerkzeug |Modeling Tool |
 |----------------------|-------------------|
 |Modul |Module |
 |----------------------|-------------------|
 |Muster |Pattern |
-|----------------------|-------------------|
-|Notation |Notation |
 |----------------------|-------------------|
 |Nutzungsbeziehung |Uses relationship |
 |----------------------|-------------------|
@@ -144,9 +134,13 @@
 |----------------------|-------------------|
 |Schulungsanbieter |Training provider |
 |----------------------|-------------------|
+|Schätzung |Estimation |
+|----------------------|-------------------|
 |Sicht |Architectural view, View |
 |----------------------|-------------------|
-|Unternehmens-IT-architektur |Enterprise IT architecture |
+|Unternehmens-IT-Architektur |Enterprise IT architecture |
+|----------------------|-------------------|
+|Untersuchung |Assessment |
 |----------------------|-------------------|
 |Verantwortlichkeit |Responsibility |
 |----------------------|-------------------|
