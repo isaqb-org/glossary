@@ -209,6 +209,9 @@ Coupling is usually contrasted with _cohesion_. Low coupling often correlates wi
 and vice versa. Low coupling is often a sign of a well-structured system.
 When combined with high cohesion, it supports understandability and maintainability.
 
+##### CPSA
+Certified Professional for Software Architecture® – the common name for different levels of certification issued by the [iSAQB](#term-iSAQB). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
+
 ##### CQRS
 
 (command query responsibility segregation): Separate the elements manipulating
@@ -413,6 +416,7 @@ Building blocks (classes, components) should be forced to depend on methods they
 don't use. ISP splits larger interfaces into smaller and more (client) specific
 ones so that clients will only need to know about methods that they actually use.
 
+{#term-iSAQB}
 ##### iSAQB 
 *i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education. See also "Appendix A"
 
