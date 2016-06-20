@@ -14,6 +14,11 @@ these are generated from a JSON document into the markdown book source. You can
 generate these translations by calling `./gradlew run` (on unix or osx)
 or `.\gradlew.bat run` from the command line in directory `translator`.
 
+This book is made possible by **collaborative effort** of several
+[iSAQB e.V.](http://isaqb.org) members.
+It's intended to **support the non-profit interests** of
+the iSAQB and the software architecture community in general.
+
 
 ## Suggestions Welcome
 
@@ -72,12 +77,12 @@ to de:[Kompromiss, Abwägung]
 ## Contributors
 
 The initial version of this glossary has been contributed by [Gernot Starke](http://gernotstarke.de).
-Prior versions of an (German) glossary had been compiled and edited by Dr. Ulrich Becker,
-Phillip Ghadir, Dr. Carola Lilienthal and others.
+Prior versions of the (German) iSAQB glossary had been compiled and
+edited by Dr. Ulrich Becker, Wolfgang Fahl, Phillip Ghadir, Dr. Peter Hruschka, Dr. Carola Lilienthal, Martin Roesch and others.
 
 
 Currently the contens are maintained by volunteers from the [iSAQB e.V.](http://isaqb.org),
-a non-profit volunteer association - most of them are mentioned the contributors list of this repository.
+a non-profit volunteer association - see the contributors list of this repository.
 
 #### How to Become Contributor
 
