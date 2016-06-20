@@ -414,7 +414,7 @@ don't use. ISP splits larger interfaces into smaller and more (client) specific
 ones so that clients will only need to know about methods that they actually use.
 
 ##### iSAQB 
-*i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education.
+*i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education. See also "Appendix A"
 
 ##### ISO 9126 and ISO 25010
 
