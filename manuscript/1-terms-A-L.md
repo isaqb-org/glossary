@@ -413,6 +413,9 @@ Building blocks (classes, components) should be forced to depend on methods they
 don't use. ISP splits larger interfaces into smaller and more (client) specific
 ones so that clients will only need to know about methods that they actually use.
 
+##### iSAQB 
+*i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education.
+
 ##### ISO 9126 and ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.
@@ -433,7 +436,7 @@ from gathering requirements to delivering functionality in a working release."
 
 Combination of iterative and incremental approaches for software development.
 These are essential parts of the various _agile_ development approaches,
-e.g. Scrum and Kanban.
+e.g. Scrum and XP.
 
 ##### Layer
 
