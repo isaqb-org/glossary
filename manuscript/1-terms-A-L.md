@@ -340,6 +340,12 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 
   Encapsulation is a mechanism for ->information hiding.
 
+##### Entity
+
+An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. 
+Entities map their state to value objects and are almost always persistent.
+
+
 ##### Facade
 
 Structural design pattern. A Facade offers a simplified interface to a complex
