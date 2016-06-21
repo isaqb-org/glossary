@@ -405,10 +405,11 @@ presence of a correct implementation of B.
 
 see: architectural view.
 
+{#term-valueobject}
 ##### ValueObject
 
-Value Object is a building block of Domain-Driven Design. ValueObjects do not have an identity of their own.
-They describe the state of other objects and may be composed of other value objects but never of entities.
+Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObjects do not have an identity of their own.
+They describe the state of other objects and may be composed of other value objects but never of [entities](#term-entity).
 
 ##### Waterfall development
 
