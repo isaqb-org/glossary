@@ -3,19 +3,21 @@
 {#glossary}
 # Glossary of Terms
 
+(working on issue nr 25 to increase font size in online version)
+
 {#term-abstractness}
-#### Abstractness
+### Abstractness
 
 Metric for the source code of object oriented systems: The number of abstract types
 (interfaces and abstract classes) divided by the total number of types.
 
 {#term-adapter}
-#### Adapter
+### Adapter
 
 The adapter is a design pattern that allows the interface of an existing component to be used from another interface. It is often used to make existing components cooperate with others without modifying their source code.
 
 {#term-aggregate}
-##### Aggregate
+### Aggregate
 
 Aggregate is a building block of [Domain-Driven Design](#term-DDD). Aggregates are complex object structures that are made of [entities](#term-entity) and [value objects](#term-valueobject). Each aggregate has a root entity and is regarded as a unity when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with invariantes.
 
