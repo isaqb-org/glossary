@@ -205,8 +205,13 @@ an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
+##### Redesign
+The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring. 
+
 ##### Refactoring
-$TODO
+A term denoting the improvement of software units by changing their internal structure without changing the behavior. (see 
+“Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code yet improves the internal structure.” Refactoring, Martin Fowler, 1999    
+Not to be confused with re*design*
 
 ##### Repository
 
