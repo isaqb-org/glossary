@@ -16,9 +16,13 @@
 |----------------------|-------------------|
 |Architecture evaluation |Architekturbewertung, Architekturanalyse |
 |----------------------|-------------------|
+|Articles of assocation |Satzung des Vereins |
+|----------------------|-------------------|
 |Artifact |Artefakt |
 |----------------------|-------------------|
 |Assessment |Bewertung, Begutachtung, Einschätzung, Untersuchung |
+|----------------------|-------------------|
+|Association |Verein, Beziehung |
 |----------------------|-------------------|
 |Building block |Baustein |
 |----------------------|-------------------|
@@ -27,6 +31,8 @@
 |Business |Fachlichkeit, Domäne |
 |----------------------|-------------------|
 |Certification authority |Zertifizierungsstelle |
+|----------------------|-------------------|
+|Certification body |Zertifizierungsstelle |
 |----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
 |----------------------|-------------------|
@@ -37,6 +43,8 @@
 |Context view |Kontextabgrenzung |
 |----------------------|-------------------|
 |Crosscutting |Querschnittlich |
+|----------------------|-------------------|
+|Curriculum |Lehrplan |
 |----------------------|-------------------|
 |Decomposition |Zerlegung |
 |----------------------|-------------------|
@@ -60,6 +68,20 @@
 |----------------------|-------------------|
 |Evaluation |Bewertung |
 |----------------------|-------------------|
+|Examination question |Prüfungsfrage |
+|----------------------|-------------------|
+|Examination rules and regulations |Prüfungsordnung |
+|----------------------|-------------------|
+|Examination sheet |Prüfungsbogen |
+|----------------------|-------------------|
+|Examination task |Prüfungsaufgabe |
+|----------------------|-------------------|
+|Examinee |Prüfling |
+|----------------------|-------------------|
+|Examiner |Prüfer |
+|----------------------|-------------------|
+|Fees rules and regulations |Gebührenordnung |
+|----------------------|-------------------|
 |Influencing Factor |Einflussfaktor |
 |----------------------|-------------------|
 |Information hiding principle |Geheimnisprinzip |
@@ -70,6 +92,14 @@
 |----------------------|-------------------|
 |Learning goal |Lernziel |
 |----------------------|-------------------|
+|License fee |Lizenzgebühr |
+|----------------------|-------------------|
+|Licensee |Lizenznehmer |
+|----------------------|-------------------|
+|Licensing agreement |Lizenzvertrag, Lizenzvereinbarung |
+|----------------------|-------------------|
+|Licensor |Lizenzgeber |
+|----------------------|-------------------|
 |Means for describing |Beschreibungsmittel |
 |----------------------|-------------------|
 |Means for documenting |Beschreibungsmittel |
@@ -79,6 +109,10 @@
 |Module |Komponente, Modul, Baustein |
 |----------------------|-------------------|
 |Node |Knoten |
+|----------------------|-------------------|
+|Non-exclusive license |Einfache Lizenz |
+|----------------------|-------------------|
+|Non-profit |Gemmeinnützig |
 |----------------------|-------------------|
 |Notification |Benachrichtigung |
 |----------------------|-------------------|
@@ -112,6 +146,8 @@
 |----------------------|-------------------|
 |Task |Aufgabe |
 |----------------------|-------------------|
+|Team regulations |Arbeitsgruppenordnung |
+|----------------------|-------------------|
 |Term |Begriff |
 |----------------------|-------------------|
 |Tools |Arbeitsmittel, Werkzeug |
@@ -127,4 +163,8 @@
 |Workflow management |Ablaufsteuerung |
 |----------------------|-------------------|
 |Working environment |Arbeitsumgebung |
+|----------------------|-------------------|
+|Working group |Arbeitsgruppe |
+|----------------------|-------------------|
+|Working group head |Arbeitsgruppenleiter |
 |----------------------|-------------------|
