@@ -323,7 +323,7 @@ A systematically ordered collection of documents and other material of any kind 
 Automatic build process that collects artifacts into a consistent documentation.
 
 {#term-DDD}
-##### Domain Driven Design (DDD)
+##### Domain-Driven Design (DDD)
 
 "Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts." (quoted from [DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)). See [Evans-2004](#ref-evans-2004).
 
@@ -332,7 +332,16 @@ See also:
     * [Value Object](#term-valueobject)
     * [Aggregate](#term-aggregate)
     * [Service](#term-ddd-service)
+    * [Factory](#term-factory)
+    * [Repository](#term-repository)
+    * [Ubiquitous Language](#term-ubiquitouslang)
     * (more to come...)
+
+
+{#term-domain-model}
+##### Domain model
+The domain model is a concept of [Domain-Driven Design](#term-DDD). The domain model is a system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
+
 
 {#term-drawing-tool}
 ##### Drawing Tool
