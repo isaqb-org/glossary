@@ -330,6 +330,8 @@ Automatic build process that collects artifacts into a consistent documentation.
 See also:
     * [Entity](#term-entity)
     * [Value Object](#term-valueobject)
+    * [Aggregate](#term-aggregate)
+    * [Service](#term-ddd-service)
     * (more to come...)
 
 {#term-drawing-tool}
