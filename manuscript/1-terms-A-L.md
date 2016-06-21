@@ -321,6 +321,11 @@ Automatic build process that collects artifacts into a consistent documentation.
 
 "Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts." (quoted from [DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)). See [Evans-2004](#ref-evans-2004).
 
+See also:
+    * [Entity](#term-entity)
+    * [Value Object](#term-valueobject)
+    * (more to come...)
+
 {#term-drawing-tool}
 ##### Drawing Tool
 
@@ -424,7 +429,7 @@ don't use. ISP splits larger interfaces into smaller and more (client) specific
 ones so that clients will only need to know about methods that they actually use.
 
 {#term-iSAQB}
-##### iSAQB 
+##### iSAQB
 *i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education. See also "Appendix A"
 
 ##### ISO 9126 and ISO 25010

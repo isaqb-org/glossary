@@ -1,3 +1,4 @@
+
 ##### Microservice
 
 An architectural style, proposing to divide large systems into small units.
@@ -206,10 +207,10 @@ architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
 ##### Redesign
-The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring. 
+The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring.
 
 ##### Refactoring
-A term denoting the improvement of software units by changing their internal structure without changing the behavior. (see 
+A term denoting the improvement of software units by changing their internal structure without changing the behavior. (see
 “Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code yet improves the internal structure.” Refactoring, Martin Fowler, 1999    
 Not to be confused with re*design*
 
@@ -406,7 +407,7 @@ presence of a correct implementation of B.
 see: architectural view.
 
 {#term-valueobject}
-##### ValueObject
+##### Value Object
 
 Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObjects do not have an identity of their own.
 They describe the state of other objects and may be composed of other value objects but never of [entities](#term-entity).
