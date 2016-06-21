@@ -341,9 +341,10 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 
   Encapsulation is a mechanism for ->information hiding.
 
+{#term-entity}
 ##### Entity
 
-Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to value objects and are almost always persistent.
+Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-valueobject) and are almost always persistent.
 
 
 ##### Facade
