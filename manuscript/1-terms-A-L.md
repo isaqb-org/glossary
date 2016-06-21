@@ -26,22 +26,24 @@ A form of object composition in object-oriented programming.
 It differs from ->composition, as aggregation does not imply ownership. When the element is destroyed, the contained elements
 remain intact.
 
-
+{#term-algorithm}
 ### Algorithm
 
 * (noun) Term used by software developers when they
 do not want to explain what they did.
 * A self-contained step-by-step set of operations to be performed, e.g. to perform calculations, data processing, and/or similar tasks.
 
+{#term-appropriateness}
 ### Appropriateness
 
 (syn: adequacy, suitability) Suitability for a particular purpose.
 
+{#term-arc42}
 ### arc42
 
 Free [template](http://arc42.org) for communication and documentation of software architectures.
 
-
+{#term-architecture-evaluation}
 ### Architecture evaluation
 
 Determine if an architecture can achieve its target qualities or
@@ -50,33 +52,43 @@ quality attributes?
   appropriate, as _evaluation_ contains _value_, implying numerical
   assessment (which is usually only part of what you should do in architecture analysis).
 
-
+{#term-architecture-goal}
 ### Architecture goal
 
 (syn: quality goal, quality requirement): A quality attribute that the system need
 to achieve. These goals often have _long term character_ in contrast to (short term)
 project goals.
 
+{#term-architecture-objective}
 ### Architecture objective
 
-see: architecture goal.
+See [architecture goal](#term-architecture-goal).
 
+{#term-architecture-pattern}
 ### Architectural (architecture) pattern
 
 “An architectural pattern expresses a fundamental structural organization schema for software systems. It provides a set of predefined sub- systems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them” (Buschmann+1996, page 12). Similar to _Architecture style_
 
-
+{#term-architecture-style}
 ### Architecture style
 
 Description of element and relation types,
 together with constraints on how they can be used. Often called _architecture patterns_.
 Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
+{#architecture-view}
 ### Architecture view
 
-A representation of a system from a specific perspective. Important and well-known views are ->contect view, ->building block view, ->runtime view, ->deployment view.
+A representation of a system from a specific perspective. Important and well-known views are:
+
+* [Context view](#term-context-view), 
+* Building block view 
+* Runtime view 
+* Deployment view
+
 [Bass+2012] and [Rozanski+11] extensively discuss this concept.
 
+{#term-artifact}
 ### Artifact
 
 Tangible by-product created or generated during development
@@ -84,6 +96,7 @@ of software. Examples of artifacts are use cases, all kinds
 of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
 
+{#term-atam}
 ### ATAM
 
 _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation method,
@@ -91,6 +104,7 @@ based upon a (hierarchical) quality tree and concrete quality scenarios.
 Basic idea: Compare fine-grained quality scenarios ("quality-requirements")
 with the corresponding architectural approaches to identify risks and tradeoffs.
 
+{#term-blackbox}
 ### Blackbox
 
 View on a building block (or component) that hides the internal structure.
@@ -99,6 +113,7 @@ They shall have clearly defined input- and output interfaces plus a precisely fo
 _responsibility_ or _objective_. Optionally a blackbox defines some quality attributes,
 for example timing behavior, throughput or security aspects.
 
+{#term-bottom-up}
 ### Bottom-up Approach
 
 Direction of work f(or strategy of procesing) or modeling and design.
@@ -109,6 +124,8 @@ working towards something more general or abstract.
   system are first specified in great detail.
   These elements are then linked together to form larger subsystems." (quote from Wikipedia)
 
+
+{#term-bridge}
 ### Bridge
 
 Design pattern in which an abstraction is decoupled from its implementation,
@@ -116,6 +133,7 @@ so that the two can vary independently. In case you find that incomprehensible
 (as most people) - have a look
 [here](http://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm)
 
+{#term-broker}
 ### Broker
 
 (architecture pattern), used to structure distributed software systems with decoupled
@@ -124,11 +142,11 @@ components that interact by (usually remote) service invocations.
   A broker is responsible for coordinating communication, such as forwarding requests,
   as well as for transmitting results and exceptions.
 
-
+{#term-building-block}
 ### Building Block
 
 General or abstract term for all kinds of artifacts from which software is constructed.
-Part of the statical structure ([Building Block View](#GEBuildingBlockView))
+Part of the statical structure ([Building Block View](#term-building-block-view))
 of software architecture.
 
   Building blocks can be hierarchically structured - they may contain other (smaller)
@@ -137,16 +155,17 @@ of software architecture.
   file, program, subsystem, configuration, data-definition etc.
 
 
-{#term_BuildingBlockView}
+{#term-building-block-view}
 ### Building Block View
 
 Shows the statical structure of the system,
 how its source code is organized.
-Usually a hierarchical manner, starting from the [context view](#ge_context_view).
-Complemented by one or several [runtime scenarios](#ge_runtime_view).
+Usually a hierarchical manner, starting from the [context view](#term-context-view).
+Complemented by one or several [runtime scenarios](#term-runtime-view).
 
 
-[Cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29)
+{#term-cohesion}
+### [Cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29)
 
 The degree to which elements of a building block, component or module belong together.
 It measures the strength of relationship between pieces of functionality within a given component. In cohesive systems, functionality is strongly related.
@@ -154,11 +173,13 @@ It measures the strength of relationship between pieces of functionality within 
   Strive for high cohesion, because high cohesion often implies reusability,
   low coupling and understandability.
 
+{#term-command}
 ### Command
 
 Design pattern in which an object is used to encapsulate
 an action. This action might be invoked or executed at a later time.
 
+{#term-complexity}
 ### Complexity
 
 "Complexity is generally used to characterize something with many parts where those parts interact with each other in multiple ways."
@@ -172,11 +193,12 @@ an action. This action might be invoked or executed at a later time.
 
   Architects shall strive to reduce accidental complexity.
 
+{#term-component}
 ### Component
 
-See Building block. Structural element of an architecture.
+See [Building block](#term-building-block). Structural element of an architecture.
 
-
+{#term-composition}
 ### Composition
 
 Combine simpler elements (e.g. functions, data types,
@@ -196,7 +218,7 @@ Plan or principle how to solve a specific problem.
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
 
 
-{#term__context_view}
+{#term-context-view}
 ### Context View
 
 Shows the complete system as one blackbox within its environment, either from
@@ -217,9 +239,11 @@ Coupling is usually contrasted with _cohesion_. Low coupling often correlates wi
 and vice versa. Low coupling is often a sign of a well-structured system.
 When combined with high cohesion, it supports understandability and maintainability.
 
+{#term-cpsa}
 ### CPSA
 Certified Professional for Software Architecture® – the common name for different levels of certification issued by the [iSAQB](#term-iSAQB). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
 
+{#term-cqrs}
 ### CQRS
 
 (command query responsibility segregation): Separate the elements manipulating
@@ -232,6 +256,7 @@ There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
 on this subject.
 
 
+{#term-crosscutting-concept}
 ### Crosscutting concept
 
 See [concept](#term-concept).
@@ -239,6 +264,7 @@ See [concept](#term-concept).
 Synonym: principle, rule.
 
 
+{#term-crosscutting-concern}
 ### Crosscutting concern
 
 Functionality of the architecture or system that affects several elements. Examples
@@ -247,6 +273,7 @@ of such concerns are logging, transactions, security, exception handling, cachin
 See also [concept](#term-concept).
 
 
+{#term-cyclomatic-complexity}
 ### Cyclomatic complexity
 
 Quantitative measure, number of independent paths through a program's source code.
@@ -256,23 +283,25 @@ Many software engineers believe that higher complexity correlates to the number 
 
 Category: Metric.
 
+{#term-decomposition}
 ### Decomposition
 
 (syn: factoring) Breaking or dividing a complex system or problem into several smaller parts
 that are easier to understand, implement or maintain.
 
-
+{#term-dependency}
 ### Dependency
 
 See [coupling](#term-coupling).
 
-
+{#term-dependency-injection}
 ### Dependency Injection (DI)
 
 Instead of having your objects or a factory creating a dependency,
 you pass the needed dependencies to the constructor or via property setters.
 You therefore make the creation of specific dependencies _somebody else's problem_.
 
+{#term-dependency-inversion}
 ### Dependency Inversion Principle
 
 High level elements should not depend upon low level elements. One of the SOLID
