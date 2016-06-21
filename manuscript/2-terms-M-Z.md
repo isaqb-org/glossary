@@ -392,6 +392,10 @@ speed.
 
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
+  
+  {#term-ubiquitouslang}
+##### Ubiquitous language 
+A concept of [Domain-Driven Design](#term-ddd): The ubiquitous language is a language that is structured around the [domain model](#term-domain-model). It is used by all team members to connect all the activities of the team with the software.
 
 ##### [Unified Modeling Language (UML)](http://uml.org)
 
