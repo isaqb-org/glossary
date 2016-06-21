@@ -307,10 +307,12 @@ You therefore make the creation of specific dependencies _somebody else's proble
 High level elements should not depend upon low level elements. One of the SOLID
 principles, nicely explained by [Brett Schuchert](http://martinfowler.com/articles/dipInTheWild.html).
 
+{#term-deployment}
 ### Deployment
 
 Bring software onto its execution environment (hardware, processor etc). Put software into operation.
 
+{#term-deployment}
 ### Deployment view
 
 Architectural view showing the technical infrastructure where a system or artifacts will be
@@ -319,6 +321,7 @@ deployed and executed.
   "This view defines the physical environment in which the system is intended to run, including the hardware environment your system needs (e.g., processing nodes, network interconnections, and disk storage facilities), the technical environment requirements for each node (or node type) in the system, and the mapping of your software elements to the runtime environment that will execute them."
   (as defined by [Rozanski+2011](http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/))
 
+{#term-design-pattern}
 ### Design pattern
 
 General or generic reusable solution to a commonly occurring problem within a given context in design.
@@ -327,6 +330,7 @@ was taken up by software engineers. In my opinion, every serious software develo
 know the pioneering [Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)
 book by Erich Gamma and his three allies.
 
+{#term-design-principle}
 ### Design principle
 
 Set of guidelines that helps software developers to design and implement better solutions,
@@ -340,15 +344,18 @@ where "better" means the avoidance of the following three _bad characteristics_:
 
   These characteristics have been formulated by Robert Martin, quoted from [OODesign.com](http://www.oodesign.com/design-principles.html)
 
+{#term-document}
 ### Document
 
 A (usually written) artifact conveying information.
 
 
+{#term-documentation}
 ### Documentation
 
 A systematically ordered collection of documents and other material of any kind that makes usage or evaluation easier. Examples for "other material": presentation, video, audio, web page, image, etc.
 
+{#term-documentation-build}
 ### Documentation Build
 
 Automatic build process that collects artifacts into a consistent documentation.
@@ -379,12 +386,14 @@ The domain model is a concept of [Domain-Driven Design](#term-DDD). The domain m
 
 A tool to create drawings that can be used in architecture documentation. Example: Visio, OmniGraffle, PowerPoint, etc. Drawing tools treat each drawing as a separate thing, this causes maintenance overhead when updating an element of the architecture that is shown in several diagrams (as opposed to a [Modeling Tool](#term-modeling-tool)).
 
+{#term-embedded-systems}
 ### Embedded system
 
 System _embedded_ within a larger mechanical or electrical system. Embedded systems often
 have real-time computing constraints. Typical properties of embedded systems are low power consumption,
 limited memory and processing resources, small size.
 
+{#term-encapsulation}
 ### Encapsulation
 
 Encapsulation has two slightly distinct notions, and sometimes to the combination thereof:
@@ -399,61 +408,69 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 
 Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-valueobject) and are almost always persistent.
 
-
+{#term-facade}
 ### Facade
 
 Structural design pattern. A Facade offers a simplified interface to a complex
 or complicated building block (the _provider_) without any modifications to the provider.
 
-
+{#term-factory}
 ### Factory
 
 (Design pattern) In class-based or object-oriented programming, the factory method pattern is a creational design pattern that uses factory methods or factory components for creating objects, without having to specify the exact class of the object that will be created.
 In [Domain-Driven Design](#term-DDD): A factory encapsulates the creation of [aggregates](#term-aggregate), [entities](#term-entity), and [value objects](#term-valueobject). Factories work exclusively in the domain and have no access to technical building blocks (e.g. a database).
 
 
-
+{#term-filter}
 ### Filter
 
 Part of the pipe-and-filter architectural style that creates or transforms data
 Filters typically execute independent from other filters.
 
 
+{#term-fmc}
 ### [Fundamental Modeling Concepts (FMC)](http://fmc-modeling.org/)
 
 Graphical notation for modeling and documenting software systems. From their website:
 "FMC provide a framework for the comprehensive description of software-intensive systems. It is based on a precise terminology and supported by a graphical notation which can be easily understood".
 
+{#term-gateway}
 ### Gateway
 
 A (design or architecture) pattern: An element of that encapsulates
 access to a (usually external) system or resource. See also ->wrapper, ->adapter.
 
+{#term-global-analysis}
 ### Global analysis
 
 Systematic approach to achieve desired quality attributes.
 Developed and documented by Christine Hofmeister (Siemens Corporate Research).
 
+{#term-heterogeneous-architectural-style}
 ### Heterogeneous architectural style
 
 see _hybrid architecture style_.
 
+{#term-heuristic}
 ### Heuristic
 
 Informal rule, rule-of-thumb. Any way of problem solving not guaranteed to be optimal,
 but somehow sufficient. Examples from [Object-Oriented Design](http://www.vincehuston.org/ood/oo_design_heuristics.html) or [User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
+{#term-hybrid-architecture-style}
 ### Hybrid architecture style
 
 Combination of two or more existing architecture styles or
 patterns. For example, an MVC construct embedded in a layer
 structure.
 
+{#term-ieee-1471}
 ### IEEE-1471
 
 Standard _Recommended Practice for Architectural Description of Software-Intensive Systems_,
 defined as ISO/IEC 42010:2007. Defines a (abstract) framework for the description of software architectures.
 
+{#term-incremental-development}
 ### Incremental development
 
 see _iterative and incremental development_.
@@ -468,6 +485,7 @@ attributes of ->blackboxes. Separates interface from implementation.
 
   The term ->encapsulation is often used interchangeably with information hiding.
 
+{#term-interface}
 ### Interface
 
 Boundary across which two building blocks interact or communicate with each other.
