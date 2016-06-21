@@ -405,6 +405,11 @@ presence of a correct implementation of B.
 
 see: architectural view.
 
+##### ValueObject
+
+Value Object is a building block of Domain-Driven Design. ValueObjects do not have an identity of their own.
+They describe the state of other objects and may be composed of other value objects but never of entities.
+
 ##### Waterfall development
 
 Development appropach "where you gather all the requirements up front, do all necessary design, down to a detailed level, then hand the specs to the coders, who write the code; then you do testing (possibly with a side trip to IntegrationHell) and deliver the whole thing in one big end-all release. Everything is big including the risk of failure." (quoted from [http://c2.com/cgi/wiki?IterativeDevelopment])
