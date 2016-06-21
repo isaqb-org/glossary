@@ -7,6 +7,8 @@ Here you find translations of the terms
 between English and German (see below) and [German-to-English](#section-translations-DE-EN)
 (next section).
 
+Several of these terms are based in the legal and organisatorical foundations of the iSAQB assocition (and therefore not related to software architecture).
+
 {#section-translations-EN-DE}
 ## Translations English to German
 

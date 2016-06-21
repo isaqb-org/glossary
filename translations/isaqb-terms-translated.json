@@ -33,12 +33,18 @@
   { en: "Architecture evaluation",
     de: ["Architekturbewertung", "Architekturanalyse"]
   },
+  { en: "Articles of assocation",
+    de: "Satzung des Vereins"
+    },
   { en: "Artifact",
     de: "Artefakt"
   },
   { en: "Assessment",
     de: ["Bewertung", "Begutachtung", "Einschätzung", "Untersuchung"]
   },
+  { en: "Association",
+    de: ["Verein", "Beziehung"]
+    },
   { en:"Building block",
     de:"Baustein"
   },
@@ -51,6 +57,9 @@
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
+  { en: "Certification body",
+    de: "Zertifizierungsstelle"
+    },
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
   },
@@ -66,6 +75,9 @@
   { en: "Crosscutting",
     de: "Querschnittlich"
   },
+  { en: "Curriculum"
+    de: "Lehrplan"
+    },
   { en: "Decomposition",
     de: "Zerlegung"
   },
@@ -107,9 +119,30 @@
   { en: "Estimation",
     de: "Schätzung"
   },
+  { en: "Examination question",
+    de: "Prüfungsfrage"
+    },
+  { en: "Examination rules and regulations",
+    de: "Prüfungsordnung"
+    },
+  { en: "Examination sheet",
+    de: "Prüfungsbogen"
+    },
+  { en: "Examination task",
+    de: "Prüfungsaufgabe"
+    },
+  { en: "Examiner",
+    de: "Prüfer"
+    },
+  { en: "Examinee",
+    de: "Prüfling"
+  },
   { en: "Evaluation",
     de: "Bewertung"
   },
+  { en: "Fees rules and regulations",
+    de: "Gebührenordnung"
+    },
   { en: "Influencing Factor",
     de: "Einflussfaktor"
   },
@@ -125,6 +158,18 @@
   { en: "Learning goal",
     de: "Lernziel"
   },
+  { en: "Licensee",
+    de: "Lizenznehmer"
+    },
+  { en: "License fee",
+    de: "Lizenzgebühr"
+    },
+  { en: "Licensing agreement",
+    de: ["Lizenzvertrag", "Lizenzvereinbarung"]
+   },
+  { en: "Licensor",
+    de: "Lizenzgeber"
+    },
   { en: "Means for describing",
     de: "Beschreibungsmittel"
   },
@@ -140,6 +185,12 @@
   { en: "Node",
     de: "Knoten"
   },
+  { en: "Non-exclusive license",
+    de: "Einfache Lizenz"
+    },
+  { en: "Non-profit",
+    de: "Gemmeinnützig"
+    },
   { en: "Notification",
     de: "Benachrichtigung"
   },
@@ -188,6 +239,9 @@
   { en: "Task",
     de: "Aufgabe"
   },
+  { en: "Team regulations",
+    de: "Arbeitsgruppenordnung"
+  },
   { en: "Term",
     de: "Begriff"
   },
@@ -205,6 +259,12 @@
   },
   { en: "View",
     de: ["Sicht", "Perspektive"]
+  },
+  { en: "Working group",
+    de: "Arbeitsgruppe"
+  },
+  { en: "Working group head",
+    de: "Arbeitsgruppenleiter"
   },
   { en: "Workflow management",
     de: "Ablaufsteuerung"

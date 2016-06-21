@@ -18,6 +18,12 @@
 |----------------------|-------------------|
 |Ansatz |Approach |
 |----------------------|-------------------|
+|Arbeitsgruppe |Working group |
+|----------------------|-------------------|
+|Arbeitsgruppenleiter |Working group head |
+|----------------------|-------------------|
+|Arbeitsgruppenordnung |Team regulations |
+|----------------------|-------------------|
 |Arbeitsmittel |Tools |
 |----------------------|-------------------|
 |Arbeitsumgebung |Working environment |
@@ -56,11 +62,13 @@
 |----------------------|-------------------|
 |Bewertung |Assessment, Evaluation |
 |----------------------|-------------------|
-|Beziehung |Dependency, Relationship |
+|Beziehung |Association, Dependency, Relationship |
 |----------------------|-------------------|
 |Beziehungsart |Relationship (kind of) |
 |----------------------|-------------------|
 |Domäne |Business |
+|----------------------|-------------------|
+|Einfache Lizenz |Non-exclusive license |
 |----------------------|-------------------|
 |Einflussfaktor |Influencing Factor |
 |----------------------|-------------------|
@@ -88,7 +96,11 @@
 |----------------------|-------------------|
 |Fähigkeit |Skill |
 |----------------------|-------------------|
+|Gebührenordnung |Fees rules and regulations |
+|----------------------|-------------------|
 |Geheimnisprinzip |Information hiding principle |
+|----------------------|-------------------|
+|Gemmeinnützig |Non-profit |
 |----------------------|-------------------|
 |Geschäftsbereich |Domain |
 |----------------------|-------------------|
@@ -106,7 +118,19 @@
 |----------------------|-------------------|
 |Laufzeit |Runtime |
 |----------------------|-------------------|
+|Lehrplan |Curriculum |
+|----------------------|-------------------|
 |Lernziel |Learning goal |
+|----------------------|-------------------|
+|Lizenzgeber |Licensor |
+|----------------------|-------------------|
+|Lizenzgebühr |License fee |
+|----------------------|-------------------|
+|Lizenznehmer |Licensee |
+|----------------------|-------------------|
+|Lizenzvereinbarung |Licensing agreement |
+|----------------------|-------------------|
+|Lizenzvertrag |Licensing agreement |
 |----------------------|-------------------|
 |Mal-/Zeichenprogramm |Drawing Tool |
 |----------------------|-------------------|
@@ -122,6 +146,18 @@
 |----------------------|-------------------|
 |Prinzip |Principle |
 |----------------------|-------------------|
+|Prüfer |Examiner |
+|----------------------|-------------------|
+|Prüfling |Examinee |
+|----------------------|-------------------|
+|Prüfungsaufgabe |Examination task |
+|----------------------|-------------------|
+|Prüfungsbogen |Examination sheet |
+|----------------------|-------------------|
+|Prüfungsfrage |Examination question |
+|----------------------|-------------------|
+|Prüfungsordnung |Examination rules and regulations |
+|----------------------|-------------------|
 |Qualitätseigenschaft |Quality characteristic, Quality feature |
 |----------------------|-------------------|
 |Qualitätsmerkmal |Quality characteristic, Quality feature |
@@ -129,6 +165,8 @@
 |Querschnittlich |Crosscutting |
 |----------------------|-------------------|
 |Randbedingung |Constraint |
+|----------------------|-------------------|
+|Satzung des Vereins |Articles of assocation |
 |----------------------|-------------------|
 |Schnittstelle |Interface |
 |----------------------|-------------------|
@@ -144,13 +182,15 @@
 |----------------------|-------------------|
 |Verantwortlichkeit |Responsibility |
 |----------------------|-------------------|
+|Verein |Association |
+|----------------------|-------------------|
 |Verteilung |Deployment |
 |----------------------|-------------------|
 |Werkzeug |Tools |
 |----------------------|-------------------|
 |Zerlegung |Decomposition |
 |----------------------|-------------------|
-|Zertifizierungsstelle |Certification authority |
+|Zertifizierungsstelle |Certification authority, Certification body |
 |----------------------|-------------------|
 |Ziel |Objective |
 |----------------------|-------------------|
