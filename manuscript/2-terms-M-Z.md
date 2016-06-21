@@ -1,4 +1,3 @@
-
 ##### Microservice
 
 An architectural style, proposing to divide large systems into small units.
@@ -205,6 +204,9 @@ Generic term denoting some kind of dependency between elements of
 an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
+
+##### Refactoring
+$TODO
 
 ##### Repository
 
