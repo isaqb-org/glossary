@@ -295,6 +295,12 @@ depict interactions between these components. See the following example.
 
 ![Example of Sequence Diagram](images/sequence-diagram-sample.png)
 
+{#term-ddd-service}
+##### Service
+
+Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-valueobject).
+
+
 ##### Singleton
 
 "Design pattern that restricts the instantiation of a class to one object. This is useful when exactly one object is needed to coordinate actions across the system." (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern).
