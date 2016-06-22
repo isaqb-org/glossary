@@ -40,7 +40,7 @@ worked as Scrum master in agile projects.
 He lives in Cologne with his wife (_Cheffe Uli_) and his two (nearly grown-up)
 kids, two cats and a few Macs.
 
-{page-break}
+{pagebreak}
 ## Carola Lilienthal
 
 {width=15%,float=right}
