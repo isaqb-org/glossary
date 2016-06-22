@@ -41,6 +41,7 @@ He lives in Cologne with his wife (_Cheffe Uli_) and his two (nearly grown-up)
 kids, two cats and a few Macs.
 
 {pagebreak}
+
 ## Carola Lilienthal
 
 {width=20%,float=right}
