@@ -46,7 +46,7 @@ kids, two cats and a few Macs.
 {width=15%,float=right}
 ![](images/42-backmatter/wps-logo.png)
 
-Dr. Carola Lilienthal ([innoQ](http://innoq.com) Fellow) is software-architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
+Dr. Carola Lilienthal is software-architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
 domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
