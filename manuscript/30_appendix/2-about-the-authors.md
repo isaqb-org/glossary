@@ -46,7 +46,7 @@ kids, two cats and a few Macs.
 {width=15%,float=right}
 ![](images/42-backmatter/wps-logo.png)
 
-Dr. Carola Lilienthal is software-architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
+Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
 domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
@@ -57,4 +57,4 @@ developer and consultant for a small company, before coming back to university f
 
 Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
 
-He lives in Hamburg with her french husband and her grown-up son.
+She lives in Hamburg with her french husband and her grown-up son.
