@@ -50,7 +50,7 @@ Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workpl
 domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
-![](images/42-backmatter/carola.jpg)
+![](images/42-backmatter/Carola vortrag ausschnitt.jpg)
 
 Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked nine years as a
 developer and consultant for a small company, before coming back to university for international research on software architecture. 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
