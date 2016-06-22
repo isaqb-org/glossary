@@ -70,6 +70,10 @@ She lives in Hamburg with her french husband and her grown-up son.
 
 ## Mahbouba Gharbi
 
+{width=20%,float=inside}
+![](images/42-backmatter/mahbouba-portrait.png)
+
+
 {pagebreak}
 
 ## Michael Mahlberg
