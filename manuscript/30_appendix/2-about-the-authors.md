@@ -57,4 +57,6 @@ developer and consultant for a small company, before coming back to university f
 
 Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
 
+Since 2008 Carola supports the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
+
 She lives in Hamburg with her french husband and her grown-up son.
