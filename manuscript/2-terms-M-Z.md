@@ -199,6 +199,7 @@ Explanation of the reasoning or arguments that lie behind an architecture decisi
   [PoEAA](http://martinfowler.com/eaaCatalog/registry.html)). Often implemented as a _Singleton_ (also a
     well-known design pattern.)
 
+{#term-relationship}
 ### Relationship
 
 Generic term denoting some kind of dependency between elements of

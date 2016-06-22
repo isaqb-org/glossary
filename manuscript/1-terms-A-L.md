@@ -43,6 +43,10 @@ do not want to explain what they did.
 
 Free [template](http://arc42.org) for communication and documentation of software architectures.
 
+{#term-architectural-decision}
+### Architectural Decision
+Decision, which has an sustainable or essential effect on structures, concepts, implementations or similar. Example: Decision about database technology or technical basics of the user interface.
+
 {#term-architecture-evaluation}
 ### Architecture evaluation
 
@@ -95,6 +99,14 @@ Tangible by-product created or generated during development
 of software. Examples of artifacts are use cases, all kinds
 of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
+
+{#term-association}
+### Association
+Defines a relationship between objects (in general: between modules).
+Each association can be described in detail by cardinalities and (role-)names.
+ 
+See [coupling](#term-coupling), [dependency](#term-dependency) and
+[relationship](#term-relationship) 
 
 {#term-atam}
 ### ATAM
@@ -162,6 +174,16 @@ Shows the statical structure of the system,
 how its source code is organized.
 Usually a hierarchical manner, starting from the [context view](#term-context-view).
 Complemented by one or several [runtime scenarios](#term-runtime-view).
+
+{#term-business-architecture}
+### Business Architecture
+A blueprint of the enterprise that provides a common understanding 
+of the organization and is used to align strategic 
+objectives and tactical demands.
+
+{#term-cardinality}
+### Cardinality
+Describes the quality rating of an assocation, this means, it specifies the number of objects or modules of the association.
 
 
 {#term-cohesion}
@@ -402,6 +424,10 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
   * bundling of data with the methods or functions operating on that data
 
   Encapsulation is a mechanism for ->information hiding.
+
+{#term-enterprise-it-architecture}
+### Enterprise IT Architecture 
+Enterprise Architecture. Structures and concepts for the it support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as „applications“.
 
 {#term-entity}
 ### Entity
