@@ -52,8 +52,8 @@ domains, mainly finance, insurance and logistics.
 {width=20%,float=inside}
 ![](images/42-backmatter/carola.jpg)
 
-Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked as a
-developer and consultant for a small company, before coming back to university for international research on  software architecture. 2008 he received her PhD from University of Hamburg, germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
+Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked nine years as a
+developer and consultant for a small company, before coming back to university for international research on software architecture. 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
 
 Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
 
