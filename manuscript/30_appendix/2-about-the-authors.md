@@ -41,6 +41,11 @@ He lives in Cologne with his wife (_Cheffe Uli_) and his two (nearly grown-up)
 kids, two cats and a few Macs.
 
 {pagebreak}
+
+## Matthias Bohlen
+
+
+{pagebreak}
 ## Carola Lilienthal
 
 {width=20%,float=right}
@@ -60,3 +65,12 @@ Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gi
 Since 2008 Carola supports the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
 
 She lives in Hamburg with her french husband and her grown-up son.
+
+{pagebreak}
+
+## Mahbouba Gharbi
+
+{pagebreak}
+
+## Michael Mahlberg
+
