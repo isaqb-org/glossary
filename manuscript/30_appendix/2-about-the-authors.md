@@ -43,14 +43,14 @@ kids, two cats and a few Macs.
 {pagebreak}
 ## Carola Lilienthal
 
-{width=15%,float=right}
+{width=20%,float=right}
 ![](images/42-backmatter/wps-logo.png)
 
 Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
 domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
-![](images/42-backmatter/Carola vortrag ausschnitt.jpg)
+![](images/42-backmatter/carola-portrait.png)
 
 Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked nine years as a
 developer and consultant for a small company, before coming back to university for international research on software architecture. 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
