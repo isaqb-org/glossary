@@ -103,7 +103,7 @@ see _architecture pattern_ or _design pattern_.
 
 ### Perspective
 
-A perspective is used to consider a set of related quality properties of a system. 
+A perspective is used to consider a set of related quality properties and concerns of a system. 
 
 Architects apply perspectives iteratively to the system's _architectural views_ in order to assess the effects of _architectural design decisions_ across multiple _viewpoints_ and _architectural views_.
 
