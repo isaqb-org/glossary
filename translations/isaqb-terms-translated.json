@@ -264,7 +264,7 @@
     de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
   },
   { en: "View",
-    de: ["Sicht"]
+    de: "Sicht"
   },
   { en: "Working group",
     de: "Arbeitsgruppe"
