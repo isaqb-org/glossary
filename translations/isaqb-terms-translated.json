@@ -66,6 +66,9 @@
   { en: "Constraint",
     de: ["Randbedingung", "Einschränkung"]
   },
+  { en: "Concern",
+    de: "Belang"
+  },
   { en: "Context (of a term)",
     de: "Einordnung (eines Begriffes) in einen Zusammenhang"
   },
@@ -203,6 +206,9 @@
   { en: "Pattern",
     de: "Muster"
   },
+  { en: "Perspective", 
+    de: "Perspektive"
+  },
   { en: "Principle",
     de: ["Prinzip", "Konzept"]
   },
@@ -258,7 +264,7 @@
     de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
   },
   { en: "View",
-    de: ["Sicht", "Perspektive"]
+    de: ["Sicht"]
   },
   { en: "Working group",
     de: "Arbeitsgruppe"
