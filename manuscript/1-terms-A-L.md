@@ -240,6 +240,12 @@ more responsible ones.
 
 Plan or principle how to solve a specific problem.
 
+{#term-concern}
+### Concern
+
+"A _concern_ about an architecture is a requirement, an objective, a constraint, an intention, or an aspiration a stakeholder has for that architecture." (quoted from [Rozanski+11], chapter 8)
+
+
 {#term-context}
 ### Context (of a system)
 
