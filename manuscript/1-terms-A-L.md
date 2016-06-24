@@ -43,6 +43,10 @@ do not want to explain what they did.
 
 Free [template](http://arc42.org) for communication and documentation of software architectures.
 
+### Architecture
+
+See [Software Architecture](#term-software-architecture)
+
 {#term-architectural-decision}
 ### Architectural Decision
 Decision, which has an sustainable or essential effect on structures, concepts, implementations or similar. Example: Decision about database technology or technical basics of the user interface.
