@@ -542,6 +542,7 @@ ones so that clients will only need to know about methods that they actually use
 ### iSAQB
 *i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education. See also "Appendix A"
 
+{#term-iso-25010}{#term-iso-9126}
 ### ISO 9126 and ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.

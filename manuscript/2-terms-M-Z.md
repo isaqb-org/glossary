@@ -162,7 +162,7 @@ Software quality is the degree to which a system posesses the
 desired combination of _attributes_ (see: software quality).
 
 Important quality attributes are performance, robustness, security, safety,
-flexibiltiy, dependability, maintainability etc.. See also [ISO-25010]()
+flexibiltiy, dependability, maintainability etc.. See also [ISO-25010](#term-iso-25010)
 
 It's helpful to distinguish between
 
@@ -193,7 +193,7 @@ product quality: The root "quality" is hierarchically refined in _areas_ or
 topics, which itself are refined again. Quality scenarios form the leaves of
 these tree.
 
-  * Standards for product quality, like ->ISO 25010, propose _generic_
+  * Standards for product quality, like [ISO 25010](#term-iso-25010, propose _generic_
   quality trees.
   * The quality of a specific system can be described by a _specific_
   quality tree (see the example below).
