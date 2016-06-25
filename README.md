@@ -1,5 +1,5 @@
 ![Stories in Ready](https://badge.waffle.io/isaqb-org/glossary.png?label=ready&title=Ready)
-![Stories in Ready](https://badge.waffle.io/isaqb-org/glossary.png?label=done&title=Done)
+![Stories in Ready](https://badge.waffle.io/isaqb-org/glossary.png?label=in%20progress&title=In%20progress)
 
 # iSAQB Glossary of Software Architecture Terminology
 
