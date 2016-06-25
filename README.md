@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/isaqb-org/glossary.png?label=ready&title=Ready)](https://waffle.io/isaqb-org/glossary)
 # iSAQB Glossary of Software Architecture Terminology
 
 A comprehensive glossary of software architecture terminology,
