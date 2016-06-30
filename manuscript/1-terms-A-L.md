@@ -77,6 +77,14 @@ See [architecture goal](#term-architecture-goal).
 
 “An architectural pattern expresses a fundamental structural organization schema for software systems. It provides a set of predefined sub- systems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them” (Buschmann+1996, page 12). Similar to _Architecture style_
 
+Examples include:
+
+* Model-View-Controller
+* Layers
+* Pipes-and-Filter
+* [CQRS](#term-cqrs)
+
+
 {#term-architecture-style}
 ### Architecture style
 
@@ -367,6 +375,7 @@ Initially conceived by the famous architect [Christopher Alexander](https://en.w
 was taken up by software engineers. In my opinion, every serious software developer should
 know the pioneering [Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)
 book by Erich Gamma and his three allies.
+
 
 {#term-design-principle}
 ### Design principle

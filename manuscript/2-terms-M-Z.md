@@ -97,9 +97,12 @@ Part of Robin Martins "SOLID" principles for object-oriented systems. Can be
 implemented in object oriented languages by interface inheritance,
 in a more general way as _plugins_.
 
+{#term-pattern}
 ### Pattern
 
-see _architecture pattern_ or _design pattern_.
+ A reusable or repeatable solution to a common problem in software design or architecture.
+
+See [architecture pattern](#term-architecture-pattern) or [design pattern](#term-design-pattern).
 
 ### Perspective
 
