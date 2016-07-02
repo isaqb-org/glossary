@@ -45,7 +45,15 @@ kids, two cats and a few Macs.
 ## Matthias Bohlen
 
 
+
+
 {pagebreak}
+
+## Phillip Ghadir
+
+
+{pagebreak}
+
 ## Carola Lilienthal
 
 {width=20%,float=right}
@@ -66,12 +74,13 @@ Since 2008 Carola supports the International Software Architecture Qualification
 
 She lives in Hamburg with her french husband and her grown-up son.
 
+
 {pagebreak}
 
 ## Mahbouba Gharbi
 
 {width=20%,float=inside}
-![](images/42-backmatter/mahbouba-portrait.png)
+![](images/42-backmatter/mahbouba-portrait.jpg)
 
 
 {pagebreak}

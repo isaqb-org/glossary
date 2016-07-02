@@ -33,7 +33,7 @@ Most likely the most famous and groundbreaking book on architecture patterns.
 {#ref-posa-4}
 ##### Buschmann+2007 (aka: POSA-4)
 
-Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing,_Volume 4,1st edition, 2007, John Wiley & Sons.
+Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_, Volume 4,1st edition, 2007, John Wiley & Sons.
 
 {#ref-clements+2002}
 ##### Clements+2002
@@ -68,7 +68,7 @@ A classic.
 {#ref-hargis+2004}
 ##### Hargis+2004
 
-Hargis, Gretchen/Carey, Michelle/Hernandez, Ann.
+Hargis, Gretchen/Carey, Michelle/Hernandez, Ann:
 _Developing Quality Technical Information: A Handbook for Writers and Editors,_
 IBM Press, 2nd edition, Prentice Hall, 2004. 
 
@@ -78,43 +78,50 @@ you should have a look at this book.
 
 ##### Hofmeister+2000
 
-Hofmeister, Christine/Nord, Robert/Soni, Dilip.
+Hofmeister, Christine/Nord, Robert/Soni, Dilip:
 _Applied Software Architecture,_
 1st edition, Addison-Wesley, 1999
 
 ##### Hohpe+2003
 
-Hohpe, G/Woolf, B: Enterprise Integration Patterns: Designing, Building, and Deploying
+Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and Deploying
 Messaging Solutions. Addison Wesley, 2003. In my opinion, one of the most important books
 for people creating integrated systems.
 
 
 ##### Martin2003
 
-Martin, R C.
+Martin, Robert C:
 _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2002
 
 
 ##### Parnas1972
 
-Parnas, David.
+Parnas, David:
 _On the criteria to be used in decomposing systems into modules"_,
 Communications of the ACM, volume 15, issue 12, Dec 1972
-In my opinion one of the most influential articles ever written in software engineering.
+
+One of the most influential articles ever written in software engineering, introducing
+encapsulation and modularity.
 
 
 ##### Quian+2010
 
-Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J.
+Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J: 
 _Software Architecture and Design Illuminated,_
-1st edition, Jones and Bartlett, 2010. Well-structure and readable collection
-of architecture styles and patterns.
+1st edition, Jones and Bartlett, 2010. 
+
+Well-structure and readable collection of architecture styles and patterns.
+
+
 
 ##### Rozanski+11
 
-Rozanski, Nick/Woods, Eoin: Software Systems Architecture - Working with
-Stakeholders Using Viewpoints and Perspectives. 2nd Edition, Addison Wesley 2011.
+Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
+Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 2011.
+
+
 Presents a set of architectural viewpoints and perspectives.
 
 ##### Schmidt+2000
@@ -126,7 +133,6 @@ _Patterns for Concurrent and Networked Objects,_
 
 ##### Shaw+1996
 
-Shaw, Mary/Garlan, David.
-_Software Architecture: Perspectives on an
+Shaw, Mary/Garlan, David: _Software Architecture: Perspectives on an
 Emerging Discipline_,
 Prentice Hall, 1996
