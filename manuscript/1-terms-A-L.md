@@ -97,9 +97,9 @@ Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
 A representation of a system from a specific perspective. Important and well-known views are:
 
-* [Context view](#term-context-view), 
-* Building block view 
-* Runtime view 
+* [Context view](#term-context-view),
+* Building block view
+* Runtime view
 * Deployment view
 
 [Bass+2012] and [Rozanski+11] extensively discuss this concept.
@@ -116,9 +116,9 @@ source code, test cases, class-files, archives.
 ### Association
 Defines a relationship between objects (in general: between modules).
 Each association can be described in detail by cardinalities and (role-)names.
- 
+
 See [coupling](#term-coupling), [dependency](#term-dependency) and
-[relationship](#term-relationship) 
+[relationship](#term-relationship)
 
 {#term-atam}
 ### ATAM
@@ -195,8 +195,8 @@ Complemented by one or several [runtime scenarios](#term-runtime-view).
 
 {#term-business-architecture}
 ### Business Architecture
-A blueprint of the enterprise that provides a common understanding 
-of the organization and is used to align strategic 
+A blueprint of the enterprise that provides a common understanding
+of the organization and is used to align strategic
 objectives and tactical demands.
 
 {#term-cardinality}
@@ -411,16 +411,17 @@ Automatic build process that collects artifacts into a consistent documentation.
 ### Domain-Driven Design (DDD)
 
 "Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts." (quoted from [DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)). See [Evans-2004](#ref-evans-2004).
+
 See also:
 
-* [Entity](#term-entity)
-* [Value Object](#term-valueobject)
-* [Aggregate](#term-aggregate)
-* [Service](#term-ddd-service)
-* [Factory](#term-factory)
-* [Repository](#term-repository)
-* [Ubiquitous Language](#term-ubiquitouslang)
-* (more to come...)
+  * [Entity](#term-entity)
+  * [Value Object](#term-valueobject)
+  * [Aggregate](#term-aggregate)
+  * [Service](#term-ddd-service)
+  * [Factory](#term-factory)
+  * [Repository](#term-repository)
+  * [Ubiquitous Language](#term-ubiquitouslang)
+  * (more to come...)
 
 
 {#term-domain-model}
@@ -451,7 +452,7 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
   Encapsulation is a mechanism for ->information hiding.
 
 {#term-enterprise-it-architecture}
-### Enterprise IT Architecture 
+### Enterprise IT Architecture
 Enterprise Architecture. Structures and concepts for the it support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as „applications“.
 
 {#term-entity}
