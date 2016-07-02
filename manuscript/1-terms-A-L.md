@@ -371,10 +371,13 @@ deployed and executed.
 ### Design pattern
 
 General or generic reusable solution to a commonly occurring problem within a given context in design.
-Initially conceived by the famous architect [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) the concept of _design patterns_
-was taken up by software engineers. In my opinion, every serious software developer should
-know the pioneering [Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)
-book by Erich Gamma and his three allies.
+Initially conceived by the famous architect [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander),
+the concept of _design patterns_
+was taken up by software engineers.
+
+In our opinion, every serious software developer should
+know at least some patterns from the pioneering [Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)
+book by Erich Gamma ([Gamma+1994](#ref-gamma+1994)) and his three allies.
 
 
 {#term-design-principle}
@@ -389,7 +392,8 @@ where "better" means the avoidance of the following three _bad characteristics_:
    occur at other elements.
   * Immobility: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
 
-  These characteristics have been formulated by Robert Martin, quoted from [OODesign.com](http://www.oodesign.com/design-principles.html)
+These characteristics have been formulated by Robert Martin, quoted from [OODesign.com](http://www.oodesign.com/design-principles.html)
+
 
 {#term-document}
 ### Document
@@ -421,7 +425,7 @@ See also:
   * [Factory](#term-factory)
   * [Repository](#term-repository)
   * [Ubiquitous Language](#term-ubiquitouslang)
-  * (more to come...)
+
 
 
 {#term-domain-model}

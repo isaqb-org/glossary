@@ -15,7 +15,7 @@ systems - so their advice might sometimes conflicts with small or lean kinds of 
 
 
 {#ref-brown2015}
-##### Brown2015
+##### Brown-2015
 
 Brown, Simon: _Software Architecture For Developers_,
 
@@ -41,18 +41,18 @@ Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software 
 Clements, Paul/Kazman, Rick/Klein, Mark: _Evaluating Software Architectures: Methods and Case Studies_,
 Addison-Wesley, 2001.
 
-{#ref-evans2004}
-##### Evans2004
+{#ref-evans-2004}
+##### Evans-2004
 
 Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_
-1st edition, 20 August 2003, Addison-Wesley, 2003. 
+1st edition, 20 August 2003, Addison-Wesley, 2003.
 
 
-{#ref-fowler2003}
-##### Fowler2003
+{#ref-fowler-2003}
+##### Fowler-2003
 
 Fowler, Martin: _Patterns of Enterprise Application Architecture,_
-Addison-Wesley, 2002. 
+Addison-Wesley, 2002.
 
 Great support for building information systems.
 
@@ -61,7 +61,7 @@ Great support for building information systems.
 
 Gamma, Erich/Helm, Richard/Johnson, Ralph/Vlissides, John M.
 _Design Patterns: Elements of Reusable Object-Oriented Software,_
-1st edition, 1994, Addison-Wesley, 1994. 
+1st edition, 1994, Addison-Wesley, 1994.
 
 A classic.
 
@@ -70,7 +70,7 @@ A classic.
 
 Hargis, Gretchen/Carey, Michelle/Hernandez, Ann:
 _Developing Quality Technical Information: A Handbook for Writers and Editors,_
-IBM Press, 2nd edition, Prentice Hall, 2004. 
+IBM Press, 2nd edition, Prentice Hall, 2004.
 
 If you need to write lots of documentation,
 you should have a look at this book.
@@ -85,18 +85,19 @@ _Applied Software Architecture,_
 ##### Hohpe+2003
 
 Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and Deploying
-Messaging Solutions. Addison Wesley, 2003. In my opinion, one of the most important books
-for people creating integrated systems.
+Messaging Solutions_, Addison Wesley, 2003.
 
+A very important book and timeless book for people creating integrated systems.
 
-##### Martin2003
+{#ref-martin-2003}
+##### Martin-2003
 
 Martin, Robert C:
 _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2002
 
 
-##### Parnas1972
+##### Parnas-1972
 
 Parnas, David:
 _On the criteria to be used in decomposing systems into modules"_,
@@ -108,19 +109,18 @@ encapsulation and modularity.
 
 ##### Quian+2010
 
-Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J: 
+Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J:
 _Software Architecture and Design Illuminated,_
-1st edition, Jones and Bartlett, 2010. 
+1st edition, Jones and Bartlett, 2010.
 
 Well-structure and readable collection of architecture styles and patterns.
 
 
 
-##### Rozanski+11
+##### Rozanski+2011
 
 Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
 Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 2011.
-
 
 Presents a set of architectural viewpoints and perspectives.
 
