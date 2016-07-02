@@ -3,34 +3,38 @@
 {#section-references}
 # Resources
 
-Bass+2012
+{#ref-bass+2012}
+#### Bass+2012
 
-: Bass, L/Clements, P/Kazman, R.
-_Software Architecture in Practice,_
+Bass, L/Clements, P/Kazman, R.:_Software Architecture in Practice_
+
 3rd edition, Addison-Wesley, 2012. Although the title suggests otherwise, a quite
 fundamental (and sometimes abstract) book.
 The authors have a strong background in ultra-large scale (often military)
 systems - so their advice might sometimes conflicts with small or lean kinds of projects.
 
+{#ref-brown2015}
+#### Brown2015
 
-Brown2015
-
-: Brown, Simon.
-_Software Architecture For Developers_,
+Brown, Simon: _Software Architecture For Developers_,
 [https://leanpub.com/software-architecture-for-developers](https://leanpub.com/software-architecture-for-developers)
 Leanpub Publishing. Very practical and pragmatic.
 
-Buschmann+1996 (aka: POSA-1)
+{#ref-posa-1}
+{#ref-buschmann+1996}
+#### Buschmann+1996 (aka: POSA-1)
 
-: Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter.
-_A System of Patterns: Pattern-Oriented Software Architecture 1_,
+Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Patterns: Pattern-Oriented Software Architecture 1_
+
 1st edition, 1996, John Wiley & Sons.
 
-Buschmann+2007 (aka: POSA-4)
+{#ref-posa-4}
+####Buschmann+2007 (aka: POSA-4)
 
-: Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.
+Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.
 _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing,_
 Volume 4,1st edition, 2007, John Wiley & Sons.
+
 
 Clements+2002
 
