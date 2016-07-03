@@ -79,10 +79,13 @@ She lives in Hamburg with her french husband and her grown-up son.
 
 ## Mahbouba Gharbi
 
-Mahbouba Gharbi is CIO of iTech Progress.
+Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/mahbouba-portrait.jpg)
+
+Since several years Mahbouba is president of the iSAQB. She lives in Mannheim
+with her family.
 
 
 {pagebreak}
