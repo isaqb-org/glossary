@@ -79,6 +79,8 @@ She lives in Hamburg with her french husband and her grown-up son.
 
 ## Mahbouba Gharbi
 
+Mahbouba Gharbi is CIO of iTech Progress.
+
 {width=20%,float=inside}
 ![](images/42-backmatter/mahbouba-portrait.jpg)
 
@@ -87,14 +89,14 @@ She lives in Hamburg with her french husband and her grown-up son.
 
 ## Michael Mahlberg
 
-Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts. 
+Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/MichaelMahlbergQ2-2013-BW.jpeg)
 
-Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (develeopment) processes are in a way timeless aspects of the craft. 
+Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (develeopment) processes are in a way timeless aspects of the craft.
 
-In the late eighties of the 20th century he started to incorporate these aspectts into his business activities and has worked on software architecture in large scale systems for industries as diverse as media, aerospace, insurance, public sector, telco etc. 
+In the late eighties of the 20th century he started to incorporate these aspectts into his business activities and has worked on software architecture in large scale systems for industries as diverse as media, aerospace, insurance, public sector, telco etc.
 
 Nowadays a lot of his work focuses on processes and human interactions – a field in wich he enganges both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).    
 Michaels architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
