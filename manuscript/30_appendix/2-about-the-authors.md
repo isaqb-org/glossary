@@ -87,7 +87,7 @@ She lives in Hamburg with her french husband and her grown-up son.
 
 ## Michael Mahlberg
 
-[Michael Mahlberg](http://www.michaelmahlberg.de) runs his own [method consultancy](http://consulting-guild.de) in germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts. 
+Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts. 
 
 {width=20%,float=inside}
 ![](images/42-backmatter/MichaelMahlbergQ2-2013-BW.jpeg)
