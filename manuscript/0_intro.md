@@ -45,3 +45,14 @@ You must:
 * Indicate if (and which) changes were made with respect to the original.
 
 
+## Contributions
+
+Several parts of this glossary have been contributed
+by the following volunteers and sponsors:
+
+* The definitions of about 120 terms have been donated by
+Gernot Starke, originally compiled for one of his 
+[books](https://leanpub.com/esa42/).
+* A number of definitions in context of system improvement and evolution
+was contributed by the [aim42](http://aim42.github.io/) open source project.
+
