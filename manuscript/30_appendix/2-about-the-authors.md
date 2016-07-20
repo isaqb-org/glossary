@@ -44,8 +44,20 @@ kids, two cats and a few Macs.
 
 ## Matthias Bohlen
 
+Matthias Bohlen, [independent expert](http://mbohlen.de) for effective product development, started his career as a software developer in 1980. He wrote compilers for the MC68020 processor by Motorola which was quite a revolutionary device in those days where there was no IBM PC, yet. And the compilers really sold well.
 
+Later, Matthias joined a CAD/CAM software company with 8 people and 4000 customers – this was product development from the ground up! 8 years later, after being a software developer, consulting projects were done with the CAD/CAM system, and Matthias discovered that he enjoyed to do be a consultant and work with customers.
 
+{width=20%,float=inside}
+![](images/42-backmatter/MatthiasBohlen_quadratisch.jpg)
+
+After a few years at another 130-people consulting company, in 2001 in the middle of the dot-com bubble, he decided that it was now time to become his own boss and started to work as a freelance software architect and developer.
+
+Since then, Matthias has worked with countless software teams, helping them to get working software out the door without losing their mind. This is what he still does today.
+
+In times where Matthias felt his mind could use some excitement, he founded [AndroMDA](http://www.andromda.org), an open source project and (as a co-founder with Michael Mahlberg) the [Limited WIP Society Cologne](http://lwscologne.de), a community of Kanban practitioners.
+
+Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, worked as an editor for [OBJEKTspektrum](http://www.objektspektrum.de), regularly writes for [Business Technology Magazine]() and speaks at conferences for software development. And he even thinks about founding another startup company – but that's a different story.
 
 {pagebreak}
 
