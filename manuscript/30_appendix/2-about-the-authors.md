@@ -57,7 +57,7 @@ Since then, Matthias has worked with countless software teams, helping them to g
 
 In times where Matthias felt his mind could use some excitement, he founded [AndroMDA](http://www.andromda.org), an open source project and (as a co-founder with Michael Mahlberg) the [Limited WIP Society Cologne](http://lwscologne.de), a community of Kanban practitioners.
 
-Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, worked as an editor for [OBJEKTspektrum](http://www.objektspektrum.de), regularly writes for [Business Technology Magazine]() and speaks at conferences for software development. And he even thinks about founding another startup company – but that's a different story.
+Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, worked as an editor for [OBJEKTspektrum](http://www.objektspektrum.de), regularly writes for [Business Technology Magazine](https://jaxenter.de/magazine/business-technology) and speaks at conferences for software development. And he even thinks about founding another startup company – but that's a different story.
 
 {pagebreak}
 
