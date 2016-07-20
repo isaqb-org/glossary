@@ -59,20 +59,19 @@ kids, two cats and a few Macs.
 {width=20%,float=right}
 ![](images/42-backmatter/wps-logo.png)
 
-Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
-domains, mainly finance, insurance and logistics.
+Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). For 20 years she has been working as a developer, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/carola-portrait.png)
 
-Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked nine years as a
-developer and consultant for a small company, before coming back to university for international research on software architecture. 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
+Carola studied computer science at the University of Hamburg and finished with a diploma in 1995. She then worked for nine years as a
+developer and consultant for a small company, before coming back to university for international research on software architecture. In 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
 
-Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
+Since 2003, she has been analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
 
-Since 2008 Carola supports the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
+Since 2008 Carola has been supporting the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
 
-She lives in Hamburg with her french husband and her grown-up son.
+She lives in Hamburg with her French husband and her grown-up son.
 
 
 {pagebreak}
@@ -84,8 +83,7 @@ Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
 {width=20%,float=inside}
 ![](images/42-backmatter/mahbouba-portrait.jpg)
 
-Since several years Mahbouba is president of the iSAQB. She lives in Mannheim
-with her family.
+Several years ago Mahbouba became president of the iSAQB. She lives in Mannheim with her family.
 
 
 {pagebreak}
