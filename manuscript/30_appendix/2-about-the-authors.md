@@ -44,8 +44,20 @@ kids, two cats and a few Macs.
 
 ## Matthias Bohlen
 
+Matthias Bohlen, [independent expert](http://mbohlen.de) for effective product development, started his career as a software developer in 1980. He wrote compilers for the MC68020 processor by Motorola which was quite a revolutionary device in those days where there was no IBM PC, yet. And the compilers really sold well.
 
+Later, Matthias joined a CAD/CAM software company with 8 people and 4000 customers – this was product development from the ground up! 8 years later, after being a software developer, consulting projects were done with the CAD/CAM system, and Matthias discovered that he enjoyed to do be a consultant and work with customers.
 
+{width=20%,float=inside}
+![](images/42-backmatter/MatthiasBohlen_quadratisch.jpg)
+
+After a few years at another 130-people consulting company, in 2001 in the middle of the dot-com bubble, he decided that it was now time to become his own boss and started to work as a freelance software architect and developer.
+
+Since then, Matthias has worked with countless software teams, helping them to get working software out the door without losing their mind. This is what he still does today.
+
+In times where Matthias felt his mind could use some excitement, he founded [AndroMDA](http://www.andromda.org), an open source project and (as a co-founder with Michael Mahlberg) the [Limited WIP Society Cologne](http://lwscologne.de), a community of Kanban practitioners.
+
+Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, worked as an editor for [OBJEKTspektrum](http://www.objektspektrum.de), regularly writes for [Business Technology Magazine](https://jaxenter.de/magazine/business-technology) and speaks at conferences for software development. And he even thinks about founding another startup company – but that's a different story.
 
 {pagebreak}
 
@@ -59,20 +71,19 @@ kids, two cats and a few Macs.
 {width=20%,float=right}
 ![](images/42-backmatter/wps-logo.png)
 
-Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). Since 20 years she works as developper, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various
-domains, mainly finance, insurance and logistics.
+Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](http://wps.de). For 20 years she has been working as a developer, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various domains, mainly finance, insurance and logistics.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/carola-portrait.png)
 
-Carola studied computer science at the University of Hamburg and finished with a Diploma in 1995. She then worked nine years as a
-developer and consultant for a small company, before coming back to university for international research on software architecture. 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
+Carola studied computer science at the University of Hamburg and finished with a diploma in 1995. She then worked for nine years as a
+developer and consultant for a small company, before coming back to university for international research on software architecture. In 2008 she received her PhD from University of Hamburg, Germany (Prof. Christiane Floyd for her thesis on "Complexity of Software Architecture").
 
-Since 2003, she is analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
+Since 2003, she has been analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
 
-Since 2008 Carola supports the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
+Since 2008 Carola has been supporting the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
 
-She lives in Hamburg with her french husband and her grown-up son.
+She lives in Hamburg with her French husband and her grown-up son.
 
 
 {pagebreak}
@@ -84,22 +95,22 @@ Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
 {width=20%,float=inside}
 ![](images/42-backmatter/mahbouba-portrait.jpg)
 
-Since several years Mahbouba is president of the iSAQB. She lives in Mannheim
-with her family.
+Several years ago Mahbouba became president of the iSAQB. She lives in Mannheim with her family.
 
 
 {pagebreak}
 
 ## Michael Mahlberg
 
-Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
+Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in Germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/MichaelMahlbergQ2-2013-BW.jpeg)
 
-Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (develeopment) processes are in a way timeless aspects of the craft.
+Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (development) processes are in a way timeless aspects of the craft.
 
 In the late eighties of the 20th century he started to incorporate these aspectts into his business activities and has worked on software architecture in large scale systems for industries as diverse as media, aerospace, insurance, public sector, telco etc.
 
-Nowadays a lot of his work focuses on processes and human interactions – a field in wich he enganges both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).    
-Michaels architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
+Nowadays a lot of his work focuses on processes and human interactions – a field in which he engages both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).
+
+Michael's architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
