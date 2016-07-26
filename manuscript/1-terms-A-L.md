@@ -500,7 +500,8 @@ access to a (usually external) system or resource. See also ->wrapper, ->adapter
 ### Global analysis
 
 Systematic approach to achieve desired quality attributes.
-Developed and documented by Christine Hofmeister (Siemens Corporate Research).
+Developed and documented by Christine Hofmeister (Siemens Corporate Research). 
+Global analysis is described in [Hofmeister+2000].
 
 {#term-heterogeneous-architectural-style}
 ### Heterogeneous architectural style
