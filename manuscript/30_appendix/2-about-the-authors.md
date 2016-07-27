@@ -114,3 +114,19 @@ In the late eighties of the 20th century he started to incorporate these aspectt
 Nowadays a lot of his work focuses on processes and human interactions – a field in which he engages both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).
 
 Michael's architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
+
+{pagebreak}
+
+
+## Ulrich Becker
+
+Ulrich Becker works as principal consultant at [Method Park](http://www.methodpark.de), focussing on software architecture and application lifecycle management.
+
+{width=20%,float=inside}
+![](images/42-backmatter/ulrich-becker.png)
+
+Ulrich studied computer science at the University of Hamburg and the University of Erlangen-Nürnberg. He received his PhD from the University of Erlangen-Nürnberg in 2003 for his work on model-based distribution configuration. He then became group leader for the adaptive system software group at [Fraunhofer IIS](http://www.iis.fraunhofer.de/).
+
+Since 2005 Ulrich works as a trainer, consultant and coach at Method Park where he supports his clients in improving their development processes and methods. Most of his clients are from the automotive industry or other heavily regulated industries.
+
+Ulrich is a founding member of [iSAQB e.V.](http://isaqb.org) where he contributes to the foundation level and advanced level working groups. He lives in Erlangen with his family.
