@@ -63,6 +63,11 @@ Matthias is an active member of the [International Software Architecture Qualifi
 
 ## Phillip Ghadir
 
+Member of the board of innoQ Deutschland GmbH. Since many years, Phillip consults
+clients from various industries in topics around software-architecture,
+technology and development. He co-founded the iSAQB and regularly conducts trainings
+on software-architecture.
+
 
 {pagebreak}
 
