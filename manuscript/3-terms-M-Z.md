@@ -1,4 +1,5 @@
 
+{#term-microservice}
 ### Microservice
 
 An architectural style, proposing to divide large systems into small units.
@@ -106,21 +107,21 @@ See [architecture pattern](#term-architecture-pattern) or [design pattern](#term
 
 ### Perspective
 
-A perspective is used to consider a set of related quality properties and concerns of a system. 
+A perspective is used to consider a set of related quality properties and concerns of a system.
 
 Architects apply perspectives iteratively to the system's _architectural views_ in order to assess the effects of _architectural design decisions_ across multiple _viewpoints_ and _architectural views_.
 
-[Rozanski+11] associates with the term _perspective_ also activities, tactics, and guidelines that must be considered if a system should provide a set of related quality properties and suggests the following perspectives: 
+[Rozanski+11] associates with the term _perspective_ also activities, tactics, and guidelines that must be considered if a system should provide a set of related quality properties and suggests the following perspectives:
 
- * Accessibility 
- * Availability and Resilience 
- * Development Resource 
- * Evolution 
- * Internationalization 
- * Location 
- * Performance and Scalability 
- * Regulation 
- * Security 
+ * Accessibility
+ * Availability and Resilience
+ * Development Resource
+ * Evolution
+ * Internationalization
+ * Location
+ * Performance and Scalability
+ * Regulation
+ * Security
  * Usability
 
 
@@ -343,7 +344,7 @@ aligned with that responsibility.
 ### Software Architecture
 
 There exist several (!) valid and plausible definitions
-of the term _Software Architecture_. 
+of the term _Software Architecture_.
 
 The following definition has been proposed by the [IEEE 1471](https://en.wikipedia.org/wiki/IEEE_1471) standard (and later adopted by ISO/IEC 42010):
 
@@ -361,10 +362,10 @@ The key terms in this definition require some explanation:
  _separation of concerns_.
 * Environment: Every system has some relationships
 to its environment: data, control flow or events are transferred to
-and from maybe different kinds of neighbours. 
+and from maybe different kinds of neighbours.
 * Principles: Rules or conventions that hold for a system or several parts of it.
 Decision or definition, usually valid for several elements of the system. Often
-called _concepts_ or even _solution patterns_. Principles (concepts) are the foundation for _conceptual integrity_. 
+called _concepts_ or even _solution patterns_. Principles (concepts) are the foundation for _conceptual integrity_.
 
 
 The _Software Engineering Institure_
@@ -449,10 +450,10 @@ speed.
 
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
-  
+
   {#term-ubiquitouslang}
-### Ubiquitous language 
-A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a language that is structured around the [domain model](#term-domain-model). It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software. 
+### Ubiquitous language
+A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a language that is structured around the [domain model](#term-domain-model). It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
 
 ### [Unified Modeling Language (UML)](http://uml.org)
 

@@ -13,8 +13,9 @@
 %%
 0_intro.md
 
-1-terms-A-L.md
-2-terms-M-Z.md
+1-terms-A-C.md
+2-terms-D-L.md
+3-terms-M-Z.md
 
 
 %% ==================================
