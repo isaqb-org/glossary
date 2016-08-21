@@ -1,3 +1,5 @@
+(table generated August 21st 2016)
+
 |English     |German  |
 |----------------------|-------------------|
 |Adaption |Anpassung |
