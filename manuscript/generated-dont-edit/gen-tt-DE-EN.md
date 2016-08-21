@@ -1,3 +1,5 @@
+
+{width=95%}
 |German     |English  |
 |----------------------|-------------------|
 |Abhängigkeit |Coupling, Dependency |

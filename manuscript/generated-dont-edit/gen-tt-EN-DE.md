@@ -1,10 +1,13 @@
+
 The following tables have been automatically generated[^TransTableGenerationDate]
+from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:August/21/2016
+[^TransTableGenerationDate]:109 terms, generated on August/21/2016
 
 
 
-                       |English     |German  |
+{width=95%}
+|English     |German  |
 |----------------------|-------------------|
 |Adaption |Anpassung |
 |----------------------|-------------------|

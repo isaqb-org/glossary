@@ -57,7 +57,8 @@ class TranslationTable {
 
     private String ttHeader() {
 
-        return "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
+        return "\n{width=95%}\n" +
+               "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
                 MARKDOWN_TABLE_SEPARATOR
 
     }

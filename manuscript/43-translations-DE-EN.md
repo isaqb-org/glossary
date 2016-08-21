@@ -12,5 +12,3 @@ A>Please note: This translation table is not supposed to be complete, several En
 %% the actual translation tables are generated from a JSON file
 %% in the /translations directory.
 %%
-
-{width=90%}

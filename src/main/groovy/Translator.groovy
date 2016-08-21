@@ -206,12 +206,14 @@ class Translator {
     /*
     ** As a convention, we insert a Footnote in the EN-DE translation table.
      */
-    static final String createDateAsMarkDownFootnote() {
-        final teaser = """The following tables have been automatically generated[^TransTableGenerationDate]
+    static final String createDateAsMarkDownFootnote(int nrOfTerms) {
+        final teaser = """
+The following tables have been automatically generated[^TransTableGenerationDate]
+from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:${new Date().format("MMMM/dd/yyyy")}\n\n
+[^TransTableGenerationDate]:$nrOfTerms terms, generated on ${new Date().format("MMMM/dd/yyyy")}\n
 
-                       """
+"""
 
     }
 
@@ -224,8 +226,12 @@ class Translator {
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
+
+            int nrOfTerms = en_de.terms.size()
+            println "found ${nrOfTerms} terms..."
+
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
-            generated_EN_DE_File.text = createDateAsMarkDownFootnote() + en_de.translationTableToLeanpubMarkdown()
+            generated_EN_DE_File.text = createDateAsMarkDownFootnote(nrOfTerms) + en_de.translationTableToLeanpubMarkdown()
             println("Successfully created $EN_DE_FILENAME")
 
             de_en = build_DE_TranslationTable(terms)
