@@ -3,33 +3,34 @@
 This book contains a glossary of _software architecture terminology_.
 
 It can serve as a reference for preparation for the iSAQB e.V.
- examination 
+ examination
 _Certified Professional for Software Architecture - Foundation Level_©.
 
 Please be aware: This glossary is **not** intended to be a primer or course book
 on software architecture, just a collection of definitions (and links to further information).
 
-Furthermore, you find proposals for [translations](#section-translations) 
+Furthermore, you find proposals for [translations](#section-translations)
 of the iSAQB terminology,
 currently between English and German (and vice-versa).
 
 Finally this book contains numerous [references](#section-references) to books
 and other resources, many of which we quoted in the definitions.
 
-**This book is work in progress.** 
+**This book is work in progress.**
 
-Errors or ommissions can also be reported in our issue tracker on
+Errors or omissions can also be reported in our issue tracker on
 [Github](https://github.com/isaqb-org/glossary/issues),
 where the authors maintain the original sources for this book.
 
+{pagebreak}
 
 ## License
 
 {float=inside,width=25%}
 ![](images/cc-by.png)
 
-This book is licensed under a 
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+This book is licensed under a
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 The following is only a brief summary and no substitution for the real license.
 
 The cc-4.0-by license means that you might:
@@ -45,14 +46,26 @@ You must:
 * Indicate if (and which) changes were made with respect to the original.
 
 
-## Contributions
+{pagebreak}
+
+## Acknowledgements
 
 Several parts of this glossary have been contributed
 by the following volunteers and sponsors:
 
 * The definitions of about 120 terms have been donated by
-Gernot Starke, originally compiled for one of his 
+Gernot Starke, originally compiled for one of his
 [books](https://leanpub.com/esa42/).
 * A number of definitions in context of system improvement and evolution
 was contributed by the [aim42](http://aim42.github.io/) open source project.
 
+
+## Contributing
+
+In case find errors, omissions or typos, or want to contribute additional content -
+please feel free to do this via one of the following ways:
+
+1. Open an issue in our [Github repository](https://github.com/isaqb-org/glossary/issues)
+2. Fork the repository and create a pull request
+3. Discuss topics on the books' [Leanpub feedback page](https://leanpub.com/isaqbglossary/feedback)
+4. Write an email to the authors, also from the books' [website](https://leanpub.com/isaqbglossary/email_author/new)
