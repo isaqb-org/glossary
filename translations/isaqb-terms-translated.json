@@ -164,6 +164,9 @@
   { en: "Estimation",
     de: "Schätzung"
   },
+  { en: "Evaluation",
+    de: "Bewertung"
+  },
   { en: "Examination question",
     de: "Prüfungsfrage"
     },
@@ -181,9 +184,6 @@
     },
   { en: "Examinee",
     de: "Prüfling"
-  },
-  { en: "Evaluation",
-    de: "Bewertung"
   },
   { en: "Fees rules and regulations",
     de: "Gebührenordnung"
@@ -263,12 +263,18 @@
   { en: "Principle",
     de: ["Prinzip", "Konzept"]
   },
+  { en: "Quality attribute",
+   de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
+ },
   { en: "Quality characteristic",
     de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
   },
   { en: "Quality feature",
     de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
   },
+  {en: "Rationale",
+   de: ["Begründung","Erklärung"]
+ },
   { en: "Real-time system",
     de: "Echtzeitsystem"
  },

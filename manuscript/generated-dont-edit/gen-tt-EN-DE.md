@@ -2,6 +2,8 @@
 |----------------------|-------------------|
 |Adaption |Anpassung |
 |----------------------|-------------------|
+|Adequacy |Angemessenheit |
+|----------------------|-------------------|
 |Approach |Ansatz |
 |----------------------|-------------------|
 |Appropriateness |Angemessenheit |
@@ -16,9 +18,13 @@
 |----------------------|-------------------|
 |Architecture evaluation |Architekturbewertung, Architekturanalyse |
 |----------------------|-------------------|
+|Architecture objective |Architekturziel |
+|----------------------|-------------------|
 |Articles of assocation |Satzung des Vereins |
 |----------------------|-------------------|
 |Artifact |Artefakt |
+|----------------------|-------------------|
+|Aspect |Aspekt, Belang |
 |----------------------|-------------------|
 |Assessment |Bewertung, Begutachtung, Einschätzung, Untersuchung |
 |----------------------|-------------------|
@@ -30,11 +36,19 @@
 |----------------------|-------------------|
 |Business |Fachlichkeit, Domäne |
 |----------------------|-------------------|
+|Business architecture |fachliche Architektur, Geschäftsarchitektur |
+|----------------------|-------------------|
 |Certification authority |Zertifizierungsstelle |
 |----------------------|-------------------|
 |Certification body |Zertifizierungsstelle |
 |----------------------|-------------------|
+|Channel |Kanal |
+|----------------------|-------------------|
+|Cohesion |Kohäsion, innerer Zusammenhalt |
+|----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
+|----------------------|-------------------|
+|Component |Baustein, Komponente |
 |----------------------|-------------------|
 |Concern |Belang |
 |----------------------|-------------------|
@@ -43,6 +57,8 @@
 |Context (of a term) |Einordnung (eines Begriffes) in einen Zusammenhang |
 |----------------------|-------------------|
 |Context view |Kontextabgrenzung |
+|----------------------|-------------------|
+|Coupling |Kopplung, Abhängigkeit |
 |----------------------|-------------------|
 |Crosscutting |Querschnittlich |
 |----------------------|-------------------|
@@ -54,9 +70,21 @@
 |----------------------|-------------------|
 |Deployment |Verteilung |
 |----------------------|-------------------|
+|Deployment unit |Verteilungsartefakt |
+|----------------------|-------------------|
+|Deployment view |Verteilungssicht |
+|----------------------|-------------------|
 |Design |Entwurf |
 |----------------------|-------------------|
+|Design approach |Entwurfsansatz, Entwurfsmethodik |
+|----------------------|-------------------|
+|Design decision |Entwurfsentscheidung |
+|----------------------|-------------------|
+|Design principle |Entwurfsprinzip |
+|----------------------|-------------------|
 |Domain |Fachdomäne, Fachlicher Bereich, Geschäftsbereich |
+|----------------------|-------------------|
+|Domain-related architecture |fachliche Architektur |
 |----------------------|-------------------|
 |Drawing Tool |Mal-/Zeichenprogramm |
 |----------------------|-------------------|
@@ -94,6 +122,8 @@
 |----------------------|-------------------|
 |Interface |Schnittstelle |
 |----------------------|-------------------|
+|Interface description |Schnittstellenbeschreibung, Schnittstellendokumentation |
+|----------------------|-------------------|
 |Learning goal |Lernziel |
 |----------------------|-------------------|
 |License fee |Lizenzgebühr |
@@ -126,13 +156,21 @@
 |----------------------|-------------------|
 |Pattern |Muster |
 |----------------------|-------------------|
+|Pattern language |Mustersprache, Musterfamilie |
+|----------------------|-------------------|
 |Perspective |Perspektive |
 |----------------------|-------------------|
 |Principle |Prinzip, Konzept |
 |----------------------|-------------------|
+|Quality attribute |Qualitätsmerkmal, Qualitätseigenschaft |
+|----------------------|-------------------|
 |Quality characteristic |Qualitätsmerkmal, Qualitätseigenschaft |
 |----------------------|-------------------|
 |Quality feature |Qualitätsmerkmal, Qualitätseigenschaft |
+|----------------------|-------------------|
+|Rationale |Begründung, Erklärung |
+|----------------------|-------------------|
+|Real-time system |Echtzeitsystem |
 |----------------------|-------------------|
 |Relationship |Beziehung |
 |----------------------|-------------------|
@@ -146,9 +184,13 @@
 |----------------------|-------------------|
 |Runtime |Laufzeit |
 |----------------------|-------------------|
+|Runtime view |Laufzeitsicht |
+|----------------------|-------------------|
 |Skill |Fähigkeit, Fertigkeit |
 |----------------------|-------------------|
 |Specification (of software architecture) |Beschreibung (von Softwarearchitektur) |
+|----------------------|-------------------|
+|Structure |Struktur |
 |----------------------|-------------------|
 |Task |Aufgabe |
 |----------------------|-------------------|
@@ -157,6 +199,8 @@
 |Term |Begriff |
 |----------------------|-------------------|
 |Tools |Arbeitsmittel, Werkzeug |
+|----------------------|-------------------|
+|Tools-and-material-approach |Werkzeug-Material-Ansatz |
 |----------------------|-------------------|
 |Tradeoff |Kompromiss, Abwägung |
 |----------------------|-------------------|
