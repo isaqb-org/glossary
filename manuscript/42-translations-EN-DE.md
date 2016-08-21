@@ -16,6 +16,7 @@ this books' open source [Github repository](https://github.com/isaqb-org/glossar
     The translation tables are maintained in JSON format, suggestions for improvements are highly welcome!
 
 
+
 {#section-translations-EN-DE}
 ## Translations English to German
 
