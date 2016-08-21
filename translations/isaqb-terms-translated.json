@@ -110,6 +110,9 @@
   { en: "Drawing Tool",
     de: "Mal-/Zeichenprogramm"
   },
+  { en: "Economicalness"
+    de: "Sparsamkeit"
+  },
   { en: "Embedded",
     de: "Eingebettet"
   },
@@ -206,7 +209,7 @@
   { en: "Pattern",
     de: "Muster"
   },
-  { en: "Perspective", 
+  { en: "Perspective",
     de: "Perspektive"
   },
   { en: "Principle",
