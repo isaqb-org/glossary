@@ -9,7 +9,7 @@ between English and German (see below) and [German-to-English](#section-translat
 
 Several of these terms are based in the legal and organizational foundations of the iSAQB association (and therefore not related to software architecture).
 
-The following tables are generated[^generateTranslation] from a simple JSON input file, maintained within
+The following translations are maintained[^generateTranslation] in a simple JSON input file, contained within
 this books' open source [Github repository](https://github.com/isaqb-org/glossary).
 
 [^generateTranslation]: The documentation found in https://github.com/isaqb-org/glossary contains all information required to generate the translation tables. Currently, only English and German are supported.
@@ -21,5 +21,3 @@ this books' open source [Github repository](https://github.com/isaqb-org/glossar
 ## Translations English to German
 
 A>Please note: This translation table is not supposed to be complete, several English terms will not be translated but preferably used in their original language (e.g. many of the design pattern names).
-
-{width=90%}
