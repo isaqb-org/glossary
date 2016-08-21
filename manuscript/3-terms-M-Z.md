@@ -417,11 +417,15 @@ Standardized order of artifacts used in software development.
 It can help base other files, especially documents in a predefines
 structure without prescribing the content of these single files.
 
-
+{#term-togaf}
 ### [TOGAF](http://www.opengroup.org/subjectareas/enterprise/togaf)
 
 _The Open Group Architecture Framework_. Conceptual framework for planning
 and maintenance of enterprise IT architectures.
+
+{#term-tools-and-material-approach}
+### Tools-and-material-approach
+t.b.d.
 
 ### Top-Down
 
