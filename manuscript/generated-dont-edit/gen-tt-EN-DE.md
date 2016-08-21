@@ -36,6 +36,8 @@
 |----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
 |----------------------|-------------------|
+|Concern |Belang |
+|----------------------|-------------------|
 |Constraint |Randbedingung, Einschränkung |
 |----------------------|-------------------|
 |Context (of a term) |Einordnung (eines Begriffes) in einen Zusammenhang |
@@ -57,6 +59,8 @@
 |Domain |Fachdomäne, Fachlicher Bereich, Geschäftsbereich |
 |----------------------|-------------------|
 |Drawing Tool |Mal-/Zeichenprogramm |
+|----------------------|-------------------|
+|Economicalness |Sparsamkeit |
 |----------------------|-------------------|
 |Embedded |Eingebettet |
 |----------------------|-------------------|
@@ -122,6 +126,8 @@
 |----------------------|-------------------|
 |Pattern |Muster |
 |----------------------|-------------------|
+|Perspective |Perspektive |
+|----------------------|-------------------|
 |Principle |Prinzip, Konzept |
 |----------------------|-------------------|
 |Quality characteristic |Qualitätsmerkmal, Qualitätseigenschaft |
@@ -158,7 +164,7 @@
 |----------------------|-------------------|
 |Uses relationship |Benutzt-Beziehung, Nutzungsbeziehung |
 |----------------------|-------------------|
-|View |Sicht, Perspektive |
+|View |Sicht |
 |----------------------|-------------------|
 |Workflow management |Ablaufsteuerung |
 |----------------------|-------------------|

@@ -50,6 +50,8 @@
 |----------------------|-------------------|
 |Begutachtung |Assessment |
 |----------------------|-------------------|
+|Belang |Concern |
+|----------------------|-------------------|
 |Benachrichtigung |Notification |
 |----------------------|-------------------|
 |Benutzt-Beziehung |Uses relationship |
@@ -142,7 +144,7 @@
 |----------------------|-------------------|
 |Nutzungsbeziehung |Uses relationship |
 |----------------------|-------------------|
-|Perspektive |View |
+|Perspektive |Perspective |
 |----------------------|-------------------|
 |Prinzip |Principle |
 |----------------------|-------------------|
@@ -175,6 +177,8 @@
 |Schätzung |Estimation |
 |----------------------|-------------------|
 |Sicht |Architectural view, View |
+|----------------------|-------------------|
+|Sparsamkeit |Economicalness |
 |----------------------|-------------------|
 |Unternehmens-IT-Architektur |Enterprise IT architecture |
 |----------------------|-------------------|
