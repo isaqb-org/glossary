@@ -63,12 +63,18 @@
   { en: "Business",
     de: ["Fachlichkeit", "Domäne"]
   },
+  { en: "Business architecture",
+   de: ["fachliche Architektur", "Geschäftsarchitektur"]
+ },
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
   { en: "Certification body",
     de: "Zertifizierungsstelle"
     },
+  {en: "Cohesion",
+   de: ["Kohäsion", "innerer Zusammenhalt"]
+ },
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
   },
@@ -87,6 +93,9 @@
   { en: "Context view",
     de: "Kontextabgrenzung"
   },
+  {en: "Coupling",
+   de: ["Kopplung", "Abhängigkeit"]
+ },
   { en: "Crosscutting",
     de: "Querschnittlich"
   },
@@ -102,12 +111,30 @@
   { en: "Deployment",
     de: "Verteilung"
   },
+  {en: "Deployment unit",
+   de: "Verteilungsartefakt"
+  },
+  { en: "Deployment view",
+    de: "Verteilungssicht"
+  },
   { en: "Design",
     de: "Entwurf"
   },
+  { en: "Design approach",
+    de: ["Entwurfsansatz","Entwurfsmethodik"]
+ },
+ { en: "Design decision",
+   de: "Entwurfsentscheidung"
+ },
+  { en: "Design principle",
+   de: "Entwurfsprinzip"
+ },
   { en: "Domain",
     de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
   },
+  {en: "Domain-related architecture",
+   de: "fachliche Architektur"
+ },
   /* suggested removals (overly trivial)
   { en: "Document",
     de: "Dokument"
@@ -173,6 +200,12 @@
   { en: "Interface",
     de: "Schnittstelle"
   },
+  {en: "Interface description",
+   de: ["Schnittstellenbeschreibung", "Schnittstellendokumentation"]
+ },
+  {en: "Channel",
+   de: "Kanal"
+ },
   { en: "Learning goal",
     de: "Lernziel"
   },
@@ -221,6 +254,9 @@
   { en: "Pattern",
     de: "Muster"
   },
+  { en: "Pattern language",
+    de: ["Mustersprache", "Musterfamilie"]
+ },
   { en: "Perspective",
     de: "Perspektive"
   },
@@ -254,6 +290,9 @@
   { en: "Runtime",
     de: "Laufzeit"
   },
+  { en: "Runtime view",
+    de: "Laufzeitsicht"
+  },
   { en: "Skill",
     de: ["Fähigkeit", "Fertigkeit"]
   },
@@ -275,6 +314,9 @@
   { en: "Tools",
     de: ["Arbeitsmittel", "Werkzeug"]
   },
+  {en: "Tools-and-material-approach",
+   de: "Werkzeug-Material-Ansatz"
+ },
   { en: "Tradeoff",
     de: ["Kompromiss", "Abwägung"]
   },
