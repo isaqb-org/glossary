@@ -36,11 +36,17 @@
   { en: "Architecture evaluation",
     de: ["Architekturbewertung", "Architekturanalyse"]
   },
+  {en: "Architecture objective",
+   de: "Architekturziel"
+ },
   { en: "Articles of assocation",
     de: "Satzung des Vereins"
     },
   { en: "Artifact",
     de: "Artefakt"
+  },
+  { en: "Aspect",
+    de: ["Aspekt", "Belang"]
   },
   { en: "Assessment",
     de: ["Bewertung", "Begutachtung", "Einschätzung", "Untersuchung"]
@@ -66,6 +72,9 @@
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
   },
+  {en: "Component",
+   de: ["Baustein", "Komponente"]
+ },
   { en: "Constraint",
     de: ["Randbedingung", "Einschränkung"]
   },
@@ -224,6 +233,9 @@
   { en: "Quality feature",
     de: ["Qualitätsmerkmal", "Qualitätseigenschaft"]
   },
+  { en: "Real-time system",
+    de: "Echtzeitsystem"
+ },
   { en: "Relationship",
     de: "Beziehung"
   },
@@ -247,6 +259,9 @@
   },
   { en: "Specification (of software architecture)",
     de: "Beschreibung (von Softwarearchitektur)"
+  },
+  { en: "Structure",
+    de: "Struktur"
   },
   { en: "Task",
     de: "Aufgabe"
