@@ -56,6 +56,7 @@ class TranslationTable {
     // ********** convert to Markdown
 
     private String ttHeader() {
+
         return "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
                 MARKDOWN_TABLE_SEPARATOR
 

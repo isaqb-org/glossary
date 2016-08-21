@@ -64,7 +64,7 @@ class Translator {
 
 
     static TranslationTable build_DE_TranslationTable(List terms) {
-        println "Building translation table EN to DE\n"
+        println "Building translation table DE to EN\n"
         println "*" * 50
 
         TranslationTable tt = new TranslationTable("de", "en")
@@ -203,6 +203,18 @@ class Translator {
 
     }
 
+    /*
+    ** As a convention, we insert a Footnote in the EN-DE translation table.
+     */
+    static final String createDateAsMarkDownFootnote() {
+        final teaser = """The following tables have been automatically generated[^TransTableGenerationDate]
+
+[^TransTableGenerationDate]:${new Date().format("MMMM/dd/yyyy")}\n\n
+
+                       """
+
+    }
+
     static void main(String... args) {
         println("\n\niSAQB Glossary Translation Markdown Generator\n\n")
 
@@ -213,7 +225,7 @@ class Translator {
 
             en_de = build_EN_TranslationTable(terms)
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
-            generated_EN_DE_File.text = en_de.translationTableToLeanpubMarkdown()
+            generated_EN_DE_File.text = createDateAsMarkDownFootnote() + en_de.translationTableToLeanpubMarkdown()
             println("Successfully created $EN_DE_FILENAME")
 
             de_en = build_DE_TranslationTable(terms)

@@ -1,6 +1,10 @@
-(table generated August 21st 2016)
+The following tables have been automatically generated[^TransTableGenerationDate]
 
-|English     |German  |
+[^TransTableGenerationDate]:August/21/2016
+
+
+
+                       |English     |German  |
 |----------------------|-------------------|
 |Adaption |Anpassung |
 |----------------------|-------------------|
