@@ -211,7 +211,7 @@ class Translator {
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:$nrOfTerms terms, generated on ${new Date().format("MMMM/dd/yyyy")}\n
+[^TransTableGenerationDate]:$nrOfTerms english terms, generated on ${new Date().format("MMMM/dd/yyyy")}\n
 
 """
 
