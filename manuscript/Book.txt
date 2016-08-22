@@ -5,8 +5,6 @@
 
 {mainmatter}
 
-%% ==================================
-%%
 0_intro.md
 
 1-terms-A-C.md
@@ -39,7 +37,7 @@ generated-dont-edit/gen-tt-DE-EN.md
 
 {backmatter}
 
-30_appendix/1-about-isaqb.md
-30_appendix/2-about-the-authors.md
-30_appendix/3-also-from-the-authors.md
-30_appendix/4-about-our-cause.md
+appendix/1-about-isaqb.md
+appendix/2-about-the-authors.md
+appendix/3-also-from-the-authors.md
+appendix/4-about-our-cause.md
