@@ -3,10 +3,6 @@
 %% Published on LeanPub (https://leanpub.com/isaqbglossary)
 %% ========================================================
 
-{frontmatter}
-
-00_front/1_revisions.md
-
 {mainmatter}
 
 %% ==================================
