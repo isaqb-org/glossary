@@ -23,6 +23,25 @@ Errors or omissions can also be reported in our issue tracker on
 where the authors maintain the original sources for this book.
 
 {pagebreak}
+## Terms Can Be Referenced
+
+All terms in the glossary have unique URLs to the (free) online version of the book,
+therefore they can be universally referenced, both from online- and print documentation.
+
+Our URL scheme is quite simple:
+
+* The base URL is `https://leanpub.com/isaqbglossary/read
+* We just add the prefix `#term-` in front of
+the term to be referenced, then the term itself, with hyphens ("-") instead of blanks.
+
+  For example our description of the term _software architecture_ can be referenced (hyperlinked) with
+    https://leanpub.com/isaqbglossary/read#term-software-architecture
+
+Nearly all terms are hyperlinked with their full names, with very few examples that
+are referenced by their (common) abbreviations, like UML or DDD.
+
+
+{pagebreak}
 
 ## License
 

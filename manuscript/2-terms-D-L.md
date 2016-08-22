@@ -206,7 +206,7 @@ defined as ISO/IEC 42010:2007. Defines a (abstract) framework for the descriptio
 see _iterative and incremental development_.
 
 
-{#term__information_hiding}
+{#term-information-hiding}
 ### Information Hiding
 
 A fundamental principle in software design: Keep those design or implementation decisions
@@ -230,8 +230,15 @@ ones so that clients will only need to know about methods that they actually use
 ### iSAQB
 international Software Architecture Qualification Board – an internationally active organization fostering the development of software architecture education. See also the discussion in the [appendix](#section-about-isaqb).
 
-{#term-iso-9126}{#term-iso-25010}
-### ISO 9126 and ISO 25010
+{#term-iso-9126}
+### ISO 9126
+
+(Deprecated) standard to describe (and evaluate) _software product quality_.
+Has been superseeded by [ISO 25010](#term-25010), see below.
+
+
+{#term-iso-25010}
+### ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.
 "The quality model determines which quality characteristics will be taken into account when evaluating the properties of a software product." (quote from the [ISO website](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010))

@@ -134,8 +134,8 @@ with the corresponding architectural approaches to identify risks and tradeoffs.
 {#term-blackbox}
 ### Blackbox
 
-View on a building block (or component) that hides the internal structure.
-Blackboxes respect the ->_information hiding principle_.
+View on a [building block](#term-building-block) (or [component](#term-component)) that hides the internal structure.
+Blackboxes respect the [_information hiding principle_](#term-information-hiding).
 They shall have clearly defined input- and output interfaces plus a precisely formulated
 _responsibility_ or _objective_. Optionally a blackbox defines some quality attributes,
 for example timing behavior, throughput or security aspects.
@@ -154,7 +154,7 @@ working towards something more general or abstract.
 {#term-bounded-context}
 ### Bounded Context
 
-Bounded Context is principle of the strategy design of [Domain-Driven Design](#term-DDD). A bounded context explicitly defines the context within which a [domain model](#term-domain-model) for a softwaresystem applies. Ideally, it would be preferable to have a single, unified model for all softwaresystems in the same domain. While this is a noble goal, in reality it typically fragments into multiple models. It is useful to recognize this fact of life and work with it. (quote from Wikipedia)
+Bounded Context is principle of the strategy design of [Domain-Driven Design](#term-DDD). "A bounded context explicitly defines the context within which a [domain model](#term-domain-model) for a software system applies. Ideally, it would be preferable to have a single, unified model for all software systems in the same domain. While this is a noble goal, in reality it typically fragments into multiple models. It is useful to recognize this fact of life and work with it." (quote from Wikipedia)
 
 "Multiple domain models are in play on any large project. Yet when code based on distinct models is combined, software becomes buggy, unreliable, and difficult to understand. Communication among team members becomes confusing. It is often unclear in what context a model should not be applied. Therefore: Explicitly set boundaries in terms of team organization, usage within specific parts of the application, and physical manifestations such as code bases and database schemas. Keep the model strictly consistent within these bounds, but don’t be distracted or confused by issues outside." (quote from Wikipedia)
 
@@ -241,6 +241,7 @@ an action. This action might be invoked or executed at a later time.
 
 See [Building block](#term-building-block). Structural element of an architecture.
 
+
 {#term-composition}
 ### Composition
 
@@ -270,7 +271,7 @@ Plan or principle how to solve a specific problem.
 {#term-context-view}
 ### Context View
 
-Shows the complete system as one blackbox within its environment, either from
+Shows the complete system as one [blackbox](#term-blackbox) within its environment, either from
 a business perspective (_business context_) or from a technical or deployment
 perspective (_technical context_). The context view (or context diagram) shows
 the boundary between a system  and its environment, showing the entities in
