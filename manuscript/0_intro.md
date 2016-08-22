@@ -36,7 +36,7 @@ Our URL scheme is quite simple:
 the term to be referenced, then the term itself, with hyphens ("-") instead of blanks.
 
   For example our description of the term _software architecture_ can be referenced (hyperlinked) with
-    https://leanpub.com/isaqbglossary/read#term-software-architecture
+    `https://leanpub.com/isaqbglossary/read#term-software-architecture`
 
 Nearly all terms are hyperlinked with their full names, with very few examples that
 are referenced by their (common) abbreviations, like UML or DDD.
