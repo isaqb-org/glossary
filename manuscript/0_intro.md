@@ -31,7 +31,7 @@ therefore they can be universally referenced, both from online- and print docume
 
 Our URL scheme is quite simple:
 
-* The base URL is `https://leanpub.com/isaqbglossary/read
+* The base URL is `https://leanpub.com/isaqbglossary/read`
 * We just add the prefix `#term-` in front of
 the term to be referenced, then the term itself, with hyphens ("-") instead of blanks.
 
