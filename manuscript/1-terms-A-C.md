@@ -17,13 +17,14 @@ The adapter is a design pattern that allows the interface of an existing compone
 {#term-aggregate}
 ### Aggregate
 
-Aggregate is a building block of [Domain-Driven Design](#term-DDD). Aggregates are complex object structures that are made of [entities](#term-entity) and [value objects](#term-valueobject). Each aggregate has a root entity and is regarded as a unity when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with invariantes.
+Aggregate is a building block of [Domain-Driven Design](#term-DDD). Aggregates are complex object structures that are made of [entities](#term-entity) and [value objects](#term-value-object). Each aggregate has a root entity and is regarded as a unity when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with invariants.
 
 {#term-aggregation}
 ### Aggregation
 
-A form of object composition in object-oriented programming.
-It differs from ->composition, as aggregation does not imply ownership. When the element is destroyed, the contained elements
+A form of object [composition](#term-composition) in object-oriented programming.
+It differs from composition, as aggregation does not imply ownership.
+When the element is destroyed, the contained elements
 remain intact.
 
 {#term-algorithm}
@@ -36,27 +37,33 @@ do not want to explain what they did.
 {#term-appropriateness}
 ### Appropriateness
 
-(syn: adequacy, suitability) Suitability for a particular purpose.
+(syn: adequacy) Suitability for a particular purpose.
+
 
 {#term-arc42}
 ### arc42
 
 Free [template](http://arc42.org) for communication and documentation of software architectures.
+arc42 consists of 12 (optional) parts or sections.
 
 ### Architecture
 
 See [Software Architecture](#term-software-architecture)
 
+
 {#term-architectural-decision}
 ### Architectural Decision
-Decision, which has an sustainable or essential effect on structures, concepts, implementations or similar. Example: Decision about database technology or technical basics of the user interface.
+Decision, which has an sustainable or essential effect on structures, concepts, implementations or similar.
+Example: Decision about database technology or technical basics of the user interface.
+
 
 {#term-architecture-evaluation}
 ### Architecture evaluation
 
+Quantitative or qualitative assessment of a (software or system) architecture.
 Determine if an architecture can achieve its target qualities or
 quality attributes?
-  Quantitative or qualitative assessment of a (software or system) architecture.
+
   In our opinion the terms _architecture analysis_ or _architecture assessment_ are more
   appropriate, as _evaluation_ contains _value_, implying numerical
   assessment (which is usually only part of what you should do in architecture analysis).
@@ -94,7 +101,7 @@ Description of element and relation types,
 together with constraints on how they can be used. Often called _architecture patterns_.
 Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
-{#architecture-view}
+{#term-architecture-view}
 ### Architecture view
 
 A representation of a system from a specific perspective. Important and well-known views are:
@@ -183,9 +190,11 @@ Part of the statical structure ([Building Block View](#term-building-block-view)
 of software architecture.
 
   Building blocks can be hierarchically structured - they may contain other (smaller)
-  building blocks. \
-  Examples: Component, module, package, namespace, class,
-  file, program, subsystem, configuration, data-definition etc.
+  building blocks.
+
+  Some examples of alternative (concrete) names for building blocks:
+  Component, module, package, namespace, class,
+  file, program, subsystem, function, configuration, data-definition.
 
 
 {#term-building-block-view}
@@ -204,7 +213,9 @@ objectives and tactical demands.
 
 {#term-cardinality}
 ### Cardinality
-Describes the quality rating of an assocation, this means, it specifies the number of objects or modules of the association.
+Describes the quantitative rating of an association or relationship.
+It specifies the number of participants (objects, instances, modules etc)
+of the association.
 
 
 {#term-cohesion}

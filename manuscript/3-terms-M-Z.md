@@ -186,19 +186,19 @@ assessing if a system or its architecture can meet the desired or required quali
 {#term-quality}
 ### Quality
 
-see [_software quality_](#term-software-quality) and ->quality attributes.
+see [_software quality_](#term-software-quality) and [quality attributes](#term-quality-attribute).
 
 
 {#term-quality-attribute}
 ### Quality attribute
 
 Software quality is the degree to which a system possesses the
-desired combination of _attributes_ (see: software quality).
+desired combination of _attributes_ (see: [software quality](#term-software-quality)).
 
 Important quality attributes are performance, robustness, security, safety,
 flexibility, dependability, maintainability etc.. See also [ISO-25010](#term-iso-25010)
 
-It's helpful to distinguish between
+It's helpful to distinguish between:
 
 * _runtime quality attributes_ (which can be observed at execution time of the system),
 * non-runtime quality attributes_ (which cannot be observed as the system executes) and
@@ -245,7 +245,7 @@ these tree.
 ### Quantitative evaluation
 
 (syn: quantative analysis): Measure or count values of software artifacts,
-e.g. ->coupling, ->cyclomatic complexity, size, test coverage. Metrics like these
+e.g. [coupling](#term-coupling), cyclomatic complexity, size, test coverage. Metrics like these
 can help to identify critical parts or elements of systems.
 
 
@@ -317,8 +317,8 @@ A wonderful programming language.
 ### Runtime View
 
 Shows the cooperation or collaboration of building blocks
-(resp. their instances) at runtime in concrete scenarios.
-Should refer to elements of the ->Building Block View.
+(respectively their instances) at runtime in concrete scenarios.
+Should refer to elements of the [Building Block View](#term-building-block-view).
 Could for example (but doesn't need to) be expressed in UML sequence or activity diagrams.
 
 
@@ -368,7 +368,7 @@ Any element of an architecture should have exclusivity and singularity of respon
 
   Famous Edgar Dijkstra said in 1974: “Separation of concerns ... even if not perfectly possible, is the only available technique for effective ordering of one’s thoughts”.
 
-  Similar to the ->"Single Responsibility Principle".
+  Similar to the [Single Responsibility Principle](#term-single-responsibility-principle).
 
 
 {#term-sequence-diagram}
@@ -390,7 +390,7 @@ t.b.d.
 {#term-service-ddd}
 ### Service (DDD)
 
-Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-valueobject).
+Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-value-object).
 
 
 {#term-singleton}
@@ -474,7 +474,9 @@ An arrangement, order or organization of interrelated elements in a system.
 Structures consist of building blocks (structural elements)
 and their relationships (dependencies).
 
-  Structures in software architecture are often used in ->architectural views, e.g. the ->building block view. A documentation template (e.g. arc42) is
+  Structures in software architecture are often used in [architecture views](#term-architecture-view),
+  e.g. the [building block view](#term-building-block-view).
+  A documentation template (e.g. [arc42](#term-arc42)) is
   a kind of structure too.
 
 
