@@ -56,9 +56,11 @@ Decision, which has an sustainable or essential effect on structures, concepts, 
 
 Determine if an architecture can achieve its target qualities or
 quality attributes?
-  Quantitative or qualitative assessment of a (software or system) architecture. In my opinion the term _architecture analysis_ is more
+  Quantitative or qualitative assessment of a (software or system) architecture.
+  In our opinion the terms _architecture analysis_ or _architecture assessment_ are more
   appropriate, as _evaluation_ contains _value_, implying numerical
   assessment (which is usually only part of what you should do in architecture analysis).
+
 
 {#term-architecture-goal}
 ### Architecture goal
@@ -111,6 +113,7 @@ Tangible by-product created or generated during development
 of software. Examples of artifacts are use cases, all kinds
 of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
+
 
 {#term-association}
 ### Association

@@ -228,14 +228,15 @@ ones so that clients will only need to know about methods that they actually use
 
 {#term-isaqb}
 ### iSAQB
-*i*nternational *S*oftware *A*rchitecture *Q*ualification *B*oard – an internationally active organization fostering the development of software architecture education. See also "Appendix A"
+international Software Architecture Qualification Board – an internationally active organization fostering the development of software architecture education. See also the discussion in the [appendix](#section-about-isaqb).
 
-{#term-iso-25010}{#term-iso-9126}
+{#term-iso-9126}{#term-iso-25010}
 ### ISO 9126 and ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.
 "The quality model determines which quality characteristics will be taken into account when evaluating the properties of a software product." (quote from the [ISO website](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010))
 
+{#term-iterative-development}
 ### Iterative development
 
 "Development approach that _cycles_ through development phases,
@@ -247,18 +248,21 @@ from gathering requirements to delivering functionality in a working release."
   Contrast to the _Waterfall development_.
 
 
+{#term-iterative-and-incremental-development}
 ### Iterative and incremental development
 
 Combination of iterative and incremental approaches for software development.
 These are essential parts of the various _agile_ development approaches,
 e.g. Scrum and XP.
 
+{#term-layer}
 ### Layer
 
 Grouping of building blocks or components that (together) offer a
 cohesive set of services to other layers.
 Layers are related to each other by the ordered relation _allowed to use_.
 
+{#term-liskov-substitution-principle}
 ### Liskov Substitution Principle
 
 Refers to object oriented programming: If you use inheritance, do it right:

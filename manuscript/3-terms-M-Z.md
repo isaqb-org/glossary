@@ -5,11 +5,13 @@
 An architectural style, proposing to divide large systems into small units.
 "Microservices have to be implemented as virtual machines, as more light-weight alternatives such as Docker containers or as individual processes. Thereby they can easily be brought into production individually." (quoted from the (free) [LeanPub booklet on Microservices](https://leanpub.com/microservices-primer) by [Eberhard Wolff](http://microservices-book.com).
 
+{#term-model-driven-architecture}
 ### [Model Driven Architecture (MDA)](http://www.omg.org/mda/)
 
 OMG-Standard for model based software development.
 Definition: „An approach to IT system specification that separates the specification of functionality from the specification of the implementation of that functionality on a specific technology platform.“
 
+{#term-model-driven-software-development}
 ### Model-driven software development (MDSD)
 
 The underlying idea is to generate code from more abstract models of requirements or the domain.
@@ -19,6 +21,7 @@ The underlying idea is to generate code from more abstract models of requirement
 
 A tool that creates models (e.g. UML or BPMN models). Can be used to create consistent diagrams for documentation because it has the advantage that each model element exists only once but can be consistently displayed in many diagrams (as opposed to a mere [Drawing Tool](#term-drawing-tool)).
 
+{#term-model-view-controller}
 ### Model-View-Controller
 
 Architecture pattern, often used to implement user interfaces. It divides a
@@ -31,6 +34,8 @@ the following responsibilities:
   Multiple views of the same model are possible.
   * Controller accepts (user) input and converts those to commands for the model or view.
 
+
+{#term-module}
 ### Module
 
 (see also [Modular programming](#term-modular-programming))
@@ -58,18 +63,21 @@ only one aspect of the desired functionality.
    (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Modular_programming))
 
 
+{#term-node-uml}
 ### Node (in UML)
 
 A processing resource (execution environment, processor, machine, virtual machine,
   application server) where artifacts can be deployed and executed.
 
 
+{#term-node-js}
 ### Node (Node.js)
 
 In modern web development: Short form for the open source
 JavaScript runtime [Node.js®](https://nodejs.org/en/), which is built on Chrome's V8 JavaScript engine. Node.js is famous for its an event-driven, non-blocking I/O model and its vast ecosystem of
 supporting libraries.
 
+{#term-non-functional-requirement}
 ### Non Functional Requirement (NFR)
 
 Requirements that _constrain the solution_.
@@ -79,15 +87,21 @@ the _attributes_ involved directly relate to specific system _functions_
 (so modern requirements engineering likes to call these things
   _required constraints_).
 
+
+{#term-notation}
 ### Notation
 
 A system of marks, signs, figures, or characters that is used to represent information. Examples: prose, table, bullet point list, numbered list, UML, BPMN.
 
+
+{#term-observer}
 ### Observer
 
 (Design pattern) "... in which an object maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The Observer pattern is a key part in the model–view–controller (MVC) architectural pattern".
 (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern))
 
+
+{#term-open-close-principle}
 ### Open-Close-Principle (OCP)
 
 „Software entities (classes, modules, functions, etc.) should be open for
@@ -98,6 +112,7 @@ Part of Robin Martins "SOLID" principles for object-oriented systems. Can be
 implemented in object oriented languages by interface inheritance,
 in a more general way as _plugins_.
 
+
 {#term-pattern}
 ### Pattern
 
@@ -105,6 +120,8 @@ in a more general way as _plugins_.
 
 See [architecture pattern](#term-architecture-pattern) or [design pattern](#term-design-pattern).
 
+
+{#term-perspective}
 ### Perspective
 
 A perspective is used to consider a set of related quality properties and concerns of a system.
@@ -125,29 +142,36 @@ Architects apply perspectives iteratively to the system's _architectural views_ 
  * Usability
 
 
+{#term-pipe}
 ### Pipe
 
 Connector in the pipes-and-filters architectural style that transfers
 streams or chunks of data from the output of one filter to the input
 of another filter without modifying values or order of data.
 
+
+{#term-port}
 ### Port
 
 UML construct, used in component diagrams. An interface,
 defining a point of interaction of a component
 with its environment.
 
+
+{#term-posa}
 ### POSA
 
 Pattern-oriented Software Architecture. Series of books on software architecture
 patterns.
 
+{#term-proxy}
 ### Proxy
 
 (Design pattern) "A wrapper or agent object that is being called by the client to access the real serving object behind the scenes. Use of the proxy can simply be forwarding to the real object, or can provide additional logic. In the proxy extra functionality can be provided, for example caching when operations on the real object are resource intensive, or checking preconditions before operations on the real object are invoked. For the client, usage of a proxy object is similar to using the real object, because both implement the same interface."
 (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern))
 
 
+{#term-qualitative-evaluation}
 ### Qualitative evaluation
 
 Finding risks concerning the desired quality attributes of a system. Analyzing or
@@ -156,17 +180,23 @@ assessing if a system or its architecture can meet the desired or required quali
   Instead of calculating or measuring certain characteristics of systems or architectures,
   qualitative evaluation is concerned with risks, tradeoffs and sensitivity points.
 
+  See also [_assessment_](#term-assessment).
+
+
+{#term-quality}
 ### Quality
 
-see [_software quality_](#ge-software-quality) and ->quality attributes.
+see [_software quality_](#term-software-quality) and ->quality attributes.
 
+
+{#term-quality-attribute}
 ### Quality attribute
 
-Software quality is the degree to which a system posesses the
+Software quality is the degree to which a system possesses the
 desired combination of _attributes_ (see: software quality).
 
 Important quality attributes are performance, robustness, security, safety,
-flexibiltiy, dependability, maintainability etc.. See also [ISO-25010](#term-iso-25010)
+flexibility, dependability, maintainability etc.. See also [ISO-25010](#term-iso-25010)
 
 It's helpful to distinguish between
 
@@ -180,16 +210,21 @@ usability and interoperability.
 Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability,
 testability.  
 
+{#term-quality-characteristic}
 ### Quality characteristic
 
 synonym: _quality attribute_.
 
+
+{#term-quality-requirement}
 ### Quality requirement
 
 Characteristic or attribute of a component of a system. Examples include
 runtime performance, safety, security, reliability or maintainability.
 See also _software quality_.
 
+
+{#term-quality-tree}
 ### Quality tree
 
 (syn: quality attribute utility tree). A hierarchical model to describe
@@ -206,6 +241,7 @@ these tree.
   ![Sample Quality Tree](images/QualityTree.png)
 
 
+{#term-quantative-evaluation}
 ### Quantitative evaluation
 
 (syn: quantative analysis): Measure or count values of software artifacts,
@@ -213,15 +249,19 @@ e.g. ->coupling, ->cyclomatic complexity, size, test coverage. Metrics like thes
 can help to identify critical parts or elements of systems.
 
 
+{#term-rationale}
 ### Rationale
 
 Explanation of the reasoning or arguments that lie behind an architecture decision.
 
+
+{#term-registry}
 ### Registry
 
 "A well-known object that other objects can use to find common objects and services." (quoted from
   [PoEAA](http://martinfowler.com/eaaCatalog/registry.html)). Often implemented as a _Singleton_ (also a
     well-known design pattern.)
+
 
 {#term-relationship}
 ### Relationship
@@ -231,24 +271,34 @@ an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
+
+{#term-redesign}
 ### Redesign
 The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring.
 
+
+{#term-refactoring}
 ### Refactoring
 A term denoting the improvement of software units by changing their internal structure without changing the behavior. (see
 “Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code yet improves the internal structure.” Refactoring, Martin Fowler, 1999    
 Not to be confused with re*design*
 
+
+{#term-repository}
 ### Repository
 
 In architecture documentation: A place where artifacts are stored before an automatic build process collects them into one consistent document.
 In [Domain-Driven Design](#term-DDD): Repository is a building block of [Domain-Driven Design](#term-DDD). A repository hides technical details of the infrastructure layer to the domain layer. Repositories return [entities](#term-entity) that are persisted in the database.
 
+
+{#term-rm-odp}
 ### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 
 _Reference Model for Open Distributed Processing_. (Abstract) metamodel
 for documentation of information systems. Defined in ISO/IEC 10746.
 
+
+{#term-round-trip-engineering}
 ### Round-trip engineering
 
 "Concept of being able to make any kind of change to a model as well as to the code generated from that model. The changes always propagate bidirectional and both artifacts are always consistent." (quoted from
@@ -256,11 +306,14 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 
   In my personal opinion, it does not work in practical situations, only in hello-world-like scenarios.
 
+
+{#term-ruby}
 ### Ruby
 
 A wonderful programming language.
 
-{#term__runtime_view}
+
+{#term-runtime-view}
 ### Runtime View
 
 Shows the cooperation or collaboration of building blocks
@@ -268,6 +321,8 @@ Shows the cooperation or collaboration of building blocks
 Should refer to elements of the ->Building Block View.
 Could for example (but doesn't need to) be expressed in UML sequence or activity diagrams.
 
+
+{#term-scenario}
 ### Scenario
 
 Quality scenarios document required quality attributes.
@@ -283,14 +338,16 @@ informal manner, yet making the abstract notion of “quality” concrete and ta
   * Metric (response measure): The response should be measurable in some fashion.
 
 
+{#term-self-contained-system}
 ### SCS (Self Contained System)
 
-An architectural style, similar to ->Microservices. To quote from the site
+An architectural style, similar to [Microservices](#term-microservice). To quote from the site
 [scs-architecture.org](http://scs-architecture.org/):
 
   "The Self-contained System (SCS) approach is an architecture that focuses on a separation of the functionality into many independent systems, making the complete system a collaboration of many smaller software systems. This avoids the problem of large monoliths that grow constantly and eventually become unmaintainable"
 
 
+{#term-sensitivity-point}
 ### Sensitivity point
 
 (in qualitative evaluation like ATAM): Element of the architecture or system
@@ -300,6 +357,8 @@ for both runtime performance _and_ robustness, that component is a sensitivity p
   Casually said, if you mess up a sensitivity point, you will most often have  more than
   one problem.
 
+
+{#term-separation-of-concern}
 ### Separation of concern (SoC)
 
 Any element of an architecture should have exclusivity and singularity of responsibility and purpose: No element should share the responsibilities of another element or contain unrelated responsibilities.
@@ -311,6 +370,8 @@ Any element of an architecture should have exclusivity and singularity of respon
 
   Similar to the ->"Single Responsibility Principle".
 
+
+{#term-sequence-diagram}
 ### Sequence diagram
 
 Type of diagram to illustrate how elements of an architecture interact
