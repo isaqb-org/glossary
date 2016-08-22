@@ -382,16 +382,24 @@ depict interactions between these components. See the following example.
 
 ![Example of Sequence Diagram](images/sequence-diagram-sample.png)
 
-{#term-ddd-service}
+{#terms-service}
 ### Service
+t.b.d.
+
+
+{#term-service-ddd}
+### Service (DDD)
 
 Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-valueobject).
 
 
+{#term-singleton}
 ### Singleton
 
 "Design pattern that restricts the instantiation of a class to one object. This is useful when exactly one object is needed to coordinate actions across the system." (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern).
 
+
+{#term-single-responsibility-principle}
 ### Single Responsibility Principle (SRP)
 
 Each element within a system or architecture should have a single
@@ -438,6 +446,8 @@ maintains a [collection of further definitions](http://www.sei.cmu.edu/architect
 
 (from IEEE Standard 1061): Software quality is the degree to which software possesses a desired combination of attributes. This desired combination of attributes need to be clearly defined; otherwise, assessment of quality is left to intuition.
 
+
+{#term-solid-principles}
 ### S.O.L.I.D. principles
 
 SOLID (single responsibility, open-closed, Liskov substitution, interface segregation and dependency inversion) is an acronym for some principles
@@ -445,6 +455,8 @@ SOLID (single responsibility, open-closed, Liskov substitution, interface segreg
 to improve object-oriented programming and design. The principles make it more likely that a developer will write code
 that is easy to maintain and extend over time.
 
+
+{#term-stakeholder}
 ### Stakeholder
 
 Person or organization that can be affected by
@@ -454,6 +466,8 @@ or execution.
   Examples include users, employees, owners, administrators, developers,
   designer, manager, product-owner, project manager,
 
+
+{#term-structure}
 ### Structure
 
 An arrangement, order or organization of interrelated elements in a system.
@@ -463,20 +477,28 @@ and their relationships (dependencies).
   Structures in software architecture are often used in ->architectural views, e.g. the ->building block view. A documentation template (e.g. arc42) is
   a kind of structure too.
 
+
+{#term-structural-element}
 ### Structural element
 
 see _Building block_ or _Component_
 
+
+{#term-system}
 ### System
 
 Collection of elements (building blocks, components etc)
 organized for a common purpose.
 
+
+{#term-template}
 ### Template (for documentation)
 
 Standardized order of artifacts used in software development.
 It can help base other files, especially documents in a predefines
 structure without prescribing the content of these single files.
+
+  A well known example of such templates is [arc42](http://arc42.de)
 
 {#term-togaf}
 ### [TOGAF](http://www.opengroup.org/subjectareas/enterprise/togaf)
@@ -488,11 +510,14 @@ and maintenance of enterprise IT architectures.
 ### Tools-and-material-approach
 t.b.d.
 
+{#term-top-down}
 ### Top-Down
 
 "Direction of work" or "order of communication": Starting from an abstract or general
 construct working towards more concrete, special or detailed representation.
 
+
+{#term-traceability}
 ### Traceability
 
 (more precisely: _requirements_ traceability): Document that
@@ -504,6 +529,7 @@ construct working towards more concrete, special or detailed representation.
   My personal opinion: If you can, you should avoid traceabiltiy, as it creates
   a lot of documentation overhead.
 
+{#term-tradeoff}
 ### Tradeoff
 
 (syn: compromise). A balance achieved or negotiated between two desired or
@@ -516,10 +542,13 @@ speed.
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
 
-  {#term-ubiquitouslang}
+
+{#term-ubiquitous-language}
 ### Ubiquitous language
 A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a language that is structured around the [domain model](#term-domain-model). It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
 
+
+{#term-uml}
 ### [Unified Modeling Language (UML)](http://uml.org)
 
 Graphical language for visualizing, specifying and
@@ -530,36 +559,48 @@ documenting the artifacts and structures of a software system.
    as they become cluttered even for small scenarios.
    * For Deployment views, use deployment diagrams with node symbols.
 
+
+{#term-uses-relationship}
 ### Uses relationship
 
 Dependency that exists between two building blocks.
 If A uses B than execution of A depends on the
 presence of a correct implementation of B.
 
+
+{#term-view}
 ### View
 
 see: architectural view.
 
-{#term-valueobject}
+{#term-value-object}
 ### Value Object
 
 Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObjects do not have a conceptual identity of their own and should be treated as immutable. They are used to describe the state of [entities](#term-entity) and may be composed of other value objects but never of [entities](#term-entity).
 
+
+{#term-waterfall-development}
 ### Waterfall development
 
-Development appropach "where you gather all the requirements up front, do all necessary design, down to a detailed level, then hand the specs to the coders, who write the code; then you do testing (possibly with a side trip to IntegrationHell) and deliver the whole thing in one big end-all release. Everything is big including the risk of failure." (quoted from [http://c2.com/cgi/wiki?IterativeDevelopment])
+Development approach "where you gather all the requirements up front, do all necessary design, down to a detailed level, then hand the specs to the coders, who write the code; then you do testing (possibly with a side trip to IntegrationHell) and deliver the whole thing in one big end-all release. Everything is big including the risk of failure." (quoted from [http://c2.com/cgi/wiki?IterativeDevelopment])
 
   Contrast to _iterative development_
 
+
+{#term-whitebox}
 ### Whitebox
 
 Shows the internal structure of a system or building block, made up from
 blackboxes and the internal/external relationships / interfaces.
 
+
+{#term-workflow-management-system}
 ### Workflow Management System (WFMS)
 
 Provides an infrastructure for the set-up, performance and monitoring of a defined sequence of tasks, arranged as a workflow. (quoted from Wikipedia)
 
+
+{#term-wrapper}
 ### Wrapper
 
 (syn: Decorator, Adapter) Patterns to abstract away the concrete interface
