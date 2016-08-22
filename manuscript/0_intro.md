@@ -23,6 +23,7 @@ Errors or omissions can also be reported in our issue tracker on
 where the authors maintain the original sources for this book.
 
 {pagebreak}
+
 ## Terms Can Be Referenced
 
 All terms in the glossary have unique URLs to the (free) online version of the book,
