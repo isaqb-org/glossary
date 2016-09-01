@@ -14,7 +14,7 @@
 |----------------------|-------------------|
 |Anforderung |Requirement |
 |----------------------|-------------------|
-|Angemessenheit |Adequacy, Appropriateness |
+|Angemessenheit |Adequacy, Appropriateness, Commensurability |
 |----------------------|-------------------|
 |Anpassung |Adaption |
 |----------------------|-------------------|
@@ -164,6 +164,8 @@
 |----------------------|-------------------|
 |Mal-/Zeichenprogramm |Drawing Tool |
 |----------------------|-------------------|
+|Meßbarkeit |Commensurability |
+|----------------------|-------------------|
 |Modellierungswerkzeug |Modeling Tool |
 |----------------------|-------------------|
 |Modul |Module |
@@ -208,6 +210,8 @@
 |----------------------|-------------------|
 |Schnittstellendokumentation |Interface description |
 |----------------------|-------------------|
+|Schrank (als Metapher für Template) |Cabinet (as methaphor for template) |
+|----------------------|-------------------|
 |Schulungsanbieter |Training provider |
 |----------------------|-------------------|
 |Schätzung |Estimation |
@@ -225,6 +229,8 @@
 |Verantwortlichkeit |Responsibility |
 |----------------------|-------------------|
 |Verein |Association |
+|----------------------|-------------------|
+|Vergleichbarkeit |Commensurability |
 |----------------------|-------------------|
 |Verteilung |Deployment |
 |----------------------|-------------------|

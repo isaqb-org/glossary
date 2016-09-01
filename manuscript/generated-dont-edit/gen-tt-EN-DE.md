@@ -2,7 +2,7 @@
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:109 terms, generated on August/21/2016
+[^TransTableGenerationDate]:111 english terms, generated on September/01/2016
 
 
 
@@ -47,6 +47,8 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Business architecture |fachliche Architektur, Geschäftsarchitektur |
 |----------------------|-------------------|
+|Cabinet (as methaphor for template) |Schrank (als Metapher für Template) |
+|----------------------|-------------------|
 |Certification authority |Zertifizierungsstelle |
 |----------------------|-------------------|
 |Certification body |Zertifizierungsstelle |
@@ -54,6 +56,8 @@ from JSON by Groovy and Gradle.
 |Channel |Kanal |
 |----------------------|-------------------|
 |Cohesion |Kohäsion, innerer Zusammenhalt |
+|----------------------|-------------------|
+|Commensurability |Angemessenheit, Meßbarkeit, Vergleichbarkeit |
 |----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
 |----------------------|-------------------|
