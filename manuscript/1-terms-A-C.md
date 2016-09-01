@@ -217,6 +217,42 @@ Describes the quantitative rating of an association or relationship.
 It specifies the number of participants (objects, instances, modules etc)
 of the association.
 
+{#term-cloud}
+### Cloud
+"Cloud computing is a model for enabling ubiquitous, convenient, on-demand network
+access to a shared pool of configurable computing resources (e.g., networks, servers,
+storage, applications, and services) that can be rapidly provisioned and released
+with minimal management effort or service provider interaction."
+
+Definition quoted from [NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+(National Institute of Standards and Technology).
+
+The NIST definition contains the following five characteristics (quoted but abbreviated
+  from the aforementioned NIST source too):
+
+* On-demand self service: A  consumer can unilaterally provision computing  
+capabilities, such as server  time  and  network  storage,  
+without  requiring  human interaction with each service provider.  
+* Broad network access: Capabilities are available over the network and
+accessed through standard mechanisms  that  promote  use  by  heterogeneous
+client  platforms.
+* Resource pooling: The  provider’s  computing  resources  are  pooled  to  serve  
+multiple consumers using  a  multi-tenant  model,  with  different  physical  and  
+virtual resources dynamically assigned and reassigned according to consumer demand.
+There is location independence in that the customer generally has no control or
+knowledge over the exact location of the provided resources but may be able to
+specify location at a higher level of abstraction  (e.g.,  country,  state,  or  datacenter).  
+Examples of resources include storage, processing, memory, and network bandwidth.
+* Rapid elasticity: Capabilities can be elastically provisioned and released,
+in some cases automatically, to scale rapidly commensurate with demand.
+To the consumer, the capabilities available for provisioning often appear
+to be unlimited and can be appropriated in any quantity at any time.
+* Measured service: Cloud systems automatically control and optimize resource
+use by leveraging a metering capability at some level of abstraction
+appropriate to the type of service (e.g., storage, processing, bandwidth,
+and active user accounts). Resource usage can be monitored, controlled, and
+reported, providing transparency for both the provider and consumer of the
+utilized service.
 
 {#term-cohesion}
 ### [Cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29)

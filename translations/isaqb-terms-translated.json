@@ -65,7 +65,10 @@
   },
   { en: "Business architecture",
    de: ["fachliche Architektur", "Geschäftsarchitektur"]
- },
+  },
+  { en: "Cabinet (as methaphor for template)",
+    de: "Schrank (als Metapher für Template)"
+  },
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
@@ -75,6 +78,9 @@
   {en: "Cohesion",
    de: ["Kohäsion", "innerer Zusammenhalt"]
  },
+  { en: "Commensurability"
+    de: ["Angemessenheit","Meßbarkeit","Vergleichbarkeit"]
+  },
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
   },
