@@ -126,7 +126,7 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
   * restricting access to some of the object's components
   * bundling of data with the methods or functions operating on that data
 
-  Encapsulation is a mechanism for ->information hiding.
+  Encapsulation is a mechanism for [information hiding](#term-information-hiding).
 
 {#term-enterprise-it-architecture}
 ### Enterprise IT Architecture
@@ -167,7 +167,8 @@ Graphical notation for modeling and documenting software systems. From their web
 ### Gateway
 
 A (design or architecture) pattern: An element of that encapsulates
-access to a (usually external) system or resource. See also ->wrapper, ->adapter.
+access to a (usually external) system or resource.
+See also [wrapper](#term-wrapper), [adapter](#term-adapter).
 
 {#term-global-analysis}
 ### Global analysis
@@ -211,9 +212,9 @@ see _iterative and incremental development_.
 
 A fundamental principle in software design: Keep those design or implementation decisions
 _hidden_ that are likely to change, thus protecting other parts of the system from  modification if these decisions or implementations are changed. Is one important
-attributes of ->blackboxes. Separates interface from implementation.
+attributes of [blackboxes](#term-blackbox). Separates interface from implementation.
 
-  The term ->encapsulation is often used interchangeably with information hiding.
+  The term [encapsulation](#term-encapsulation) is often used interchangeably with information hiding.
 
 {#term-interface}
 ### Interface
