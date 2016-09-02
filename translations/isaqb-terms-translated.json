@@ -79,7 +79,7 @@
    de: ["Kohäsion", "innerer Zusammenhalt"]
  },
   { en: "Commensurability"
-    de: ["Angemessenheit","Meßbarkeit","Vergleichbarkeit"]
+    de: ["Angemessenheit","Messbarkeit","Vergleichbarkeit"]
   },
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
@@ -232,6 +232,9 @@
   },
   { en: "Means for documenting",
     de: "Beschreibungsmittel"
+  },
+  { en: "Measurability"
+    de: "Messbarkeit"
   },
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
