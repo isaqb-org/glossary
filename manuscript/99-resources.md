@@ -3,7 +3,7 @@
 {#section-references}
 # References and Resources
 
-{#ref-bass+2012}
+{#ref-bass-2012}
 ##### Bass+2012
 
 Bass, L/Clements, P/Kazman, R.: _Software Architecture in Practice_
@@ -31,13 +31,13 @@ Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Pa
 
 Most likely the most famous and groundbreaking book on architecture patterns.
 
-{#ref-buschmann+2007}
+{#ref-buschmann-2007}
 ##### Buschmann+2007
 Also known as POSA-4.
 
 Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_, Volume 4, 2007, John Wiley & Sons.
 
-{#ref-clements+2002}
+{#ref-clements-2002}
 ##### Clements+2002
 
 Clements, Paul/Kazman, Rick/Klein, Mark: _Evaluating Software Architectures: Methods and Case Studies_,
@@ -117,12 +117,20 @@ encapsulation and modularity.
 ##### POSA-1
 Pattern-Oriented Software Architecture, Volume 1. See [Buschmann+1996](#ref-buschmann-1996).
 
+#ref-posa-2}
+##### POSA-2
+Pattern-Oriented Software Architecture, Volume 2. See [Schmidt+2000](#ref-schmidt-2000).
+
 {#ref-posa-4}
 ##### POSA-4
-Pattern-Oriented Software Architecture, Volume 4. See [Buschmann+2007](#ref-buschmann+2007).
+Pattern-Oriented Software Architecture, Volume 4. See [Buschmann+2007](#ref-buschmann-2007).
 
+{#ref-posa-5}
+##### POSA-5
+Pattern-Oriented Software Architecture, Volume 5.
+See <XXX>.
 
-{#ref-quian+2010}
+{#ref-quian-2010}
 ##### Quian+2010
 
 Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J:
@@ -132,7 +140,7 @@ _Software Architecture and Design Illuminated,_
 Well-structure and readable collection of architecture styles and patterns.
 
 
-{#ref-rozanski+2011}
+{#ref-rozanski-2011}
 ##### Rozanski+2011
 
 Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
@@ -140,17 +148,18 @@ Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 201
 
 Presents a set of architectural viewpoints and perspectives.
 
-{#ref-schmidt+2000}
+{#ref-schmidt-2000}
 ##### Schmidt+2000
+Also known as POSA-2.
 
 Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.
 Pattern-Oriented Software Architecture, volume 2:
 _Patterns for Concurrent and Networked Objects,_
-1st edition, Wiley & Sons, 2000
+Wiley & Sons, 2000
 
-{#ref-shaw+1996}
+{#ref-shaw-1996}
 ##### Shaw+1996
 
-Shaw, Mary/Garlan, David: _Software Architecture: Perspectives on an
-Emerging Discipline_,
+Shaw, Mary/Garlan, David:
+_Software Architecture: Perspectives on an Emerging Discipline_,
 Prentice Hall, 1996
