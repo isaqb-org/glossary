@@ -68,7 +68,7 @@ A classic on design patterns.
 
 {#ref-gof}
 ##### GoF (Gang of Four)
-See [Gamma+1994](#ref-gamma+2004)
+See [Gamma+1994](#ref-gamma-2004)
 
 {#ref-hargis+2004}
 ##### Hargis+2004
@@ -114,7 +114,8 @@ encapsulation and modularity.
 
 {#ref-posa-1}
 ##### POSA-1
-See [Buschmann+1996](#ref-buschmann+1996).
+See [Buschmann+1996](#ref-buschmann-1996).
+
 
 {#ref-quian+2010}
 ##### Quian+2010
