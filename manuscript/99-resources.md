@@ -31,10 +31,11 @@ Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Pa
 
 Most likely the most famous and groundbreaking book on architecture patterns.
 
-{#ref-posa-4}
-##### Buschmann+2007 (aka: POSA-4)
+{#ref-buschmann+2007}
+##### Buschmann+2007
+Also known as POSA-4.
 
-Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_, Volume 4,1st edition, 2007, John Wiley & Sons.
+Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_, Volume 4, 2007, John Wiley & Sons.
 
 {#ref-clements+2002}
 ##### Clements+2002
@@ -46,14 +47,14 @@ Addison-Wesley, 2001.
 ##### Evans-2004
 
 Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_
-1st edition, 20 August 2003, Addison-Wesley, 2003.
+1st edition, Addison-Wesley, 2004.
 
 
 {#ref-fowler-2003}
 ##### Fowler-2003
 
 Fowler, Martin: _Patterns of Enterprise Application Architecture,_
-Addison-Wesley, 2002.
+Addison-Wesley, 2003.
 
 Great support for building information systems.
 
@@ -115,6 +116,10 @@ encapsulation and modularity.
 {#ref-posa-1}
 ##### POSA-1
 Pattern-Oriented Software Architecture, Volume 1. See [Buschmann+1996](#ref-buschmann-1996).
+
+{#ref-posa-4}
+##### POSA-4
+Pattern-Oriented Software Architecture, Volume 4. See [Buschmann+2007](#ref-buschmann+2007).
 
 
 {#ref-quian+2010}
