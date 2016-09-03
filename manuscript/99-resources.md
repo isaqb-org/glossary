@@ -3,6 +3,11 @@
 {#section-references}
 # References and Resources
 
+{#ref-bachmann-2000}
+##### Bachmann+2000
+Bachmann, Felix/Bass, Len/Carriere, Jeromy/Clements, Paul/Garlan, David/Ivers, James/Nord, Robert/Little, Reed. _Software Architecture Documentation in Practice_,
+Special Report CMU/SEI-2000-SR-004, 2000.
+
 {#ref-bass-2012}
 ##### Bass+2012
 
@@ -58,6 +63,12 @@ A meta-explanation, addresses the question of what a pattern language is and com
 Clements, Paul/Kazman, Rick/Klein, Mark: _Evaluating Software Architectures: Methods and Case Studies_,
 Addison-Wesley, 2001.
 
+{#ref-clements-2010}
+##### Clements+2010
+
+Clements, Paul/Bachmann, Felix/Bass, Len/Garlan, David/Ivers, James/Little, Reed/Merson, Paulo/Nord, Robert. _Documenting Software Architectures: Views and Beyond_, 2nd edition, Addison Wesley, 2010
+
+
 {#ref-evans-2004}
 ##### Evans-2004
 
@@ -86,6 +97,13 @@ A classic on design patterns.
 ##### GoF (Gang of Four)
 See [Gamma+1994](#ref-gamma-1994)
 
+{#ref-gorton-2011}
+##### Gorton-2011
+
+Gorton, I. _Essential Software Architecture_,
+2nd edition, Springer, 2011
+
+
 {#ref-hargis+2004}
 ##### Hargis+2004
 
@@ -110,6 +128,14 @@ Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and De
 Messaging Solutions_, Addison Wesley, 2003.
 
 A very important book and timeless book for people creating integrated systems.
+
+{#ref-kruchten-1995}
+##### Kruchten-1995
+
+Kruchten, Philippe. 
+_The 4+1 View Model of Architecture_,
+IEEE Software, volume 12 (6), pp 45-50, 1995.
+
 
 {#ref-martin-2003}
 ##### Martin-2003
