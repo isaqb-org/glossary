@@ -448,7 +448,7 @@ The _Software Engineering Institure_
 maintains a [collection of further definitions](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)
 
 
-{#term_-software-quality}
+{#term-software-quality}
 ### Software Quality
 
 (from IEEE Standard 1061): Software quality is the degree to which software possesses a desired combination of attributes. This desired combination of attributes need to be clearly defined; otherwise, assessment of quality is left to intuition.
@@ -577,15 +577,16 @@ If A uses B than execution of A depends on the
 presence of a correct implementation of B.
 
 
-{#term-view}
-### View
-
-see: architectural view.
-
 {#term-value-object}
 ### Value Object
 
 Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObjects do not have a conceptual identity of their own and should be treated as immutable. They are used to describe the state of [entities](#term-entity) and may be composed of other value objects but never of [entities](#term-entity).
+
+
+{#term-view}
+### View
+
+see: architectural view.
 
 
 {#term-waterfall-development}

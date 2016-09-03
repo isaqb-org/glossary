@@ -73,7 +73,7 @@ Addison-Wesley, 2003.
 
 Great support for building information systems.
 
-{#ref-gamma+1994}
+{#ref-gamma-1994}
 ##### Gamma+1994
 
 Gamma, Erich/Helm, Richard/Johnson, Ralph/Vlissides, John M.
@@ -84,7 +84,7 @@ A classic on design patterns.
 
 {#ref-gof}
 ##### GoF (Gang of Four)
-See [Gamma+1994](#ref-gamma-2004)
+See [Gamma+1994](##ref-gamma-1994)
 
 {#ref-hargis+2004}
 ##### Hargis+2004

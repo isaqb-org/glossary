@@ -124,6 +124,16 @@ of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
 
 
+{#term-assessment}
+### Assessment
+
+Synonym: Evaluation.
+
+Gathering information about status, risks or vulnerabilities of a system.
+Assessment might concerning potentially all aspects
+(development, organization, architecture, code etc.)
+
+
 {#term-association}
 ### Association
 Defines a relationship between objects (in general: between modules).

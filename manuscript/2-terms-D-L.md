@@ -47,7 +47,7 @@ was taken up by software engineers.
 
 In our opinion, every serious software developer should
 know at least some patterns from the pioneering [Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)
-book by Erich Gamma ([Gamma+1994](#ref-gamma+1994)) and his three allies.
+book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 
 
 {#term-design-principle}
@@ -89,12 +89,12 @@ Automatic build process that collects artifacts into a consistent documentation.
 See also:
 
   * [Entity](#term-entity)
-  * [Value Object](#term-valueobject)
+  * [Value Object](#term-value-object)
   * [Aggregate](#term-aggregate)
-  * [Service](#term-ddd-service)
+  * [Service](#term-service-ddd)
   * [Factory](#term-factory)
   * [Repository](#term-repository)
-  * [Ubiquitous Language](#term-ubiquitouslang)
+  * [Ubiquitous Language](#term-ubiquitous-language)
 
 
 
@@ -135,7 +135,7 @@ Enterprise Architecture. Structures and concepts for the it support of an entire
 {#term-entity}
 ### Entity
 
-Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-valueobject) and are almost always persistent.
+Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-value-object) and are almost always persistent.
 
 {#term-facade}
 ### Facade
@@ -147,7 +147,8 @@ or complicated building block (the _provider_) without any modifications to the 
 ### Factory
 
 (Design pattern) In class-based or object-oriented programming, the factory method pattern is a creational design pattern that uses factory methods or factory components for creating objects, without having to specify the exact class of the object that will be created.
-In [Domain-Driven Design](#term-DDD): A factory encapsulates the creation of [aggregates](#term-aggregate), [entities](#term-entity), and [value objects](#term-valueobject). Factories work exclusively in the domain and have no access to technical building blocks (e.g. a database).
+
+In [Domain-Driven Design](#term-DDD): A factory encapsulates the creation of [aggregates](#term-aggregate), [entities](#term-entity), and [value objects](#term-value-object). Factories work exclusively in the domain and have no access to technical building blocks (e.g. a database).
 
 
 {#term-filter}
@@ -235,7 +236,7 @@ international Software Architecture Qualification Board – an internationally a
 ### ISO 9126
 
 (Deprecated) standard to describe (and evaluate) _software product quality_.
-Has been superseeded by [ISO 25010](#term-25010), see below.
+Has been superseded by [ISO 25010](#term-iso-25010), see below.
 
 
 {#term-iso-25010}
