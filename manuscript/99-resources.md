@@ -50,6 +50,8 @@ Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.:
 _Pattern-Oriented Software Architecture: On Patterns and Pattern Languages_,
 Volume 5, 2007, John Wiley & Sons.
 
+A meta-explanation, addresses the question of what a pattern language is and compares various pattern paradigms.
+
 {#ref-clements-2002}
 ##### Clements+2002
 
