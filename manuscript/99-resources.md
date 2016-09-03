@@ -23,7 +23,7 @@ Brown, Simon: _Software Architecture For Developers_,
 Leanpub Publishing. Very practical and pragmatic.
 
 
-{#ref-buschmann+1996}
+{#ref-buschmann-1996}
 ##### Buschmann+1996
 Also known as POSA-1.
 
@@ -114,7 +114,7 @@ encapsulation and modularity.
 
 {#ref-posa-1}
 ##### POSA-1
-See [Buschmann+1996](#ref-buschmann-1996).
+Pattern-Oriented Software Architecture, Volume 1. See [Buschmann+1996](#ref-buschmann-1996).
 
 
 {#ref-quian+2010}
