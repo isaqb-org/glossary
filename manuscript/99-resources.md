@@ -35,7 +35,20 @@ Most likely the most famous and groundbreaking book on architecture patterns.
 ##### Buschmann+2007
 Also known as POSA-4.
 
-Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.: _Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_, Volume 4, 2007, John Wiley & Sons.
+Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.:
+_Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing_,
+Volume 4, 2007, John Wiley & Sons.
+
+Describes a pattern language for distributed computing that guides readers through the best practices and introduce them to key areas of building distributed software systems. The book connects hundreds of stand-alone patterns, pattern collections, and pattern languages from the existing body of literature found in the POSA series.
+
+
+{#ref-buschmann-2007b}
+##### Buschmann+2007b
+Also known as POSA-5.
+
+Buschmann, Frank/Henney, Kevlin/Schmidt, Douglas C.:
+_Pattern-Oriented Software Architecture: On Patterns and Pattern Languages_,
+Volume 5, 2007, John Wiley & Sons.
 
 {#ref-clements-2002}
 ##### Clements+2002
@@ -117,7 +130,7 @@ encapsulation and modularity.
 ##### POSA-1
 Pattern-Oriented Software Architecture, Volume 1. See [Buschmann+1996](#ref-buschmann-1996).
 
-#ref-posa-2}
+{#ref-posa-2}
 ##### POSA-2
 Pattern-Oriented Software Architecture, Volume 2. See [Schmidt+2000](#ref-schmidt-2000).
 
@@ -128,7 +141,8 @@ Pattern-Oriented Software Architecture, Volume 4. See [Buschmann+2007](#ref-busc
 {#ref-posa-5}
 ##### POSA-5
 Pattern-Oriented Software Architecture, Volume 5.
-See <XXX>.
+See [Buschmann+2007b](#ref-buschmann-2007b).
+
 
 {#ref-quian-2010}
 ##### Quian+2010
