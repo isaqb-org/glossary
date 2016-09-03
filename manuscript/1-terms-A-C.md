@@ -14,6 +14,8 @@ Metric for the source code of object oriented systems: The number of abstract ty
 
 The adapter is a design pattern that allows the interface of an existing component to be used from another interface. It is often used to make existing components cooperate with others without modifying their source code.
 
+Categories: Design-Pattern, Foundation
+
 {#term-aggregate}
 ### Aggregate
 
@@ -345,7 +347,7 @@ When combined with high cohesion, it supports understandability and maintainabil
 
 {#term-cpsa}
 ### CPSA
-Certified Professional for Software Architecture® – the common name for different levels of certification issued by the [iSAQB](#term-iSAQB). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
+Certified Professional for Software Architecture® – the common name for different levels of certification issued by the [iSAQB](#term-isaqb). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
 
 {#term-cqrs}
 ### CQRS
