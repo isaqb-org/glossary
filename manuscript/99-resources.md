@@ -132,7 +132,7 @@ A very important book and timeless book for people creating integrated systems.
 {#ref-kruchten-1995}
 ##### Kruchten-1995
 
-Kruchten, Philippe. 
+Kruchten, Philippe.
 _The 4+1 View Model of Architecture_,
 IEEE Software, volume 12 (6), pp 45-50, 1995.
 
@@ -205,3 +205,12 @@ Wiley & Sons, 2000
 Shaw, Mary/Garlan, David:
 _Software Architecture: Perspectives on an Emerging Discipline_,
 Prentice Hall, 1996
+
+{#ref-starke-2016a}
+##### Starke-2016
+
+Starke, Gernot:
+_Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Study Guide_
+Leanpub, 2016. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
+
+A study guide for the CPSA-Foundation examination, not a comprehensive textbook!
