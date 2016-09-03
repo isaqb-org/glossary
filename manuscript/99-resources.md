@@ -1,7 +1,7 @@
 {pagebreak}
 
 {#section-references}
-# Resources
+# References and Resources
 
 {#ref-bass+2012}
 ##### Bass+2012
@@ -22,9 +22,10 @@ Brown, Simon: _Software Architecture For Developers_,
 [https://leanpub.com/software-architecture-for-developers](https://leanpub.com/software-architecture-for-developers)
 Leanpub Publishing. Very practical and pragmatic.
 
-{#ref-posa-1}
+
 {#ref-buschmann+1996}
-##### Buschmann+1996 (aka: POSA-1)
+##### Buschmann+1996
+Also known as POSA-1.
 
 Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Patterns: Pattern-Oriented Software Architecture 1_, 1st edition, 1996, John Wiley & Sons.
 
@@ -63,7 +64,11 @@ Gamma, Erich/Helm, Richard/Johnson, Ralph/Vlissides, John M.
 _Design Patterns: Elements of Reusable Object-Oriented Software,_
 1st edition, 1994, Addison-Wesley, 1994.
 
-A classic.
+A classic on design patterns.
+
+{#ref-gof}
+##### GoF (Gang of Four)
+See [Gamma+1994](#ref-gamma+2004)
 
 {#ref-hargis+2004}
 ##### Hargis+2004
@@ -75,13 +80,14 @@ IBM Press, 2nd edition, Prentice Hall, 2004.
 If you need to write lots of documentation,
 you should have a look at this book.
 
-
+{#ref-hofmeister+2000}
 ##### Hofmeister+2000
 
 Hofmeister, Christine/Nord, Robert/Soni, Dilip:
 _Applied Software Architecture,_
 1st edition, Addison-Wesley, 1999
 
+{#ref-hohpe+2003}
 ##### Hohpe+2003
 
 Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and Deploying
@@ -96,7 +102,7 @@ Martin, Robert C:
 _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2002
 
-
+{#ref-parnas-1972}
 ##### Parnas-1972
 
 Parnas, David:
@@ -106,7 +112,11 @@ Communications of the ACM, volume 15, issue 12, Dec 1972
 One of the most influential articles ever written in software engineering, introducing
 encapsulation and modularity.
 
+{#ref-posa-1}
+##### POSA-1
+See [Buschmann+1996](#ref-buschmann+1996).
 
+{#ref-quian+2010}
 ##### Quian+2010
 
 Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J:
@@ -116,7 +126,7 @@ _Software Architecture and Design Illuminated,_
 Well-structure and readable collection of architecture styles and patterns.
 
 
-
+{#ref-rozanski+2011}
 ##### Rozanski+2011
 
 Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
@@ -124,6 +134,7 @@ Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 201
 
 Presents a set of architectural viewpoints and perspectives.
 
+{#ref-schmidt+2000}
 ##### Schmidt+2000
 
 Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.
@@ -131,6 +142,7 @@ Pattern-Oriented Software Architecture, volume 2:
 _Patterns for Concurrent and Networked Objects,_
 1st edition, Wiley & Sons, 2000
 
+{#ref-shaw+1996}
 ##### Shaw+1996
 
 Shaw, Mary/Garlan, David: _Software Architecture: Perspectives on an
