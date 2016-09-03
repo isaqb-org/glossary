@@ -84,7 +84,7 @@ A classic on design patterns.
 
 {#ref-gof}
 ##### GoF (Gang of Four)
-See [Gamma+1994](##ref-gamma-1994)
+See [Gamma+1994](#ref-gamma-1994)
 
 {#ref-hargis+2004}
 ##### Hargis+2004
