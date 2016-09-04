@@ -128,13 +128,17 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 
   Encapsulation is a mechanism for [information hiding](#term-information-hiding).
 
+
 {#term-enterprise-it-architecture}
 ### Enterprise IT Architecture
-Enterprise Architecture. Structures and concepts for the it support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as „applications“.
+
+Synonym: Enterprise Architecture.
+
+Structures and concepts for the it support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as „applications“.
 
 {#term-entity}
 ### Entity
-
+Category: 
 Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-value-object) and are almost always persistent.
 
 {#term-facade}

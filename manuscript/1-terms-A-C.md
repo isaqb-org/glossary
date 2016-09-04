@@ -9,17 +9,21 @@
 Metric for the source code of object oriented systems: The number of abstract types
 (interfaces and abstract classes) divided by the total number of types.
 
+Category: Metric
+
 {#term-adapter}
 ### Adapter
 
 The adapter is a design pattern that allows the interface of an existing component to be used from another interface. It is often used to make existing components cooperate with others without modifying their source code.
 
-Categories: Design-Pattern, Foundation
+Category: Design-Pattern, Foundation.
 
 {#term-aggregate}
 ### Aggregate
 
 Aggregate is a building block of [Domain-Driven Design](#term-DDD). Aggregates are complex object structures that are made of [entities](#term-entity) and [value objects](#term-value-object). Each aggregate has a root entity and is regarded as a unity when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with invariants.
+
+Category: DDD
 
 {#term-aggregation}
 ### Aggregation
@@ -29,12 +33,15 @@ It differs from composition, as aggregation does not imply ownership.
 When the element is destroyed, the contained elements
 remain intact.
 
+Category: Foundation
+
 {#term-algorithm}
 ### Algorithm
 
 * (noun) Term used by software developers when they
 do not want to explain what they did.
 * A self-contained step-by-step set of operations to be performed, e.g. to perform calculations, data processing, and/or similar tasks.
+
 
 {#term-appropriateness}
 ### Appropriateness
@@ -47,6 +54,9 @@ do not want to explain what they did.
 
 Free [template](http://arc42.org) for communication and documentation of software architectures.
 arc42 consists of 12 (optional) parts or sections.
+
+Category: Communication, Documentation
+
 
 ### Architecture
 
@@ -65,6 +75,8 @@ Example: Decision about database technology or technical basics of the user inte
 Quantitative or qualitative assessment of a (software or system) architecture.
 Determine if an architecture can achieve its target qualities or
 quality attributes?
+
+See [Assessment](#term-assessment)
 
   In our opinion the terms _architecture analysis_ or _architecture assessment_ are more
   appropriate, as _evaluation_ contains _value_, implying numerical
@@ -127,7 +139,7 @@ source code, test cases, class-files, archives.
 {#term-assessment}
 ### Assessment
 
-Synonym: Evaluation.
+See also [Evaluation](#term-architecture-evaluation).
 
 Gathering information about status, risks or vulnerabilities of a system.
 Assessment might concerning potentially all aspects
@@ -141,6 +153,9 @@ Each association can be described in detail by cardinalities and (role-)names.
 
 See [coupling](#term-coupling), [dependency](#term-dependency) and
 [relationship](#term-relationship)
+
+Category: Foundation
+
 
 {#term-atam}
 ### ATAM
@@ -158,6 +173,8 @@ Blackboxes respect the [_information hiding principle_](#term-information-hiding
 They shall have clearly defined input- and output interfaces plus a precisely formulated
 _responsibility_ or _objective_. Optionally a blackbox defines some quality attributes,
 for example timing behavior, throughput or security aspects.
+
+Category: Foundation
 
 {#term-bottom-up}
 ### Bottom-up Approach
@@ -177,6 +194,8 @@ Bounded Context is principle of the strategy design of [Domain-Driven Design](#t
 
 "Multiple domain models are in play on any large project. Yet when code based on distinct models is combined, software becomes buggy, unreliable, and difficult to understand. Communication among team members becomes confusing. It is often unclear in what context a model should not be applied. Therefore: Explicitly set boundaries in terms of team organization, usage within specific parts of the application, and physical manifestations such as code bases and database schemas. Keep the model strictly consistent within these bounds, but don’t be distracted or confused by issues outside." (quote from Wikipedia)
 
+Category: DDD
+
 {#term-bridge}
 ### Bridge
 
@@ -185,14 +204,18 @@ so that the two can vary independently. In case you find that incomprehensible
 (as most people) - have a look
 [here](http://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm)
 
+Category: Design-Pattern
+
 {#term-broker}
 ### Broker
 
-(architecture pattern), used to structure distributed software systems with decoupled
+An architecture pattern used to structure distributed software systems with decoupled
 components that interact by (usually remote) service invocations.
 
   A broker is responsible for coordinating communication, such as forwarding requests,
   as well as for transmitting results and exceptions.
+
+Category: Architecture-Pattern
 
 {#term-building-block}
 ### Building Block
