@@ -156,7 +156,7 @@
     de: "Mal-/Zeichenprogramm"
   },
   { en: "Economicalness"
-    de: "Sparsamkeit"
+    de: ["Sparsamkeit", "Wirtschaftlichkeit"]
   },
   { en: "Embedded",
     de: "Eingebettet"
@@ -326,6 +326,10 @@
   { en: "Term",
     de: "Begriff"
   },
+  { en: "Thriftyness",
+    de: ["Sparsamkeit", "Wirtschaftlichkeit"]
+  },
+
   { en: "Tools",
     de: ["Arbeitsmittel", "Werkzeug"]
   },
