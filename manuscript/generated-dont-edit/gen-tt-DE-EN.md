@@ -164,7 +164,7 @@
 |----------------------|-------------------|
 |Mal-/Zeichenprogramm |Drawing Tool |
 |----------------------|-------------------|
-|Meßbarkeit |Commensurability |
+|Messbarkeit |Commensurability, Measurability |
 |----------------------|-------------------|
 |Modellierungswerkzeug |Modeling Tool |
 |----------------------|-------------------|
@@ -218,7 +218,7 @@
 |----------------------|-------------------|
 |Sicht |Architectural view, View |
 |----------------------|-------------------|
-|Sparsamkeit |Economicalness |
+|Sparsamkeit |Economicalness, Thriftyness |
 |----------------------|-------------------|
 |Struktur |Structure |
 |----------------------|-------------------|
@@ -241,6 +241,8 @@
 |Werkzeug |Tools |
 |----------------------|-------------------|
 |Werkzeug-Material-Ansatz |Tools-and-material-approach |
+|----------------------|-------------------|
+|Wirtschaftlichkeit |Economicalness, Thriftyness |
 |----------------------|-------------------|
 |Zerlegung |Decomposition |
 |----------------------|-------------------|

@@ -2,7 +2,7 @@
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:111 english terms, generated on September/01/2016
+[^TransTableGenerationDate]:113 english terms, generated on September/06/2016
 
 
 
@@ -57,7 +57,7 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Cohesion |Kohäsion, innerer Zusammenhalt |
 |----------------------|-------------------|
-|Commensurability |Angemessenheit, Meßbarkeit, Vergleichbarkeit |
+|Commensurability |Angemessenheit, Messbarkeit, Vergleichbarkeit |
 |----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
 |----------------------|-------------------|
@@ -101,7 +101,7 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Drawing Tool |Mal-/Zeichenprogramm |
 |----------------------|-------------------|
-|Economicalness |Sparsamkeit |
+|Economicalness |Sparsamkeit, Wirtschaftlichkeit |
 |----------------------|-------------------|
 |Embedded |Eingebettet |
 |----------------------|-------------------|
@@ -150,6 +150,8 @@ from JSON by Groovy and Gradle.
 |Means for describing |Beschreibungsmittel |
 |----------------------|-------------------|
 |Means for documenting |Beschreibungsmittel |
+|----------------------|-------------------|
+|Measurability |Messbarkeit |
 |----------------------|-------------------|
 |Modeling Tool |Modellierungswerkzeug |
 |----------------------|-------------------|
@@ -210,6 +212,8 @@ from JSON by Groovy and Gradle.
 |Team regulations |Arbeitsgruppenordnung |
 |----------------------|-------------------|
 |Term |Begriff |
+|----------------------|-------------------|
+|Thriftyness |Sparsamkeit, Wirtschaftlichkeit |
 |----------------------|-------------------|
 |Tools |Arbeitsmittel, Werkzeug |
 |----------------------|-------------------|
