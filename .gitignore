@@ -9,3 +9,4 @@ isaqb-terms-translated_test.json
 .DS_Store
 generated/gen-tt-DE-EN.md
 generated/gen-tt-EN-DE.md
+.gradle
