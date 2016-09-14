@@ -1,4 +1,4 @@
-{pagebreak}
+﻿{pagebreak}
 
 {#glossary}
 # Glossary of Terms
@@ -62,11 +62,41 @@ Category: Communication, Documentation
 
 See [Software Architecture](#term-software-architecture)
 
+Category: ISO-IEC-IEEE-42010
+
 
 {#term-architectural-decision}
 ### Architectural Decision
 Decision, which has an sustainable or essential effect on structures, concepts, implementations or similar.
 Example: Decision about database technology or technical basics of the user interface.
+
+Following ISO/IEC/IEEE 42010 an architectural decision pertain to system concerns. However, there is often no simple mapping between the two. A decision can affect the architecture in several ways. These can be reflected in the architecture description (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+{#term-architecture-description}
+### Architecture description
+
+Work product used to express an architecture (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+
+{#term-architecture-description-element}
+### Architecture description element
+
+An architecture description element is any construct in an architecture description. architecture description elements are the most primitive constructs discussed in ISO/IEC/IEEE 42010. All terms defined in ISO/IEC/IEEE 42010 are a specialization of the concept of an architecture description element (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+{#term-architecture-description-language}
+### Architecture description language
+
+An architecture description language (ADL) is any form of expression for use in architecture descriptions (as defined in ISO/IEC/IEEE 42010).
+
+Examples are Rapide, Wright, SysML, ArchiMate and the viewpoint languages of RM-ODP [ISO 10746].
+
+Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-evaluation}
@@ -83,12 +113,36 @@ See [Assessment](#term-assessment)
   assessment (which is usually only part of what you should do in architecture analysis).
 
 
+{#term-architecture-framework}
+### Architecture framework
+
+Conventions, principles and practices for the description of architectures established within a specific domain of application and/or community of stakeholders (as defined in ISO/IEC/IEEE 42010).
+
+Examples are: 
+
+* Generalised Enterprise Reference Architecture and Methodologies (GERAM) [ISO 15704] is an architecture framework. 
+
+* Reference Model of Open Distributed Processing (RM-ODP) [ISO/IEC 10746] is an architecture framework. 
+
+
+Category: ISO-IEC-IEEE-42010
+
+
+
 {#term-architecture-goal}
 ### Architecture goal
 
 (syn: quality goal, quality requirement): A quality attribute that the system need
 to achieve. These goals often have _long term character_ in contrast to (short term)
 project goals.
+
+{#term-architecture-model}
+### Architecture model
+
+An architecture view is composed of one or more architecture models. An architecture model uses modelling conventions appropriate to the concerns to be addressed. These conventions are specified by the model kind governing that model. Within an architecture description, an architecture model can be a part of more than one architecture view (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
 
 {#term-architecture-objective}
 ### Architecture objective
@@ -106,6 +160,14 @@ Examples include:
 * Layers
 * Pipes-and-Filter
 * [CQRS](#term-cqrs)
+
+
+{#term-architecture-rational}
+### Architecture rational
+
+Architecture rationale records explanation, justification or reasoning about architecture decisions that have been made. The rationale for a decision can include the basis for a decision, alternatives and trade-offs considered, potential consequences of the decision and citations to sources of additional information (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-style}
@@ -126,6 +188,19 @@ A representation of a system from a specific perspective. Important and well-kno
 * Deployment view
 
 [Bass+2012] and [Rozanski+11] extensively discuss this concept.
+
+Following ISO/IEC/IEEE 42010, an architecture view is a work product expressing the architecture of a system from the perspective of specific system concerns (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+
+{#term-architecture-viewpoint}
+### Architecture viewpoint
+
+Work product establishing the conventions for the construction, interpretation and use of architecture views to frame specific system concerns (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
 
 {#term-artifact}
 ### Artifact
@@ -350,6 +425,13 @@ Concepts form the basis for _conceptual integrity_.
 
 "A _concern_ about an architecture is a requirement, an objective, a constraint, an intention, or an aspiration a stakeholder has for that architecture." (quoted from [Rozanski+11], chapter 8)
 
+Following ISO/IEC/IEEE 42010 a concern is defined as (system) interest in a system relevant to one or more of its stakeholders (as defined in ISO/IEC/IEEE 42010).
+
+Note, a concern pertains to any influence on a system in its environment, including developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
+
+Category: ISO-IEC-IEEE-42010
+
+
 
 {#term-context}
 ### Context (of a system)
@@ -367,6 +449,23 @@ the boundary between a system  and its environment, showing the entities in
 its environment (its neighbours) with which it interacts.
 
   See [Context](#term-context).
+
+
+{#term-correspondence}
+### Correspondence
+
+A correspondence defines a relation between architectural description elements. Correspondences are used to express architecture relations of interest within an architecture description (or between architecture descriptions) (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+{#term-correspondence-rule}
+### Correspondence rule
+
+Correspondences can be governed by correspondence rules. Correspondence rules are used to enforce relations within an architecture description (or between architecture descriptions) (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+
 
 {#term-coupling}
 ### [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)

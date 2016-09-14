@@ -1,4 +1,4 @@
-
+﻿
 {#term-microservice}
 ### Microservice
 
@@ -15,6 +15,15 @@ Definition: „An approach to IT system specification that separates the specifi
 ### Model-driven software development (MDSD)
 
 The underlying idea is to generate code from more abstract models of requirements or the domain.
+
+{#term-model-kind}
+### Model kind
+
+Conventions for a type of modelling (as defined in ISO/IEC/IEEE 42010).
+
+Note, examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models. 
+
+Category: ISO-IEC-IEEE-42010
 
 {#term-modeling-tool}
 ### Modeling Tool
@@ -422,12 +431,18 @@ aligned with that responsibility.
 There exist several (!) valid and plausible definitions
 of the term _Software Architecture_.
 
-The following definition has been proposed by the [IEEE 1471](https://en.wikipedia.org/wiki/IEEE_1471) standard (and later adopted by ISO/IEC 42010):
+The following definition has been proposed by the [IEEE 1471](https://en.wikipedia.org/wiki/IEEE_1471) standard:
 
 A>Software Architecture: the fundamental organization of a system
 A>embodied in its components, their relationships to each
 A>other and to the environment and the principles guiding
 A>its design and evolution.
+
+The new standard ISO/IEC/IEEE 42010:2011 has adopted and revised the definition as follows:
+
+A>Architecture: (system) fundamental concepts or properties of a system 
+A>in its environment embodied in its elements, relationships, and in
+A>the principles of its design and evolution.
 
 The key terms in this definition require some explanation:
 
@@ -447,6 +462,7 @@ called _concepts_ or even _solution patterns_. Principles (concepts) are the fou
 The _Software Engineering Institure_
 maintains a [collection of further definitions](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)
 
+Category: ISO-IEC-IEEE-42010
 
 {#term-software-quality}
 ### Software Quality
@@ -473,6 +489,10 @@ or execution.
   Examples include users, employees, owners, administrators, developers,
   designer, manager, product-owner, project manager,
 
+Following ISO/IEC/IEEE 42010 a stakeholder is a (system) individual, team, organization, or classes thereof, having an interest in a system (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
 
 {#term-structure}
 ### Structure
@@ -498,6 +518,26 @@ see _Building block_ or _Component_
 
 Collection of elements (building blocks, components etc)
 organized for a common purpose.
+
+In ISO/IEC/IEEE Standards a couple of system definitions are available:
+
+* systems as described in [ISO/IEC 15288]: “systems that are man-made and may be configured with one or more of the following: hardware, software, data, humans, processes (e.g., processes for providing service to users), procedures (e.g. operator instructions), facilities, materials and naturally occurring entities”.
+
+* software products and services as described in [ISO/IEC 12207].
+
+* software-intensive systems as described in [IEEE Std 1471:2000]: “any system where software contributes essential inuences to the design, construction, deployment, and evolution of the system as a whole” to encompass “individual applications, systems in the traditional sense, subsystems, systems of systems, product lines, product families, whole enterprises, and other aggregations of interest”.
+
+Category: ISO-IEC-IEEE-42010
+
+
+{#term-system-of-interest}
+### System-of-Interest
+
+System-of-Interest (or simply, system) refers to the system whose architecture is under consideration in the preparation of an architecture description (as defined in ISO/IEC/IEEE 42010).
+
+Category: ISO-IEC-IEEE-42010
+
+
 
 
 {#term-template}

@@ -1,4 +1,4 @@
-
+﻿
 {#term-decomposition}
 ### Decomposition
 
@@ -140,6 +140,16 @@ Structures and concepts for the it support of an entire company. Atomic subject 
 ### Entity
 Category: 
 Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-value-object) and are almost always persistent.
+
+
+{#term-environment}
+### Environment
+
+(System) Context determining the setting and circumstances of all influences upon a system (as defined in ISO/IEC/IEEE 42010).
+
+Note, the environment of a system includes developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences. 
+
+Category: ISO-IEC-IEEE-42010
 
 {#term-facade}
 ### Facade
