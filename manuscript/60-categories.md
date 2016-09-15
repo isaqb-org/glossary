@@ -43,3 +43,8 @@ software architecture.
 : Defined measure to what degree a software system (or related process)
 possesses some property. Examples: Size (e.g. Lines-of-Code, cyclomatic complexity,
 coupling, mean-time-between-failure)
+
+**ISO-IEC-IEEE-42010**
+
+: ISO/IEC/IEEE 42010:2011 Systems and software engineering — Architecture description.
+Note, a new version of the standard is expected to be published till the end of 2016.
