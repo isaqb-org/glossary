@@ -273,7 +273,7 @@ Category: Security
 {#term-availability}
 ### Availability
 
-One of the basic [Security Goals] (#term-security-goals) describing a system
+One of the basic [Security Goals](#term-security-goals) describing a system
 that can provide desired information when its needed. From a security
 perspective for example denial-of-service-attacks may prevent availability.
 
@@ -483,7 +483,7 @@ Category: ISO-IEC-IEEE-42010
 {#term-confidentiality}
 ### Confidentiality
 
-One of the basic [Security Goals] (#term-security-goals) describing a system to
+One of the basic [Security Goals](#term-security-goals) describing a system to
 disclose and make information only available to authorized parties.
 
 Category: Security

@@ -234,7 +234,7 @@ attributes of [blackboxes](#term-blackbox). Separates interface from implementat
 {#term-integrity}
 ### Integrity
 
-One of the basic [Security Goals] (#term-security-goals) which means
+One of the basic [Security Goals](#term-security-goals) which means
 maintaining and assuring accuracy and completeness of data. Usually this is
 achived by the usage of cryptographic algorithms to create a digital signature.
 
