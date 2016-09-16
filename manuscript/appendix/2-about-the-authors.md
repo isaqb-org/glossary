@@ -135,3 +135,13 @@ Ulrich studied computer science at the University of Hamburg and the University 
 Since 2005 Ulrich works as a trainer, consultant and coach at Method Park where he supports his clients in improving their development processes and methods. Most of his clients are from the automotive industry or other heavily regulated industries.
 
 Ulrich is a founding member of [iSAQB e.V.](http://isaqb.org) where he contributes to the foundation level and advanced level working groups. He lives in Erlangen with his family.
+
+{pagebreak}
+
+## Simon Kölsch
+Simon Kölsch works as a senior consultant at [innoQ](http://www.innoq.de), with a focus on web architecture and security.
+
+{width=20%,float=inside}
+![](images/42-backmatter/simon-koelsch.jpeg)
+
+He is enthusiastic about solutions beyond the classical monolithic enterprise application, covering the architecture of distributed systems and their infrastructure, logging and monitoring. He is not committed to one specific technology or programming language, but has a strong JVM background.
