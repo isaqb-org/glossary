@@ -209,6 +209,19 @@ of software. Examples of artifacts are use cases, all kinds
 of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
 
+{#term-asset}
+### Asset
+
+"In information security, computer security and network security an Asset is any
+data, device, or other component of the environment that supports
+information-related activities. Assets generally include hardware (e.g. servers
+and switches), software (e.g. mission critical applications and support
+systems) and confidential information"
+
+(quoted from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042))
+
+Category: Security
+
 
 {#term-assessment}
 ### Assessment
@@ -238,6 +251,34 @@ _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation met
 based upon a (hierarchical) quality tree and concrete quality scenarios.
 Basic idea: Compare fine-grained quality scenarios ("quality-requirements")
 with the corresponding architectural approaches to identify risks and tradeoffs.
+
+
+{#term-attack-tree}
+### Attack Tree
+
+Formal way to describe different approaches of an attacker to reach certain
+goals. The tree is usally structured with the attack goal on top and different
+approaches as child nodes. Each approach is likely to have dependencies which
+are again listed as child nodes.
+The possibiliy of a certain way to attack an IT-system can be analyzed by
+assigning additional attributes to each node. Examples could be the estimated
+costs of an attack or if an attack approach is possible or not by referencing
+countermeasures.
+
+See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html). 
+
+Category: Security
+
+
+{#term-availability}
+### Availability
+
+One of the basic [Security Goals] (#term-security-goals) describing a system
+that can provide desired information when its needed. From a security
+perspective for example denial-of-service-attacks may prevent availability.
+
+Category: Security
+
 
 {#term-blackbox}
 ### Blackbox
@@ -325,6 +366,14 @@ objectives and tactical demands.
 Describes the quantitative rating of an association or relationship.
 It specifies the number of participants (objects, instances, modules etc)
 of the association.
+
+{#term-CIA-triad}
+### CIA Triad
+
+See [Security Goals](#term-security-goals)
+
+Category: Security
+
 
 {#term-cloud}
 ### Cloud
@@ -430,6 +479,14 @@ Note, a concern pertains to any influence on a system in its environment, includ
 
 Category: ISO-IEC-IEEE-42010
 
+
+{#term-confidentiality}
+### Confidentiality
+
+One of the basic [Security Goals] (#term-security-goals) describing a system to
+disclose and make information only available to authorized parties.
+
+Category: Security
 
 
 {#term-context}

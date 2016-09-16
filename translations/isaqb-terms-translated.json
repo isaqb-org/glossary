@@ -38,7 +38,7 @@
   },
   {en: "Architecture objective",
    de: "Architekturziel"
- },
+  },
   { en: "Articles of assocation",
     de: "Satzung des Vereins"
     },
@@ -53,7 +53,13 @@
   },
   { en: "Association",
     de: ["Verein", "Beziehung"]
-    },
+  },
+  { en: "Attack Tree",
+    de: "Angriffsbäume"
+  },
+  { en: "Availability",
+    de: "Verfügbarkeit"
+  },
   { en:"Building block",
     de:"Baustein"
   },
@@ -87,6 +93,9 @@
   {en: "Component",
    de: ["Baustein", "Komponente"]
  },
+  { en: "Confidentiality",
+    de: "Vertraulichkeit"
+  },
   { en: "Constraint",
     de: ["Randbedingung", "Einschränkung"]
   },
@@ -200,6 +209,9 @@
   { en: "Information hiding principle",
     de: "Geheimnisprinzip"
   },
+  { en: "Integrity",
+    de: "Integrität"
+  },
   { en: "Interdependency (between design decisions)",
     de: "Abhängigkeit (zwischen Entwurfsentscheidungen)"
   },
@@ -307,6 +319,9 @@
   },
   { en: "Runtime view",
     de: "Laufzeitsicht"
+  },
+  { en: "Security Goals",
+    de: ["Schutzziele", "Sachziele"]
   },
   { en: "Skill",
     de: ["Fähigkeit", "Fertigkeit"]

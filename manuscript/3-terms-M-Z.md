@@ -129,6 +129,18 @@ in a more general way as _plugins_.
 
 See [architecture pattern](#term-architecture-pattern) or [design pattern](#term-design-pattern).
 
+{#term-perfect-forward-secrecy}
+### Perfect Forward Secrecy
+
+Property of a cryptographic protocol were an attacker can't gain any
+information about short-term session keys by compromising long-term keys.
+
+Examples for protocols with perfect forward secrecy are TLS and OTR. If this
+feature is enabled for TLS and an attacker gains access to a servers private
+key, previously recorded communication sessions can still not be decrypted.
+
+Category: Security
+
 
 {#term-perspective}
 ### Perspective
@@ -352,6 +364,30 @@ informal manner, yet making the abstract notion of “quality” concrete and ta
   * System (or part of the system) is stimulated by the event.
   * Response: The activity undertaken after the arrival of the stimulus.
   * Metric (response measure): The response should be measurable in some fashion.
+
+
+{#term-security-goals}
+### Security Goals
+
+The goals are the key point of information security. They are a basic set of
+information attributes which can be fulfilled or not depending on a systems
+architecture and processes.
+
+The most common agreed set of security goals is the so called "CIA triad":
+
+* Confidentiality
+* Integrity
+* Availability
+
+The "Reference Model of Information Assuarance and Security" (RIMAS) extends
+this list by Accountability, Auditability, Authenticity/Trustworthiness,
+Non-repudiation and Privacy.
+
+These are typical examples for non-functional requirements related to security.
+
+See ["What is Security Engineering - Definitions", page 11](#ref-anderson-2008) or [RMIAS](#ref-rmias-2013).
+
+Category: Security
 
 
 {#term-self-contained-system}

@@ -231,6 +231,16 @@ attributes of [blackboxes](#term-blackbox). Separates interface from implementat
 
   The term [encapsulation](#term-encapsulation) is often used interchangeably with information hiding.
 
+{#term-integrity}
+### Integrity
+
+One of the basic [Security Goals] (#term-security-goals) which means
+maintaining and assuring accuracy and completeness of data. Usually this is
+achived by the usage of cryptographic algorithms to create a digital signature.
+
+Category: Security
+
+
 {#term-interface}
 ### Interface
 
@@ -277,6 +287,25 @@ from gathering requirements to delivering functionality in a working release."
 Combination of iterative and incremental approaches for software development.
 These are essential parts of the various _agile_ development approaches,
 e.g. Scrum and XP.
+
+{#term-kerckhoffs-principle}
+### Kerckhoffs' Principle
+
+One of the six cryptographic axioms described 1883 in an article "La
+cryptographie militaire" by the dutch cryptographer and linguist Auguste
+Kerckhoffs. This axiom is still relevant today and therefore refered to as
+"Kerckhoffs' Principle".
+
+It describes that a cryptographic method must not need to be kept secret in
+order to achive the security of the encrypted messages.
+
+"The enemy knows the system" is another expression coined by the mathematician
+Claude Shannon as Shannon's Maxim.
+
+See [Bruce Schneiers Crypto-Gram, May 15, 2002](https://www.schneier.com/crypto-gram/archives/2002/0515.html)
+
+Category: Security
+
 
 {#term-layer}
 ### Layer

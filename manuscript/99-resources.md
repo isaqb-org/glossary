@@ -3,6 +3,13 @@
 {#section-references}
 # References and Resources
 
+{#ref-anderson-2008}
+##### Anderson-2008
+
+Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
+
+One of the most comprehensive books about information security available.
+
 {#ref-bachmann-2000}
 ##### Bachmann+2000
 Bachmann, Felix/Bass, Len/Carriere, Jeromy/Clements, Paul/Garlan, David/Ivers, James/Nord, Robert/Little, Reed. _Software Architecture Documentation in Practice_,
@@ -189,6 +196,16 @@ Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
 Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 2011.
 
 Presents a set of architectural viewpoints and perspectives.
+
+
+{#ref-rmias-2013}
+##### RMIAS-2013
+
+Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & Security, 2013 Eight International Conference on Availability, Reliability and Security (ARES), DOI: 10.1109/ARES.2013.72 
+, http://users.cs.cf.ac.uk/Y.V.Cherdantseva/RMIAS.pdf
+
+Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
+
 
 {#ref-schmidt-2000}
 ##### Schmidt+2000
