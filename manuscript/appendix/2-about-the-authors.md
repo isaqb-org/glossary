@@ -139,9 +139,11 @@ Ulrich is a founding member of [iSAQB e.V.](http://isaqb.org) where he contribut
 {pagebreak}
 
 ## Simon Kölsch
-Simon Kölsch works as a senior consultant at [innoQ](http://www.innoq.de), with a focus on web architecture and security.
+Simon Kölsch works as a senior consultant at innoQ with a focus on web architecture and security.
 
 {width=20%,float=inside}
 ![](images/42-backmatter/simon-koelsch.jpeg)
 
-He is enthusiastic about solutions beyond the classical monolithic enterprise application, covering the architecture of distributed systems and their infrastructure, logging and monitoring. He is not committed to one specific technology or programming language, but has a strong JVM background.
+Simon is enthusiastic about solutions beyond the classical monolithic enterprise application, covering the architecture of distributed systems and their infrastructure, logging and monitoring. 
+
+He is not committed to one specific technology or programming language, but has a strong JVM background.
