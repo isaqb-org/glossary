@@ -14,6 +14,7 @@ class TranslationTableSpec extends Specification {
         bigTable.addWords("Coupling", "Kopplung")
         bigTable.addWords("Coupling", "Abhängigkeit")
         bigTable.addWords("Cohesion", "Kohäsion")
+        bigTable.addWords("binary", "Binär")
     }
 
 
@@ -54,4 +55,17 @@ class TranslationTableSpec extends Specification {
 
     }
 
+    def "translation table is well-sorted"() {
+        given:
+        TranslationTable tt = new TranslationTable("English", "German")
+        tt.addWords("ab", "1")
+        tt.addWords("bb", "2")
+        tt.addWords("Aa", "3")
+
+        when:
+          List<String> keys = tt.terms.keySet().sort()
+
+        then:
+            keys == ["Aa", "ab", "bb"]
+    }
 }

@@ -39,7 +39,7 @@ class Translator {
         println "Building translation table EN to DE\n"
         println "*" * 50
 
-        TranslationTable tt = new TranslationTable("en", "de")
+        TranslationTable translationTable = new TranslationTable("en", "de")
 
         terms.each {
             String source = it.en
@@ -55,11 +55,11 @@ class Translator {
                 assert false
             }
 
-            tt.put(source, translations)
+            translationTable.put(source, translations)
 
         }
 
-        return tt
+        return translationTable
     }
 
 
@@ -67,24 +67,24 @@ class Translator {
         println "Building translation table DE to EN\n"
         println "*" * 50
 
-        TranslationTable tt = new TranslationTable("de", "en")
+        TranslationTable translationTable = new TranslationTable("de", "en")
 
         terms.each {
             def sources = it.de
 
             if (sources instanceof String) {
-                def existingTrans = tt?.terms.get(sources)
+                def existingTrans = translationTable?.terms.get(sources)
 
                 if (existingTrans == null) existingTrans = []
                 existingTrans.add(it.en)
-                tt.put(sources, existingTrans)
+                translationTable.put(sources, existingTrans)
             } else if (sources instanceof List) {
                 sources.each { deWord ->
-                    def existingTrans = tt?.terms?.get(deWord)
+                    def existingTrans = translationTable?.terms?.get(deWord)
                     if (existingTrans == null) existingTrans = []
 
                     existingTrans.add(it.en)
-                    tt.put(deWord, existingTrans.sort())
+                    translationTable.put(deWord, existingTrans.sort())
                 }
             } else {
                 println "error in de_en: $sources"
@@ -92,7 +92,7 @@ class Translator {
             }
         }
 
-        return tt
+        return translationTable
     }
 
     static abort() {

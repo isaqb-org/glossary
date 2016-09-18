@@ -21,3 +21,5 @@ dependencies {
 }
 
 mainClassName =  'Translator'
+
+task translate(dependsOn: run)
