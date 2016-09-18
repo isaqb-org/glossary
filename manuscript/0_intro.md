@@ -83,14 +83,14 @@ was contributed by the [aim42](http://aim42.github.io/) open source project.
 ## Contributing
 
 
->#### Contributions are welcome
->
->In case find errors, omissions or typos, or want to contribute additional content -
->please feel free to do this via one of the following ways:
->
->1. Open an issue in our [Github repository](https://github.com/isaqb-org/glossary/issues)
->2. Fork the repository and create a pull request.
->3. Discuss topics on the books' [Leanpub feedback page](https://leanpub.com/isaqbglossary/feedback)
->4. Write an email to the authors, also from the books' [website](https://leanpub.com/isaqbglossary/email_author/new)
+A>#### Contributions are welcome
+A>
+A>In case find errors, omissions or typos, or want to contribute additional content -
+A>please feel free to do this via one of the following ways:
+A>
+A>1. Open an issue in our [Github repository](https://github.com/isaqb-org/glossary/issues)
+A>2. Fork the repository and create a pull request.
+A>3. Discuss topics on the books' [Leanpub feedback page](https://leanpub.com/isaqbglossary/feedback)
+A>4. Write an email to the authors, also from the books' [website](https://leanpub.com/isaqbglossary/email_author/new)
 
 Your input is highly appreciated by the authors.
