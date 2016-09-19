@@ -151,6 +151,17 @@ Martin, Robert C:
 _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2002
 
+
+{#ref-mcgraw-2006}
+##### McGraw-2006
+
+Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
+
+Covering the whole process of software design from a security perspective by
+the means of risk management, code reviews, risk analysis, penetration testing,
+security testing nad abuse case development.
+
+
 {#ref-parnas-1972}
 ##### Parnas-1972
 
@@ -215,6 +226,13 @@ Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.
 Pattern-Oriented Software Architecture, volume 2:
 _Patterns for Concurrent and Networked Objects,_
 Wiley & Sons, 2000
+
+{#ref-schneier-1994}
+##### Schneier-1994
+
+Bruce Schneier, Applied Cryptography, 2nd Edition 1996, John Wiley & Sons
+
+Comprehensive suervey of modern cryptography.
 
 {#ref-shaw-1996}
 ##### Shaw+1996

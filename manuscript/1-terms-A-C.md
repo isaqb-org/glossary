@@ -244,6 +244,22 @@ See [coupling](#term-coupling), [dependency](#term-dependency) and
 Category: Foundation
 
 
+{#term-asymmetric-cryptography}
+### Asymmetric Cryptography
+
+Asymmetric cryptography algorithms are designed that the key which is used for
+encryption is different from the key used for decryption. The key for
+encryption is called "public-key" the key for decryption is called
+"private-key". The public key can be published and used by anyone to encrypt
+information only readable by the party owning the private-key for decryption.
+See [Schneier, Public-Key Algorithms, page 17](#ref-schneier-1996).
+
+Asymmetric cryptography is fundamental for [PKI](#term-pki) and digital
+signatures.
+
+Category: Security
+
+
 {#term-atam}
 ### ATAM
 
@@ -266,6 +282,36 @@ costs of an attack or if an attack approach is possible or not by referencing
 countermeasures.
 
 See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html). 
+
+Category: Security
+
+
+{#term-authentication}
+### Authentication
+
+Authentication is the process of confirming the claim of an identity by a given
+entity. Usually this is done by verifying at least one of the authentication
+factors which is known by the system:
+
+ * knowledge (e.g. password)
+ * ownership (e.g. security token)
+ * inherence (e.g. biometrics)
+
+For a stronger authentication mutiple factors can be requested or at least
+factors of two categories.
+
+Category: Security
+
+
+{#term-authorization}
+### Authorization
+
+"Authorization or authorisation is the function of specifying access rights to
+resources related to information security and computer security in general and
+to access control in particular. More formally, "to authorize" is to define an
+access policy."
+
+(quoted from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234))
 
 Category: Security
 
@@ -360,6 +406,22 @@ Complemented by one or several [runtime scenarios](#term-runtime-view).
 A blueprint of the enterprise that provides a common understanding
 of the organization and is used to align strategic
 objectives and tactical demands.
+
+
+{#term-ca}
+### CA
+
+A **C**ertificate **Authority** issues digital certificates to a given subject
+in a [PKI](#term-pki). Usually there is a trust established to this authority
+which results in the same trust level to the issued certificates.
+
+An example is the widely used TLS-PKI where every browser includes the
+root-certificates of a defined list of CAs. These CAs then check the identity
+of a given internet domain owner and digitally sign his certificate for the use
+with [TLS]{#term-tls}.
+
+Category: Security
+
 
 {#term-cardinality}
 ### Cardinality

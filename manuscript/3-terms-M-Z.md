@@ -1,4 +1,11 @@
-﻿
+﻿{#term-MFA}
+### MFA
+
+For **M**ulti-**F**actor-**A**uthentication see [Authentication](#term-authentication).
+
+Category: Security
+
+
 {#term-microservice}
 ### Microservice
 
@@ -122,6 +129,20 @@ implemented in object oriented languages by interface inheritance,
 in a more general way as _plugins_.
 
 
+{#term-owasp}
+### OWASP
+
+The **O**pen **W**eb **A**pplication **S**ecurity **P**roject is a worldwide
+non-profit online organization founded 2001 for improving the security of
+software. It is a rich source for information and best practices in the field
+of web security. See [https://www.owasp.org/](https://www.owasp.org/).
+
+The OWASP-Top-10 is a frequently referenced list of attack categories based on
+the projects data survey.
+
+Category: Security
+
+
 {#term-pattern}
 ### Pattern
 
@@ -136,7 +157,7 @@ Property of a cryptographic protocol were an attacker can't gain any
 information about short-term session keys by compromising long-term keys.
 
 Examples for protocols with perfect forward secrecy are TLS and OTR. If this
-feature is enabled for TLS and an attacker gains access to a servers private
+feature is enabled for [TLS](#term-tls) and an attacker gains access to a servers private
 key, previously recorded communication sessions can still not be decrypted.
 
 Category: Security
@@ -178,6 +199,21 @@ streams or chunks of data from the output of one filter to the input
 of another filter without modifying values or order of data.
 
 
+{#term-pki}
+### PKI
+
+Short for **P**ublic-**K**ey-**I**nfrastructure. A concept of managing digital certificates
+usually involving [asymmetric cryptography](#term-asymmetric-cryptography). The
+term "public" refers most of the time to the used type of cryptographic key and
+not necessarily to infrastructure open to a public audience. To prevent
+semantic confusion the terms "open PKI" or "closed PKI" can be used, see
+[Anderson, Chapter 21.4.5.7 PKI, page 672](#ref-anderson-2008).
+
+PKI is usually based on a [CA](#term-ca) or a [Web-of-Trust](#term-web-of-trust).
+
+Category: Security
+
+
 {#term-port}
 ### Port
 
@@ -197,6 +233,21 @@ patterns.
 
 (Design pattern) "A wrapper or agent object that is being called by the client to access the real serving object behind the scenes. Use of the proxy can simply be forwarding to the real object, or can provide additional logic. In the proxy extra functionality can be provided, for example caching when operations on the real object are resource intensive, or checking preconditions before operations on the real object are invoked. For the client, usage of a proxy object is similar to using the real object, because both implement the same interface."
 (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern))
+
+
+{#term-pseudo-randomness}
+#### Pseudo-Randomness
+
+Often used in conjunction with pseudo-random-number-generators. Gathering
+randomness with a high [entropy](#term-entropy) is resource intensive and
+usually not required by many applications, cryptography left aside.
+To address this issue pseudo-random-generators are initialized with a seed of
+data and create random values based on this seed. The data will be generated
+by random, but will always be the same if the generator is initialized with an
+identical seed. This is called pseudo-randomness and is less performance
+intensive.
+
+Category: Security
 
 
 {#term-qualitative-evaluation}
@@ -275,6 +326,13 @@ these tree.
 (syn: quantative analysis): Measure or count values of software artifacts,
 e.g. [coupling](#term-coupling), cyclomatic complexity, size, test coverage. Metrics like these
 can help to identify critical parts or elements of systems.
+
+{#term-randomness}
+### Randomness
+
+See [Entropy](#term-entropy) or [Pseudo-Randomness](#term-pseudo-randomness).
+
+Category: Security
 
 
 {#term-rationale}
@@ -369,6 +427,22 @@ informal manner, yet making the abstract notion of “quality” concrete and ta
   * System (or part of the system) is stimulated by the event.
   * Response: The activity undertaken after the arrival of the stimulus.
   * Metric (response measure): The response should be measurable in some fashion.
+
+
+{#term-sdl}
+### SDL
+
+A **S**ecure-**D**evelopment-**L**ifecycle is a companies usual software
+development process with added best practices of engineering secure software.
+This involves for example code reviews, architectural risk analyses, black/whitebox and
+penetration testing and many more additions.
+The whole lifecycle of an application should be covered by the SDL, beginning
+with the first requirements engineering tasks and ending with feedback from
+operating the released software by fixing security issues.
+
+See [McGraw "An Enterprise Software Security Program", page 239](#ref-mcgraw-2006).
+
+Category: Security
 
 
 {#term-security-goals}
@@ -554,6 +628,16 @@ and their relationships (dependencies).
 see _Building block_ or _Component_
 
 
+{#term-symmetric-cryptography}
+### Symmetric Cryptography
+
+Symmetric cryptography is based on an identical key for encryption and
+decryption of data. Sender and receiver have to agree on a key for
+communication. See [Schneier, Symmetric Algorithms, page 17](#ref-schneier-1996).
+
+Category: Security
+
+
 {#term-system}
 ### System
 
@@ -589,6 +673,22 @@ It can help base other files, especially documents in a predefines
 structure without prescribing the content of these single files.
 
   A well known example of such templates is [arc42](http://arc42.de)
+
+
+{#term-tls}
+### TLS
+
+**T**ransport-**L**ayer-**S**ecurity is a set of protocols to cryptographically
+secure the communication of two partys by the means of the
+[CIA-triad](#term-cia-triad).
+It is widely used for secure communication on the internet and the foundation for HTTPS.
+
+TLS started as an update to its predecessor SSL (Secure Socket Layer) Version
+3.0 and should be used now instead of SSL [see RFC7568 "Deprecating Secure
+Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
+
+Category: Security
+
 
 {#term-togaf}
 ### [TOGAF](http://www.opengroup.org/subjectareas/enterprise/togaf)
@@ -676,6 +776,21 @@ see: architectural view.
 Development approach "where you gather all the requirements up front, do all necessary design, down to a detailed level, then hand the specs to the coders, who write the code; then you do testing (possibly with a side trip to IntegrationHell) and deliver the whole thing in one big end-all release. Everything is big including the risk of failure." (quoted from [http://c2.com/cgi/wiki?IterativeDevelopment])
 
   Contrast to _iterative development_
+
+
+{#term-web-of-trust}
+### Web of Trust
+
+Since a single [CA](#term-ca) could be an easy target for an attacker the web
+of trust delegates the establishment of trust to the user. Each user decides
+which other users proof of identity he trusts, usually by verifying a
+fingerprint of a given key. This trust is expressed by signing the key of the
+other user who can then publish it with the additional signature. A third user
+can then verify this signature and decide to trust the identity or not.
+
+The email encryption PGP is an example for a [PKI](#term-pki) based on a web of trust.
+
+Category: Security
 
 
 {#term-whitebox}
