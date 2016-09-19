@@ -19,9 +19,9 @@ The underlying idea is to generate code from more abstract models of requirement
 {#term-model-kind}
 ### Model kind
 
-Conventions for a type of modelling (as defined in ISO/IEC/IEEE 42010).
+Conventions for a type of modeling (as defined in ISO/IEC/IEEE 42010).
 
-Note, examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models. 
+Note, examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models.
 
 Category: ISO-IEC-IEEE-42010
 
@@ -332,7 +332,11 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 "Concept of being able to make any kind of change to a model as well as to the code generated from that model. The changes always propagate bidirectional and both artifacts are always consistent." (quoted from
   [Wikipedia](https://en.wikipedia.org/wiki/Model-driven_software_development)).
 
-  In my personal opinion, it does not work in practical situations, only in hello-world-like scenarios.
+D> ###### Comment (Gernot Starke)
+D> In my personal opinion, it does not work in practical situations, only in hello-world-like scenarios, as the inverse abstraction (from low-level sourcecode to higher-level architectural elements) usually involves design-decisions and cannot realistically be automated.
+D>
+D> ###### Comment (Matthias Bohlen)
+D>Recently I have seen code that originated from DDD where reverse engineering did indeed work.
 
 
 {#term-ruby}
@@ -340,6 +344,7 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 
 A wonderful programming language.
 
+Category: Programming
 
 {#term-runtime-view}
 ### Runtime View
@@ -476,7 +481,7 @@ A>its design and evolution.
 
 The new standard ISO/IEC/IEEE 42010:2011 has adopted and revised the definition as follows:
 
-A>Architecture: (system) fundamental concepts or properties of a system 
+A>Architecture: (system) fundamental concepts or properties of a system
 A>in its environment embodied in its elements, relationships, and in
 A>the principles of its design and evolution.
 
