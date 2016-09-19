@@ -95,7 +95,7 @@ D>Recently I have seen code that originated from DDD where reverse engineering d
 
 This will yield the following output (captured from the pdf version, will look different in web or epub versions):
 
-![](./comment-sample.jpg)
+![](./images/comment-sample.jpg)
 
 
 ## Contributors
