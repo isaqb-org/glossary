@@ -7,7 +7,7 @@ class TranslationTable {
 
     final String MARKDOWN_TABLE_SEPARATOR = "|----------------------|-------------------|\n"
 
-    final Map<String,String> LANGUAGES = [en:"English", de:"German"]
+    final Map<String, String> LANGUAGES = [en: "English", de: "German"]
 
 
     Map<String, List<String>> terms
@@ -19,12 +19,18 @@ class TranslationTable {
 
         this.sourceLanguage = LANGUAGES.get(sourceLang)
 
-        terms = new TreeMap<String,ArrayList<String>>()
+        terms = new TreeMap<String, ArrayList<String>>(
+                new Comparator<String>() {
+                    public int compare(String o1, String o2) {
+                        return o1.toLowerCase().compareTo(o2.toLowerCase());
+                    }
+                }
+        )
     }
 
     // ********* adding words/terms
 
-    void put( String source, List translations) {
+    void put(String source, List translations) {
         terms.put(source, translations)
     }
 
@@ -33,7 +39,7 @@ class TranslationTable {
         List targets = new ArrayList();
 
         if (noTranslationExistsFor(sourceWord)) {
-            targets = new TreeMap<String,ArrayList<String>>()
+            targets = new TreeMap<String, ArrayList<String>>()
         }
 
         targets.add(targetWord)
@@ -45,38 +51,36 @@ class TranslationTable {
         terms.put(sourceWord, targetWords)
     }
 
-    void addWords( List sourceWords, String targetWord) {
+    void addWords(List sourceWords, String targetWord) {
         sourceWords.each { sourceWord ->
             terms.put(sourceWord, targetWord)
         }
     }
-
-
 
     // ********** convert to Markdown
 
     private String ttHeader() {
 
         return "\n{width=95%}\n" +
-               "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
+                "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
                 MARKDOWN_TABLE_SEPARATOR
 
     }
 
     private String ttLines() {
         String lines = ""
-        terms.keySet().each {  key ->
-            lines = lines + termToMarkdown( key )  +
+        terms.keySet().sort() { key ->
+            lines = lines + termToMarkdown(key) +
                     MARKDOWN_TABLE_SEPARATOR
         }
         return lines
     }
 
 
-    String termToMarkdown (String key) {
+    String termToMarkdown(String key) {
         String tmp = terms.get(key)
 
-       String temp = "|${key} |${terms?.get(key)?.join(", ")} |\n"
+        String temp = "|${key} |${terms?.get(key)?.join(", ")} |\n"
 
         return temp
     }
@@ -91,19 +95,15 @@ class TranslationTable {
     */
 
 
-
-
     String translationTableToLeanpubMarkdown() {
         return ttHeader() + ttLines()
     }
 
-
-
     // ********* translate words
 
 
-    def translate( String sourceTerm) {
-        if (translationExistsFor( sourceTerm))
+    def translate(String sourceTerm) {
+        if (translationExistsFor(sourceTerm))
             return terms.get(sourceTerm)
         else return []
 
