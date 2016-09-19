@@ -19,13 +19,7 @@ class TranslationTable {
 
         this.sourceLanguage = LANGUAGES.get(sourceLang)
 
-        terms = new TreeMap<String, ArrayList<String>>(
-                new Comparator<String>() {
-                    public int compare(String o1, String o2) {
-                        return o1.toLowerCase().compareTo(o2.toLowerCase());
-                    }
-                }
-        )
+        terms = new HashMap<String, ArrayList<String>>()
     }
 
     // ********* adding words/terms
@@ -69,7 +63,7 @@ class TranslationTable {
 
     private String ttLines() {
         String lines = ""
-        terms.keySet().sort() { key ->
+        terms.sort(String.CASE_INSENSITIVE_ORDER).each { key, value ->
             lines = lines + termToMarkdown(key) +
                     MARKDOWN_TABLE_SEPARATOR
         }
