@@ -174,10 +174,12 @@ class Translator {
 
     static boolean isItCompliantToRules(Object termsFromJSON) {
 
+        Boolean checkingState = true
+
         // is it a Map
         checkIfTranslationMap(termsFromJSON)
 
-
+        print "Checking term "
         termsFromJSON.each { term ->
             isMap(term)
 
@@ -196,11 +198,13 @@ class Translator {
 
             hasOnlyGermanAndEnglishEntries( term )
 
-            println "Term '${term.en}' successfully checked"
-
+            print "${term.en}."
 
         }
 
+        println("\n\n")
+
+        return true
     }
 
     /*
