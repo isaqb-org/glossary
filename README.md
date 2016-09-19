@@ -77,6 +77,27 @@ in other languages (e.g. en:Tradeoff translates
 to de:[Kompromiss, Abwägung]
 
 
+## About personal opinion
+
+As this book combines the efforts of several authors, some _personal opinions_ or
+comments might be added, to give a broader perspective on some definitions.
+
+If you want to add your opinion or comment to any term in the glossary, please
+use the "discussion sidebar" syntax like shown below:
+
+''''
+D> ###### Comment (Gernot Starke)
+D> In my personal opinion, it does not work in practical situations, only in hello-world-like scenarios, as the inverse abstraction (from low-level sourcecode to higher-level architectural elements) usually involves design-decisions and cannot realistically be automated.
+D>
+D> ###### Comment (Matthias Bohlen)
+D>Recently I have seen code that originated from DDD where reverse engineering did indeed work.
+''''
+
+This will yield the following output (captured from the pdf version, will look different in web or epub versions):
+
+![](./comment-sample.jpg)
+
+
 ## Contributors
 
 The initial version of this glossary has been contributed by [Gernot Starke](http://gernotstarke.de).
@@ -84,7 +105,7 @@ Prior versions of the (German) iSAQB glossary had been compiled and
 edited by Dr. Ulrich Becker, Wolfgang Fahl, Phillip Ghadir, Dr. Peter Hruschka, Dr. Carola Lilienthal, Martin Roesch and others.
 
 
-Currently the contens are maintained by volunteers from the [iSAQB e.V.](http://isaqb.org),
+Currently the content is maintained by volunteers from the [iSAQB e.V.](http://isaqb.org),
 a non-profit volunteer association - see the contributors list of this repository.
 
 #### How to Become Contributor
