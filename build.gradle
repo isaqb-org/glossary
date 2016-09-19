@@ -22,4 +22,11 @@ dependencies {
 
 mainClassName =  'Translator'
 
+description = "Buildfile for iSAQB(c) Glossary Project\n"
+
+
+defaultTasks = ['translate']
+
 task translate(dependsOn: run)
+
+//task info
