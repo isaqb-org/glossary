@@ -6,7 +6,7 @@
 A comprehensive glossary of software architecture terminology,
 many of them used in the iSAQB foundation and advanced level curricula.
 
-![](./glossary-cover-small.jpg)
+![](./images/glossary-cover-small.jpg)
 
 This repository contains the sources for the published version of
 the iSAQB glossary, available both online and in various eBook formats
@@ -118,7 +118,7 @@ the glossary.
 All royalties from Leanpub sales of this book are donated to
 the [Electronic Frontier Foundation (eff.org)](http://eff.org).
 
-![](./eff-logo-name-72.jpg)
+![](./images/eff-logo-name-72.jpg)
 
 
 
@@ -128,7 +128,7 @@ This book is licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
-![](./cc-by.png)
+![](./images/cc-by.png)
 
 The following is only a brief summary and no substitution for the real
 [licence](https://creativecommons.org/licenses/by/4.0/).
