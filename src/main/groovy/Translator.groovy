@@ -174,29 +174,28 @@ class Translator {
 
     static boolean isItCompliantToRules(Object termsFromJSON) {
 
-        Boolean checkingState = true
+
+        Boolean isCompliant = false
 
         // is it a Map
-        checkIfTranslationMap(termsFromJSON)
+        isCompliant = checkIfTranslationMap(termsFromJSON)
 
         print "Checking term "
+
         termsFromJSON.each { term ->
-            isMap(term)
-
-            hasENEntry(term)
-
-            hasDETranslation(term)
-
-            translationIsStringOrList(term)
-
-            // is en-word != de-word??
-            isNonTrivialTranslation(term)
+            isCompliant = isCompliant &&
+                isMap(term) &&
+                hasENEntry(term) &&
+                hasDETranslation(term) &&
+                translationIsStringOrList(term) &&
+                isNonTrivialTranslation(term) &&
+                hasOnlyGermanAndEnglishEntries( term )
 
             // if German translations are a list, it has more than one element
             if (term.de instanceof List<String>)
+                isCompliant = isCompliant &&
                 translationListHasMultipleEntries(term)
 
-            hasOnlyGermanAndEnglishEntries( term )
 
             print "${term.en}."
 
@@ -204,7 +203,7 @@ class Translator {
 
         println("\n\n")
 
-        return true
+        return isCompliant
     }
 
     /*
