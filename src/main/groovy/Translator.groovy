@@ -36,8 +36,7 @@ class Translator {
 
 
     static TranslationTable build_EN_TranslationTable(List terms) {
-        println "Building translation table EN to DE\n"
-        println "*" * 50
+        print "Building markdown translation table EN to DE "
 
         TranslationTable translationTable = new TranslationTable("en", "de")
 
@@ -64,8 +63,7 @@ class Translator {
 
 
     static TranslationTable build_DE_TranslationTable(List terms) {
-        println "Building translation table DE to EN\n"
-        println "*" * 50
+        print "Building markdown translation table DE to EN "
 
         TranslationTable translationTable = new TranslationTable("de", "en")
 
@@ -156,56 +154,56 @@ class Translator {
     }
 
 
-    private static boolean translationListHasMultipleEntries( Object term) {
-        if (term.de instanceof List<String>)  {
+    private static boolean translationListHasMultipleEntries(Object term) {
+        if (term.de instanceof List<String>) {
             if (term.de.size() >= 2)
                 return true
-            else errorMsg( term, "'de:' translation list shall contain multiple translations (otherwise a list makes no sense).")
-        }
-        else return true
+            else errorMsg(term, "'de:' translation list shall contain multiple translations (otherwise a list makes no sense).")
+        } else return true
     }
 
     private static boolean hasOnlyGermanAndEnglishEntries(Object term) {
         if (term.keySet().sort() == ["de", "en"])
             return true
-        else errorMsg( term.keySet(), ": contains illegal language keys (currently only 'de:' and 'en:' are supported)")
+        else errorMsg(term.keySet(), ": contains illegal language keys (currently only 'de:' and 'en:' are supported)")
     }
 
 
     static boolean isItCompliantToRules(Object termsFromJSON) {
 
-        // is it a Map
-        checkIfTranslationMap(termsFromJSON)
 
+        Boolean isCompliant = false
+
+        // is it a Map
+        isCompliant = checkIfTranslationMap(termsFromJSON)
+
+        print "Checking term "
 
         termsFromJSON.each { term ->
-            isMap(term)
-
-            hasENEntry(term)
-
-            hasDETranslation(term)
-
-            translationIsStringOrList(term)
-
-            // is en-word != de-word??
-            isNonTrivialTranslation(term)
+            isCompliant = isCompliant &&
+                    isMap(term) &&
+                    hasENEntry(term) &&
+                    hasDETranslation(term) &&
+                    translationIsStringOrList(term) &&
+                    isNonTrivialTranslation(term) &&
+                    hasOnlyGermanAndEnglishEntries(term)
 
             // if German translations are a list, it has more than one element
             if (term.de instanceof List<String>)
-                translationListHasMultipleEntries(term)
+                isCompliant = isCompliant &&
+                        translationListHasMultipleEntries(term)
 
-            hasOnlyGermanAndEnglishEntries( term )
-
-            println "Term '${term.en}' successfully checked"
-
-
+            print "${term.en}."
         }
 
+        println("\n\n")
+        return isCompliant
     }
 
     /*
     ** As a convention, we insert a Footnote in the EN-DE translation table.
      */
+
     static final String createDateAsMarkDownFootnote(int nrOfTerms) {
         final teaser = """
 The following tables have been automatically generated[^TransTableGenerationDate]
@@ -226,18 +224,18 @@ from JSON by Groovy and Gradle.
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
-
             int nrOfTerms = en_de.terms.size()
-            println "found ${nrOfTerms} terms..."
 
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
             generated_EN_DE_File.text = createDateAsMarkDownFootnote(nrOfTerms) + en_de.translationTableToLeanpubMarkdown()
-            println("Successfully created $EN_DE_FILENAME")
+            println("with ${nrOfTerms} terms, file \"$EN_DE_FILENAME\".\n")
 
             de_en = build_DE_TranslationTable(terms)
+            nrOfTerms = de_en.terms.size()
+
             generated_DE_EN_File = clearFileForWriting(TARGET_FILEPATH + DE_EN_FILENAME)
             generated_DE_EN_File.text = de_en.translationTableToLeanpubMarkdown()
-            println("Successfully created $DE_EN_FILENAME")
+            println("with ${nrOfTerms} terms, file \"$DE_EN_FILENAME\".")
 
         } else println("Error in JSON file - cannot proceed")
 
