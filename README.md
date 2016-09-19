@@ -85,13 +85,13 @@ comments might be added, to give a broader perspective on some definitions.
 If you want to add your opinion or comment to any term in the glossary, please
 use the "discussion sidebar" syntax like shown below:
 
-''''
+```
 D> ###### Comment (Gernot Starke)
 D> In my personal opinion, it does not work in practical situations, only in hello-world-like scenarios, as the inverse abstraction (from low-level sourcecode to higher-level architectural elements) usually involves design-decisions and cannot realistically be automated.
 D>
 D> ###### Comment (Matthias Bohlen)
 D>Recently I have seen code that originated from DDD where reverse engineering did indeed work.
-''''
+```
 
 This will yield the following output (captured from the pdf version, will look different in web or epub versions):
 
