@@ -418,7 +418,7 @@ which results in the same trust level to the issued certificates.
 An example is the widely used TLS-PKI where every browser includes the
 root-certificates of a defined list of CAs. These CAs then check the identity
 of a given internet domain owner and digitally sign his certificate for the use
-with [TLS]{#term-tls}.
+with [TLS](#term-tls).
 
 Category: Security
 
@@ -429,7 +429,7 @@ Describes the quantitative rating of an association or relationship.
 It specifies the number of participants (objects, instances, modules etc)
 of the association.
 
-{#term-CIA-triad}
+{#term-cia-triad}
 ### CIA Triad
 
 See [Security Goals](#term-security-goals)

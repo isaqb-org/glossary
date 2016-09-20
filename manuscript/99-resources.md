@@ -227,8 +227,8 @@ Pattern-Oriented Software Architecture, volume 2:
 _Patterns for Concurrent and Networked Objects,_
 Wiley & Sons, 2000
 
-{#ref-schneier-1994}
-##### Schneier-1994
+{#ref-schneier-1996}
+##### Schneier-1996
 
 Bruce Schneier, Applied Cryptography, 2nd Edition 1996, John Wiley & Sons
 
