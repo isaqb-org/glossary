@@ -10,3 +10,13 @@ isaqb-terms-translated_test.json
 generated/gen-tt-DE-EN.md
 generated/gen-tt-EN-DE.md
 .gradle
+build/classes/main/sandbox$_run_closure1.class
+build/classes/main/sandbox.class
+build/classes/main/TranslationTable$_addWords_closure1.class
+build/classes/main/TranslationTable$_ttLines_closure2.class
+build/classes/main/TranslationTable.class
+build/classes/main/Translator$_build_DE_TranslationTable_closure2$_closure4.class
+build/classes/main/Translator$_build_DE_TranslationTable_closure2.class
+build/classes/main/Translator$_build_EN_TranslationTable_closure1.class
+build/classes/main/Translator$_isItCompliantToRules_closure3.class
+build/classes/main/Translator.class
