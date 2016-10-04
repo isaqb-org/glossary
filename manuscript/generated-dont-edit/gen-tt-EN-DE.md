@@ -2,7 +2,7 @@
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:118 english terms, generated on September/19/2016
+[^TransTableGenerationDate]:133 english terms, generated on Oktober/04/2016
 
 
 
@@ -53,9 +53,15 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Cabinet (as methaphor for template) |Schrank (als Metapher für Template) |
 |----------------------|-------------------|
+|Cash audit |Rechnungsprüfung |
+|----------------------|-------------------|
+|Cash auditor |Rechnungsprüfer |
+|----------------------|-------------------|
 |Certification authority |Zertifizierungsstelle |
 |----------------------|-------------------|
 |Certification body |Zertifizierungsstelle |
+|----------------------|-------------------|
+|Chairman |Vorsitzender |
 |----------------------|-------------------|
 |Channel |Kanal |
 |----------------------|-------------------|
@@ -92,6 +98,8 @@ from JSON by Groovy and Gradle.
 |Deployment unit |Verteilungsartefakt |
 |----------------------|-------------------|
 |Deployment view |Verteilungssicht |
+|----------------------|-------------------|
+|Deputy chairman |Stellvertretender Vorsitzender |
 |----------------------|-------------------|
 |Design |Entwurf |
 |----------------------|-------------------|
@@ -131,7 +139,11 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Examiner |Prüfer |
 |----------------------|-------------------|
+|Executive board |Vorstand |
+|----------------------|-------------------|
 |Fees rules and regulations |Gebührenordnung |
+|----------------------|-------------------|
+|General meeting |Mitgliederversammlung |
 |----------------------|-------------------|
 |Influencing Factor |Einflussfaktor |
 |----------------------|-------------------|
@@ -149,17 +161,23 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |License fee |Lizenzgebühr |
 |----------------------|-------------------|
+|License holder |Lizenznehmer |
+|----------------------|-------------------|
 |Licensee |Lizenznehmer |
 |----------------------|-------------------|
 |Licensing agreement |Lizenzvertrag, Lizenzvereinbarung |
 |----------------------|-------------------|
 |Licensor |Lizenzgeber |
 |----------------------|-------------------|
+|Local court |Amtsgericht |
+|----------------------|-------------------|
 |Means for describing |Beschreibungsmittel |
 |----------------------|-------------------|
 |Means for documenting |Beschreibungsmittel |
 |----------------------|-------------------|
 |Measurability |Messbarkeit |
+|----------------------|-------------------|
+|Members' meeting |Mitgliederversammlung |
 |----------------------|-------------------|
 |Modeling Tool |Modellierungswerkzeug |
 |----------------------|-------------------|
@@ -195,6 +213,8 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Real-time system |Echtzeitsystem |
 |----------------------|-------------------|
+|Registered trademark |Marke (gesetzlich geschützt) |
+|----------------------|-------------------|
 |Relationship |Beziehung |
 |----------------------|-------------------|
 |Relationship (kind of) |Beziehungsart |
@@ -203,7 +223,11 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Requirement |Anforderung |
 |----------------------|-------------------|
+|Resolution |Beschluss |
+|----------------------|-------------------|
 |Responsibility |Verantwortlichkeit |
+|----------------------|-------------------|
+|Rights of use |Nutzungsrecht |
 |----------------------|-------------------|
 |Runtime |Laufzeit |
 |----------------------|-------------------|
@@ -214,6 +238,10 @@ from JSON by Groovy and Gradle.
 |Skill |Fähigkeit, Fertigkeit |
 |----------------------|-------------------|
 |Specification (of software architecture) |Beschreibung (von Softwarearchitektur) |
+|----------------------|-------------------|
+|sponsoring (board) member |materiell förderndes Mitglied |
+|----------------------|-------------------|
+|statutory |satzungsgemäß |
 |----------------------|-------------------|
 |Structure |Struktur |
 |----------------------|-------------------|
@@ -232,6 +260,8 @@ from JSON by Groovy and Gradle.
 |Tradeoff |Kompromiss, Abwägung |
 |----------------------|-------------------|
 |Training provider |Schulungsanbieter |
+|----------------------|-------------------|
+|Treasurer |Schatzmeister |
 |----------------------|-------------------|
 |Uses relationship |Benutzt-Beziehung, Nutzungsbeziehung |
 |----------------------|-------------------|

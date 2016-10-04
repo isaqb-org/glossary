@@ -37,6 +37,10 @@ software architecture.
 
 : Keyword from the CPSA-Advanced curriculum "IMPROVE".
 
+**iSAQB**
+
+: Official iSAQB terms, many of them used for contracts, association and other organizational stuff.
+
 
 **Metric**
 
@@ -50,5 +54,5 @@ coupling, mean-time-between-failure)
 
 **ISO-IEC-IEEE-42010**
 
-: ISO/IEC/IEEE 42010:2011 Systems and software engineering — Architecture description.
+: ISO/IEC/IEEE 42010:2011 Systems and software engineering ï¿½ Architecture description.
 Note, a new version of the standard is expected to be published till the end of 2016.

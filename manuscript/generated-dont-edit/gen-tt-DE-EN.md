@@ -12,6 +12,8 @@
 |----------------------|-------------------|
 |Abwägung |Tradeoff |
 |----------------------|-------------------|
+|Amtsgericht |Local court |
+|----------------------|-------------------|
 |Anforderung |Requirement |
 |----------------------|-------------------|
 |Angemessenheit |Adequacy, Appropriateness, Commensurability |
@@ -63,6 +65,8 @@
 |Benachrichtigung |Notification |
 |----------------------|-------------------|
 |Benutzt-Beziehung |Uses relationship |
+|----------------------|-------------------|
+|Beschluss |Resolution |
 |----------------------|-------------------|
 |Beschreibung (von Softwarearchitektur) |Specification (of software architecture) |
 |----------------------|-------------------|
@@ -164,7 +168,7 @@
 |----------------------|-------------------|
 |Lizenzgebühr |License fee |
 |----------------------|-------------------|
-|Lizenznehmer |Licensee |
+|Lizenznehmer |Licensee, License holder |
 |----------------------|-------------------|
 |Lizenzvereinbarung |Licensing agreement |
 |----------------------|-------------------|
@@ -172,7 +176,13 @@
 |----------------------|-------------------|
 |Mal-/Zeichenprogramm |Drawing Tool |
 |----------------------|-------------------|
+|Marke (gesetzlich geschützt) |Registered trademark |
+|----------------------|-------------------|
+|materiell förderndes Mitglied |sponsoring (board) member |
+|----------------------|-------------------|
 |Messbarkeit |Commensurability, Measurability |
+|----------------------|-------------------|
+|Mitgliederversammlung |General meeting, Members' meeting |
 |----------------------|-------------------|
 |Modellierungswerkzeug |Modeling Tool |
 |----------------------|-------------------|
@@ -185,6 +195,8 @@
 |Mustersprache |Pattern language |
 |----------------------|-------------------|
 |Nutzungsbeziehung |Uses relationship |
+|----------------------|-------------------|
+|Nutzungsrecht |Rights of use |
 |----------------------|-------------------|
 |Perspektive |Perspective |
 |----------------------|-------------------|
@@ -210,9 +222,17 @@
 |----------------------|-------------------|
 |Randbedingung |Constraint |
 |----------------------|-------------------|
+|Rechnungsprüfer |Cash auditor |
+|----------------------|-------------------|
+|Rechnungsprüfung |Cash audit |
+|----------------------|-------------------|
 |Sachziele |Security Goals |
 |----------------------|-------------------|
 |Satzung des Vereins |Articles of assocation |
+|----------------------|-------------------|
+|satzungsgemäß |statutory |
+|----------------------|-------------------|
+|Schatzmeister |Treasurer |
 |----------------------|-------------------|
 |Schnittstelle |Interface |
 |----------------------|-------------------|
@@ -231,6 +251,8 @@
 |Sicht |Architectural view, View |
 |----------------------|-------------------|
 |Sparsamkeit |Economicalness, Thriftyness |
+|----------------------|-------------------|
+|Stellvertretender Vorsitzender |Deputy chairman |
 |----------------------|-------------------|
 |Struktur |Structure |
 |----------------------|-------------------|
@@ -253,6 +275,10 @@
 |Verteilungssicht |Deployment view |
 |----------------------|-------------------|
 |Vertraulichkeit |Confidentiality |
+|----------------------|-------------------|
+|Vorsitzender |Chairman |
+|----------------------|-------------------|
+|Vorstand |Executive board |
 |----------------------|-------------------|
 |Werkzeug |Tools |
 |----------------------|-------------------|

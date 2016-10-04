@@ -75,12 +75,24 @@
   { en: "Cabinet (as methaphor for template)",
     de: "Schrank (als Metapher für Template)"
   },
+  {en: "Cash audit",
+   de: "Rechnungsprüfung"
+  },
+  {en: "Cash auditor",
+   de: "Rechnungsprüfer"
+  },
   { en: "Certification authority",
     de: "Zertifizierungsstelle"
   },
   { en: "Certification body",
     de: "Zertifizierungsstelle"
+  },
+  {en: "Chairman",
+   de: "Vorsitzender"
     },
+  {en: "Channel",
+   de: "Kanal"
+   },
   {en: "Cohesion",
    de: ["Kohäsion", "innerer Zusammenhalt"]
  },
@@ -131,6 +143,9 @@
   },
   { en: "Deployment view",
     de: "Verteilungssicht"
+  },
+  {en: "Deputy chairman",
+   de: "Stellvertretender Vorsitzender"
   },
   { en: "Design",
     de: "Entwurf"
@@ -200,9 +215,15 @@
   { en: "Examinee",
     de: "Prüfling"
   },
+  {en: "Executive board",
+   de: "Vorstand"
+  },
   { en: "Fees rules and regulations",
     de: "Gebührenordnung"
     },
+  {en: "General meeting",
+   de: "Mitgliederversammlung"
+  },
   { en: "Influencing Factor",
     de: "Einflussfaktor"
   },
@@ -221,9 +242,7 @@
   {en: "Interface description",
    de: ["Schnittstellenbeschreibung", "Schnittstellendokumentation"]
  },
-  {en: "Channel",
-   de: "Kanal"
- },
+
   { en: "Learning goal",
     de: "Lernziel"
   },
@@ -233,12 +252,18 @@
   { en: "License fee",
     de: "Lizenzgebühr"
     },
+  { en: "License holder",
+    de: "Lizenznehmer"
+  },
   { en: "Licensing agreement",
     de: ["Lizenzvertrag", "Lizenzvereinbarung"]
    },
   { en: "Licensor",
     de: "Lizenzgeber"
     },
+  { en: "Local court",
+    de: "Amtsgericht"
+  },
   { en: "Means for describing",
     de: "Beschreibungsmittel"
   },
@@ -247,6 +272,9 @@
   },
   { en: "Measurability"
     de: "Messbarkeit"
+  },
+  {en: "Members' meeting",
+   de: "Mitgliederversammlung"
   },
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
@@ -299,6 +327,9 @@
   { en: "Real-time system",
     de: "Echtzeitsystem"
  },
+ { en: "Registered trademark",
+   de: "Marke (gesetzlich geschützt)"
+ },
   { en: "Relationship",
     de: "Beziehung"
   },
@@ -311,8 +342,14 @@
   { en: "Requirement",
     de: "Anforderung"
   },
+  { en: "Resolution",
+    de: "Beschluss"
+  },
   { en: "Responsibility",
     de: "Verantwortlichkeit"
+  },
+  {en: "Rights of use",
+   de: "Nutzungsrecht"
   },
   { en: "Runtime",
     de: "Laufzeit"
@@ -328,6 +365,12 @@
   },
   { en: "Specification (of software architecture)",
     de: "Beschreibung (von Softwarearchitektur)"
+  },
+  { en: "sponsoring (board) member",
+    de: "materiell förderndes Mitglied"
+  },
+  {en: "statutory",
+   de: "satzungsgemäß"
   },
   { en: "Structure",
     de: "Struktur"
@@ -356,6 +399,9 @@
   },
   { en: "Training provider",
     de: "Schulungsanbieter"
+  },
+  {en: "Treasurer",
+   de: "Schatzmeister"
   },
   { en: "Uses relationship",
     de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
