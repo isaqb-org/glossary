@@ -357,7 +357,7 @@ Explanation of the reasoning or arguments that lie behind an architecture decisi
 
 
 {#term-rbac}
-### RBAC
+### RBAC (Role Based Access Control)
 
 A role is a fixed set of permissions usually assigned to a group of
 [principals](#term-principal). This allows a
