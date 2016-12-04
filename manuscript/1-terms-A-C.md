@@ -3,6 +3,14 @@
 {#glossary}
 # Glossary of Terms
 
+{#term-abstraction}
+### Abstraction
+
+A view of an element that focuses on the information relevant to a particular purpose and ignores the remainder of the information.
+
+Category: Design-Principle
+
+
 {#term-abstractness}
 ### Abstractness
 
@@ -129,11 +137,11 @@ See [Assessment](#term-assessment)
 
 Conventions, principles and practices for the description of architectures established within a specific domain of application and/or community of stakeholders (as defined in ISO/IEC/IEEE 42010).
 
-Examples are: 
+Examples are:
 
-* Generalised Enterprise Reference Architecture and Methodologies (GERAM) [ISO 15704] is an architecture framework. 
+* Generalised Enterprise Reference Architecture and Methodologies (GERAM) [ISO 15704] is an architecture framework.
 
-* Reference Model of Open Distributed Processing (RM-ODP) [ISO/IEC 10746] is an architecture framework. 
+* Reference Model of Open Distributed Processing (RM-ODP) [ISO/IEC 10746] is an architecture framework.
 
 
 Category: ISO-IEC-IEEE-42010
@@ -293,7 +301,7 @@ assigning additional attributes to each node. Examples could be the estimated
 costs of an attack or if an attack approach is possible or not by referencing
 countermeasures.
 
-See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html). 
+See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html).
 
 Category: Security
 
