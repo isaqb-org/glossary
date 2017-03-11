@@ -183,12 +183,11 @@ Architects apply perspectives iteratively to the system's _architectural views_ 
  * Security
  * Usability
 
-
+{term-pikachu}
 ### Pikachu
 A yellowish mouse-like character from the
-(quite famous) [Pokémon world]{https://simple.wikipedia.org/wiki/Pikachu}.
-Actually, you don't need to know that. But it does not hurt either - and you might impress your kids
-with this knowledge...
+(quite famous) [Pokémon world](https://simple.wikipedia.org/wiki/Pikachu).
+Actually, you don't need to know that. But it does not hurt either - and you might impress your kids with this knowledge...
 
 
 {#term-pipe}
@@ -771,10 +770,9 @@ A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a lan
 Graphical language for visualizing, specifying and
 documenting the artifacts and structures of a software system.
 
-  * For building block views or the context view, use component diagrams, with either components, packages or classes to denote building blocks.
-  * For runtime views, use sequence- or activity diagrams (with swimlanes). Object diagrams can theoretically be used, but are practically not adviced,
-   as they become cluttered even for small scenarios.
-   * For Deployment views, use deployment diagrams with node symbols.
+* For building block views or the context view, use component diagrams, with either components, packages or classes to denote building blocks.
+* For runtime views, use sequence- or activity diagrams (with swimlanes). Object diagrams can theoretically be used, but are practically not adviced, as they become cluttered even for small scenarios.
+* For Deployment views, use deployment diagrams with node symbols.
 
 
 {#term-uses-relationship}
@@ -836,6 +834,7 @@ Provides an infrastructure for the set-up, performance and monitoring of a defin
 {#term-wrapper}
 ### Wrapper
 
-(syn: Decorator, Adapter) Patterns to abstract away the concrete interface
-or implementation of a component. Attach additional responsibilities to an object dynamically.
-  Depending on the sources, semantics of _wrapper_ differ significantly.
+(syn: Decorator, Adapter, Gateway) Patterns to abstract away the concrete interface or implementation of a component. Attach additional responsibilities to an object dynamically.
+
+D> ###### Comment (Gernot Starke)
+D> The tiny differences found in literature regarding this term often don't matter in real-life. _Wrapping_ a component or building-block shall have a clear semantics within a single software system.  
