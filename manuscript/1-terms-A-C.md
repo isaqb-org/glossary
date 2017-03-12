@@ -145,9 +145,14 @@ Category: ISO-IEC-IEEE-42010
 {#term-architecture-goal}
 ### Architecture goal
 
-(syn: quality goal, quality requirement): A quality attribute that the system need
-to achieve. These goals often have _long term character_ in contrast to (short term)
-project goals.
+
+(syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system
+needs to achieve and the quality attribute is understood to be an architectural issue.
+
+Hence, the architecture needs to be designed in a way to fullfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
+
+Category: Fundamental
+
 
 {#term-architecture-model}
 ### Architecture model
@@ -173,6 +178,13 @@ Examples include:
 * Layers
 * Pipes-and-Filter
 * [CQRS](#term-cqrs)
+
+
+{#term-architecture-quality-requirement}
+### Architecture quality requirement
+
+See [architecture goal](#term-architecture-goal).
+
 
 
 {#term-architecture-rational}
