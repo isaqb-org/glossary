@@ -55,13 +55,6 @@ remain intact.
 
 Category: Foundation
 
-{#term-algorithm}
-### Algorithm
-
-* (noun) Term used by software developers when they
-do not want to explain what they did.
-* A self-contained step-by-step set of operations to be performed, e.g. to perform calculations, data processing, and/or similar tasks.
-
 
 {#term-appropriateness}
 ### Appropriateness
