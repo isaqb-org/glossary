@@ -390,6 +390,7 @@
 
   { en: "Tools",
     de: ["Arbeitsmittel", "Werkzeug"]
+    fr: "Outils"
   },
   {en: "Tools-and-material-approach",
    de: "Werkzeug-Material-Ansatz"
