@@ -60,6 +60,10 @@
   { en: "Availability",
     de: "Verfügbarkeit"
   },
+  {
+    en: "Bounded Context",
+    de: "Kontextgrenze"
+  },
   { en:"Building block",
     de:"Baustein"
   },
@@ -161,6 +165,10 @@
  },
   { en: "Domain",
     de: ["Fachdomäne", "Fachlicher Bereich", "Geschäftsbereich"]
+  },
+  {
+    en: "Domain event",
+    de: "Fachliches Event"
   },
   {en: "Domain-related architecture",
    de: "fachliche Architektur"
@@ -276,6 +284,10 @@
   {en: "Members' meeting",
    de: "Mitgliederversammlung"
   },
+  {
+    en: "message-driven",
+    de: "Nachrichten-zentrisch"
+  },
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
@@ -342,11 +354,19 @@
   { en: "Requirement",
     de: "Anforderung"
   },
+  {
+    en: "resilient",
+    de: ["unverwüstlich", "selbstwiederherstellend"]
+  },
   { en: "Resolution",
     de: "Beschluss"
   },
   { en: "Responsibility",
     de: "Verantwortlichkeit"
+  },
+  {
+    en: "responsive",
+    de: "reaktionsfähig"
   },
   {en: "Rights of use",
    de: "Nutzungsrecht"
@@ -403,6 +423,10 @@
   },
   {en: "Treasurer",
    de: "Schatzmeister"
+  },
+  {
+    en: "Ubiquitous language",
+    de: "Allgegenwärtige Sprache"
   },
   { en: "Uses relationship",
     de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
