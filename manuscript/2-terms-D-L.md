@@ -138,7 +138,7 @@ Structures and concepts for the it support of an entire company. Atomic subject 
 
 {#term-entity}
 ### Entity
-Category: 
+Category:
 Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-value-object) and are almost always persistent.
 
 
@@ -165,7 +165,7 @@ Category: Security
 
 (System) Context determining the setting and circumstances of all influences upon a system (as defined in ISO/IEC/IEEE 42010).
 
-Note, the environment of a system includes developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences. 
+Note, the environment of a system includes developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
 
 Category: ISO-IEC-IEEE-42010
 
@@ -266,7 +266,7 @@ Boundary across which two building blocks interact or communicate with each othe
 
 ### Interface Segregation Principle (ISP)
 
-Building blocks (classes, components) should be forced to depend on methods they
+Building blocks (classes, components) should not be forced to depend on methods they
 don't use. ISP splits larger interfaces into smaller and more (client) specific
 ones so that clients will only need to know about methods that they actually use.
 
