@@ -151,6 +151,14 @@ Kruchten, Philippe.
 _The 4+1 View Model of Architecture_,
 IEEE Software, volume 12 (6), pp 45-50, 1995.
 
+{#ref-martin-solid}
+##### Martin-SOLID
+Martin, Robert C: S.O.L.I.D.
+
+S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin. Some of the original papers have been moved around onto various locations - see the following:
+
+* [Wikipedia on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* A nice [Introduction](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by [Samuel Oloruntoba](https://scotch.io/@kayandrae)
 
 {#ref-martin-2003}
 ##### Martin-2003

@@ -1,7 +1,7 @@
 ﻿{#term-MFA}
 ### MFA
 
-For **M**ulti-**F**actor-**A**uthentication see [Authentication](#term-authentication).
+For Multi-Factor-Authentication see [Authentication](#term-authentication).
 
 Category: Security
 
@@ -132,7 +132,7 @@ in a more general way as _plugins_.
 {#term-owasp}
 ### OWASP
 
-The **O**pen **W**eb **A**pplication **S**ecurity **P**roject is a worldwide
+The **Open Web Application Security Project** is a worldwide
 non-profit online organization founded 2001 for improving the security of
 software. It is a rich source for information and best practices in the field
 of web security. See [https://www.owasp.org/](https://www.owasp.org/).
@@ -201,7 +201,7 @@ of another filter without modifying values or order of data.
 {#term-pki}
 ### PKI
 
-Short for **P**ublic-**K**ey-**I**nfrastructure. A concept of managing digital certificates
+Short for **Public-Key-Infrastructure**. A concept of managing digital certificates
 usually involving [asymmetric cryptography](#term-asymmetric-cryptography). The
 term "public" refers most of the time to the used type of cryptographic key and
 not necessarily to infrastructure open to a public audience. To prevent
@@ -360,7 +360,7 @@ Explanation of the reasoning or arguments that lie behind an architecture decisi
 
 A role is a fixed set of permissions usually assigned to a group of
 [principals](#term-principal). This allows a
-**R**ole-**B**ased-**A**ccess-**C**ontrol usually to be implemented more
+**Role-Based-Access-Control** usually to be implemented more
 efficient than an [ACL](#term-acl) based system and makes for example deputy
 arrangements possible.
 
@@ -458,8 +458,8 @@ informal manner, yet making the abstract notion of “quality” concrete and ta
 {#term-sdl}
 ### SDL
 
-A **S**ecure-**D**evelopment-**L**ifecycle is a companies usual software
-development process with added best practices of engineering secure software.
+A **Secure-Development-Lifecycle** is a companies usual software
+development process with additional practices of engineering secure software.
 This involves for example code reviews, architectural risk analyses, black/whitebox and
 penetration testing and many more additions.
 The whole lifecycle of an application should be covered by the SDL, beginning
@@ -616,9 +616,9 @@ Category: ISO-IEC-IEEE-42010
 
 SOLID (single responsibility, open-closed, Liskov substitution, interface segregation and dependency inversion) is an acronym for some principles
 (named by [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
-to improve object-oriented programming and design. The principles make it more likely that a developer will write code
-that is easy to maintain and extend over time.
+to improve object-oriented programming and design. The principles make it more likely that a developer will write code that is easy to maintain and extend over time.
 
+For some additional sources, see [Martin-SOLID](#ref-martin-solid).
 
 {#term-stakeholder}
 ### Stakeholder
