@@ -33,6 +33,10 @@ software architecture.
 
 : Terms required for or contained in the CPSA-Foundation curriculum.
 
+**Fundamental**
+
+: Fundamental term.
+
 **Improve**
 
 : Keyword from the CPSA-Advanced curriculum "IMPROVE".
@@ -54,5 +58,5 @@ coupling, mean-time-between-failure)
 
 **ISO-IEC-IEEE-42010**
 
-: ISO/IEC/IEEE 42010:2011 Systems and software engineering � Architecture description.
-Note, a new version of the standard is expected to be published till the end of 2016.
+: ISO/IEC/IEEE 42010:2011 Systems and software engineering Architecture description.
+Note, a new version of the standard was expected to be published till the end of 2016.

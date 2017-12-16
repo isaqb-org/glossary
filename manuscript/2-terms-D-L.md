@@ -138,7 +138,8 @@ Structures and concepts for the it support of an entire company. Atomic subject 
 
 {#term-entity}
 ### Entity
-Category:
+Category: DDD
+
 Entity is a building block of [Domain-Driven Design](#term-DDD). An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to [value objects](#term-value-object) and are almost always persistent.
 
 
@@ -250,15 +251,23 @@ attributes of [blackboxes](#term-blackbox). Separates interface from implementat
   The term [encapsulation](#term-encapsulation) is often used interchangeably with information hiding.
 
 {#term-integrity}
-### Integrity
+### Integrity 
+
+Various meanings:
+
+Category: Security
 
 One of the basic [Security Goals](#term-security-goals) which means
 maintaining and assuring accuracy and completeness of data. Usually this is
 achived by the usage of cryptographic algorithms to create a digital signature.
 
-Category: Security
+Category: Fundamental
 
+Data or behavioral integrity: 
+* Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
+* Degree, to which a system behaves coherent, replicable and reasonable.
 
+See also [consistency](#term-consistency)
 {#term-interface}
 ### Interface
 
