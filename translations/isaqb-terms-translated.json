@@ -9,6 +9,10 @@
   ******************************************* */
 
 [
+ 
+  { en: "Action",
+    de: "Maßnahme"
+  }, 
   { en: "Adaption",
     de: "Anpassung"
   },
@@ -232,6 +236,14 @@
   {en: "General meeting",
    de: "Mitgliederversammlung"
   },
+
+  { en: "Improvement",
+    de: "Verbesserung"
+  },
+
+  { en: "Improvement action",
+    de: "Verbesserungsmaßnahme"
+  },
   { en: "Influencing Factor",
     de: "Einflussfaktor"
   },
@@ -302,6 +314,9 @@
     },
   { en: "Non-profit",
     de: "Gemmeinnützig"
+    },
+    { en: "Normal case",
+    de: "Normalfall"
     },
   { en: "Notification",
     de: "Benachrichtigung"

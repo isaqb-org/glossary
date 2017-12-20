@@ -267,7 +267,8 @@ Data or behavioral integrity:
 * Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
 * Degree, to which a system behaves coherent, replicable and reasonable.
 
-See also [consistency](#term-consistency)
+See also [consistency](#term-consistency).
+
 {#term-interface}
 ### Interface
 
