@@ -22,6 +22,16 @@ Errors or omissions can also be reported in our issue tracker on
 [Github](https://github.com/isaqb-org/glossary/issues),
 where the authors maintain the original sources for this book.
 
+
+## Personal Comments
+
+Several of the terms contained in this book have been commented by one or several authors:
+
+
+D> ###### Comment (Gernot Starke)
+D> Some terms might be especially important, or sometimes there are some subtle aspects involved. Comments like these give a personal opinion and do **not** necessarily reflect the iSAQB.
+D>
+
 {pagebreak}
 
 ## Terms Can Be Referenced
