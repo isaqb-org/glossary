@@ -40,7 +40,7 @@ a Dropbox folder. Authors and contributors are given access to this Dropbox.
 The tables are generated
 by a small Groovy script from a JSON file. Its format is a simple list
 with map entries, in file `translations/isaqb-terms-translated.json`.
-
+ 
 
 ```
 [
