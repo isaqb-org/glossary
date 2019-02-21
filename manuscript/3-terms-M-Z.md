@@ -523,6 +523,13 @@ In architecture documentation: A place where artifacts are stored before an auto
 In [Domain-Driven Design](#term-DDD): Repository is a building block of [Domain-Driven Design](#term-DDD). A repository hides technical details of the infrastructure layer to the domain layer. Repositories return [entities](#term-entity) that are persisted in the database.
 
 
+{#term-resource-utilization-quality-attribute}
+### Resource Utilization Quality Attribute
+Degree to which the amounts and types of resources used by a product or system, when performing its functions, meet requirements.
+Is a sub-characteristic of: [performance efficiency](#term-performance-efficiency-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010
+
 {#term-rm-odp}
 ### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 
