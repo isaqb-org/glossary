@@ -10,8 +10,17 @@
 
 [
  
+  { en: "Accessibility",
+    de: ["Barrierefreiheit", "Zugänglichkeit"]
+  },
+  { en: "Accountability",
+    de: ["Rechenschaft", "Verantwortlichkeit"]
+  },
   { en: "Action",
     de: "Maßnahme"
+  }, 
+  { en: "Adaptability",
+    de: "Adaptierbarkeit"
   }, 
   { en: "Adaption",
     de: "Anpassung"
@@ -19,11 +28,17 @@
   { en: "Adequacy",
     de: "Angemessenheit"
   },
+  { en: "Analysability",
+    de: "Analysierbarkeit"
+  }, 
   { en: "Approach",
     de: "Ansatz"
   },
   { en: "Appropriateness",
     de: "Angemessenheit"
+  },
+  { en: "Appropriateness Recognizability",
+    de: ["Erkennbarkeit der Brauchbarkeit", "Verständlichkeit"]
   },
   { en: "Architectural objective",
     de: "Architekturziel"
@@ -61,6 +76,9 @@
   { en: "Attack Tree",
     de: "Angriffsbäume"
   },
+  { en: "Authenticity",
+    de: "Authentifizierbarkeit"
+  }, 
   { en: "Availability",
     de: "Verfügbarkeit"
   },
@@ -83,6 +101,9 @@
   { en: "Cabinet (as methaphor for template)",
     de: "Schrank (als Metapher für Template)"
   },
+  { en: "Capacity",
+    de: "Kapazität"
+  }, 
   {en: "Cash audit",
    de: "Rechnungsprüfung"
   },
@@ -107,6 +128,9 @@
   { en: "Commensurability"
     de: ["Angemessenheit","Messbarkeit","Vergleichbarkeit"]
   },
+  { en: "Compatibility",
+    de: "Kompatibilität"
+  }, 
   { en: "Compliance",
     de: ["Erfüllung", "Einhaltung"]
   },
@@ -131,6 +155,9 @@
   {en: "Coupling",
    de: ["Kopplung", "Abhängigkeit"]
  },
+  { en: "Co-Existence",
+    de: "Koexistenz"
+  }, 
   { en: "Crosscutting",
     de: "Querschnittlich"
   },
@@ -230,9 +257,24 @@
   {en: "Executive board",
    de: "Vorstand"
   },
+  { en: "Fault Tolerance",
+    de: "Fehlertoleranz"
+  }, 
   { en: "Fees rules and regulations",
     de: "Gebührenordnung"
     },
+  { en: "Functional Appropriateness",
+    de: "Funktionale Angemessenheit"
+  }, 
+  { en: "Functional Completeness",
+    de: "Funktionale Vollständigkeit"
+  }, 
+  { en: "Functional Correctness",
+    de: "Funktionale Korrektheit"
+  }, 
+  { en: "Functional Suitability",
+    de: "Funktionale Eignung"
+  }, 
   {en: "General meeting",
    de: "Mitgliederversammlung"
   },
@@ -250,6 +292,9 @@
   { en: "Information hiding principle",
     de: "Geheimnisprinzip"
   },
+  { en: "Installability",
+    de: "Installierbarkeit"
+  }, 
   { en: "Integrity",
     de: "Integrität"
   },
@@ -262,7 +307,12 @@
   {en: "Interface description",
    de: ["Schnittstellenbeschreibung", "Schnittstellendokumentation"]
  },
-
+  { en: "Interoperability",
+    de: "Interoperabilität"
+  }, 
+  { en: "Learnability",
+    de: "Erlernbarkeit"
+  }, 
   { en: "Learning goal",
     de: "Lernziel"
   },
@@ -284,6 +334,12 @@
   { en: "Local court",
     de: "Amtsgericht"
   },
+  { en: "Maintainability",
+    de: "Wartbarkeit"
+  }, 
+  { en: "Maturity",
+    de: "Reifegrad"
+  }, 
   { en: "Means for describing",
     de: "Beschreibungsmittel"
   },
@@ -300,12 +356,18 @@
     en: "message-driven",
     de: "Nachrichten-zentrisch"
   },
+  { en: "Modifiability",
+    de: "Modifizierbarkeit"
+  }, 
   { en: "Module",
     de: ["Komponente", "Modul", "Baustein"]
   },
   { en: "Modeling Tool",
     de: "Modellierungswerkzeug"
   },
+  { en: "Modularity",
+    de: "Modularität"
+  }, 
   { en: "Node",
     de: "Knoten"
   },
@@ -315,6 +377,9 @@
   { en: "Non-profit",
     de: "Gemmeinnützig"
     },
+  { en: "Non-repudiation",
+    de: "Nichtabstreitbarkeit"
+  }, 
     { en: "Normal case",
     de: "Normalfall"
     },
@@ -324,6 +389,9 @@
   { en: "Objective",
     de: "Ziel"
   },
+  { en: "Operability",
+    de: "Bedienbarkeit"
+  }, 
   { en: "Operational processes",
     de: "Betriebsprozesse (von Software)"
   },
@@ -333,9 +401,15 @@
   { en: "Pattern language",
     de: ["Mustersprache", "Musterfamilie"]
  },
+  { en: "Performance Efficiency",
+    de: ["Leistungseffizienz", "Performance"]
+  },
   { en: "Perspective",
     de: "Perspektive"
   },
+  { en: "Portability",
+    de: "Portierbarkeit"
+  }, 
   { en: "Principle",
     de: ["Prinzip", "Konzept"]
   },
@@ -354,6 +428,9 @@
   { en: "Real-time system",
     de: "Echtzeitsystem"
  },
+  { en: "Recoverability",
+    de: "Widerherstellbarkeit"
+  }, 
  { en: "Registered trademark",
    de: "Marke (gesetzlich geschützt)"
  },
@@ -363,6 +440,12 @@
   { en: "Relationship (kind of)",
     de: "Beziehungsart"
   },
+  { en: "Reliability",
+    de: "Zuverlässigkeit"
+  }, 
+  { en: "Replaceability",
+    de: "Austauschbarkeit"
+  }, 
   { en: "Repository",
     de: "Ablage"
   },
@@ -376,6 +459,9 @@
   { en: "Resolution",
     de: "Beschluss"
   },
+  { en: "Resource Utilization",
+    de: "Ressourcenverbrauch"
+  }, 
   { en: "Responsibility",
     de: "Verantwortlichkeit"
   },
@@ -383,6 +469,9 @@
     en: "responsive",
     de: "reaktionsfähig"
   },
+  { en: "Reusability",
+    de: "Wiederverwendbarkeit"
+  }, 
   {en: "Rights of use",
    de: "Nutzungsrecht"
   },
@@ -392,6 +481,9 @@
   { en: "Runtime view",
     de: "Laufzeitsicht"
   },
+  { en: "Security",
+    de: "Sicherheit"
+  }, 
   { en: "Security Goals",
     de: ["Schutzziele", "Sachziele"]
   },
@@ -419,10 +511,15 @@
   { en: "Term",
     de: "Begriff"
   },
+  { en: "Testability",
+    de: "Testbarkeit"
+  }, 
   { en: "Thriftyness",
     de: ["Sparsamkeit", "Wirtschaftlichkeit"]
   },
-
+  { en: "Time Behaviour",
+    de: "Zeitverhalten"
+  }, 
   { en: "Tools",
     de: ["Arbeitsmittel", "Werkzeug"]
     fr: "Outils"
@@ -443,6 +540,15 @@
     en: "Ubiquitous language",
     de: "Allgegenwärtige Sprache"
   },
+  { en: "Usability",
+    de: ["Benutzbarkeit", "Benutzerfreundlichkeit"]
+  },
+  { en: "User Error Protection",
+    de: "Schutz vor Fehlbedienung"
+  }, 
+  { en: "User Interface Aesthetics",
+    de: "Ästhetik der Benutzeroberfläche"
+  }, 
   { en: "Uses relationship",
     de: ["Benutzt-Beziehung", "Nutzungsbeziehung"]
   },
