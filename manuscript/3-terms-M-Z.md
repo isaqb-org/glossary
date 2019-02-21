@@ -843,6 +843,13 @@ structure without prescribing the content of these single files.
   A well known example of such templates is [arc42](http://arc42.de)
 
 
+{#term-testability-quality-attribute}
+### Testability Quality Attribute
+Degree of effectiveness and efficiency with which test criteria can be established for a system, product or component and tests can be performed to determine whether those criteria have been met.
+Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010
+
 {#term-tls}
 ### TLS
 
