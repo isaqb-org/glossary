@@ -184,6 +184,13 @@ or complicated building block (the _provider_) without any modifications to the 
 In [Domain-Driven Design](#term-DDD): A factory encapsulates the creation of [aggregates](#term-aggregate), [entities](#term-entity), and [value objects](#term-value-object). Factories work exclusively in the domain and have no access to technical building blocks (e.g. a database).
 
 
+{#term-fault-tolerance-quality-attribute}
+### Fault Tolerance Quality Attribute
+Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
+Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010
+
 {#term-filter}
 ### Filter
 
