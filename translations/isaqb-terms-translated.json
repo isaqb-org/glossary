@@ -528,7 +528,7 @@
    de: "Werkzeug-Material-Ansatz"
  },
   { en: "Tradeoff",
-    de: ["Kompromiss", "Abwägung"]
+    de: ["Kompromiss", "Abwägung", "Wechselwirkung"]
   },
   { en: "Training provider",
     de: "Schulungsanbieter"
