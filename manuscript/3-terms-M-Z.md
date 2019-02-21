@@ -3,6 +3,7 @@
 Degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements. 
 Is composed of the following sub-characteristics: [modularity](#term-modularity-quality-attribute), [reusability](#term-reusability-quality-attribute), [analysability](#term-analysability-quality-attribute), [modifiability](#term-modifiability-quality-attribute), [testability](#term-testability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-maturity-quality-attribute}
@@ -10,6 +11,7 @@ Category: Quality, ISO 25010
 Degree to which a system, product or component meets needs for reliability under normal operation.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-MFA}
@@ -70,6 +72,7 @@ the following responsibilities:
 Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-modularity-quality-attribute}
@@ -77,6 +80,7 @@ Category: Quality, ISO 25010
 Degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-module}
@@ -138,6 +142,7 @@ the _attributes_ involved directly relate to specific system _functions_
 Degree to which actions or events can be proven to have taken place, so that the events or actions cannot be repudiated later.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-notation}
@@ -170,6 +175,7 @@ in a more general way as _plugins_.
 Degree to which a product or system has attributes that make it easy to operate and control.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-owasp}
@@ -234,6 +240,7 @@ Resources can include other software products, the software and hardware configu
 Is composed of the following sub-characteristics: [time behaviour](#term-time-behaviour-quality-attribute), [resource utilization](#term-resource-utilization-quality-attribute), [capacity](#term-capacity-quality-attribute).
 
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-perspective}
@@ -299,6 +306,7 @@ with its environment.
 Degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another.
 Is composed of the following sub-characteristics: [adaptability](#term-adaptability-quality-attribute), [installability](#term-installability-quality-attribute), [replaceability](#term-replaceability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-posa}
@@ -491,6 +499,7 @@ Category: Security
 Degree to which, in the event of an interruption or a failure, a product or system can recover the data directly affected and re-establish the desired state of the system.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-redesign}
@@ -518,6 +527,7 @@ Not to be confused with re*design*
 Degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.
 Is composed of the following sub-characteristics: [maturity](#term-maturity-quality-attribute), [availability](#term-availability-quality-attribute), [fault tolerance](#term-fault-tolerance-quality-attribute), [recoverability](#term-recoverability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 
@@ -535,6 +545,7 @@ creation or inheritance.
 Degree to which a product can replace another specified software product for the same purpose in the same environment.
 Is a sub-characteristic of: [portability](#term-portability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-repository}
@@ -556,6 +567,7 @@ Category: Quality, ISO 25010
 Degree to which an asset can be used in more than one system, or in building other assets.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-reuse-release-equivalence-principle}
@@ -667,6 +679,7 @@ Category: Security
 Degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.
 Is composed of the following sub-characteristics: [confidentiality](#term-confidentiality-quality-attribute), [integrity](#term-integrity-quality-attribute), [non-repudiation](#term-non-repudiation-quality-attribute), [accountability](#term-accountability-quality-attribute), [authenticity](#term-authenticity-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-self-contained-system}
@@ -918,6 +931,7 @@ Category: Quality, ISO 25010
 Degree to which the response and processing times and throughput rates of a product or system, when performing its functions, meet requirements.
 Is a sub-characteristic of: [performance efficiency](#term-performance-efficiency-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-tls}

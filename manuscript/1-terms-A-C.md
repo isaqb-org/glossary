@@ -24,6 +24,7 @@ Category: Metric
 Degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-acl}
@@ -43,6 +44,7 @@ Category: Security
 Degree to which the actions of an entity can be traced uniquely to the entity.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-accreditation} 
@@ -78,6 +80,7 @@ Category: Design-Principle
 Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.
 Is a sub-characteristic of: [portability](#term-portability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-adapter}
@@ -110,6 +113,7 @@ Category: Foundation
 Degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts, or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-appropriateness}
@@ -123,6 +127,7 @@ Category: Quality, ISO 25010
 Degree to which users can recognize whether a product or system is appropriate for their needs.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-arc42}
@@ -401,6 +406,7 @@ Category: Security
 Degree to which the identity of a subject or resource can be proved to be the one claimed.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-authorization}
@@ -431,6 +437,7 @@ Category: Security
 Degree to which a system, product or component is operational and accessible when required for use.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010, Security
 
 {#term-blackbox}
@@ -535,6 +542,7 @@ Category: Security
 Degree to which the maximum limits of a product or system parameter meet requirements.
 Is a sub-characteristic of: [performance efficiency](#term-performance-efficiency-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-cardinality}
@@ -642,6 +650,7 @@ Category: Design-Principle
 Degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment.
 Is composed of the following sub-characteristics: [co-existence](#term-co-existence-quality-attribute), [interoperabilty](#term-interoperability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-complexity}
@@ -711,6 +720,7 @@ Category: Security
 Degree to which a product or system ensures that data are accessible only to those authorized to have access.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-constraint}
@@ -745,6 +755,7 @@ Neighbors can either be other software, hardware (like sensors), humans, user-ro
 Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
 Is a sub-characteristic of: [compatibility](#term-compatibility-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-correspondence}

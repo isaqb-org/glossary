@@ -188,6 +188,7 @@ In [Domain-Driven Design](#term-DDD): A factory encapsulates the creation of [ag
 Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-filter}
@@ -208,6 +209,7 @@ Graphical notation for modeling and documenting software systems. From their web
 Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-functional-completeness-quality-attribute}
@@ -215,6 +217,7 @@ Category: Quality, ISO 25010
 Degree to which the set of functions covers all the specified tasks and user objectives.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-functional-correctness-quality-attribute}
@@ -222,6 +225,7 @@ Category: Quality, ISO 25010
 Degree to which a product or system provides the correct results with the needed degree of precision.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-functional-suitability-quality-attribute}
@@ -229,6 +233,7 @@ Category: Quality, ISO 25010
 Degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions. 
 Is composed of the following sub-characteristics: [functional completeness](#term-functional-completeness-quality-attribute), [functional correctness](#term-functional-correctness-quality-attribute), [functional appropriateness](#term-functional-appropriateness-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-gateway}
@@ -289,6 +294,7 @@ attributes of [blackboxes](#term-blackbox). Separates interface from implementat
 Degree of effectiveness and efficiency with which a product or system can be successfully installed and/or uninstalled in a specified environment.
 Is a sub-characteristic of: [portability](#term-portability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-integrity}
@@ -313,6 +319,7 @@ See also [consistency](#term-consistency).
 Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010, Security
 
 {#term-interface}
@@ -332,6 +339,7 @@ ones so that clients will only need to know about methods that they actually use
 Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
 Is a sub-characteristic of: [compatibility](#term-compatibility-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-isaqb}
@@ -403,6 +411,7 @@ Layers are related to each other by the ordered relation _allowed to use_.
 Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 Category: Quality, ISO 25010
 
 {#term-liskov-substitution-principle}
