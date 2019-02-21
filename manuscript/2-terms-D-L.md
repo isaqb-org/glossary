@@ -398,6 +398,13 @@ Grouping of building blocks or components that (together) offer a
 cohesive set of services to other layers.
 Layers are related to each other by the ordered relation _allowed to use_.
 
+{#term-learnability-quality-attribute}
+### Learnability Quality Attribute
+Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
+Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010
+
 {#term-liskov-substitution-principle}
 ### Liskov Substitution Principle
 
