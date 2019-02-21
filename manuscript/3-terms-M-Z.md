@@ -472,23 +472,6 @@ Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
-{#term-registry}
-### Registry
-
-"A well-known object that other objects can use to find common objects and services." (quoted from
-  [PoEAA](http://martinfowler.com/eaaCatalog/registry.html)). Often implemented as a _Singleton_ (also a
-    well-known design pattern.)
-
-
-{#term-relationship}
-### Relationship
-
-Generic term denoting some kind of dependency between elements of
-an architecture. Different types of relationship are used within
-architectures, e.g. call, notification, ownership, containment,
-creation or inheritance.
-
-
 {#term-redesign}
 ### Redesign
 The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring.
@@ -501,12 +484,30 @@ A term denoting the improvement of software units by changing their internal str
 Not to be confused with re*design*
 
 
+{#term-registry}
+### Registry
+
+"A well-known object that other objects can use to find common objects and services." (quoted from
+  [PoEAA](http://martinfowler.com/eaaCatalog/registry.html)). Often implemented as a _Singleton_ (also a
+    well-known design pattern.)
+
+
 {#term-reliability-quality-attribute}
 ### Reliability Quality Attribute
 Degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.
 Is composed of the following sub-characteristics: [maturity](#term-maturity-quality-attribute), [availability](#term-availability-quality-attribute), [fault tolerance](#term-fault-tolerance-quality-attribute), [recoverability](#term-recoverability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
+
+
+{#term-relationship}
+### Relationship
+
+Generic term denoting some kind of dependency between elements of
+an architecture. Different types of relationship are used within
+architectures, e.g. call, notification, ownership, containment,
+creation or inheritance.
+
 
 {#term-repository}
 ### Repository
