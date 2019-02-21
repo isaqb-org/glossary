@@ -299,9 +299,7 @@ Various meanings:
 
 Category: Security
 
-One of the basic [Security Goals](#term-security-goals) which means
-maintaining and assuring accuracy and completeness of data. Usually this is
-achived by the usage of cryptographic algorithms to create a digital signature.
+One of the basic [Security Goals](#term-security-goals) which means maintaining and assuring accuracy and completeness of data. Usually this is achieved by the usage of cryptographic algorithms to create a digital signature.
 
 Category: Fundamental
 
@@ -310,6 +308,13 @@ Data or behavioral integrity:
 * Degree, to which a system behaves coherent, replicable and reasonable.
 
 See also [consistency](#term-consistency).
+
+{#term-integrity-quality-attribute}
+### Integrity Quality Attribute
+Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
+Is a sub-characteristic of: [security](#term-security-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010, Security
 
 {#term-interface}
 ### Interface
