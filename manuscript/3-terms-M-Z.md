@@ -501,6 +501,13 @@ A term denoting the improvement of software units by changing their internal str
 Not to be confused with re*design*
 
 
+{#term-reliability-quality-attribute}
+### Reliability Quality Attribute
+Degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.
+Is composed of the following sub-characteristics: [maturity](#term-maturity-quality-attribute), [availability](#term-availability-quality-attribute), [fault tolerance](#term-fault-tolerance-quality-attribute), [recoverability](#term-recoverability-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Category: Quality, ISO 25010
+
 {#term-repository}
 ### Repository
 
