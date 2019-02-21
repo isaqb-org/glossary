@@ -162,6 +162,12 @@ key, previously recorded communication sessions can still not be decrypted.
 
 Category: Security
 
+{#term-performance-efficiency-quality-attribute}
+### Performance Efficiency Quality Attribute
+
+Performance relative to the amount of resources used under stated conditions. 
+
+Resources can include other software products, the software and hardware configuration of the system, and materials (e.g. print paper, storage media).
 
 {#term-perspective}
 ### Perspective
@@ -308,6 +314,11 @@ testability.
 
 synonym: _quality attribute_.
 
+{#term-quality-model}
+### Quality Model
+(from ISO 25010) A model that defines quality characteristics that relate to static properties of software and dynamic properties of the computer system and software products. The quality model provides consistent terminology for specifying, measuring and evaluating system and software product quality. 
+
+The scope of application of the quality models includes supporting specification and evaluation of software and software-intensive computer systems from different perspectives by those associated with their acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and control, and audit. 
 
 {#term-quality-requirement}
 ### Quality requirement
