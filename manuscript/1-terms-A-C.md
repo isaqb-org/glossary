@@ -19,6 +19,12 @@ Metric for the source code of object oriented systems: The number of abstract ty
 
 Category: Metric
 
+{#term-accessibility-quality-attribute}
+### Accessibility Quality Attribute
+Accessibility. Degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
+Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
 {#term-acl}
 ### ACL
 Access Control Lists are a way to organize and store permissions of
