@@ -4,8 +4,8 @@
   Abbreviations:
   en: English
   de: German
-  fr: French
-  sp: Spanish
+  fr: French (currently not supported)
+  sp: Spanish (currently not supported)
   ******************************************* */
 
 [
@@ -522,7 +522,6 @@
   }, 
   { en: "Tools",
     de: ["Arbeitsmittel", "Werkzeug"]
-    fr: "Outils"
   },
   {en: "Tools-and-material-approach",
    de: "Werkzeug-Material-Ansatz"
