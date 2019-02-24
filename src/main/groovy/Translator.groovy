@@ -201,7 +201,7 @@ class Translator {
     }
 
     /*
-    ** As a convention, we insert a Footnote in the EN-DE translation table.
+    ** As a convention, we insert a Footnote in the translation table.
      */
 
     static final String createDateAsMarkDownFootnote(int nrOfTerms) {
