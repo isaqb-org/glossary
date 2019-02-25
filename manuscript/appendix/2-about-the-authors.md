@@ -124,3 +124,23 @@ He is not committed to one specific technology or programming language, but has 
 
 ## Roger Rhoades
 
+Roger Rhoades is founder of [Albion](https://albionacademy.de), a training and consulting company in Germany. 
+
+Roger has a proven ability to translate digital business strategies into concrete business capabilities, enabling market-leading, multi-national corporations to put their transformation plans into daily practice. 
+
+Roger has over 25 years of practical experience in the field of enterprise, business, and software architecture as well as management of international teams and projects. This practical experience is integrated into his training courses to ensure that class participants not only understand the theoretical content, but also the real-world challenges of its implementation.
+
+With the acquired methods, processes, and knowledge from the Albion training courses, customers are well-prepared to exploit their digitalization potential and successfully transform their business.
+
+His unique combination of experiences as architect, manager, trainer, and coach help him to successfully and effectively identify and explain complex problems, develop innovative and suitable strategies, lead the corresponding implementation, and support the stakeholders throughout the entire change process.
+
+Roger's focus areas as consultant and trainer are as follows:
+* Strategy development and implementation
+* Enterprise, solution, and software architecture 
+* Soft skills, team leadership and coaching in agile environments
+* Legacy modernization
+
+Since 2012, Roger regularly presents at international conferences (e.g. EAMKon, Lean42 EAM, IT Strategy and Governance).
+
+Since 2014, Roger has been an active member of the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)). He actively supports the evolution of the foundation and advanced curricula, exam questions, and case studies in addition to the iSAQB glossary.
+
