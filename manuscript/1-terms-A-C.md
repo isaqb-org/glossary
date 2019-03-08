@@ -156,10 +156,9 @@ quality attributes?
 
 See [Assessment](#term-assessment)
 
-  In our opinion the terms _architecture analysis_ or _architecture assessment_ are more
-  appropriate, as _evaluation_ contains _value_, implying numerical
-  assessment (which is usually only part of what you should do in architecture analysis).
-
+D> ###### Comment (Gernot Starke)
+D> In my opinion the terms _architecture analysis_ or _architecture assessment_ are more appropriate, as _evaluation_ contains _value_, implying numerical assessment or metrics, which is usually only _part_ of what you should do in architecture analysis.
+D>
 
 {#term-architecture-framework}
 ### Architecture framework
@@ -181,10 +180,9 @@ Category: ISO-IEC-IEEE-42010
 ### Architecture goal
 
 
-(syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system
-needs to achieve and the quality attribute is understood to be an architectural issue.
+(syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system needs to achieve and the quality attribute is understood to be an architectural issue.
 
-Hence, the architecture needs to be designed in a way to fullfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
+Hence, the architecture needs to be designed in a way to fulfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
 
 Category: Fundamental
 
@@ -647,6 +645,13 @@ Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
+{#term-constraint}
+### Constraint
+A restriction on the degree of freedom you have in creating, designing, implementing or otherwise providing a solution. Constraints are often _global requirements_, such as limited development resources or a decision by senior management that restricts the way you plan, design, develop or operate a system.
+
+Based upon a [definition from Scott Ambler](http://agilemodeling.com/artifacts/constraint.htm)
+
+
 {#term-context}
 ### Context (of a system)
 
@@ -660,7 +665,9 @@ Shows the complete system as one [blackbox](#term-blackbox) within its environme
 a business perspective (_business context_) or from a technical or deployment
 perspective (_technical context_). The context view (or context diagram) shows
 the boundary between a system  and its environment, showing the entities in
-its environment (its neighbours) with which it interacts.
+its environment (its neighbors) with which it interacts.
+
+Neighbors can either be other software, hardware (like sensors), humans, user-roles or even organizations using the system.
 
   See [Context](#term-context).
 
