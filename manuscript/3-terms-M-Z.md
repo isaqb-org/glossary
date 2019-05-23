@@ -86,7 +86,7 @@ Category: Quality, ISO 25010
 
   1. structural element or building block, usually regarded as a _black box_ with
   a clearly defined responsibility. It encapsulates data and code and
-  provides oublic interfaces, so clients can access its functionality.
+  provides public interfaces, so clients can access its functionality.
   This meaning has first been
   described in a groundbreaking and fundamental paper from David L. Parnas:
   [On the Criteria to be Used in Decomposing Software into Modules](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
