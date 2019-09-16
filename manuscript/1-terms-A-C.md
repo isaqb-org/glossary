@@ -413,7 +413,7 @@ Category: Foundation
 {#term-bottom-up}
 ### Bottom-up Approach
 
-Direction of work f(or strategy of procesing) or modeling and design.
+Direction of work (or strategy of processing) for modeling and design.
 Starting with something detailed or concrete,
 working towards something more general or abstract.
 
