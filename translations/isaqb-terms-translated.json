@@ -16,6 +16,12 @@
   { en: "Accountability",
     de: ["Rechenschaft", "Verantwortlichkeit"]
   },
+  { en: "Accreditation contract",
+    de: "Akkreditierungsvertrag"
+   },
+   { en: "Accreditation fee"
+    de: "Akkreditierungsgebühr"
+    },
   { en: "Action",
     de: "Maßnahme"
   }, 
@@ -204,17 +210,7 @@
   {en: "Domain-related architecture",
    de: "fachliche Architektur"
  },
-  /* suggested removals (overly trivial)
-  { en: "Document",
-    de: "Dokument"
-  },
-  { en: "Documentation",
-    de: "Dokumentation"
-  },
-  { en: "Documentation Build",
-    de: "Dokumentations-Build"
-  },
-  */
+  
   { en: "Drawing Tool",
     de: "Mal-/Zeichenprogramm"
   },
@@ -319,18 +315,12 @@
   { en: "Licensee",
     de: "Lizenznehmer"
     },
-  { en: "License fee",
-    de: "Lizenzgebühr"
+  { en: "License fee"
+    de: "Akkreditierungsgebühr"
     },
-  { en: "License holder",
-    de: "Lizenznehmer"
-  },
   { en: "Licensing agreement",
-    de: ["Lizenzvertrag", "Lizenzvereinbarung"]
+    de: ["Lizenzvertrag", "Lizenzvereinbarung", "Akkreditierungsvertrag"]
    },
-  { en: "Licensor",
-    de: "Lizenzgeber"
-    },
   { en: "Local court",
     de: "Amtsgericht"
   },
@@ -375,7 +365,7 @@
     de: "Einfache Lizenz"
     },
   { en: "Non-profit",
-    de: "Gemmeinnützig"
+    de: "Gemeinnützig"
     },
   { en: "Non-repudiation",
     de: "Nichtabstreitbarkeit"

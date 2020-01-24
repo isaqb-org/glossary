@@ -45,6 +45,15 @@ Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
+{#term-accredited-training-provider}
+### Accredited Training Provider
+[Training Provider](#term-training-provider) with valid [Accreditation](#term-accreditation) issued by the iSAQB®.
+ 
+{#term-accreditation} 
+### Accreditation
+Determination procedure and certification by an authorised accreditation body (here the iSAQB(R)) confirming that the applicant meets the organisational, technical and qualitative requirements as a TRAINING PROVIDER.
+
+
 {#term-adaptability-quality-attribute}
 ### Adaptability Quality Attribute
 Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.

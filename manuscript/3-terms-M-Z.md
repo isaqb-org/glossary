@@ -914,6 +914,19 @@ speed.
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
 
+{#term-trainer}
+### Trainer
+A trainer is a person who conducts a training course himself, provided that this is carried out within the framework of a accreditation granted to an accredited training provider. Accordingly, accredited training providers may only organise and conduct CPSA training courses with accredited trainers. Only accredited training providers can apply for trainer [accreditations](#term-accreditation).
+
+{#term-training-level}
+### Training Level
+The iSAQB® CPSA education programme is divided into (currently) two Training Levels: Foundation Level and
+Advanced Level. The Training Levels should contain knowledge that builds upon one another. The exact relationships between each other and the contents of the Training Level are defined in the respective curricula (_syllabi_).
+ 
+{#term-training-provider}
+### Training Provider
+An organisation or person who holds the rights of use to accredited training materials or who has purchased ACCREDITATION for training materials, provides trainers and infrastructure and conducts training courses.
+
 
 {#term-ubiquitous-language}
 ### Ubiquitous language
