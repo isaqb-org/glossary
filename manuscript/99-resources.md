@@ -257,11 +257,11 @@ Shaw, Mary/Garlan, David:
 _Software Architecture: Perspectives on an Emerging Discipline_,
 Prentice Hall, 1996
 
-{#ref-starke-2016a}
-##### Starke-2016
+{#ref-starke-esa-en}
+##### Starke-2018
 
 Starke, Gernot:
 _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Study Guide_
-Leanpub, 2016. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
+Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
 
-A study guide for the CPSA-Foundation examination, not a comprehensive textbook!
+A study guide for the CPSA-Foundation examination.
