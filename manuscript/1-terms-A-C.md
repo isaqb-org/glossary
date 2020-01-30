@@ -45,13 +45,21 @@ Is a sub-characteristic of: [security](#term-security-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
-{#term-accredited-training-provider}
-### Accredited Training Provider
-[Training Provider](#term-training-provider) with valid [Accreditation](#term-accreditation) issued by the iSAQB®.
- 
 {#term-accreditation} 
 ### Accreditation
-Determination procedure and certification by an authorised accreditation body (here the iSAQB(R)) confirming that the applicant meets the organisational, technical and qualitative requirements as a TRAINING PROVIDER.
+Determination procedure and certification by an authorised accreditation body (here the iSAQB(R)) confirming that the applicant meets the organizational, technical and qualitative requirements as a [training provider](#term-training-provider).
+
+
+{#term-accreditation-body}
+### Accreditation Body
+The application for [accreditation](#term-accreditation) must be submitted through the *accreditation body* designated by the iSAQB. The accreditation body is the contact point for all questions of the training provider during the [accreditation](#term-accreditation). 
+It coordinates the accreditation procedure, carries out the formal assessment of the documents submitted and organises the technical assessment in the [AUDIT WORKING GROUP](#term-audit-working-group).
+
+
+{#term-accredited-training-provider}
+### Accredited Training Provider
+[Training Provider](#term-training-provider) with valid [accreditation](#term-accreditation) issued by the iSAQB(R).
+ 
 
 
 {#term-adaptability-quality-attribute}
@@ -353,6 +361,12 @@ See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/aca
 
 Category: Security
 
+{#term-audit-working-group}
+### Audit Working Group: 
+The *audit working group* is responsible for the technical evaluation of training materials as well as for the monitoring and evaluation of training courses. 
+The members of the audit working group, authorized by the iSAQB(R), are independent of the [training provider](#term-training-provider). 
+The result of the assessments (the respective accreditation recommendation of the AUDIT WORKING GROUP) will be communicated to the [training provider](#term-training-provider) by the [accreditation body](#term-accreditation-body).
+ 
 
 {#term-authentication}
 ### Authentication
@@ -517,6 +531,12 @@ Category: Quality, ISO 25010
 Describes the quantitative rating of an association or relationship.
 It specifies the number of participants (objects, instances, modules etc)
 of the association.
+
+{#term-certification-program}
+### Certification Program 
+The iSAQB(R) CPSA(R) certification program, including its organizational components, documents (training documents, contracts) and processes.
+
+The copyrighted abbreviation and term CPSA(R) means *Certified Professional for Software Architecture*.
 
 {#term-cia-triad}
 ### CIA Triad
@@ -728,8 +748,8 @@ and vice versa. Low coupling is often a sign of a well-structured system.
 When combined with high cohesion, it supports understandability and maintainability.
 
 {#term-cpsa}
-### CPSA
-Certified Professional for Software Architecture® – the common name for different levels of certification issued by the [iSAQB](#term-isaqb). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
+### CPSA(R)
+Certified Professional for Software Architecture(R) – the common name for different levels of certification issued by the [iSAQB](#term-isaqb). The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
 
 {#term-cqrs}
 ### CQRS
