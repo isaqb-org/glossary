@@ -63,7 +63,7 @@ It coordinates the accreditation procedure, carries out the formal assessment of
 {#term-acyclic-dependencies-principle}
 ### Acyclic Dependencies Principle
 
-A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
 
 Category: Design-Principle
 

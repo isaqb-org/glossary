@@ -188,7 +188,7 @@ Category: Security
 {#term-package-principles}
 ### Package Principles
 
-Fundamental heuristics for designing the large-scale structure of object-oriented software systems ([Martin-2003](#ref-martin-2003)):
+Fundamental heuristics for designing the structure of object-oriented software systems ([Martin-2003](#ref-martin-2003)):
 
 * [Reuse/Release Equivalence Principle (REP)](#term-reuse-release-equivalence-principle)
 * [Common Closure Principle (CCP)](#term-common-closure-principle)
@@ -199,7 +199,9 @@ Fundamental heuristics for designing the large-scale structure of object-oriente
 
 Robert C. Martin, who coined the "SOLID" acronym, also [introduced the Package Principles]([Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)) and frequently reiterated both in conjunction. Whereas the SOLID Principles target the level of classes, the Package Principles target the level of larger components that contain multiple classes and might get deployed independently.
 
-Package- and SOLID Principles share the goal of keeping software maintainable by producing loosely coupled components of high cohesion, thereby avoiding explicit symptoms of degraded design: rigidity, fragility, immobility, and viscosity.
+Package- and SOLID Principles share the explicit goal of keeping software [maintainable](#term-maintainability-quality-attribute) and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity. 
+
+While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal heuristics like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the [DIP](#term-dependency-inversion)).
 
 Category: Design-Principle
 
@@ -559,7 +561,14 @@ Category: Quality, ISO 25010
 {#term-reuse-release-equivalence-principle}
 ### Reuse/Release Equivalence Principle
 
-A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)). 
+
+It demands that distinct large components are "released" and put under version control, in particular if they are used from multiple points within the system. Even if not publicly released, such components should be extracted from the system and be provided through an external dependency manager with proper version control.
+
+The REP contains two different insights:
+
+1. On the large scale, [modularity](#term-modularity-quality-attribute) and [low coupling](#term-coupling) require more than type separation.
+2. [Reusability](#term-reusability-quality-attribute) of components (even if all "reuse" is internal) translates to overall [maintainability](#term-maintainability-quality-attribute).
 
 Category: Design-Principle
 
@@ -791,14 +800,14 @@ For some additional sources, see [Martin-SOLID](#ref-martin-solid).
 {#term-stable-abstractions-principle}
 ### Stable Abstractions Principle
 
-A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
 
 Category: Design-Principle
 
 {#term-stable-dependencies-principle}
 ### Stable Dependencies Principle
 
-A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
 
 Category: Design-Principle
 
