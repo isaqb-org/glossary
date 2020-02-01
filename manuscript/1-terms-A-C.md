@@ -59,8 +59,13 @@ It coordinates the accreditation procedure, carries out the formal assessment of
 {#term-accredited-training-provider}
 ### Accredited Training Provider
 [Training Provider](#term-training-provider) with valid [accreditation](#term-accreditation) issued by the iSAQB(R).
- 
 
+{#term-acyclic-dependencies-principle}
+### Acyclic Dependencies Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
 
 {#term-adaptability-quality-attribute}
 ### Adaptability Quality Attribute
@@ -597,6 +602,20 @@ It measures the strength of relationship between pieces of functionality within 
 
 Design pattern in which an object is used to encapsulate
 an action. This action might be invoked or executed at a later time.
+
+{#term-common-closure-principle}
+### Common Closure Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
+
+{#term-common-reuse-principle}
+### Common Reuse Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
 
 {#term-compatibility-quality-attribute}
 ### Compatibility Quality Attribute

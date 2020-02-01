@@ -556,6 +556,13 @@ Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attr
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
+{#term-reuse-release-equivalence-principle}
+### Reuse/Release Equivalence Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
+
 {#term-rm-odp}
 ### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 
@@ -780,6 +787,20 @@ SOLID (single responsibility, open-closed, Liskov substitution, interface segreg
 to improve object-oriented programming and design. The principles make it more likely that a developer will write code that is easy to maintain and extend over time.
 
 For some additional sources, see [Martin-SOLID](#ref-martin-solid).
+
+{#term-stable-abstractions-principle}
+### Stable Abstractions Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
+
+{#term-stable-dependencies-principle}
+### Stable Dependencies Principle
+
+A fundamental heuristic for designing the large-scale structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+
+Category: Design-Principle
 
 {#term-stakeholder}
 ### Stakeholder
