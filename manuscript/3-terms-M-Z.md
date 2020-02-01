@@ -185,6 +185,24 @@ the projects data survey.
 
 Category: Security
 
+{#term-package-principles}
+### Package Principles
+
+Fundamental heuristics for designing the large-scale structure of object-oriented software systems ([Martin-2003](#ref-martin-2003)):
+
+* [Reuse/Release Equivalence Principle (REP)](#term-reuse-release-equivalence-principle)
+* [Common Closure Principle (CCP)](#term-common-closure-principle)
+* [Common Reuse Principle (CRP)](#term-common-reuse-principle)
+* [Acyclic Dependencies Principle (ADP)](#term-acyclic-dependencies-principle)
+* [Stable Dependencies Principle (SDP)](#term-stable-dependencies-principle)
+* [Stable Abstractions Principle (SAP)](#term-stable-abstractions-principle)
+
+Robert C. Martin, who coined the "SOLID" acronym, also [introduced the Package Principles]([Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)) and frequently reiterated both in conjunction. Whereas the SOLID Principles target the level of classes, the Package Principles target the level of larger components that contain multiple classes and might get deployed independently.
+
+Package- and SOLID Principles share the goal of keeping software maintainable by producing loosely coupled components of high cohesion, thereby avoiding explicit symptoms of degraded design: rigidity, fragility, immobility, and viscosity.
+
+Category: Design-Principle
+
 
 {#term-pattern}
 ### Pattern
