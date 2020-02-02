@@ -321,6 +321,7 @@ Category: Quality, ISO 25010, Security
 
 Boundary across which two building blocks interact or communicate with each other.
 
+{#term-interface-segregation-principle}
 ### Interface Segregation Principle (ISP)
 
 Building blocks (classes, components) should not be forced to depend on methods they

@@ -563,7 +563,7 @@ Category: Quality, ISO 25010
 
 A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)). 
 
-It demands that distinct large components are "released" and put under version control, in particular if they are used from multiple points within the system. Even if not publicly released, such components should be extracted from the system and be provided through an external dependency manager with proper version control.
+It demands that distinct large components are "released" and under version control, in particular if our system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
 
 The REP contains two different insights:
 
