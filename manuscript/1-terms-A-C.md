@@ -612,9 +612,7 @@ an action. This action might be invoked or executed at a later time.
 {#term-common-closure-principle}
 ### Common Closure Principle
 
-A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)).
-
-It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. The subcomponents of a component should ideally have the exact same reasons to change. A change request that effects one of the subcomponents should effect all of them, but it should *not* effect anything else outside the respective component. 
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. The subcomponents of a component should ideally have the exact same reasons to change. A change request that effects one of the subcomponents should effect all of them, but it should *not* effect anything else outside the respective component. 
 
 Thereby, each expected change request would effect a minimal number of components. Or put another way: Each component would be [closed](#term-open-close-principle) to a maximum number of expected change requests. The term *expected* here signifies a few important implications:
 
