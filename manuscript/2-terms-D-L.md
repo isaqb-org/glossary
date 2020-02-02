@@ -20,8 +20,7 @@ You therefore make the creation of specific dependencies _somebody else's proble
 {#term-dependency-inversion}
 ### Dependency Inversion Principle
 
-High level elements should not depend upon low level elements. One of the SOLID
-principles, nicely explained by [Brett Schuchert](http://martinfowler.com/articles/dipInTheWild.html).
+High level (abstract) elements should not depend upon low level (specific) elements. "Details should depend upon abstractions." One of the SOLID principles, nicely explained by [Brett Schuchert](http://martinfowler.com/articles/dipInTheWild.html), and closely related to the [SDP](#term-stable-dependencies-principle) and [SAP](#term-stable-abstractions-principle).
 
 {#term-deployment}
 ### Deployment
