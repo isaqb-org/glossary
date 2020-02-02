@@ -188,7 +188,7 @@ Category: Security
 {#term-package-principles}
 ### Package Principles
 
-Fundamental heuristics for designing the structure of object-oriented software systems ([Martin-2003](#ref-martin-2003)):
+Fundamental principles for designing the structure of software systems ([Martin-2003](#ref-martin-2003)):
 
 * [Reuse/Release Equivalence Principle (REP)](#term-reuse-release-equivalence-principle)
 * [Common Reuse Principle (CRP)](#term-common-reuse-principle)
@@ -561,7 +561,7 @@ Category: Quality, ISO 25010
 {#term-reuse-release-equivalence-principle}
 ### Reuse/Release Equivalence Principle
 
-A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)). 
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). 
 
 It demands that distinct large components are "released" and under version control, in particular if our system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
 
@@ -800,14 +800,14 @@ For some additional sources, see [Martin-SOLID](#ref-martin-solid).
 {#term-stable-abstractions-principle}
 ### Stable Abstractions Principle
 
-A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)).
 
 Category: Design-Principle
 
 {#term-stable-dependencies-principle}
 ### Stable Dependencies Principle
 
-A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)).
 
 Category: Design-Principle
 
