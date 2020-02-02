@@ -201,7 +201,7 @@ Robert C. Martin, who coined the "[SOLID](#term-solid-principles)" acronym, also
 
 Package- and SOLID Principles share the explicit goal of keeping software [maintainable](#term-maintainability-quality-attribute) and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity. 
 
-While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal heuristics like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the [DIP](#term-dependency-inversion)).
+While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal principles like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the [DIP](#term-dependency-inversion)).
 
 Category: Design-Principle
 
@@ -561,7 +561,7 @@ Category: Quality, ISO 25010
 {#term-reuse-release-equivalence-principle}
 ### Reuse/Release Equivalence Principle
 
-A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that distinct large components are "released" and under version control, in particular if our system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that large components are "released" and under version control, in particular if the system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
 
 The REP contains two different insights:
 
@@ -817,7 +817,7 @@ Part of the volatility of a component is [expected](#term-common-closure-princip
 
 But stability in this context is also a function of incoming and outgoing dependencies. A component that is heavily depended on by others is harder to change and condsidered to be more stable. A component that heavily depends on others has more reasons to change and is considered to be less stable.
 
-So regarding only dependence, a component with many clients should not depend on one with many dependencies. A single component with both of these properties is also a red flag. Such a component has many reasons to change but is at the same time hard to change.
+So in regards to dependence, a component with many clients should not depend on one with many dependencies. A single component with both of these properties is also a red flag. Such a component has many reasons to change but is at the same time hard to change.
 
 Original definitions of the SDP (like [Martin-2003](#ref-martin-2003)) involve a [metric *I* of instability](https://en.wikipedia.org/wiki/Software_package_metrics). Unfortunately, that metric doesn't capture intended/inherent volatility, transitive dependence or cases like the red flag mentioned above. But we value the idea of the SPD regardless of how it can be measured.
 
