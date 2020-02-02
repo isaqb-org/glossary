@@ -798,7 +798,7 @@ For some additional sources, see [Martin-SOLID](#ref-martin-solid).
 {#term-stable-abstractions-principle}
 ### Stable Abstractions Principle
 
-A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that the abstractness of components is proportional to their stability. This is closely related to the [SDP](#term-stable-dependencies-principle), wich also explains the notion of *stability* in this context.
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that the abstractness of components is proportional to their stability. The closely related [SDP](#term-stable-dependencies-principle) also explains the notion of *stability* in this context.
 
 We want components that represent abstract concepts and responsibilities to require little or no modification because many conceptually more specific (concrete) components depend on them. And we want components that should or could not easily change to be at least abstract enough so we can extend them. This relates to the [OCP](#term-open-close-principle).
 
