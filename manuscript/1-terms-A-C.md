@@ -63,7 +63,13 @@ It coordinates the accreditation procedure, carries out the formal assessment of
 {#term-acyclic-dependencies-principle}
 ### Acyclic Dependencies Principle
 
-A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
+A fundamental heuristic for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that there be no cycles in the dependence graph of a system, which is actually a [necessity](https://en.wikipedia.org/wiki/Directed_acyclic_graph) for [*hierarchical* decomposition](https://en.wikipedia.org/wiki/Functional_decomposition).
+
+Avoiding dependence cycles is essential for [low coupling](#term-coupling) and [maintainability](#term-maintainability-quality-attribute), as *all* components in a dependence cycle effectively (even if indirectly) depend on each other, which makes it hard to understand, change or replace any part of the cycle in isolation (also see [Lilienthal-2019](#ref-lilienthal-2019)).
+
+Although Robert C. Martin ([Martin-2003](#ref-martin-2003)) expressed it in terms of large components of object-oriented software, the ADP is a *universal* heuristic. It goes back (at least) to one of the origins of software architecture, the classic 1972 paper "On the Criteria To Be Used in Decomposing Systems into Modules" ([Parnas-1972](#ref-parnas-1972)), which *concludes* "that hierarchical structure and 'clean' decomposition are two desirable but independent properties of a systemstructure."
+
+It can be argued that a dependence cycle, even before considering its various practical problems, is logically already as flawed as a [circular argument](https://en.wikipedia.org/wiki/Circular_reasoning) or [circular definition](https://en.wikipedia.org/wiki/Fallacies_of_definition#Circularity). So a cyclic structure can neither be an *appropriate* nor meaningful model of the inherent concepts, responsibilities and purpose of a system. And that divergence would virtually guarantee for problems to arise, which is exactly the point of a *principled* approach.
 
 Category: Design-Principle
 
@@ -608,7 +614,7 @@ an action. This action might be invoked or executed at a later time.
 
 A fundamental heuristic for designing the structure of object-oriented software systems (also see [Package Principles](#term-package-principles)).
 
-It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. The subcomponents of a component should ideally have the exact same reasons to change. A change request that effects one of the subcomponents should effect all of them, but it should not effect anything else outside the respective component. 
+It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. The subcomponents of a component should ideally have the exact same reasons to change. A change request that effects one of the subcomponents should effect all of them, but it should *not* effect anything else outside the respective component. 
 
 Thereby, each expected change request would effect a minimal number of components. Or put another way: Each component would be [closed](#term-open-close-principle) to a maximum number of expected change requests. The term *expected* here signifies a few important implications:
 
