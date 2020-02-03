@@ -1,5 +1,5 @@
 
-# Appendix D: About our Cause
+# Appendix C: About our Cause
 
 ![](images/42-backmatter/eff-logo-name-url.jpg)
 
