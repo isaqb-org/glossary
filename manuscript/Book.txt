@@ -39,5 +39,4 @@ generated-dont-edit/gen-tt-DE-EN.md
 
 appendix/1-about-isaqb.md
 appendix/2-about-the-authors.md
-appendix/3-also-from-the-authors.md
 appendix/4-about-our-cause.md
