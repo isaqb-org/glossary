@@ -36,7 +36,6 @@ Since then, Matthias has worked with countless software teams, helping them to g
 
 Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, and speaks at conferences for software development. 
 
-{pagebreak}
 
 ### Phillip Ghadir
 
