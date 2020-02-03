@@ -185,6 +185,26 @@ the projects data survey.
 
 Category: Security
 
+{#term-package-principles}
+### Package Principles
+
+Fundamental principles for designing the structure of software systems ([Martin-2003](#ref-martin-2003)):
+
+* [Reuse/Release Equivalence Principle (REP)](#term-reuse-release-equivalence-principle)
+* [Common Reuse Principle (CRP)](#term-common-reuse-principle)
+* [Common Closure Principle (CCP)](#term-common-closure-principle)
+* [Acyclic Dependencies Principle (ADP)](#term-acyclic-dependencies-principle)
+* [Stable Dependencies Principle (SDP)](#term-stable-dependencies-principle)
+* [Stable Abstractions Principle (SAP)](#term-stable-abstractions-principle)
+
+Robert C. Martin, who coined the "[SOLID](#term-solid-principles)" acronym, also [introduced the Package Principles]([Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)) and frequently reiterated both in conjunction. Whereas the SOLID Principles target the level of classes, the Package Principles target the level of larger components that contain multiple classes and might get deployed independently.
+
+Package- and SOLID Principles share the explicit goal of keeping software [maintainable](#term-maintainability-quality-attribute) and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity. 
+
+While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal principles like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the [DIP](#term-dependency-inversion)).
+
+Category: Design-Principle
+
 
 {#term-pattern}
 ### Pattern
@@ -538,6 +558,18 @@ Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attr
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
+{#term-reuse-release-equivalence-principle}
+### Reuse/Release Equivalence Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that large components are "released" and under version control, in particular if the system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
+
+The REP contains two different insights:
+
+1. On the large scale, [modularity](#term-modularity-quality-attribute) and [low coupling](#term-coupling) require more than type separation.
+2. [Reusability](#term-reusability-quality-attribute) of components (even if all "reuse" is internal) translates to overall [maintainability](#term-maintainability-quality-attribute).
+
+Category: Design-Principle
+
 {#term-rm-odp}
 ### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 
@@ -762,6 +794,36 @@ SOLID (single responsibility, open-closed, Liskov substitution, interface segreg
 to improve object-oriented programming and design. The principles make it more likely that a developer will write code that is easy to maintain and extend over time.
 
 For some additional sources, see [Martin-SOLID](#ref-martin-solid).
+
+{#term-stable-abstractions-principle}
+### Stable Abstractions Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that the abstractness of components is proportional to their stability. The closely related [SDP](#term-stable-dependencies-principle) also explains the notion of *stability* in this context.
+
+We want components that represent abstract concepts and responsibilities to require little or no modification because many conceptually more specific (concrete) components depend on them. And we want components that should or could not easily change to be at least abstract enough so we can extend them. This relates to the [OCP](#term-open-close-principle).
+
+The SAP can sound like a circular argument until the underlying idea shines through: *Concrete* things and concepts are naturally more volatile, specific, arbitrary and numerous than *abstract* ones. The component structure of a system simply should reflect that. General logic, the system's physical artifacts as well as its functional and technical concepts should all be in congruence.
+
+The SAP is closely related to the [SDP](#term-stable-dependencies-principle). Their combination amounts to a more general and arguably more profound version of the [DIP](#term-dependency-inversion): Specific concepts naturally depend on more *abstract* ones because they are composed or derived from more general-purpose building blocks. And dependent concepts are naturally more *specific* because they are defined by more information than their dependencies (assuming there are [no dependence cycles](#term-acyclic-dependencies-principle)).
+
+Category: Design-Principle
+
+{#term-stable-dependencies-principle}
+### Stable Dependencies Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that frequently changing components depend on more stable ones. 
+
+Part of the volatility of a component is [expected](#term-common-closure-principle) and naturally implied by its particular responsibility.
+
+But stability in this context is also a function of incoming and outgoing dependencies. A component that is heavily depended on by others is harder to change and condsidered to be more stable. A component that heavily depends on others has more reasons to change and is considered to be less stable.
+
+So in regards to dependence, a component with many clients should not depend on one with many dependencies. A single component with both of these properties is also a red flag. Such a component has many reasons to change but is at the same time hard to change.
+
+Original definitions of the SDP (like [Martin-2003](#ref-martin-2003)) involve a [metric *I* of instability](https://en.wikipedia.org/wiki/Software_package_metrics). Unfortunately, that metric doesn't capture intended/inherent volatility, transitive dependence or cases like the red flag mentioned above. But we value the idea of the SDP regardless of how it can be measured.
+
+The SDP is closely related to the [SAP](#term-stable-abstractions-principle). Their combination amounts to a version of the [DIP](#term-dependency-inversion) (more on this under [SAP](#term-stable-abstractions-principle)).
+
+Category: Design-Principle
 
 {#term-stakeholder}
 ### Stakeholder

@@ -20,8 +20,7 @@ You therefore make the creation of specific dependencies _somebody else's proble
 {#term-dependency-inversion}
 ### Dependency Inversion Principle
 
-High level elements should not depend upon low level elements. One of the SOLID
-principles, nicely explained by [Brett Schuchert](http://martinfowler.com/articles/dipInTheWild.html).
+High level (abstract) elements should not depend upon low level (specific) elements. "Details should depend upon abstractions" ([Martin-2003](#ref-martin-2003)). One of the [SOLID  principles](#term-solid-principles), nicely explained by [Brett Schuchert](http://martinfowler.com/articles/dipInTheWild.html), and closely related to the [SDP](#term-stable-dependencies-principle) and [SAP](#term-stable-abstractions-principle).
 
 {#term-deployment}
 ### Deployment
@@ -321,6 +320,7 @@ Category: Quality, ISO 25010, Security
 
 Boundary across which two building blocks interact or communicate with each other.
 
+{#term-interface-segregation-principle}
 ### Interface Segregation Principle (ISP)
 
 Building blocks (classes, components) should not be forced to depend on methods they

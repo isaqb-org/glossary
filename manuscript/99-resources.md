@@ -151,6 +151,12 @@ Kruchten, Philippe.
 _The 4+1 View Model of Architecture_,
 IEEE Software, volume 12 (6), pp 45-50, 1995.
 
+{#ref-lilienthal-2019}
+##### Lilienthal-2019
+
+Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
+3rd edition, dpunkt.verlag, 2019
+
 {#ref-martin-solid}
 ##### Martin-SOLID
 Martin, Robert C: S.O.L.I.D.

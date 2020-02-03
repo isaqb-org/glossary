@@ -59,8 +59,19 @@ It coordinates the accreditation procedure, carries out the formal assessment of
 {#term-accredited-training-provider}
 ### Accredited Training Provider
 [Training Provider](#term-training-provider) with valid [accreditation](#term-accreditation) issued by the iSAQB(R).
- 
 
+{#term-acyclic-dependencies-principle}
+### Acyclic Dependencies Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that there be no cycles in the dependence graph of a system, which is also a [necessity](https://en.wikipedia.org/wiki/Directed_acyclic_graph) for [*hierarchical* decomposition](https://en.wikipedia.org/wiki/Functional_decomposition).
+
+Avoiding dependence cycles is essential for [low coupling](#term-coupling) and [maintainability](#term-maintainability-quality-attribute), as *all* components in a dependence cycle effectively (even if indirectly) depend on each other, which makes it hard to understand, change or replace any part of the cycle in isolation (also see [Lilienthal-2019](#ref-lilienthal-2019)).
+
+Although Robert C. Martin ([Martin-2003](#ref-martin-2003)) expressed it in terms of large components of object-oriented software, the ADP is a *universal* principle. It goes back (at least) to one of the origins of software architecture, the classic 1972 paper "On the Criteria To Be Used in Decomposing Systems into Modules" ([Parnas-1972](#ref-parnas-1972)), which *concludes* that hierarchical structure along with "clean" decomposition are desirable properties of any system.
+
+It can be argued that a dependence cycle, even before considering its various practical problems, is logically already as flawed as a [circular argument](https://en.wikipedia.org/wiki/Circular_reasoning) or [circular definition](https://en.wikipedia.org/wiki/Fallacies_of_definition#Circularity). As a structural contradiction, a cycle can neither be an *appropriate* nor meaningful model of the inherent nature and purpose of a system. And this conceptual divergence alone virtually guarantees for (unpredictable) problems to arise, which is exactly what a [*principled*](#term-design-principle) approach guards against.
+
+Category: Design-Principle
 
 {#term-adaptability-quality-attribute}
 ### Adaptability Quality Attribute
@@ -597,6 +608,34 @@ It measures the strength of relationship between pieces of functionality within 
 
 Design pattern in which an object is used to encapsulate
 an action. This action might be invoked or executed at a later time.
+
+{#term-common-closure-principle}
+### Common Closure Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. 
+
+The subcomponents of a component should ideally have the exact same reasons to change. A change request that effects one of them should effect all of them, but it should *not* effect anything else outside their enclosing component.
+
+Thereby, each expected change request would effect a minimal number of components. Or put another way: Each component would be [closed](#term-open-close-principle) to a maximum number of expected change requests. The term *expected* here signifies a few important implications:
+
+1. The inherent concepts/responsibilities of a system run deeper than a surface-level description of its behaviour. 
+2. The deeper concepts/responsibilities of a system are not entirely objective but can be modeled in different ways.
+3. Determining the concepts/responsibilities of a system is not just passive describing but also active *strategizing*.
+
+This principle leads to [highly cohesive](#term-cohesion) components. It also implies [loosely coupled](#term-coupling) components because related concepts that *do* change together *do* get bundled up in the same component. When each single concept is expressed by a single component, there are no unnecessary couplings between components.
+
+Category: Design-Principle
+
+{#term-common-reuse-principle}
+### Common Reuse Principle
+
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). The subcomponents (classes) of a component should be exactly the ones that are being (re)used together. Or the other way around: Components that are being (re)used together should be packaged into a larger component. This also implies that subcomponents that are *not* frequently used in conjunction with the other subcomponents should *not* be in the respective component.
+
+This perspective helps in deciding what belongs into a component and what doesn't. It aims at a system decomposition of [loosely coupled](#term-coupling) and [highly cohesive](#term-cohesion) components.
+
+This obviously echoes the [Single Responsibility Principle](#term-single-responsibility-principle). It also echoes the [Interface Segregation Principle](#term-interface-segregation-principle), as it ensures that clients aren't forced to depend on concepts they don't care about.
+
+Category: Design-Principle
 
 {#term-compatibility-quality-attribute}
 ### Compatibility Quality Attribute
