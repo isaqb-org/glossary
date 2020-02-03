@@ -1,7 +1,7 @@
 
 # Appendix B: About the Authors
 
-## Gernot Starke
+### Gernot Starke
 
 Dr. Gernot Starke ([innoQ](http://innoq.com) Fellow) is co-founder and
 longstanding user of the (open source) [arc42](https://arc42.org)
@@ -16,58 +16,8 @@ Gernot has authored several (German) books on software architecture and related 
 He lives in Cologne with his wife (_Cheffe Uli_).
 
 
-## Matthias Bohlen
 
-Matthias Bohlen, [independent expert](http://mbohlen.de) for effective product development, started his career as a software developer in 1980. He wrote compilers for the MC68020 processor by Motorola which was quite a revolutionary device in those days where there was no IBM PC, yet. And the compilers really sold well.
-
-Since then, Matthias has worked with countless software teams, helping them to get working software out the door without losing their mind. This is what he still does today.
-
-Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, and speaks at conferences for software development. 
-
-{pagebreak}
-
-## Phillip Ghadir
-
-Member of the board of innoQ Deutschland GmbH. Since many years, Phillip consults
-clients from various industries in topics around software-architecture,
-technology and development. He co-founded the iSAQB and regularly conducts trainings
-on software-architecture.
-
-
-## Carola Lilienthal
-
-Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](https://wps.de). 
-For 20 years she has been working as a developer, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various domains, mainly finance, insurance and logistics.
-
-Since 2003, she has been analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
-
-Since 2008 Carola has been supporting the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
-
-
-## Mahbouba Gharbi
-
-Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
-
-Several years ago Mahbouba became president of the iSAQB. She lives in Mannheim with her family.
-
-## Mirko Hillert
-
-Mirko is chairman and CEO of the iSAQB GmbH, the commercial branch of the iSAQB association. He contributed the majority of the more formal terms, concerning accreditation and the like.
-
-
-## Michael Mahlberg
-
-Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in Germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
-
-Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (development) processes are in a way timeless aspects of the craft.
-
-Nowadays a lot of his work focuses on processes and human interactions – a field in which he engages both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).
-
-Michael's architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
-
-
-
-## Ulrich Becker
+### Ulrich Becker
 
 Ulrich Becker works as principal consultant at [Method Park](http://www.methodpark.de), focussing on software architecture and application lifecycle management.
 
@@ -78,7 +28,46 @@ Since 2005 Ulrich works as a trainer, consultant and coach at Method Park where 
 Ulrich is a founding member of [iSAQB e.V.](http://isaqb.org) where he contributes to the foundation level and advanced level working groups. He lives in Erlangen with his family.
 
 
-## Simon Kölsch
+### Matthias Bohlen
+
+Matthias Bohlen, [independent expert](http://mbohlen.de) for effective product development, started his career as a software developer in 1980. He wrote compilers for the MC68020 processor by Motorola which was quite a revolutionary device in those days where there was no IBM PC, yet. And the compilers really sold well.
+
+Since then, Matthias has worked with countless software teams, helping them to get working software out the door without losing their mind. This is what he still does today.
+
+Matthias is an active member of the [International Software Architecture Qualification Board](http://www.isaqb.org), writes [a blog](http://mbohlen.de), is being known in the Lean/Agile field, and speaks at conferences for software development. 
+
+{pagebreak}
+
+### Phillip Ghadir
+
+Member of the board of innoQ Deutschland GmbH. Since many years, Phillip consults
+clients from various industries in topics around software-architecture,
+technology and development. He co-founded the iSAQB and regularly conducts trainings
+on software-architecture.
+
+
+### Carola Lilienthal
+
+Dr. Carola Lilienthal is software architect at and co-founder of the [WPS Workplace-Solutions](https://wps.de). 
+For 20 years she has been working as a developer, project manager, coach, consultant and architect. Carola was an early adopter of Domain-Driven Design and agile movement and has successfully worked for numerous clients from various domains, mainly finance, insurance and logistics.
+
+Since 2003, she has been analyzing software systems in Java, C++, C#, PHP, ABAP and gives advice to development teams how to improve the sustainability of their code. Carola speaks regularly on conferences and has written various articles as well as a book on sustainable software architecture.
+
+Since 2008 Carola has been supporting the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) as an active member.
+
+
+### Mahbouba Gharbi
+
+Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
+
+Several years ago Mahbouba became president of the iSAQB. She lives in Mannheim with her family.
+
+### Mirko Hillert
+
+Mirko is chairman and CEO of the iSAQB GmbH, the commercial branch of the iSAQB association. He contributed the majority of the more formal terms, concerning accreditation and the like.
+
+
+### Simon Kölsch
 Simon Kölsch works as a senior consultant at innoQ with a focus on web architecture and security.
 
 
@@ -86,7 +75,26 @@ Simon is enthusiastic about solutions beyond the classical monolithic enterprise
 
 He is not committed to one specific technology or programming language, but has a strong JVM background.
 
-## Roger Rhoades
+
+### Michael Mahlberg
+
+Michael Mahlberg runs his own [method consultancy](http://consulting-guild.de) in Germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
+
+Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (development) processes are in a way timeless aspects of the craft.
+
+Nowadays a lot of his work focuses on processes and human interactions – a field in which he engages both professionally as well as pro bono (for example he is one of the people who started and run the [Limited WIP Society Cologne](http://lwscologne.de)).
+
+Michael's architectural work therefore tends to be dealing with the impact(s) and implications of architectural and process decisions _on each other_ and the relative optimization strategies.
+
+### Andreas Rausch
+Prof. Dr. Andreas Rausch is head of the chair for Software Systems Engineering at Clausthal University of Technology. 
+
+He received his doctorate in 2001 at the Technical University of Munich, at the chair of Prof. Dr. Manfred Broy. 
+His main research interests in the field of software systems engineering are software architectures, model-based software development and process models. 
+He has published more than 70 international papers in these areas.
+
+
+### Roger Rhoades
 
 Roger Rhoades is founder of [Albion](https://albionacademy.de), a training and consulting company in Germany. 
 
