@@ -103,3 +103,6 @@ Since 2012, Roger regularly presents at international conferences (e.g. EAMKon, 
 
 Since 2014, Roger has been an active member of the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)). He actively supports the evolution of the foundation and advanced curricula, exam questions, and case studies in addition to the iSAQB glossary.
 
+### Sebastian Fichtner
+
+Founder of [flowtoolz.com](https://www.flowtoolz.com). App engineer and consultant. Started coding in 1995. Passionate about architecture ever since. Does original apps, open source and projects for various clients. Loves Apple platforms and the language Swift.
