@@ -30,7 +30,7 @@ Category: Quality, ISO 25010
 {#term-acl}
 ### ACL
 Access Control Lists are a way to organize and store permissions of
-an [principal](#term-principal) for a specific entity. Beside implementations
+a [principal](#term-principal) for a specific entity. Beside implementations
 on an application level a typical example for an ACL is the management of file
 permissions on unix based operating systems.
 
