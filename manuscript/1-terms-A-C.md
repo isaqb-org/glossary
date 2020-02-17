@@ -395,7 +395,7 @@ factors which is known by the system:
  * ownership (e.g. security token)
  * inherence (e.g. biometrics)
 
-For a stronger authentication mutiple factors can be requested or at least
+For a stronger authentication multiple factors can be requested or at least
 factors of two categories.
 
 Category: Security
