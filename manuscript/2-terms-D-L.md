@@ -53,15 +53,17 @@ book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 ### Design principle
 
 Set of guidelines that helps software developers to design and implement better solutions,
-where "better" means the avoidance of the following three _bad characteristics_:
+where "better" could, for example, mean one or more of the following:
 
-  * Rigidity: A system or element is difficult to change because every change potentially
+  * low [coupling](#term-coupling).
+  * high [cohesion](#term-cohesion).
+  * [separation of concerns](#term-separation-of-concern) or adherence to the [Single Responsibility Principle](#term-single-responsibility-principle).
+  * adherence to the [Information Hiding](#term-information-hiding) principle.
+  * avoid *Rigidity*: A system or element is difficult to change because every change potentially
    affects many other elements.
-  * Fragility: When elements are changed, unexpected results, defects or otherwise negative consequences
+  * avoid *Fragility*: When elements are changed, unexpected results, defects or otherwise negative consequences
    occur at other elements.
-  * Immobility: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
-
-These characteristics have been formulated by Robert Martin, quoted from [OODesign.com](http://www.oodesign.com/design-principles.html)
+  * avoid *Immobility*: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
 
 
 {#term-document}
