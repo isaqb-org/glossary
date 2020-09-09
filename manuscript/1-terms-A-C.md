@@ -6,7 +6,10 @@
 {#term-abstraction}
 ### Abstraction
 
-A view of an element that focuses on the information relevant to a particular purpose and ignores the remainder of the information.
+The process of removing details to focus attention on aspects greater importance. 
+Similar in nature to the process of generalization.
+
+A view of an element that focuses on the information relevant to a particular purpose, ignoring additional or other information.
 
 Category: Design-Principle
 
