@@ -112,6 +112,9 @@ A tool to create drawings that can be used in architecture documentation. Exampl
 {#term-economicalness}
 ### Economicalness
 
+Being economical, simple, lean or achievable with relatively low effort. 
+
+
 {#term-embedded-systems}
 ### Embedded system
 
