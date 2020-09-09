@@ -21,3 +21,6 @@ build/classes/main/Translator$_build_EN_TranslationTable_closure1.class
 build/classes/main/Translator$_isItCompliantToRules_closure3.class
 build/classes/main/Translator.class
 build
+.settings/org.eclipse.buildship.core.prefs
+.classpath
+.project
