@@ -338,7 +338,7 @@ Category: Security
 
 
 {#term-pseudo-randomness}
-#### Pseudo-Randomness
+### Pseudo-Randomness
 
 Often used in conjunction with pseudo-random-number-generators. Gathering
 randomness with a high [entropy](#term-entropy) is resource intensive and
