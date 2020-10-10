@@ -136,8 +136,9 @@ Category: Quality, ISO 25010
 {#term-arc42}
 ### arc42
 
-Free [template](http://arc42.org) for communication and documentation of software architectures.
+Free template  for communication and documentation of software architectures.
 arc42 consists of 12 (optional) parts or sections.
+See <<https://arc42.org>> for details.
 
 Category: Communication, Documentation
 
@@ -243,9 +244,9 @@ See [architecture goal](#term-architecture-goal).
 
 Examples include:
 
-* Model-View-Controller
 * Layers
 * Pipes-and-Filter
+* Microservices
 * [CQRS](#term-cqrs)
 
 
