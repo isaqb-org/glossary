@@ -605,6 +605,15 @@ and active user accounts). Resource usage can be monitored, controlled, and
 reported, providing transparency for both the provider and consumer of the
 utilized service.
 
+
+{#term-co-existence-quality-attribute}
+### Co-Existence Quality Attribute
+Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
+Is a sub-characteristic of: [compatibility](#term-compatibility-quality-attribute).
+Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+
+Category: Quality, ISO 25010
+
 {#term-cohesion}
 ### [Cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29)
 
@@ -726,6 +735,18 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{#term-consistency}
+### Consistency
+
+A consistent systems does not contain contradictions.
+
+* Identical problems are solved with identical (or at least similar) approaches.
+* Degree, to which data and their relations comply to validation rules.
+* Clients (of a database) get identical results for identical queries
+(e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
+* With respect to behavior: Degree, to which a system behaves coherent, replicable and reasonable.
+
+
 {#term-constraint}
 ### Constraint
 A restriction on the degree of freedom you have in creating, designing, implementing or otherwise providing a solution. Constraints are often _global requirements_, such as limited development resources or a decision by senior management that restricts the way you plan, design, develop or operate a system.
@@ -742,24 +763,13 @@ Based upon a [definition from Scott Ambler](http://agilemodeling.com/artifacts/c
 {#term-context-view}
 ### Context View
 
-Shows the complete system as one [blackbox](#term-blackbox) within its environment, either from
-a business perspective (_business context_) or from a technical or deployment
-perspective (_technical context_). The context view (or context diagram) shows
-the boundary between a system  and its environment, showing the entities in
-its environment (its neighbors) with which it interacts.
+Shows the complete system as one [blackbox](#term-blackbox) within its environment, either from a business perspective (_business context_) or from a technical or deployment perspective (_technical context_). 
+The context view (or context diagram) shows the boundary between a system  and its environment, showing the entities in its environment (its neighbors) with which it interacts.
 
 Neighbors can either be other software, hardware (like sensors), humans, user-roles or even organizations using the system.
 
-  See [Context](#term-context).
+See [Context](#term-context).
 
-
-{#term-co-existence-quality-attribute}
-### Co-Existence Quality Attribute
-Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
-Is a sub-characteristic of: [compatibility](#term-compatibility-quality-attribute).
-Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
-
-Category: Quality, ISO 25010
 
 {#term-correspondence}
 ### Correspondence
@@ -774,18 +784,6 @@ Category: ISO-IEC-IEEE-42010
 Correspondences can be governed by correspondence rules. Correspondence rules are used to enforce relations within an architecture description (or between architecture descriptions) (as defined in ISO/IEC/IEEE 42010).
 
 Category: ISO-IEC-IEEE-42010
-
-
-{#term-consistency}
-### Consistency
-
-A consistent systems does not contain contradictions.
-
-* Identical problems are solved with identical (or at least similar) approaches.
-* Degree, to which data and their relations comply to validation rules.
-* Clients (of a database) get identical results for identical queries
-(e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
-* With respect to behavior: Degree, to which a system behaves coherent, replicable and reasonable.
 
 
 Synonym: [Integrity](#term-integrity), homogeneity, conceptual integrity.
