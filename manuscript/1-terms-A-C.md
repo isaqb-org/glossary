@@ -757,7 +757,19 @@ Based upon a [definition from Scott Ambler](http://agilemodeling.com/artifacts/c
 {#term-context}
 ### Context (of a system)
 
-"Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
+"Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](https://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
+
+Another definition from arc42:
+"System scope and context - as the name suggests - delimits your system (i.e. your scope) from all its communication partners (neighboring systems and users, i.e. the context of your system). It thereby specifies the external interfaces." (quoted from [docs.arc42.org](https://docs.arc42.org))
+
+Distinguish between _business_ and _technical_ context:
+
+* the **business** context (formerly called _logical_ context) shows the external relationships from a business- or non-technical perspective. 
+It abstracts from technical, hardware or implementation details.
+Input-/Output relationships are named by their _business meaning_ instead of their technical properties.
+
+* the **technical** context shows technical details, like transmission channel, technical protocoll, IP-address, bus or similar hardware details. 
+Embedded systems, for example, often care for hardware-related information very early in development. 
 
 
 {#term-context-view}
