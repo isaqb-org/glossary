@@ -330,7 +330,9 @@ Category: Quality, ISO 25010, Security
 {#term-interface}
 ### Interface
 
-Boundary across which two building blocks interact or communicate with each other.
+Multiple meaning depending on context:
+* Boundary across which two building blocks interact or communicate with each other.
+* Design construct that provides an abstraction of the behavior of concrete components, declares possible interactions with these components and constraints for these interactions.
 
 {#term-interface-segregation-principle}
 ### Interface Segregation Principle (ISP)
