@@ -313,9 +313,10 @@ One of the basic [Security Goals](#term-security-goals) which means maintaining 
 
 Category: Fundamental
 
-Data or behavioral integrity: 
-* Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
-* Degree, to which a system behaves coherent, replicable and reasonable.
+Data or behavioral integrity:
+
+  * Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
+  * Degree, to which a system behaves coherent, replicable and reasonable.
 
 See also [consistency](#term-consistency).
 
@@ -330,9 +331,10 @@ Category: Quality, ISO 25010, Security
 {#term-interface}
 ### Interface
 
-Multiple meaning depending on context:
-* Boundary across which two building blocks interact or communicate with each other.
-* Design construct that provides an abstraction of the behavior of concrete components, declares possible interactions with these components and constraints for these interactions.
+Multiple meanings, depending on context:
+
+  * Boundary across which two building blocks interact or communicate with each other.
+  * Design construct that provides an abstraction of the behavior of concrete components, declares possible interactions with these components and constraints for these interactions.
 
 {#term-interface-segregation-principle}
 ### Interface Segregation Principle (ISP)
