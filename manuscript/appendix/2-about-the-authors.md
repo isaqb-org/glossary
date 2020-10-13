@@ -71,6 +71,8 @@ Simon is enthusiastic about solutions beyond the classical monolithic enterprise
 
 He is not committed to one specific technology or programming language, but has a strong JVM background.
 
+### Alexander Lorz
+t.b.d.
 
 ### Michael Mahlberg
 
