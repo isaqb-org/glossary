@@ -3,13 +3,10 @@
 
 ### Gernot Starke
 
-Dr. Gernot Starke ([innoQ](http://innoq.com) Fellow) is co-founder and
-longstanding user of the (open source) [arc42](https://arc42.org)
-documentation template. For more than 20 years he works as software
-architect, coach and consultant, conquering the challenges of creating effective software architectures for clients from various industries.
+Dr. Gernot Starke ([INNOQ](https://innoq.com) Fellow) is co-founder and avid user of the (open source) [arc42](https://arc42.org) documentation template. 
+For more than 20 years he works as software architect, coach and consultant, conquering the challenges of creating effective software architectures for clients from various industries.
 
-In 2008 Gernot co-founded the International Software Architecture Qualification Board ([iSAQB e.V.](https://isaqb.org)) and since then
-supports it as an active member.
+In 2008 Gernot co-founded the International Software Architecture Qualification Board ([iSAQB e.V.](https://isaqb.org)) and since then supports it as an active member.
 
 Gernot has authored several (German) books on software architecture and related topics and initiated this glossary.
 
@@ -39,10 +36,10 @@ Matthias is an active member of the [International Software Architecture Qualifi
 
 ### Phillip Ghadir
 
-Member of the board of innoQ Deutschland GmbH. Since many years, Phillip consults
+Member of the board of INNOQ Deutschland GmbH. Since many years, Phillip consults
 clients from various industries in topics around software-architecture,
 technology and development. He co-founded the iSAQB and regularly conducts trainings
-on software-architecture.
+on software architecture.
 
 
 ### Carola Lilienthal
@@ -67,7 +64,7 @@ Mirko is chairman and CEO of the iSAQB GmbH, the commercial branch of the iSAQB 
 
 
 ### Simon Kölsch
-Simon Kölsch works as a senior consultant at innoQ with a focus on web architecture and security.
+Simon Kölsch works as a senior consultant at INNOQ with a focus on web architecture and security.
 
 
 Simon is enthusiastic about solutions beyond the classical monolithic enterprise application, covering the architecture of distributed systems and their infrastructure, logging and monitoring. 
