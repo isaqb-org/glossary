@@ -65,7 +65,7 @@ where "better" could, for example, mean one or more of the following:
    occur at other elements.
   * avoid *Immobility*: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
 
-{#GE-design-rationale}
+{#term-design-rationale}
 ### Design rationale
 An explicit documentation of the reasons behind decisions made when designing any architectural element. 
 
