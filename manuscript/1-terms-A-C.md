@@ -843,7 +843,7 @@ on this subject.
 
 
 {#term-cross-cutting-concept}
-### Cross-cutting Concept
+### Cross-Cutting Concept
 
 See [concept](#term-concept).
 
@@ -851,7 +851,7 @@ Synonym: principle, rule.
 
 
 {#term-cross-cutting-concern}
-### Cross-cutting oncern
+### Cross-Cutting Concern
 
 Functionality of the architecture or system that affects several elements. Examples
 of such concerns are logging, transactions, security, exception handling, caching etc.
