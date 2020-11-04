@@ -859,6 +859,12 @@ Examples of such concerns are logging, transactions, security, exception handlin
 Often these concers will be addressed in systems via [concepts](#term-concept).
 
 
+{#term-curriculum}
+##### Curriculum
+
+The learning process provided by a school (here: iSAQB as the institution governing software architecture education). It includes the content of courses (the syllabus), the methods employed, and other aspects, like norms and values, which relate to the way the education including certification and examination is organized.
+
+
 {#term-cyclomatic-complexity}
 ### Cyclomatic complexity
 
