@@ -790,6 +790,8 @@ called _concepts_ or even _solution patterns_. Principles (concepts) are the fou
 The _Software Engineering Institure_
 maintains a [collection of further definitions](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)
 
+Although the term often refers to the _software architecture of an IT system_, it is also used to refer to _software architecture as engineering science_.
+
 Category: ISO-IEC-IEEE-42010
 
 {#term-software-quality}
