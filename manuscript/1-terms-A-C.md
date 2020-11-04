@@ -163,21 +163,21 @@ Following ISO/IEC/IEEE 42010 an architectural decision pertain to system concern
 Category: ISO-IEC-IEEE-42010
 
 {#term-architecture-description}
-### Architecture description
+### Architecture Description
 
 Work product used to express an architecture (as defined in ISO/IEC/IEEE 42010).
 
 Category: ISO-IEC-IEEE-42010
 
 {#term-architecture-description-element}
-### Architecture description element
+### Architecture Description Element
 
 An architecture description element is any construct in an architecture description. architecture description elements are the most primitive constructs discussed in ISO/IEC/IEEE 42010. All terms defined in ISO/IEC/IEEE 42010 are a specialization of the concept of an architecture description element (as defined in ISO/IEC/IEEE 42010).
 
 Category: ISO-IEC-IEEE-42010
 
 {#term-architecture-description-language}
-### Architecture description language
+### Architecture Description Language
 
 An architecture description language (ADL) is any form of expression for use in architecture descriptions (as defined in ISO/IEC/IEEE 42010).
 
@@ -187,7 +187,7 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-evaluation}
-### Architecture evaluation
+### Architecture Evaluation
 
 Quantitative or qualitative assessment of a (software or system) architecture.
 Determine if an architecture can achieve its target qualities or
@@ -200,7 +200,7 @@ D> In my opinion the terms _architecture analysis_ or _architecture assessment_ 
 D>
 
 {#term-architecture-framework}
-### Architecture framework
+### Architecture Framework
 
 Conventions, principles and practices for the description of architectures established within a specific domain of application and/or community of stakeholders (as defined in ISO/IEC/IEEE 42010).
 
@@ -216,7 +216,7 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-goal}
-### Architecture goal
+### Architecture Goal
 
 
 (syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system needs to achieve and the quality attribute is understood to be an architectural issue.
@@ -227,7 +227,7 @@ Category: Fundamental
 
 
 {#term-architecture-model}
-### Architecture model
+### Architecture Model
 
 An architecture view is composed of one or more architecture models. An architecture model uses modelling conventions appropriate to the concerns to be addressed. These conventions are specified by the model kind governing that model. Within an architecture description, an architecture model can be a part of more than one architecture view (as defined in ISO/IEC/IEEE 42010).
 
@@ -235,12 +235,12 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-objective}
-### Architecture objective
+### Architecture Objective
 
 See [architecture goal](#term-architecture-goal).
 
 {#term-architecture-pattern}
-### Architectural (architecture) pattern
+### Architectural (Architecture) Pattern
 
 “An architectural pattern expresses a fundamental structural organization schema for software systems. It provides a set of predefined sub- systems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them” (Buschmann+1996, page 12). Similar to _Architecture style_
 
@@ -253,14 +253,14 @@ Examples include:
 
 
 {#term-architecture-quality-requirement}
-### Architecture quality requirement
+### Architecture Quality Requirement
 
 See [architecture goal](#term-architecture-goal).
 
 
 
 {#term-architecture-rational}
-### Architecture rationale
+### Architecture Rationale
 
 Architecture rationale records explanation, justification or reasoning about architecture decisions that have been made. The rationale for a decision can include the basis for a decision, alternatives and trade-offs considered, potential consequences of the decision and citations to sources of additional information (as defined in ISO/IEC/IEEE 42010).
 
@@ -268,14 +268,14 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-style}
-### Architecture style
+### Architecture Style
 
 Description of element and relation types,
 together with constraints on how they can be used. Often called _architecture patterns_.
 Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
 {#term-architecture-view}
-### Architecture view
+### Architecture View
 
 A representation of a system from a specific perspective. Important and well-known views are:
 
@@ -292,7 +292,7 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-architecture-viewpoint}
-### Architecture viewpoint
+### Architecture Viewpoint
 
 Work product establishing the conventions for the construction, interpretation and use of architecture views to frame specific system concerns (as defined in ISO/IEC/IEEE 42010).
 
@@ -702,7 +702,7 @@ more responsible ones.
 
 Plan,principle(s) or rule(s) how to solve a specific problem.
 
-Concepts are often _crosscutting_ in a sense that multiple architectural
+Concepts are often _cross-cutting_ in a sense that multiple architectural
 elements might be affected by a single concept. That means that implementors
 of e.g. implementation units (building blocks) should adhere to the corresponding
 concept.
@@ -758,7 +758,7 @@ Based upon a [definition from Scott Ambler](http://agilemodeling.com/artifacts/c
 
 
 {#term-context}
-### Context (of a system)
+### Context (of a System)
 
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](https://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
 
@@ -794,7 +794,7 @@ A correspondence defines a relation between architectural description elements. 
 Category: ISO-IEC-IEEE-42010
 
 {#term-correspondence-rule}
-### Correspondence rule
+### Correspondence Rule
 
 Correspondences can be governed by correspondence rules. Correspondence rules are used to enforce relations within an architecture description (or between architecture descriptions) (as defined in ISO/IEC/IEEE 42010).
 
@@ -830,16 +830,16 @@ There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
 on this subject.
 
 
-{#term-crosscutting-concept}
-### Crosscutting concept
+{#term-cross-cutting-concept}
+### Cross-cutting Concept
 
 See [concept](#term-concept).
 
 Synonym: principle, rule.
 
 
-{#term-crosscutting-concern}
-### Crosscutting concern
+{#term-cross-cutting-concern}
+### Cross-cutting oncern
 
 Functionality of the architecture or system that affects several elements. Examples
 of such concerns are logging, transactions, security, exception handling, caching etc.
