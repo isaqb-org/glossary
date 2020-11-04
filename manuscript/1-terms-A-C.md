@@ -715,6 +715,12 @@ concept.
 
 Concepts form the basis for _conceptual integrity_.
 
+
+{#term-conceptual-integrity}
+### Conceptual Integrity
+Concepts, rules, patterns and similar solution approaches are applied in a consistent (homogeneous, similar) way throughout the system.
+Similar problems are solved in similar or identical ways.
+
 {#term-concern}
 ### Concern
 
