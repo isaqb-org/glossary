@@ -853,10 +853,10 @@ Synonym: principle, rule.
 {#term-cross-cutting-concern}
 ### Cross-Cutting Concern
 
-Functionality of the architecture or system that affects several elements. Examples
-of such concerns are logging, transactions, security, exception handling, caching etc.
+Functionality of the architecture or system that affects several elements.
+Examples of such concerns are logging, transactions, security, exception handling, caching etc.
 
-See also [concept](#term-concept).
+Often these concers will be addressed in systems via [concepts](#term-concept).
 
 
 {#term-cyclomatic-complexity}
