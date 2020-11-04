@@ -364,7 +364,7 @@ Category: Security
 _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation method,
 based upon a (hierarchical) quality tree and concrete quality scenarios.
 Basic idea: Compare fine-grained quality scenarios ("quality-requirements")
-with the corresponding architectural approaches to identify risks and tradeoffs.
+with the corresponding architectural approaches to identify risks and trade-offs.
 
 
 {#term-attack-tree}
@@ -447,7 +447,7 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010, Security
 
 {#term-blackbox}
-### Blackbox
+### Black Box
 
 View on a [building block](#term-building-block) (or [component](#term-component)) that hides the internal structure.
 Blackboxes respect the [_information hiding principle_](#term-information-hiding).
@@ -458,7 +458,7 @@ for example timing behavior, throughput or security aspects.
 Category: Foundation
 
 {#term-bottom-up}
-### Bottom-up Approach
+### Bottom-Up Approach
 
 Direction of work (or strategy of processing) for modeling and design.
 Starting with something detailed or concrete,
