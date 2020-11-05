@@ -141,7 +141,7 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 
 Synonym: Enterprise Architecture.
 
-Structures and concepts for the it support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as „applications“.
+Structures and concepts for the IT support of an entire company. Atomic subject matters of the enterprise architecture are single software systems also referred to as "applications".
 
 {#term-entity}
 ### Entity
