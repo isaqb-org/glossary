@@ -202,8 +202,8 @@ Category: Quality, ISO 25010
 {#term-filter}
 ### Filter
 
-Part of the pipe-and-filter architectural style that creates or transforms data
-Filters typically execute independent from other filters.
+Part of the pipe-and-filter architectural style that creates or transforms data.
+Filters are typically executed independently from other filters.
 
 
 {#term-fmc}
