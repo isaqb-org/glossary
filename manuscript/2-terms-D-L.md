@@ -205,6 +205,11 @@ Category: Quality, ISO 25010
 Part of the pipe-and-filter architectural style that creates or transforms data.
 Filters are typically executed independently from other filters.
 
+{#term-fitness-function}
+### Fitness Function
+"An architectural fitness function provides an objective integrity assessment of some architectural characteristics." ([Ford+2017](#ref-ford-2017)).
+
+A fitness function is derived from manual evaluations and automated tests and shows to which extent architectural or quality requirements are met. 
 
 {#term-fmc}
 ### [Fundamental Modeling Concepts (FMC)](http://fmc-modeling.org/)

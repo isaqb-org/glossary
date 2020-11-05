@@ -82,6 +82,9 @@ Clements, Paul/Bachmann, Felix/Bass, Len/Garlan, David/Ivers, James/Little, Reed
 Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_
 1st edition, Addison-Wesley, 2004.
 
+{#ref-ford-2017}
+##### Ford+2017
+Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
 
 {#ref-fowler-2003}
 ##### Fowler-2003
