@@ -685,7 +685,7 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010
 
 {#term-self-contained-system}
-### SCS (Self Contained System)
+### Self Contained System (SCS)
 
 An architectural style, similar to [Microservices](#term-microservice). To quote from the site
 [scs-architecture.org](http://scs-architecture.org/):
