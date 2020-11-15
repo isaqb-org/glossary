@@ -1079,7 +1079,7 @@ Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObje
 {#term-view}
 ### View
 
-see: architectural view.
+see: [architecture view](#term-architecture-view})
 
 
 {#term-waterfall-development}
