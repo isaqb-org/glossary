@@ -11,7 +11,7 @@ Similar in nature to the process of generalization.
 
 A view of an element that focuses on the information relevant to a particular purpose, ignoring additional or other information.
 
-A design construct as in "Building blocks should depend on abstractions rather than on implementations.".
+A design construct as in "Building blocks should depend on abstractions rather than on implementations."
 
 Category: Design-Principle
 
@@ -191,7 +191,7 @@ Category: ISO-IEC-IEEE-42010
 
 Quantitative or qualitative assessment of a (software or system) architecture.
 Determine if an architecture can achieve its target qualities or
-quality attributes?
+quality attributes
 
 See [Assessment](#term-assessment)
 
@@ -218,7 +218,6 @@ Category: ISO-IEC-IEEE-42010
 {#term-architecture-goal}
 ### Architecture Goal
 
-
 (syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system needs to achieve and the quality attribute is understood to be an architectural issue.
 
 Hence, the architecture needs to be designed in a way to fulfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
@@ -242,7 +241,7 @@ See [architecture goal](#term-architecture-goal).
 {#term-architecture-pattern}
 ### Architectural (Architecture) Pattern
 
-“An architectural pattern expresses a fundamental structural organization schema for software systems. It provides a set of predefined sub- systems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them” (Buschmann+1996, page 12). Similar to _Architecture style_
+“An architectural pattern expresses a fundamental structural organization schema for software systems. It provides a set of predefined sub-systems, specifies their responsibilities, and includes rules and guidelines for organizing the relationships between them” (Buschmann+1996, page 12). Similar to [architecture style](#term-architecture-style).
 
 Examples include:
 
@@ -258,7 +257,6 @@ Examples include:
 See [architecture goal](#term-architecture-goal).
 
 
-
 {#term-architecture-rational}
 ### Architecture Rationale
 
@@ -270,9 +268,14 @@ Category: ISO-IEC-IEEE-42010
 {#term-architecture-style}
 ### Architecture Style
 
-Description of element and relation types,
-together with constraints on how they can be used. Often called _architecture patterns_.
+Description of element and relation types, together with constraints on how they can be used.
+Often called [architecture pattern](#term-architecture-pattern).
 Examples: Pipes-and-Filter, Model-View-Controller, Layers.
+
+D> ###### Comment (Alexander Lorz)
+D> Depending on who you ask, some might consider architecture styles a generalization of architecture patterns.
+D> That is, "distributed system" is a style while "client-server, CQRS, broker and peer-to-peer" are more specific patterns that belong to this style.
+D> However, from a practical point of view this distinction is not essential.
 
 {#term-architecture-view}
 ### Architecture View
