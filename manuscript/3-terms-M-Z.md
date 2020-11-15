@@ -577,6 +577,13 @@ The REP contains two different insights:
 
 Category: Design-Principle
 
+
+{#term-risk}
+### Risk
+Simply said, a risk is the possibility that a problem occurs.
+A risk involves _uncertainty_ about the effects, consequences or implications of an activity or decision, usually with a negative connotation concerning a certain value (such as health, money, or qualities of a system like availability or security).
+
+
 {#term-rm-odp}
 ### [RM/ODP](https://en.wikipedia.org/wiki/RM-ODP)
 
