@@ -738,9 +738,9 @@ t.b.d.
 Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-value-object).
 
 {#term-signature}
-### Signature (of Function or Method)
+### Signature
 
-Signature of Function or Method: See [&rarr;function signature](#GE-function-signature)
+Signature of Function or Method: See [function signature](#term-function-signature)
 
 Digital Signature: Method for verifying the authenticity of data or documents.
 
@@ -757,7 +757,7 @@ Each element within a system or architecture should have a single
 responsibility, and that all its functions or services should be
 aligned with that responsibility.
 
-  Cohesion is sometimes considered to by synonymous for SRP.
+[Cohesion](#term-cohesion) is sometimes considered to be associated with the SRP.
 
 
 {#term-software-architecture}
