@@ -711,7 +711,7 @@ more responsible ones.
 {#term-concept}
 ### Concept
 
-Plan,principle(s) or rule(s) how to solve a specific problem.
+Plan, principle(s) or rule(s) how to solve a specific problem.
 
 Concepts are often _cross-cutting_ in a sense that multiple architectural
 elements might be affected by a single concept. That means that implementors
@@ -784,11 +784,11 @@ Another definition from arc42:
 
 Distinguish between _business_ and _technical_ context:
 
-* the **business** context (formerly called _logical_ context) shows the external relationships from a business- or non-technical perspective. 
+* The **business** context (formerly called _logical_ context) shows the external relationships from a business- or non-technical perspective. 
 It abstracts from technical, hardware or implementation details.
 Input-/Output relationships are named by their _business meaning_ instead of their technical properties.
 
-* the **technical** context shows technical details, like transmission channel, technical protocoll, IP-address, bus or similar hardware details. 
+* The **technical** context shows technical details, like transmission channel, technical protocoll, IP-address, bus or similar hardware details. 
 Embedded systems, for example, often care for hardware-related information very early in development. 
 
 
