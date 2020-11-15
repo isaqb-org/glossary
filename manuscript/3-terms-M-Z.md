@@ -357,7 +357,7 @@ Finding risks concerning the desired quality attributes of a system. Analyzing o
 assessing if a system or its architecture can meet the desired or required quality goals.
 
   Instead of calculating or measuring certain characteristics of systems or architectures,
-  qualitative evaluation is concerned with risks, tradeoffs and sensitivity points.
+  qualitative evaluation is concerned with risks, trade-offs and sensitivity points.
 
   See also [_assessment_](#term-assessment).
 
@@ -445,10 +445,9 @@ See also _software quality_.
 {#term-quality-tree}
 ### Quality Tree
 
-(syn: quality attribute utility tree). A hierarchical model to describe
-product quality: The root "quality" is hierarchically refined in _areas_ or
-topics, which itself are refined again. Quality scenarios form the leaves of
-these tree.
+(syn: quality attribute utility tree).
+A hierarchical model to describe product quality:
+The root "quality" is hierarchically refined in _areas_ or topics, which itself are refined again. Quality scenarios form the leaves of this tree.
 
   * Standards for product quality, like [ISO 25010](#term-iso-25010, propose _generic_
   quality trees.
