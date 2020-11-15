@@ -32,7 +32,7 @@ An architectural style, proposing to divide large systems into small units.
 ### [Model Driven Architecture (MDA)](http://www.omg.org/mda/)
 
 OMG-Standard for model based software development.
-Definition: „An approach to IT system specification that separates the specification of functionality from the specification of the implementation of that functionality on a specific technology platform.“
+Definition: "An approach to IT system specification that separates the specification of functionality from the specification of the implementation of that functionality on a specific technology platform.""
 
 {#term-model-driven-software-development}
 ### Model-Driven Software Development (MDSD)
