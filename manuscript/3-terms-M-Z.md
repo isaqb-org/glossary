@@ -154,8 +154,8 @@ A system of marks, signs, figures, or characters that is used to represent infor
 {#term-observer}
 ### Observer
 
-(Design pattern) "... in which an object maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods. The Observer pattern is a key part in the model–view–controller (MVC) architectural pattern".
-(quoted from [Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern))
+(Design pattern) "...  in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods." (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern))
+The Observer pattern is a key pattern to complement the [model–view–controller (MVC)](#term-model-view-controller) architectural pattern.
 
 
 {#term-open-close-principle}
