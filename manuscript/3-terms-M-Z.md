@@ -737,6 +737,12 @@ t.b.d.
 
 Service is a building block of [Domain-Driven Design](#term-DDD). Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are [entities](#term-entity), [aggregates](#term-aggregate) and [value objects](#term-value-object).
 
+{#term-signature}
+### Signature (of Function or Method)
+
+Signature of Function or Method: See [&rarr;function signature](#GE-function-signature)
+
+Digital Signature: Method for verifying the authenticity of data or documents.
 
 {#term-singleton}
 ### Singleton
