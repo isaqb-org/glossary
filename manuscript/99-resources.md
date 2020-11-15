@@ -274,3 +274,14 @@ _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Stud
 Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
 
 A study guide for the CPSA-Foundation examination.
+
+{#ref-tanenbaum-steen}
+##### Tanenbaum+2016
+Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>
+
+{#ref-tornhill-crime-scene}
+##### Tornhill-2015
+Adam Tornhill: Your Code as a Crime Scene. 
+Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs. 
+Pragmatic Programmers, 2015.
+<https://www.adamtornhill.com>

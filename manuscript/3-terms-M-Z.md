@@ -879,7 +879,7 @@ and their relationships (dependencies).
 {#term-structural-element}
 ### Structural Element
 
-see _Building Block_ or _Component_
+see [Building Block(#term-building-block) or [Component](#term-component)
 
 
 {#term-symmetric-cryptography}
@@ -916,9 +916,6 @@ System-of-Interest (or simply, system) refers to the system whose architecture i
 
 Category: ISO-IEC-IEEE-42010
 
-
-
-
 {#term-template}
 ### Template (for Documentation)
 
@@ -928,6 +925,14 @@ structure without prescribing the content of these single files.
 
   A well known example of such templates is [arc42](http://arc42.de)
 
+{#term-temporal-coupling}
+### Temporal Coupling
+Different interpretations exist from various sources. Temporal coupling:
+
+* means that processes that are communicating will both have to be up and running. See [Tanenbaum+2016](#ref-tanenbaum-steen).
+* when you often commit (_modify_) different components at the same time. See [Tornhill-2015](#ref-tornhill-crime-scene).
+* when there's an implicit relationship between two, or more, members of a class requiring clients to invoke one member before the other. Mark Seemann, see <https://blog.ploeh.dk/2011/05/24/DesignSmellTemporalCoupling/>
+* means that one system needs to wait for the response of another system before it can continue processing. See <https://www.beeworks.be/blog/2017/rest-antipattern.html> 
 
 {#term-testability-quality-attribute}
 ### Testability Quality Attribute
