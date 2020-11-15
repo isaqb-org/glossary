@@ -35,12 +35,12 @@ OMG-Standard for model based software development.
 Definition: „An approach to IT system specification that separates the specification of functionality from the specification of the implementation of that functionality on a specific technology platform.“
 
 {#term-model-driven-software-development}
-### Model-driven software development (MDSD)
+### Model-Driven Software Development (MDSD)
 
 The underlying idea is to generate code from more abstract models of requirements or the domain.
 
 {#term-model-kind}
-### Model kind
+### Model Kind
 
 Conventions for a type of modeling (as defined in ISO/IEC/IEEE 42010).
 
@@ -101,7 +101,7 @@ Category: Quality, ISO 25010
   3. The CPSA(R)-Advanced Level is currently divided into several modules, which can be learned or taught separately and in any order. The exact relationships between these modules and the contents of these modules are defined in the respective curricula.
 
 {#term-modular-programming}
-### Modular programming
+### Modular Programming
 
 "Software design technique that separates the functionality of a program into independent,
 interchangeable _modules_, so that each module contains everything necessary to execute
@@ -353,7 +353,7 @@ Category: Security
 
 
 {#term-qualitative-evaluation}
-### Qualitative evaluation
+### Qualitative Evaluation
 
 Finding risks concerning the desired quality attributes of a system. Analyzing or
 assessing if a system or its architecture can meet the desired or required quality goals.
@@ -371,7 +371,7 @@ see [_software quality_](#term-software-quality) and [quality attributes](#term-
 
 
 {#term-quality-attribute}
-### Quality attribute
+### Quality Attribute
 
 Software quality is the degree to which a system possesses the desired combination of _attributes_ (see: [software quality](#term-software-quality)).
 
@@ -426,7 +426,7 @@ Examples of runtime quality attributes are functional suitability, performance e
 Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability, and testability.
 
 {#term-quality-characteristic}
-### Quality characteristic
+### Quality Characteristic
 
 synonym: _quality attribute_.
 
@@ -437,7 +437,7 @@ synonym: _quality attribute_.
 The scope of application of the quality models includes supporting specification and evaluation of software and software-intensive computer systems from different perspectives by those associated with their acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and control, and audit. 
 
 {#term-quality-requirement}
-### Quality requirement
+### Quality Requirement
 
 Characteristic or attribute of a component of a system. Examples include
 runtime performance, safety, security, reliability or maintainability.
@@ -445,7 +445,7 @@ See also _software quality_.
 
 
 {#term-quality-tree}
-### Quality tree
+### Quality Tree
 
 (syn: quality attribute utility tree). A hierarchical model to describe
 product quality: The root "quality" is hierarchically refined in _areas_ or
@@ -462,7 +462,7 @@ these tree.
 
 
 {#term-quantative-evaluation}
-### Quantitative evaluation
+### Quantitative Evaluation
 
 (syn: quantative analysis): Measure or count values of software artifacts,
 e.g. [coupling](#term-coupling), cyclomatic complexity, size, test coverage. Metrics like these
@@ -590,7 +590,7 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 
 
 {#term-round-trip-engineering}
-### Round-trip engineering
+### Round-trip Engineering
 
 "Concept of being able to make any kind of change to a model as well as to the code generated from that model. The changes always propagate bidirectional and both artifacts are always consistent." (quoted from
   [Wikipedia](https://en.wikipedia.org/wiki/Model-driven_software_development)).
@@ -692,7 +692,7 @@ An architectural style, similar to [Microservices](#term-microservice). To quote
 
 
 {#term-sensitivity-point}
-### Sensitivity point
+### Sensitivity Point
 
 (in qualitative evaluation like ATAM): Element of the architecture or system
 influencing several quality attributes. For example, if one component is responsible
@@ -703,7 +703,7 @@ for both runtime performance _and_ robustness, that component is a sensitivity p
 
 
 {#term-separation-of-concern}
-### Separation of concern (SoC)
+### Separation of Concerns (SoC)
 
 Any element of an architecture should have exclusivity and singularity of responsibility and purpose: No element should share the responsibilities of another element or contain unrelated responsibilities.
 
@@ -716,7 +716,7 @@ Any element of an architecture should have exclusivity and singularity of respon
 
 
 {#term-sequence-diagram}
-### Sequence diagram
+### Sequence Diagram
 
 Type of diagram to illustrate how elements of an architecture interact
 to achieve a certain scenario. It shows the sequence (flow) of messages
@@ -869,9 +869,9 @@ and their relationships (dependencies).
 
 
 {#term-structural-element}
-### Structural element
+### Structural Element
 
-see _Building block_ or _Component_
+see _Building Block_ or _Component_
 
 
 {#term-symmetric-cryptography}
@@ -912,7 +912,7 @@ Category: ISO-IEC-IEEE-42010
 
 
 {#term-template}
-### Template (for documentation)
+### Template (for Documentation)
 
 Standardized order of artifacts used in software development.
 It can help base other files, especially documents in a predefines
@@ -1008,7 +1008,7 @@ An organisation or person who holds the rights of use to accredited training mat
 
 
 {#term-ubiquitous-language}
-### Ubiquitous language
+### Ubiquitous Language
 A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a language that is structured around the [domain model](#term-domain-model). It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
 
 
@@ -1045,7 +1045,7 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010
 
 {#term-uses-relationship}
-### Uses relationship
+### Uses Relationship
 
 Dependency that exists between two building blocks.
 If A uses B than execution of A depends on the
@@ -1065,7 +1065,7 @@ see: architectural view.
 
 
 {#term-waterfall-development}
-### Waterfall development
+### Waterfall Development
 
 Development approach "where you gather all the requirements up front, do all necessary design, down to a detailed level, then hand the specs to the coders, who write the code; then you do testing (possibly with a side trip to IntegrationHell) and deliver the whole thing in one big end-all release. Everything is big including the risk of failure." (quoted from [http://c2.com/cgi/wiki?IterativeDevelopment])
 

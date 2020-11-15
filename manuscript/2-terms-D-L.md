@@ -28,7 +28,7 @@ High level (abstract) elements should not depend upon low level (specific) eleme
 Bring software onto its execution environment (hardware, processor etc). Put software into operation.
 
 {#term-deployment-view}
-### Deployment view
+### Deployment View
 
 Architectural view showing the technical infrastructure where a system or artifacts will be
 deployed and executed.
@@ -37,7 +37,7 @@ deployed and executed.
   (as defined by [Rozanski+2011](http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/))
 
 {#term-design-pattern}
-### Design pattern
+### Design Pattern
 
 General or generic reusable solution to a commonly occurring problem within a given context in design.
 Initially conceived by the famous architect [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander),
@@ -50,7 +50,7 @@ book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 
 
 {#term-design-principle}
-### Design principle
+### Design Principle
 
 Set of guidelines that helps software developers to design and implement better solutions,
 where "better" could, for example, mean one or more of the following:
@@ -66,7 +66,7 @@ where "better" could, for example, mean one or more of the following:
   * avoid *Immobility*: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
 
 {#term-design-rationale}
-### Design rationale
+### Design Rationale
 An explicit documentation of the reasons behind decisions made when designing any architectural element. 
 
 {#term-document}
@@ -103,7 +103,7 @@ See also:
 
 
 {#term-domain-model}
-### Domain model
+### Domain Model
 The domain model is a concept of [Domain-Driven Design](#term-DDD). I provides a system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
 
 
@@ -119,7 +119,7 @@ Being economical, simple, lean or achievable with relatively low effort.
 
 
 {#term-embedded-systems}
-### Embedded system
+### Embedded System
 
 System _embedded_ within a larger mechanical or electrical system. Embedded systems often
 have real-time computing constraints. Typical properties of embedded systems are low power consumption,
@@ -268,14 +268,14 @@ access to a (usually external) system or resource.
 See also [wrapper](#term-wrapper), [adapter](#term-adapter).
 
 {#term-global-analysis}
-### Global analysis
+### Global Analysis
 
 Systematic approach to achieve desired quality attributes.
 Developed and documented by Christine Hofmeister (Siemens Corporate Research).
 Global analysis is described in [Hofmeister+2000].
 
 {#term-heterogeneous-architectural-style}
-### Heterogeneous architectural style
+### Heterogeneous Architectural Style
 
 see _hybrid architecture style_.
 
@@ -286,7 +286,7 @@ Informal rule, rule-of-thumb. Any way of problem solving not guaranteed to be op
 but somehow sufficient. Examples from [Object-Oriented Design](http://www.vincehuston.org/ood/oo_design_heuristics.html) or [User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
 {#term-hybrid-architecture-style}
-### Hybrid architecture style
+### Hybrid Architecture Style
 
 Combination of two or more existing architecture styles or
 patterns. For example, an MVC construct embedded in a layer
@@ -299,7 +299,7 @@ Standard _Recommended Practice for Architectural Description of Software-Intensi
 defined as ISO/IEC 42010:2007. Defines a (abstract) framework for the description of software architectures.
 
 {#term-incremental-development}
-### Incremental development
+### Incremental Development
 
 see _iterative and incremental development_.
 
@@ -390,7 +390,7 @@ Standards to describe (and evaluate) _software product quality_.
 For a list of quality attributes defined by the ISO 25010 standard, refer to [ISO 25010](#term-iso-25010)
 
 {#term-iterative-development}
-### Iterative development
+### Iterative Development
 
 "Development approach that _cycles_ through development phases,
 from gathering requirements to delivering functionality in a working release."
@@ -402,7 +402,7 @@ from gathering requirements to delivering functionality in a working release."
 
 
 {#term-iterative-and-incremental-development}
-### Iterative and incremental development
+### Iterative and Incremental Development
 
 Combination of iterative and incremental approaches for software development.
 These are essential parts of the various _agile_ development approaches,

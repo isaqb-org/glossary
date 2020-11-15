@@ -866,7 +866,7 @@ The learning process provided by a school (here: iSAQB as the institution govern
 
 
 {#term-cyclomatic-complexity}
-### Cyclomatic complexity
+### Cyclomatic Complexity
 
 Quantitative measure, number of independent paths through a program's source code.
 It roughly correlates to the number of conditional statements (`if`, `while`) in the code +1.
