@@ -72,7 +72,9 @@ Simon is enthusiastic about solutions beyond the classical monolithic enterprise
 He is not committed to one specific technology or programming language, but has a strong JVM background.
 
 ### Alexander Lorz
-t.b.d.
+Dr.-Ing. Alexander Lorz is a freelance software architecture trainer, IT consultant and developer. His first contact with IT systems dates back to the mid-1980s, and since then he has refused to give up his fascination for the science and craftsmanship of developing complex systems.
+
+As an active member of the International Software Architecture Qualification Board ([iSAQB e.V.](http://isaqb.org)) and the Foundation Level Working Group he contributes to the evolution of the foundation curriculum.
 
 ### Michael Mahlberg
 
