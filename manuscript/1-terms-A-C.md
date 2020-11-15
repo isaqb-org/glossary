@@ -821,10 +821,10 @@ Category: ISO-IEC-IEEE-42010
 Synonym: [Integrity](#term-integrity), homogeneity, conceptual integrity.
 
 {#term-coupling}
-### [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)
+### Coupling
 
-Coupling is the kind and degree of _interdependence_ between building blocks of
-software; a measure of how closely connected two components are.\
+[Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29) is the kind and degree of _interdependence_ between building blocks of
+software; a measure of how closely connected two components are.
 You should always aim for _low_ coupling.
 Coupling is usually contrasted with _cohesion_. Low coupling often correlates with high cohesion,
 and vice versa. Low coupling is often a sign of a well-structured system.
