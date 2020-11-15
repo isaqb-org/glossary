@@ -301,7 +301,7 @@ defined as ISO/IEC 42010:2007. Defines a (abstract) framework for the descriptio
 {#term-incremental-development}
 ### Incremental Development
 
-see _iterative and incremental development_.
+see [_iterative and incremental development_](#term-iterative-and-incremental-development).
 
 
 {#term-information-hiding}
@@ -398,7 +398,7 @@ from gathering requirements to delivering functionality in a working release."
 
   Such cycles are repeated to improve either functionality, quality or both.
 
-  Contrast to the _Waterfall development_.
+  Contrast to the [_Waterfall Development_](#term-waterfall-development).
 
 
 {#term-iterative-and-incremental-development}
