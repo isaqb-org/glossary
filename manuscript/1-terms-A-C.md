@@ -534,7 +534,8 @@ objectives and tactical demands.
 {#term-c4-model}
 ### C4 Model
 The [C4 Model for Software Architecture Documentation](https://c4model.com/)
-was developed by Simon Brown: It consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
+was developed by Simon Brown.
+It consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
 The hierarchy of the C4 diagrams provides different levels of abstraction, each of which is relevant to a different audience.
 
 
@@ -628,9 +629,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010
 
 {#term-cohesion}
-### [Cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29)
+### Cohesion
 
-The degree to which elements of a building block, component or module belong together.
+The degree to which elements of a building block, component or module belong together is called [cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29).
 It measures the strength of relationship between pieces of functionality within a given component. In cohesive systems, functionality is strongly related.
   It is usually characterized as _high cohesion_ or _low cohesion_.
   Strive for high cohesion, because high cohesion often implies reusability,
