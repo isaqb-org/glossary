@@ -994,7 +994,7 @@ construct working towards more concrete, special or detailed representation.
   a lot of documentation overhead.
 
 {#term-tradeoff}
-### Tradeoff
+### Trade-Off
 
 (syn: compromise). A balance achieved or negotiated between two desired or
 required but usually incompatible or contradicting features. For example,
