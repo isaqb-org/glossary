@@ -740,9 +740,9 @@ Service is a building block of [Domain-Driven Design](#term-DDD). Services imple
 {#term-signature}
 ### Signature
 
-Signature of Function or Method: See [function signature](#term-function-signature)
+Signature of function or method: See [function signature](#term-function-signature)
 
-Digital Signature: Method for verifying the authenticity of data or documents.
+Digital signature: Method for verifying the authenticity of data or documents.
 
 {#term-singleton}
 ### Singleton
@@ -965,10 +965,9 @@ Category: Security
 
 
 {#term-togaf}
-### [TOGAF](http://www.opengroup.org/subjectareas/enterprise/togaf)
+### TOGAF
 
-_The Open Group Architecture Framework_. Conceptual framework for planning
-and maintenance of enterprise IT architectures.
+[_The Open Group Architecture Framework_](http://www.opengroup.org/subjectareas/enterprise/togaf) is a conceptual framework for planning and maintenance of enterprise IT architectures.
 
 {#term-tools-and-material-approach}
 ### Tools-and-material-approach
