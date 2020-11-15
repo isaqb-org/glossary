@@ -211,6 +211,16 @@ Filters are typically executed independently from other filters.
 
 A fitness function is derived from manual evaluations and automated tests and shows to which extent architectural or quality requirements are met. 
 
+{#term-function-signature}
+### Function Signature
+(Synonym: type or method signature) defines input and output of functions or methods.
+
+A signature can include:
+
+* parameters and their types
+* return value and type
+* exception thrown or errors raised
+
 {#term-functional-appropriateness-quality-attribute}
 ### Functional Appropriateness Quality Attribute
 Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
