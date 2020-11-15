@@ -1035,6 +1035,11 @@ documenting the artifacts and structures of a software system.
 * For runtime views, use sequence- or activity diagrams (with swimlanes). Object diagrams can theoretically be used, but are practically not adviced, as they become cluttered even for small scenarios.
 * For Deployment views, use deployment diagrams with node symbols.
 
+{#term-unit-test}
+### Unit Test
+Test of the smallest testable parts of system to determine whether they are fit for use.
+
+Depending on implementation technology, a _unit_ might be a method, function, interface or similar element.
 
 {#term-usability-quality-attribute}
 ### Usability Quality Attribute
