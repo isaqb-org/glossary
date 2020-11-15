@@ -394,7 +394,7 @@ For a list of quality attributes defined by the ISO 25010 standard, refer to [IS
 
 "Development approach that _cycles_ through development phases,
 from gathering requirements to delivering functionality in a working release."
-(quoted from [c2-wiki](http://c2.com/cgi/wiki?IterativeDevelopment)).
+(quoted from [c2-wiki](http://c2.com/cgi/wiki?IterativeDevelopment))
 
   Such cycles are repeated to improve either functionality, quality or both.
 
