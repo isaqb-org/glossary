@@ -254,9 +254,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010
 
 {#term-fmc}
-### [Fundamental Modeling Concepts (FMC)](http://fmc-modeling.org/)
+### Fundamental Modeling Concepts (FMC)
 
-Graphical notation for modeling and documenting software systems. From their website:
+[Fundamental Modeling Concepts](http://fmc-modeling.org/) is a graphical notation for modeling and documenting software systems. From their website:
 "FMC provide a framework for the comprehensive description of software-intensive systems. It is based on a precise terminology and supported by a graphical notation which can be easily understood".
 
 
