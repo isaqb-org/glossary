@@ -1,6 +1,6 @@
 ﻿{#term-maintainability-quality-attribute}
 ### Maintainability Quality Attribute
-Degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements. 
+Degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements.
 Is composed of the following sub-characteristics: [modularity](#term-modularity-quality-attribute), [reusability](#term-reusability-quality-attribute), [analysability](#term-analysability-quality-attribute), [modifiability](#term-modifiability-quality-attribute), [testability](#term-testability-quality-attribute).
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 
@@ -203,7 +203,7 @@ Fundamental principles for designing the structure of software systems ([Martin-
 
 Robert C. Martin, who coined the "[SOLID](#term-solid-principles)" acronym, also [introduced the Package Principles]([Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)) and frequently reiterated both in conjunction. Whereas the SOLID Principles target the level of classes, the Package Principles target the level of larger components that contain multiple classes and might get deployed independently.
 
-Package- and SOLID Principles share the explicit goal of keeping software [maintainable](#term-maintainability-quality-attribute) and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity. 
+Package- and SOLID Principles share the explicit goal of keeping software [maintainable](#term-maintainability-quality-attribute) and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity.
 
 While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal principles like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the [DIP](#term-dependency-inversion)).
 
@@ -231,7 +231,7 @@ Category: Security
 
 {#term-performance-efficiency-quality-attribute}
 ### Performance Efficiency Quality Attribute
-Performance relative to the amount of resources used under stated conditions. 
+Performance relative to the amount of resources used under stated conditions.
 
 Resources can include other software products, the software and hardware configuration of the system, and materials (e.g. print paper, storage media).
 
@@ -374,6 +374,7 @@ see [_software quality_](#term-software-quality) and [quality attributes](#term-
 Software quality is the degree to which a system possesses the desired combination of _attributes_ (see: [software quality](#term-software-quality)).
 
 The Standard [ISO-25010](#term-iso-25010) defines the following quality attributes:
+
 - [Functional suitability](#term-functional-suitability-quality-attribute)
 	- [Functional completeness](#term-functional-completeness-quality-attribute)
 	- [Functional correctness](#term-functional-correctness-quality-attribute)
@@ -413,6 +414,7 @@ The Standard [ISO-25010](#term-iso-25010) defines the following quality attribut
 	- [Installability](#term-installability-quality-attribute)
 	- [Replaceability](#term-replaceability-quality-attribute)
 
+
 It's helpful to distinguish between:
 
 * _runtime quality attributes_ (which can be observed at execution time of the system),
@@ -430,9 +432,9 @@ synonym: _quality attribute_.
 
 {#term-quality-model}
 ### Quality Model
-(from ISO 25010) A model that defines quality characteristics that relate to static properties of software and dynamic properties of the computer system and software products. The quality model provides consistent terminology for specifying, measuring and evaluating system and software product quality. 
+(from ISO 25010) A model that defines quality characteristics that relate to static properties of software and dynamic properties of the computer system and software products. The quality model provides consistent terminology for specifying, measuring and evaluating system and software product quality.
 
-The scope of application of the quality models includes supporting specification and evaluation of software and software-intensive computer systems from different perspectives by those associated with their acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and control, and audit. 
+The scope of application of the quality models includes supporting specification and evaluation of software and software-intensive computer systems from different perspectives by those associated with their acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and control, and audit.
 
 {#term-quality-requirement}
 ### Quality Requirement
@@ -833,7 +835,7 @@ Category: Design-Principle
 {#term-stable-dependencies-principle}
 ### Stable Dependencies Principle
 
-A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that frequently changing components depend on more stable ones. 
+A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that frequently changing components depend on more stable ones.
 
 Part of the volatility of a component is [expected](#term-common-closure-principle) and naturally implied by its particular responsibility.
 
@@ -932,7 +934,7 @@ Different interpretations exist from various sources. Temporal coupling:
 * means that processes that are communicating will both have to be up and running. See [Tanenbaum+2016](#ref-tanenbaum-steen).
 * when you often commit (_modify_) different components at the same time. See [Tornhill-2015](#ref-tornhill-crime-scene).
 * when there's an implicit relationship between two, or more, members of a class requiring clients to invoke one member before the other. Mark Seemann, see <https://blog.ploeh.dk/2011/05/24/DesignSmellTemporalCoupling/>
-* means that one system needs to wait for the response of another system before it can continue processing. See <https://www.beeworks.be/blog/2017/rest-antipattern.html> 
+* means that one system needs to wait for the response of another system before it can continue processing. See <https://www.beeworks.be/blog/2017/rest-antipattern.html>
 
 {#term-testability-quality-attribute}
 ### Testability Quality Attribute
@@ -1013,7 +1015,7 @@ A trainer is a person who conducts a training course himself, provided that this
 ### Training Level
 The iSAQB® CPSA education programme is divided into (currently) two Training Levels: *Foundation Level* and
 *Advanced Level*. The Training Levels should contain knowledge that builds upon one another. The exact relationships between each other and the contents of the Training Level are defined in the respective curricula (_syllabi_).
- 
+
 {#term-training-provider}
 ### Training Provider
 An organisation or person who holds the rights of use to accredited training materials or who has purchased [accreditation](#term-accreditation) for training materials, provides trainers and infrastructure and conducts training courses.
