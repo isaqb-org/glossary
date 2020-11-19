@@ -330,7 +330,7 @@ Category: Security
 
 One of the basic [Security Goals](#term-security-goals) which means maintaining and assuring accuracy and completeness of data. Usually this is achieved by the usage of cryptographic algorithms to create a digital signature.
 
-Category: Fundamental
+Category: Foundation
 
 Data or behavioral integrity:
 

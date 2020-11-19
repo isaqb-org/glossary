@@ -222,7 +222,7 @@ Category: ISO-IEC-IEEE-42010
 
 Hence, the architecture needs to be designed in a way to fulfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
 
-Category: Fundamental
+Category: Foundation
 
 
 {#term-architecture-model}
@@ -276,6 +276,15 @@ D> ###### Comment (Alexander Lorz)
 D> Depending on who you ask, some might consider architecture styles a generalization of architecture patterns.
 D> That is, "distributed system" is a style while "client-server, CQRS, broker and peer-to-peer" are more specific patterns that belong to this style.
 D> However, from a practical point of view this distinction is not essential.
+
+
+{#term-architectural-tactic}
+### Architectural Tactic
+A technique, strategy, approach or decision helping to achieve one or several quality requirements.
+The term was coined by [Bass+2012](#ref-bass-2012).
+
+Category: Foundation
+
 
 {#term-architecture-view}
 ### Architecture View
