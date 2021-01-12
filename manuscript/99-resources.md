@@ -134,10 +134,13 @@ _Applied Software Architecture,_
 {#ref-hohpe+2003}
 ##### Hohpe+2003
 
-Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and Deploying
-Messaging Solutions_, Addison Wesley, 2003.
+Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison Wesley, 2003.
 
 A very important book and timeless book for people creating integrated systems.
+
+{#ref-kazman+1996}
+##### Kazman+1996
+Kazman, R., Abowd, G., Bass, L., & Clements, P.: _Scenario-based analysis of software architecture_, IEEE software, 13(6), 47-55, 1996.
 
 {#ref-kelly+2009}
 ##### Kelly+2009
