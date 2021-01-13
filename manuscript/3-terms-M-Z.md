@@ -626,7 +626,7 @@ Could for example (but doesn't need to) be expressed in UML sequence or activity
 ### Scenario
 
 Quality scenarios document required quality attributes.
-They "... are brief narratives of expected or anticipated use of a system from both development and end-user viewpoints." ([Kazman+1996](#ref-kazman+1996))
+They "... are brief narratives of expected or anticipated use of a system from both development and end-user viewpoints." ([Kazman+1996](#ref-kazman-1996))
 Thus, they help to describe required or desired qualities of a system in pragmatic and informal manner, yet making the abstract notion of “quality” concrete and tangible.
 
   {width=50%}

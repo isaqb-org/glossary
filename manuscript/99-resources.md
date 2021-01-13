@@ -138,7 +138,7 @@ Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and De
 
 A very important book and timeless book for people creating integrated systems.
 
-{#ref-kazman+1996}
+{#ref-kazman-1996}
 ##### Kazman+1996
 Kazman, R., Abowd, G., Bass, L., & Clements, P.: _Scenario-based analysis of software architecture_, IEEE software, 13(6), 47-55, 1996.
 
