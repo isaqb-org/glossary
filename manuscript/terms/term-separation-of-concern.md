@@ -1,3 +1,4 @@
+{lang=en}
 ### Separation of Concerns (SoC)
 
 Any element of an architecture should have exclusivity and singularity of responsibility and purpose: No element should share the responsibilities of another element or contain unrelated responsibilities.

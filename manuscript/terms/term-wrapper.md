@@ -1,3 +1,4 @@
+{lang=en}
 ### Wrapper
 
 (syn: Decorator, Adapter, Gateway) Patterns to abstract away the concrete interface or implementation of a component. Attach additional responsibilities to an object dynamically.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Uses Relationship
 
 Dependency that exists between two building blocks.

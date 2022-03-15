@@ -1,3 +1,4 @@
+{lang=en}
 ### Quality Requirement
 
 Characteristic or attribute of a component of a system. Examples include

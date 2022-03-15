@@ -1,3 +1,4 @@
+{lang=en}
 ### Pikachu
 A yellowish mouse-like character from the
 (quite famous) [Pokémon world](https://simple.wikipedia.org/wiki/Pikachu).

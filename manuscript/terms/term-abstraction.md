@@ -1,3 +1,4 @@
+{lang=en}
 ### Abstraction
 
 The process of removing details to focus attention on aspects of greater importance. 

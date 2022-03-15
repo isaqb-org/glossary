@@ -1,3 +1,4 @@
+{lang=en}
 ### Context (of a System)
 
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](https://www.viewpoints-and-perspectives.info/home/viewpoints/context/))

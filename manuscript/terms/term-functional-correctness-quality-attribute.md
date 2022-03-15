@@ -1,3 +1,4 @@
+{lang=en}
 ### Functional Correctness Quality Attribute
 Degree to which a product or system provides the correct results with the needed degree of precision.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).

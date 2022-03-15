@@ -1,3 +1,4 @@
+{lang=en}
 ### Relationship
 
 Generic term denoting some kind of dependency between elements of

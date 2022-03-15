@@ -1,3 +1,4 @@
+{lang=en}
 ### Single Responsibility Principle (SRP)
 
 Each element within a system or architecture should have a single

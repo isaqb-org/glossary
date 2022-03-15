@@ -1,3 +1,4 @@
+{lang=en}
 ### Global Analysis
 
 Systematic approach to achieve desired quality attributes.

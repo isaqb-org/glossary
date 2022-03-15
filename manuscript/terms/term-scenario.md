@@ -1,3 +1,4 @@
+{lang=en}
 ### Scenario
 
 Quality scenarios document required quality attributes.

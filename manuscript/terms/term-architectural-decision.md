@@ -1,3 +1,4 @@
+{lang=en}
 ### Architectural Decision
 Decision, which has an sustainable or essential effect on the architecture.
 

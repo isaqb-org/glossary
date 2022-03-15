@@ -1,3 +1,4 @@
+{lang=en}
 ### Pipe
 
 Connector in the pipes-and-filters architectural style that transfers

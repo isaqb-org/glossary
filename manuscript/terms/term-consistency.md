@@ -1,3 +1,4 @@
+{lang=en}
 ### Consistency
 
 A consistent systems does not contain contradictions.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Enterprise IT Architecture
 
 Synonym: Enterprise Architecture.

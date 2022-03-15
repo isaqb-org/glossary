@@ -1,3 +1,4 @@
+{lang=en}
 ### Cross-Cutting Concern
 
 Functionality of the architecture or system that affects several elements.

@@ -1,3 +1,4 @@
+{lang=en}
 ### CQRS
 
 (command query responsibility segregation): Separate the elements manipulating

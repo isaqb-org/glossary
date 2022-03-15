@@ -1,3 +1,4 @@
+{lang=en}
 ### Command
 
 Design pattern in which an object is used to encapsulate

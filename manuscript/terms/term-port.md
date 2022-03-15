@@ -1,3 +1,4 @@
+{lang=en}
 ### Port
 
 UML construct, used in component diagrams. An interface,

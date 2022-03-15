@@ -1,3 +1,4 @@
+{lang=en}
 ### CA
 
 A **C**ertificate **Authority** issues digital certificates to a given subject

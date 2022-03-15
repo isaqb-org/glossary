@@ -1,3 +1,4 @@
+{lang=en}
 ### Quality Tree
 
 (syn: quality attribute utility tree).

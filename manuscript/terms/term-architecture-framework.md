@@ -1,3 +1,4 @@
+{lang=en}
 ### Architecture Framework
 
 Conventions, principles and practices for the description of architectures established within a specific domain of application and/or community of stakeholders (as defined in ISO/IEC/IEEE 42010).

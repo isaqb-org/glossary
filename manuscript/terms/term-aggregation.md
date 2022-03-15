@@ -1,3 +1,4 @@
+{lang=en}
 ### Aggregation
 
 A form of object [composition](#term-composition) in object-oriented programming.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Authentication
 
 Authentication is the process of confirming the claim of an identity by a given

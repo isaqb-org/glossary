@@ -1,3 +1,4 @@
+{lang=en}
 ### Web of Trust
 
 Since a single [CA](#term-ca) could be an easy target for an attacker the web

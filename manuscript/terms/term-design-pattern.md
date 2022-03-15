@@ -1,3 +1,4 @@
+{lang=en}
 ### Design Pattern
 
 General or generic reusable solution to a commonly occurring problem within a given context in design.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Quantitative Evaluation
 
 (syn: quantative analysis): Measure or count values of software artifacts,

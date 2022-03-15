@@ -1,3 +1,4 @@
+{lang=en}
 ### Software Architecture
 
 There exist several (!) valid and plausible definitions

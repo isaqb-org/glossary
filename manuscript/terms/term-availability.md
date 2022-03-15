@@ -1,3 +1,4 @@
+{lang=en}
 ### Availability
 
 One of the basic [Security Goals](#term-security-goals) describing a system

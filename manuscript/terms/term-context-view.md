@@ -1,3 +1,4 @@
+{lang=en}
 ### Context View
 
 Shows the complete system as one [blackbox](#term-blackbox) within its environment, either from a business perspective (_business context_) or from a technical or deployment perspective (_technical context_). 

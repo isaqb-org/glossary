@@ -1,3 +1,4 @@
+{lang=en}
 ### Registry
 
 "A well-known object that other objects can use to find common objects and services." (quoted from

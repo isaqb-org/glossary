@@ -1,3 +1,4 @@
+{lang=en}
 ### Deployment View
 
 Architectural view showing the technical infrastructure where a system or artifacts will be

@@ -1,3 +1,4 @@
+{lang=en}
 ### Heuristic
 
 Informal rule, rule-of-thumb. Any way of problem solving not guaranteed to be optimal,

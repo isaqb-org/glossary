@@ -1,3 +1,4 @@
+{lang=en}
 ### Architecture Evaluation
 
 Quantitative or qualitative assessment of a (software or system) architecture.

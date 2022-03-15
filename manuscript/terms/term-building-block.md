@@ -1,3 +1,4 @@
+{lang=en}
 ### Building Block
 
 General or abstract term for all kinds of artifacts from which software is constructed.

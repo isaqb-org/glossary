@@ -1,3 +1,4 @@
+{lang=en}
 ### Authorization
 
 "Authorization or authorisation is the function of specifying access rights to

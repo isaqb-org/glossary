@@ -1,3 +1,4 @@
+{lang=en}
 ### Appropriateness Recognizability Quality Attribute
 Degree to which users can recognize whether a product or system is appropriate for their needs.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).

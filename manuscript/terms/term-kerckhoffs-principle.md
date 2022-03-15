@@ -1,3 +1,4 @@
+{lang=en}
 ### Kerckhoffs' Principle
 
 One of the six cryptographic axioms described 1883 in an article "La

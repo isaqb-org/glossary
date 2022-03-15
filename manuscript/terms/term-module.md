@@ -1,3 +1,4 @@
+{lang=en}
 ### Module
 
 (see also [Modular programming](#term-modular-programming))

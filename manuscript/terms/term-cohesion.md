@@ -1,3 +1,4 @@
+{lang=en}
 ### Cohesion
 
 The degree to which elements of a building block, component or module belong together is called [cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29).

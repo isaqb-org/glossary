@@ -1,3 +1,4 @@
+{lang=en}
 ### Abstractness
 
 Metric for the source code of object oriented systems: The number of abstract types

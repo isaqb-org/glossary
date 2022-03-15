@@ -1,3 +1,4 @@
+{lang=en}
 ### Information Hiding
 
 A fundamental principle in software design: Keep those design or implementation decisions

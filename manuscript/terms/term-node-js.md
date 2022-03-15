@@ -1,3 +1,4 @@
+{lang=en}
 ### Node (Node.js)
 
 In modern web development: Short form for the open source

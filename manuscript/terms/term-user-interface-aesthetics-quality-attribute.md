@@ -1,3 +1,4 @@
+{lang=en}
 ### User Interface Aesthetics Quality Attribute
 Degree to which a user interface enables pleasing and satisfying interaction for the user.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).

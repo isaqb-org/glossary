@@ -1,3 +1,4 @@
+{lang=en}
 ### arc42
 
 Free template  for communication and documentation of software architectures.

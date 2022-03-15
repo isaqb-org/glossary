@@ -1,3 +1,4 @@
+{lang=en}
 ### Package Principles
 
 Fundamental principles for designing the structure of software systems ([Martin-2003](#ref-martin-2003)):

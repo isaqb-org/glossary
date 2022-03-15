@@ -1,3 +1,4 @@
+{lang=en}
 ### Perspective
 
 A perspective is used to consider a set of related quality properties and concerns of a system.

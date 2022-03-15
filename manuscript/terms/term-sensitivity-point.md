@@ -1,3 +1,4 @@
+{lang=en}
 ### Sensitivity Point
 
 (in qualitative evaluation like ATAM):

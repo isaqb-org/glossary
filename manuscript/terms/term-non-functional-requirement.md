@@ -1,3 +1,4 @@
+{lang=en}
 ### Non Functional Requirement (NFR)
 
 Requirements that _constrain the solution_.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Composition
 
 Combine simpler elements (e.g. functions, data types,

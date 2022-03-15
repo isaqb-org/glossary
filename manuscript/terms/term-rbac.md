@@ -1,3 +1,4 @@
+{lang=en}
 ### RBAC (Role Based Access Control)
 
 A role is a fixed set of permissions usually assigned to a group of

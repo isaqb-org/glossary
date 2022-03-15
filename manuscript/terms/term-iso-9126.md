@@ -1,3 +1,4 @@
+{lang=en}
 ### ISO 9126
 
 (Deprecated) standard to describe (and evaluate) _software product quality_.

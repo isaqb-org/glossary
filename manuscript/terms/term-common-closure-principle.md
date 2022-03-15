@@ -1,3 +1,4 @@
+{lang=en}
 ### Common Closure Principle
 
 A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It directly and explicitly restates the [Single Responsibility Principle](#term-single-responsibility-principle) for larger components. 

@@ -1,3 +1,4 @@
+{lang=en}
 ### Symmetric Cryptography
 
 Symmetric cryptography is based on an identical key for encryption and

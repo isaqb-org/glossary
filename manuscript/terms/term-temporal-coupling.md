@@ -1,3 +1,4 @@
+{lang=en}
 ### Temporal Coupling
 Different interpretations exist from various sources. Temporal coupling:
 

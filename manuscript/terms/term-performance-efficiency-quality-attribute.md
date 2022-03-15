@@ -1,3 +1,4 @@
+{lang=en}
 ### Performance Efficiency Quality Attribute
 Performance relative to the amount of resources used under stated conditions.
 

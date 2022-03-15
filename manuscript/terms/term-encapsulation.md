@@ -1,3 +1,4 @@
+{lang=en}
 ### Encapsulation
 
 Encapsulation has two slightly distinct notions, and sometimes to the combination thereof:

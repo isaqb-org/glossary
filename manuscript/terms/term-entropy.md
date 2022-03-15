@@ -1,3 +1,4 @@
+{lang=en}
 ### Entropy
 
 In information theory defined as "amount of information" a message has or

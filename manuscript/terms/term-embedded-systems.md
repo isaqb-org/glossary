@@ -1,3 +1,4 @@
+{lang=en}
 ### Embedded System
 
 System _embedded_ within a larger mechanical or electrical system. Embedded systems often

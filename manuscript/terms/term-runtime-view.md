@@ -1,3 +1,4 @@
+{lang=en}
 ### Runtime View
 
 Shows the cooperation or collaboration of building blocks

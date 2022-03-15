@@ -1,3 +1,4 @@
+{lang=en}
 ### Stakeholder
 
 Person or organization that can be affected by

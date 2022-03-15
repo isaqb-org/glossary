@@ -1,3 +1,4 @@
+{lang=en}
 ### ACL
 Access Control Lists are a way to organize and store permissions of
 a [principal](#term-principal) for a specific entity. Beside implementations

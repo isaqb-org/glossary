@@ -1,3 +1,4 @@
+{lang=en}
 ### Model-View-Controller
 
 Architecture pattern, often used to implement user interfaces. It divides a

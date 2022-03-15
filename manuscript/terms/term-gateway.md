@@ -1,3 +1,4 @@
+{lang=en}
 ### Gateway
 
 A (design or architecture) pattern: An element of that encapsulates

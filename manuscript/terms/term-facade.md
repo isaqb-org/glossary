@@ -1,3 +1,4 @@
+{lang=en}
 ### Facade
 
 Structural design pattern. A Facade offers a simplified interface to a complex

@@ -1,3 +1,4 @@
+{lang=en}
 ### Node (in UML)
 
 A processing resource (execution environment, processor, machine, virtual machine,

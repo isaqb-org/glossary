@@ -1,3 +1,4 @@
+{lang=en}
 ### Architecture Style
 
 Description of element and relation types, together with constraints on how they can be used.

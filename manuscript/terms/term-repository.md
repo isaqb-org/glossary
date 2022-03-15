@@ -1,3 +1,4 @@
+{lang=en}
 ### Repository
 
 In architecture documentation: A place where artifacts are stored before an automatic build process collects them into one consistent document.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Decomposition
 
 (syn: factoring) Breaking or dividing a complex system or problem into several smaller parts

@@ -1,3 +1,4 @@
+{lang=en}
 ### Architecture Description Language
 
 An architecture description language (ADL) is any form of expression for use in architecture descriptions (as defined in ISO/IEC/IEEE 42010).

@@ -1,3 +1,4 @@
+{lang=en}
 ### Signature
 
 Signature of function or method: See [function signature](#term-function-signature)

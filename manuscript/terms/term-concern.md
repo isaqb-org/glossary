@@ -1,3 +1,4 @@
+{lang=en}
 ### Concern
 
 "A _concern_ about an architecture is a requirement, an objective, a constraint, an intention, or an aspiration a stakeholder has for that architecture." (quoted from [Rozanski+11], chapter 8)

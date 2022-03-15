@@ -1,3 +1,4 @@
+{lang=en}
 ### Authenticity Quality Attribute
 Degree to which the identity of a subject or resource can be proved to be the one claimed.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).

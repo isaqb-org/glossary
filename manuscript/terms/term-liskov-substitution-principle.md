@@ -1,3 +1,4 @@
+{lang=en}
 ### Liskov Substitution Principle
 
 Refers to object oriented programming: If you use inheritance, do it right:

@@ -1,3 +1,4 @@
+{lang=en}
 ### Hybrid Architecture Style
 
 Combination of two or more existing architecture styles or

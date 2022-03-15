@@ -1,3 +1,4 @@
+{lang=en}
 ### Trade-Off
 
 (syn: compromise). A balance achieved or negotiated between two desired or

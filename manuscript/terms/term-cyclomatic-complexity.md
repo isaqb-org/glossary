@@ -1,3 +1,4 @@
+{lang=en}
 ### Cyclomatic Complexity
 
 Quantitative measure, number of independent paths through a program's source code.

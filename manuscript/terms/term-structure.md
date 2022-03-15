@@ -1,3 +1,4 @@
+{lang=en}
 ### Structure
 
 An arrangement, order or organization of interrelated elements in a system.

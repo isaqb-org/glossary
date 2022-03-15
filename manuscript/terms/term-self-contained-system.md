@@ -1,3 +1,4 @@
+{lang=en}
 ### Self Contained System (SCS)
 
 An architectural style, similar to [Microservices](#term-microservice). To quote from the site

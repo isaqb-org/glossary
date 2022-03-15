@@ -1,3 +1,4 @@
+{lang=en}
 ### ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.

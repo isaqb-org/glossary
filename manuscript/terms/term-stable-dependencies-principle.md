@@ -1,3 +1,4 @@
+{lang=en}
 ### Stable Dependencies Principle
 
 A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that frequently changing components depend on more stable ones.

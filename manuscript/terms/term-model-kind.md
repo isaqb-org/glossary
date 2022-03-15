@@ -1,3 +1,4 @@
+{lang=en}
 ### Model Kind
 
 Conventions for a type of modeling (as defined in ISO/IEC/IEEE 42010).

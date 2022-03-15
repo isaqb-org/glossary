@@ -1,3 +1,4 @@
+{lang=en}
 ### Functional Appropriateness Quality Attribute
 Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).

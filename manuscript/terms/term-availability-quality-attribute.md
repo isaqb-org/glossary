@@ -1,3 +1,4 @@
+{lang=en}
 ### Availability Quality Attribute
 Degree to which a system, product or component is operational and accessible when required for use.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).

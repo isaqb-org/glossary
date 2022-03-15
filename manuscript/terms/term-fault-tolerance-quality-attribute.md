@@ -1,3 +1,4 @@
+{lang=en}
 ### Fault Tolerance Quality Attribute
 Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).

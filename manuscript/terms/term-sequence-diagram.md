@@ -1,3 +1,4 @@
+{lang=en}
 ### Sequence Diagram
 
 Type of diagram to illustrate how elements of an architecture interact

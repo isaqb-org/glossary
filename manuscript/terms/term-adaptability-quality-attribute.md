@@ -1,3 +1,4 @@
+{lang=en}
 ### Adaptability Quality Attribute
 Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.
 Is a sub-characteristic of: [portability](#term-portability-quality-attribute).

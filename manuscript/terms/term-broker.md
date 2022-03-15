@@ -1,3 +1,4 @@
+{lang=en}
 ### Broker
 
 An architecture pattern used to structure distributed software systems with decoupled

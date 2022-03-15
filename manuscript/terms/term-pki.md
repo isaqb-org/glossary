@@ -1,3 +1,4 @@
+{lang=en}
 ### PKI
 
 Short for **Public-Key-Infrastructure**. A concept of managing digital certificates

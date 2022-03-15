@@ -1,3 +1,4 @@
+{lang=en}
 ### Security Goals
 
 The goals are the key point of information security. They are a basic set of

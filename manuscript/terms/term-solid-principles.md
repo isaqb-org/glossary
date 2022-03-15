@@ -1,3 +1,4 @@
+{lang=en}
 ### S.O.L.I.D. principles
 
 SOLID (single responsibility, open-closed, Liskov substitution, interface segregation and dependency inversion) is an acronym for some principles

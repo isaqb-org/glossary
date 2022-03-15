@@ -1,3 +1,4 @@
+{lang=en}
 ### Modular Programming
 
 "Software design technique that separates the functionality of a program into independent,

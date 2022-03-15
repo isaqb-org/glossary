@@ -1,3 +1,4 @@
+{lang=en}
 ### Interface Segregation Principle (ISP)
 
 Building blocks (classes, components) should not be forced to depend on methods they

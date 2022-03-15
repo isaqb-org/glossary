@@ -1,3 +1,4 @@
+{lang=en}
 ### Pattern
 
  A reusable or repeatable solution to a common problem in software design or architecture.

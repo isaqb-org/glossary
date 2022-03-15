@@ -1,3 +1,4 @@
+{lang=en}
 ### Coupling
 
 [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29) is the kind and degree of _interdependence_ between building blocks of

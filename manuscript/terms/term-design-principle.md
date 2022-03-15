@@ -1,3 +1,4 @@
+{lang=en}
 ### Design Principle
 
 Set of guidelines that helps software developers to design and implement better solutions,

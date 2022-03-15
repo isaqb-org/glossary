@@ -1,3 +1,4 @@
+{lang=en}
 ### Quality Attribute
 
 Software quality is the degree to which a system possesses the desired combination of _attributes_ (see: [software quality](#term-software-quality)).

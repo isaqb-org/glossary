@@ -1,3 +1,4 @@
+{lang=en}
 ### Building Block View
 
 Shows the statical structure of the system,

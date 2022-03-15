@@ -1,3 +1,4 @@
+{lang=en}
 ### Maturity Quality Attribute
 Degree to which a system, product or component meets needs for reliability under normal operation.
 Is a sub-characteristic of: [reliability](#term-reliability-quality-attribute).

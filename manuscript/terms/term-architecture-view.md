@@ -1,3 +1,4 @@
+{lang=en}
 ### Architecture View
 
 A representation of a system from a specific perspective. Important and well-known views are:

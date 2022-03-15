@@ -1,3 +1,4 @@
+{lang=en}
 ### ATAM
 
 _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation method,

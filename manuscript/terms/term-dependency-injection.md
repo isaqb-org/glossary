@@ -1,3 +1,4 @@
+{lang=en}
 ### Dependency Injection (DI)
 
 Instead of having your objects or a factory creating a dependency,

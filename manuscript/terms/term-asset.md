@@ -1,3 +1,4 @@
+{lang=en}
 ### Asset
 
 "In information security, computer security and network security an Asset is any

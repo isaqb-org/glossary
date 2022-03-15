@@ -1,3 +1,4 @@
+{lang=en}
 ### Black Box
 
 View on a [building block](#term-building-block) (or [component](#term-component)) that hides the internal structure.

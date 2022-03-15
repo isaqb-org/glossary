@@ -1,3 +1,4 @@
+{lang=en}
 ### IEEE-1471
 
 Standard _Recommended Practice for Architectural Description of Software-Intensive Systems_,

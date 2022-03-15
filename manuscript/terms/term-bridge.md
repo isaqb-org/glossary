@@ -1,3 +1,4 @@
+{lang=en}
 ### Bridge
 
 Design pattern in which an abstraction is decoupled from its implementation,

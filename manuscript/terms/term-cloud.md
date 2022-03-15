@@ -1,3 +1,4 @@
+{lang=en}
 ### Cloud
 "Cloud computing is a model for enabling ubiquitous, convenient, on-demand network
 access to a shared pool of configurable computing resources (e.g., networks, servers,

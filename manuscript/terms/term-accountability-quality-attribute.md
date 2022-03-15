@@ -1,3 +1,4 @@
+{lang=en}
 ### Accountability Quality Attribute
 Degree to which the actions of an entity can be traced uniquely to the entity.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).

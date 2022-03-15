@@ -1,3 +1,4 @@
+{lang=en}
 ### Modifiability Quality Attribute
 Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).

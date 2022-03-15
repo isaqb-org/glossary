@@ -1,3 +1,4 @@
+{lang=en}
 ### Perfect Forward Secrecy
 
 Property of a cryptographic protocol were an attacker can't gain any

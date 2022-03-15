@@ -1,3 +1,4 @@
+{lang=en}
 ### Functional Completeness Quality Attribute
 Degree to which the set of functions covers all the specified tasks and user objectives.
 Is a sub-characteristic of: [functional suitability](#term-functional-suitability-quality-attribute).

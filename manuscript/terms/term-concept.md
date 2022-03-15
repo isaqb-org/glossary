@@ -1,3 +1,4 @@
+{lang=en}
 ### Concept
 
 Plan, principle(s) or rule(s) how to solve a specific problem.

@@ -1,3 +1,4 @@
+{lang=en}
 ### Analysability Quality Attribute
 Degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts, or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified.
 Is a sub-characteristic of: [maintainability](#term-maintainability-quality-attribute).

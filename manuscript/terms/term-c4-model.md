@@ -1,3 +1,4 @@
+{lang=en}
 ### C4 Model
 The [C4 Model for Software Architecture Documentation](https://c4model.com/)
 was developed by Simon Brown.
