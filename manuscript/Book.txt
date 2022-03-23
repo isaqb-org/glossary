@@ -7,9 +7,9 @@
 
 0_intro.md
 
-1-terms-A-C.md
-2-terms-D-L.md
-3-terms-M-Z.md
+1-terms.md
+%% include the generated terms list:
+generated-dont-edit/gen-terms-EN.md
 
 
 %% ==================================
