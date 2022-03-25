@@ -6,27 +6,41 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 sourceCompatibility = 1.5
+targetCompatibility = 1.5
 
 repositories {
     mavenCentral()
-    jcenter()
 }
 
 dependencies {
-    compile 'org.codehaus.groovy:groovy-all:2.4.5'
+    implementation 'org.codehaus.groovy:groovy-all:2.4.5'
 
     // We use the awesome Spock testing and specification framework
-    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
-    testCompile 'junit:junit:4.12'
+    testImplementation 'org.spockframework:spock-core:1.0-groovy-2.4'
+    testImplementation 'junit:junit:4.12'
 }
 
-mainClassName =  'Translator'
+task generateTerms(dependsOn: compileGroovy, type: JavaExec) {
+    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util.regex=ALL-UNNAMED']
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'TermsGenerator'
+
+    if (project.hasProperty("args")) {
+        args project.getProperty("args")[0]
+    } else {
+        args "en" // default en
+    }
+}
+
+task generateTables(dependsOn: compileGroovy, type: JavaExec) {
+    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED']
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'Translator'
+}
 
 description = "Buildfile for iSAQB(c) Glossary Project\n"
-
-
-defaultTasks = ['translate']
-
-task translate(dependsOn: run)
-
-//task info
