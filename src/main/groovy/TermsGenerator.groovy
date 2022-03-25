@@ -1,18 +1,18 @@
 import static groovy.io.FileType.FILES
 
 class TermsGenerator {
-    final static String SOURCE_FILEPATH = "./../../../manuscript/terms/"
-    final static String TARGET_FILEPATH = "./../../../manuscript/generated-dont-edit/"
+    final static String SOURCE_FILEPATH = "./manuscript/terms/"
+    final static String TARGET_FILEPATH = "./generated/"
     final static String TERM_PREFIX = "term-"
 
     final static String TERMS_FILENAME = "gen-terms-"
 
-    String getTermRegex(String language) {
+    static String getTermRegex(String language) {
         def regex = /(?:\{lang=${language}\}\n)(### (.*)[\S\s]+?)(?=\{lang=|\Z)/
         return regex
     }
 
-    private List<String> getSortedTermsList(String language) {
+    private static List<String> getSortedTermsList(String language) {
         def dir = new File(SOURCE_FILEPATH)
         def textMatches = []
         def langRegex = getTermRegex(language)
@@ -35,7 +35,7 @@ class TermsGenerator {
         return termTexts
     }
 
-    String buildTermsFileText(String language) {
+    static String buildTermsFileText(String language) {
         def termsFileText = ""
 
         this.getSortedTermsList(language).each{termsFileText += it+"\n"}
@@ -43,7 +43,7 @@ class TermsGenerator {
         return termsFileText
     }
 
-    void main(String... args) {
+    public static void main(String... args) {
         def language = args.getAt(0)
         println("\n\niSAQB Glossary Terms-List Markdown Generator\n\n")
 
@@ -53,6 +53,6 @@ class TermsGenerator {
         termsFile.createNewFile()
         termsFile.text = buildTermsFileText(language)
 
-        println "Created file containing ${nrOfTerms} terms"
+        println "Created glossary file in \"${language}\" containing ${nrOfTerms} terms"
     }
 }
