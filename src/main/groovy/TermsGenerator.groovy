@@ -8,7 +8,7 @@ class TermsGenerator {
     final static String TERMS_FILENAME = "gen-terms-"
 
     static String getTermRegex(String language) {
-        def regex = /(?:\{lang=${language}\}\n)(### (.*)[\S\s]+?)(?=\{lang=|\Z)/
+        def regex = /(?:\{lang=(?i)${language}(?-i)\}\n)(### (.*)[\S\s]+?)(?=\{lang=|\Z)/
         return regex
     }
 
