@@ -1,10 +1,12 @@
 # How to handle generated files
 
 This directory contains several auto-generated markdown files
-(gen-tt-DE-EN.md and gen-tt-EN-DE.md).
+(gen-tt-DE-EN.md, gen-tt-EN-DE.md as well as gen-terms-[language-code]).
 
-These files contain the translation tables for German and English terms
-of the glossary. Handle them as follows:
+The first two files contain the translation tables for German and English terms.
+The other ones contain a collection of all glossary terms that are available in that language.
+
+Handle them as follows:
 
 1. Compare them to the contents of their counterparts in ../manuscript/generated-dont-edit/
 
