@@ -25,3 +25,4 @@ build
 .classpath
 .project
 .vscode/settings.json
+/generated/gen-terms-*.md
