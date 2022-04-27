@@ -79,7 +79,11 @@ to de:[Kompromiss, Abwägung]
 Each term can be described in multiple languages, denoted by the `{lang=[language-code]}` in their respective files (`manuscript/terms`).
 
 ### Generating translated terms
-You can build the markdown file of all terms that contain a translation to a specific language by calling `./gradlew generateTerms --args="[language-code]"` (on unix or osx) or `.\gradlew.bat generateTerms --args="[language-code]"`, where `[language-code]` stands for the desired language output.
+You can build the markdown file of all terms that contain a translation to a specific language by calling `./gradlew generateTerms --args="<language-code>"` (on unix or osx) or `.\gradlew.bat generateTerms --args="<language-code>"`, where `<language-code>` stands for the desired language output.
+
+Example:
+
+    ./gradlew generateTerms --args="de"
 
 The translator generates one markdown file - currently you need to manually copy this into the `manuscript/generated-dont-edit` directory.
 
