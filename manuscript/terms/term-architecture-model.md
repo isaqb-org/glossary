@@ -6,3 +6,17 @@ An architecture view is composed of one or more architecture models. An architec
 Category: ISO-IEC-IEEE-42010
 
 
+
+
+{lang=de}
+### Architekturmodell
+
+Eine Architektursicht besteht aus einem oder mehreren
+Architekturmodellen. Ein Architekturmodell verwendet für die
+betreffenden Belange geeignete Modellierungskonventionen. Diese
+Konventionen sind in der Modellart für dieses Modell festgelegt. In
+einer Architekturbeschreibung kann ein Architekturmodell Teil von mehr
+als einer Architektursicht sein (gemäß Definition in ISO/IEC/IEEE
+42010).
+
+Kategorie: ISO-IEC-IEEE-42010

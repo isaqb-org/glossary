@@ -8,3 +8,14 @@ Examples are Rapide, Wright, SysML, ArchiMate and the viewpoint languages of RM-
 Category: ISO-IEC-IEEE-42010
 
 
+{lang=de}
+### Architekturbeschreibungssprache
+
+Architekturbeschreibungssprachen (ADL) sind jegliche Ausdrucksformen
+zur Verwendung in Architekturbeschreibungen (gemäß Definition in
+ISO/IEC/IEEE 42010).
+
+Beispiele sind Rapide, Wright, SysML, ArchiMate und die Sprachen der
+verschiedenen Blickwinkel in RM-ODP \[ISO 10746\].
+
+[]{#_bookmark36 .anchor}Kategorie: ISO-IEC-IEEE-42010

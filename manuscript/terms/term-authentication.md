@@ -15,3 +15,24 @@ factors of two categories.
 Category: Security
 
 
+
+
+{lang=de}
+### Authentifizierung
+
+Authentifizierung ist der Vorgang der Bestätigung der
+Identitätsbehauptung einer gegebenen Entität. Dies geschieht
+üblicherweise durch Überprüfung von mindestens einem der dem System
+bekannten Authentifizierungsfaktoren:
+
+-   Wissen (z.B. Passwort)
+
+-   Besitz (z.B. Sicherheitstoken)
+
+-   Inhärenz (z.B. Biometrie)
+
+Für eine stärkere Authentifizierung können mehrere Faktoren oder
+mindestens Faktoren aus zwei Kategorien verlangt
+werden.[]{#_bookmark46 .anchor}
+
+Kategorie: Sicherheit

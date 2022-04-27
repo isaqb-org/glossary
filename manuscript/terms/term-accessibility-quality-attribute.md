@@ -6,3 +6,16 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+
+{lang=de}
+### Qualitätsmerkmal Zugänglichkeit
+
+Maß, in dem ein Produkt oder System von Personen mit den
+unterschiedlichsten Eigenschaften und Fähigkeiten zur Erreichung eines
+spezifizierten Ziels in einem spezifizierten Nutzungskontext genutzt
+werden kann. Teilmerkmal von:
+[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
+Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁵](#_bookmark18).
+
+[]{#_bookmark15 .anchor}Kategorie: Qualität, ISO 25010

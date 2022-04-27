@@ -6,3 +6,16 @@ Architecture rationale records explanation, justification or reasoning about arc
 Category: ISO-IEC-IEEE-42010
 
 
+
+
+{lang=de}
+### Architekturbegründung
+
+Die Architekturbegründung enthält Erläuterungen, Rechtfertigungen oder
+Argumentationen zu getroffenen Architekturentscheidungen. Die
+Begründung einer Entscheidung kann die Entscheidungsgrundlage,
+berücksichtige Alternativen und Kompromisse, mögliche Folgen der
+Entscheidung und Quellenangaben für zusätzliche Informationen
+enthalten (gemäß Definition in ISO/IEC/IEEE 42010).
+
+Kategorie: ISO-IEC-IEEE-42010

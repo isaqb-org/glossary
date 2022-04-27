@@ -14,3 +14,23 @@ signatures.
 Category: Security
 
 
+
+
+{lang=de}
+### Asymmetrische Kryptographie
+
+Algorithmen der asymmetrischen Kryptographie sind so ausgelegt, dass
+zur Verschlüsselung und zur Entschlüsselung unterschiedliche Schlüssel
+verwendet werden. Der Schlüssel für die Verschlüsselung wird
+„öffentlicher Schlüssel" genannt und der Schlüssel für die
+Entschlüsselung „privater Schlüssel". Der öffentliche Schlüssel kann
+veröffentlicht werden und von jedem zur Verschlüsselung von
+Informationen verwendet werden; diese können nur von der Partei, die
+im Besitz des privaten Schlüssels für die Entschlüsselung ist, gelesen
+werden. Siehe [Schneier, Public-Key Algorithms, Seite
+17](#_bookmark242).
+
+Asymmetrische Kryptographie ist die Grundlage für [PKI](#_bookmark154)
+und digitale Signaturen.
+
+Kategorie: Sicherheit

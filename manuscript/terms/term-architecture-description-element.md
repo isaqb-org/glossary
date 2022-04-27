@@ -5,3 +5,20 @@ An architecture description element is any construct in an architecture descript
 
 Category: ISO-IEC-IEEE-42010
 
+{lang=de}
+### Architekturbeschreibungselement
+
+Ein Architekturbeschreibungselement ist ein beliebiges Konstrukt in
+einer Architekturbeschreibung. Architekturbeschreibungselemente sind
+die grundlegendsten Konstrukte, die in ISO/IEC/IEEE 42010 behandelt
+werden. Bei allen in ISO/IEC/IEEE 42010 definierten Begriffen handelt
+es sich um eine Spezialisierung des Konzepts eines
+Architekturbeschreibungselements (gemäß Definition in ISO/IEC/IEEE
+42010).
+
+Kategorie: ISO-IEC-IEEE-42010
+
+[]{#_bookmark34
+.anchor}¹³<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+
+¹⁴[http://arc42.org](http://arc42.org/)

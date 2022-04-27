@@ -11,3 +11,21 @@ Examples include:
 * [CQRS](#term-cqrs)
 
 
+{lang=de}
+### Architekturmuster
+
+Ein Architekturmuster beschreibt eines grundlegendes strukturelles
+Organisationsschema für Softwaresysteme. Es liefert eine Reihe von
+vordefinierten Teilsystemen, spezifiziert ihre Verantwortlichkeiten
+und enthält Richtlinien für die Organisation der Beziehungen zwischen
+ihnen (Buschmann+1996, Seite 12). Vergleichbar mit *Architekturstil*
+
+Beispiele:
+
+-   Model-View-Controller
+
+-   Schichten
+
+-   Pipes und Filter
+
+-   [CQRS](#_bookmark79)

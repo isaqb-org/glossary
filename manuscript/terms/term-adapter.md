@@ -5,3 +5,14 @@ The adapter is a design pattern that allows the interface of an existing compone
 
 Category: Design-Pattern, Foundation.
 
+
+{lang=de}
+### Adapter
+
+Ein Adapter ist ein Entwurfsmuster, das die Nutzung einer vorhandenen
+Schnittstelle von einer anderen Schnittstelle aus ermöglicht. Er wird
+häufig dazu verwendet, vorhandene Komponenten ohne Veränderung ihres
+Quellcodes dazu zu bringen, mit anderen Komponenten
+zusammenzuarbeiten.
+
+[]{#_bookmark28 .anchor}Kategorie: Entwurfsmuster, Foundation.

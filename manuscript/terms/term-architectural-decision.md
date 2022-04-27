@@ -8,3 +8,19 @@ Following ISO/IEC/IEEE 42010 an architectural decision pertain to system concern
 
 Category: ISO-IEC-IEEE-42010
 
+{lang=de}
+### Architekturentscheidung
+
+Entscheidung mit nachhaltiger oder wesentlicher Auswirkung auf die
+Architektur.
+
+Beispiel: Entscheidung über Datenbanktechnologie oder technische
+Grundlagen der Benutzeroberfläche.
+
+Gemäß ISO/IEC/IEEE 42010 bezieht sich eine Architekturentscheidung auf
+Systembelange. Jedoch gibt es häufig kein einfaches Mapping zwischen
+den beiden. Eine Entscheidung kann sich auf verschiedene Weise auf die
+Architektur auswirken. Dies kann in der Architekturbeschreibung
+dargestellt werden (gemäß Definition in ISO/IEC/IEEE 42010).
+
+Kategorie: ISO-IEC-IEEE-42010

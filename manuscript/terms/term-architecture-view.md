@@ -15,3 +15,26 @@ Following ISO/IEC/IEEE 42010, an architecture view is a work product expressing 
 Category: ISO-IEC-IEEE-42010
 
 
+
+
+{lang=de}
+### Architektursicht
+
+Eine Darstellung eines Systems aus einer spezifischen Perspektive.
+Wichtige und bekannte Sichten:
+
+-   [Kontextabgrenzung](#_bookmark72),
+
+-   Bausteinsicht
+
+-   Laufzeitsicht
+
+-   Verteilungssicht
+
+\[Bass+2012\] und \[Rozanski+11\] erörtern dieses Konzept ausführlich.
+
+Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis,
+das die Architektur eines Systems aus der Perspektive spezifischer
+Systembelange darstellt (gemäß Definition in ISO/IEC/IEEE 42010).
+
+Kategorie: ISO-IEC-IEEE-42010

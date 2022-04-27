@@ -9,3 +9,17 @@ components that interact by (usually remote) service invocations.
 
 Category: Architecture-Pattern
 
+
+{lang=de}
+### Broker
+
+Ein Architekturmuster zur Strukturierung von verteilten
+Softwaresystemen mit entkoppelten Komponenten, die über (üblicherweise
+Remote-) Serviceaufrufe interagieren.
+
+Broker sind für die Koordinierung der Kommunikation, wie die
+Weiterleitung von Anfragen, sowie die Übermittlung von Ergebnissen und
+Ausnahmen zuständig.
+
+[]{#_bookmark53 .anchor}Kategorie: Architekturmuster
+

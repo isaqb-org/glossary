@@ -14,3 +14,21 @@ Category: ISO-IEC-IEEE-42010
 
 
 
+
+{lang=de}
+### Architektur-Framework
+
+Konventionen, Grundsätze und Praktiken für die Beschreibung von
+Architekturen, die in einem spezifischen Anwendungsbereich und/oder
+einer Gemeinschaft von Stakeholdern festgelegt wurden (gemäß
+Definition in ISO/IEC/IEEE 42010).
+
+Beispiele:
+
+-   Generalised Enterprise Reference Architecture and Methodologies
+    (GERAM) \[ISO 15704\] ist ein Architektur-Framework.
+
+-   Reference Model of Open Distributed Processing (RM-ODP) \[ISO/IEC
+    10746\] ist ein Architektur-Framework.
+
+[]{#_bookmark37 .anchor}Kategorie: ISO-IEC-IEEE-42010

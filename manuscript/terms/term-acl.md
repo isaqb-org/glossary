@@ -10,3 +10,20 @@ control based on roles ([RBAC](#term-rbac)).
 
 Category: Security
 
+
+
+{lang=de}
+### ACL
+
+Zugriffskontrolllisten (Access Control Lists, ACL) sind eine
+Möglichkeit zur Organisation und Speicherung von Berechtigungen eines
+[Principals](#_bookmark158) für eine spezifische Entität. Neben
+Implementierungen auf Anwendungsebene ist ein typisches Beispiel für
+eine ACL die Verwaltung von Dateiberechtigungen in Unix-basierten
+Betriebssystemen.
+
+Da ACL sich nicht gut im großen Maßstab skalieren lassen, ist eine
+rollenbasierte Modellierung der Zugriffskontrolle
+([RBAC](#_bookmark166)) gängig.
+
+[]{#_bookmark16 .anchor}Kategorie: Sicherheit

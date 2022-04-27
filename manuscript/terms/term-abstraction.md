@@ -11,3 +11,11 @@ A design construct as in "Building blocks should depend on abstractions rather t
 Category: Design-Principle
 
 
+{lang=de}
+### Abstraktion
+
+Betrachtung eines Elements, die sich auf die für einen bestimmten
+Zweck maßgeblichen Informationen konzentriert und die übrigen
+Informationen ignoriert.
+
+Kategorie: Entwurfsprinzip

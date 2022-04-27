@@ -11,3 +11,56 @@ It can be argued that a dependence cycle, even before considering its various pr
 
 Category: Design-Principle
 
+{lang=de}
+### Azyklischer Abhängigkeitsgrundsatz (ADP)
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch [Packaging-Prinzipien](#_bookmark147)). Er besagt, dass
+der Abhängigkeitsgraph eines Systems keine Zyklen enthalten darf, was
+auch eine
+[Notwendigkeit](https://en.wikipedia.org/wiki/Directed_acyclic_graph)[⁷](#_bookmark23)
+für die [*hierarchische*
+Zerlegung](https://en.wikipedia.org/wiki/Functional_decomposition)[⁸](#_bookmark23)
+ist.
+
+Die Vermeidung von Abhängigkeitszyklen ist für [lose
+Kopplung](#_bookmark78) und [Wartbarkeit](#_bookmark128) entscheidend,
+da *alle* Komponenten in einem Abhängigkeitszyklus effektiv (auch wenn
+mittelbar) voneinander abhängen, wodurch es schwierig ist, einen Teil
+des Zyklus isoliert zu verstehen, zu ändern oder zu ersetzen (siehe
+auch [Lilienthal-2019](#_bookmark232)).
+
+Auch wenn Robert C. Martin ([Martin-2003](#_bookmark234)) sich auf
+große Komponenten objektorientierter Software bezog, ist ADP ein
+*universeller* Grundsatz. Er geht (mindestens) auf einen der Ursprünge
+der Softwarearchitektur zurück, den Klassiker von 1972 „On the
+Criteria To Be Used in Decomposing Systems into Modules"
+([Parnas-1972](#_bookmark239)), der *zu dem Ergebnis gelangt*, dass
+eine hierarchische Struktur zusammen mit einer „sauberen" Zerlegung
+wünschenswerte Eigenschaften eines jeden Systems sind.
+
+Es kann argumentiert werden, dass ein Abhängigkeitszyklus, selbst vor
+Berücksichtigung seiner verschiedenen praktischen Probleme, logisch
+bereits so fehlerhaft ist wie ein
+[Zirkelargument](https://en.wikipedia.org/wiki/Circular_reasoning)[⁹](#_bookmark25)
+oder eine
+[Zirkeldefinition](https://en.wikipedia.org/wiki/Fallacies_of_definition%23Circularity)[¹⁰](#_bookmark26).
+Als struktureller Widerspruch kann ein Zyklus weder ein *angemessenes*
+noch ein aussagekräftiges Modell der inhärenten Natur und des Zwecks
+eines Systems sein. Alleine diese konzeptuelle Abweichung führt
+geradezu mit Sicherheit zur Entstehung von Problemen. Und genau das
+soll durch einen [*Prinzip*](#_bookmark85)-Ansatz verhindert werden.
+
+[]{#_bookmark22 .anchor}Kategorie: Entwurfsprinzip
+
+
+[]{#_bookmark23
+.anchor}⁷<https://en.wikipedia.org/wiki/Directed_acyclic_graph>
+
+[]{#_bookmark25
+.anchor}⁸<https://en.wikipedia.org/wiki/Functional_decomposition>
+
+[]{#_bookmark26
+.anchor}⁹<https://en.wikipedia.org/wiki/Circular_reasoning>
+
+¹⁰[https://en.wikipedia.org/wiki/Fallacies_of_definition#Circularity](https://en.wikipedia.org/wiki/Fallacies_of_definition%23Circularity)

@@ -7,3 +7,30 @@ Bounded Context is principle of the strategy design of [Domain-Driven Design](#t
 
 Category: DDD
 
+
+{lang=de}
+### Kontextgrenze
+
+Kontextgrenze ist ein Prinzip des Strategieentwurfs von [Domain-Driven
+Design](#_bookmark90). „Eine Kontextgrenze definiert ausdrücklich den
+Kontext, in dem ein [Domänenmodell](#domänenmodell) für ein
+Softwaresystem gilt. Idealerweise wäre ein einziges, einheitliches
+Modell für alle Systeme in derselben Domäne am besten. Dies ist zwar
+ein ehrenwertes Ziel, aber in Wirklichkeit ist es normalerweise in
+mehrere Modelle zerstückelt. Es ist sinnvoll, dies so hinzunehmen und
+damit zu arbeiten." (Übersetztes englisches Zitat aus Wikipedia)
+
+„Bei sämtlichen großen Projekten gibt es mehrere Domänenmodelle. Doch
+wenn auf unterschiedlichen Modellen basierender Code miteinander
+kombiniert wird, wird die Software fehlerhaft, unzuverlässig und
+schwer verständlich. Die Kommunikation der Teammitglieder wird
+verwirrend. Es ist häufig unklar, in welchem Kontext ein Modell nicht
+angewandt werden sollte. Daher gilt: Legen Sie in Bezug auf
+Teamorganisation, Verwendung in spezifischen Teilen der Anwendung und
+physische Manifestationen, wie Codebasen oder Datenbankschemata,
+ausdrücklich Grenzen fest. Sorgen Sie dafür, dass das Modell exakt mit
+diesen Grenzen konsistent ist, aber lassen Sie sich nicht von Themen
+außerhalb ablenken oder verwirren." (Übersetztes englisches Zitat aus
+Wikipedia)
+
+Kategorie: DDD

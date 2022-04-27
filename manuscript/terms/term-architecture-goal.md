@@ -8,3 +8,17 @@ Hence, the architecture needs to be designed in a way to fulfill this architectu
 Category: Foundation
 
 
+
+
+{lang=de}
+### Architekturziel
+
+(Syn.: Architektur-Qualitätsziel, Architektur-Qualitätsanforderung):
+Ein Qualitätsmerkmal, das ein System erreichen muss und bei dem es
+sich um eine Architekturfrage handelt.
+
+Daher ist die Architektur so zu entwerfen, dass das Architekturziel
+erfüllt wird. Diese Ziele sind im Gegensatz zu (kurzfristigen)
+Projektzielen häufig *langfristig*.
+
+Kategorie: Grundlegend

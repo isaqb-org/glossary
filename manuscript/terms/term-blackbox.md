@@ -9,3 +9,17 @@ for example timing behavior, throughput or security aspects.
 
 Category: Foundation
 
+
+{lang=de}
+### Blackbox
+
+Sicht auf einen [Baustein](#_bookmark53) (oder eine
+[Komponente](#_bookmark64)), die die interne Struktur verbirgt.
+Blackboxen achten das [*Geheimnisprinzip*](#_bookmark112). Sie müssen
+klar definierte Ein- und Ausgabeschnittstellen sowie eine präzise
+formulierte *Verantwortlichkeit* oder ein präzise formuliertes *Ziel*
+haben. Optional definiert eine Blackbox einige Qualitätsmerkmale, wie
+beispielsweise zeitliches Verhalten, Durchsatz oder
+Sicherheitsaspekte.
+
+Kategorie: Foundation

@@ -6,3 +6,13 @@ Work product establishing the conventions for the construction, interpretation a
 Category: ISO-IEC-IEEE-42010
 
 
+
+
+{lang=de}
+### Architekturblickwinkel
+
+Arbeitsergebnis zur Festlegung der Konventionen für den Aufbau, die
+Interpretation und die Nutzung von Architektursichten für spezifische
+Systembelange (gemäß Definition in ISO/IEC/IEEE 42010).
+
+Kategorie: ISO-IEC-IEEE-42010

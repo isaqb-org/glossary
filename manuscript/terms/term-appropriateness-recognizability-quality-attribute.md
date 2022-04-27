@@ -6,3 +6,15 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+
+
+{lang=de}
+### Qualitätsmerkmal Erkennbarkeit der Brauchbarkeit
+
+Maß, in dem Benutzer erkennen können, ob ein Produkt oder System für
+ihre Bedürfnisse geeignet ist. Teilmerkmal von:
+[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
+Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[¹³](#_bookmark34).
+
+[]{#_bookmark33 .anchor}Kategorie: Qualität, ISO 25010

@@ -10,3 +10,14 @@ working towards something more general or abstract.
   These elements are then linked together to form larger subsystems." (quote from [Wikipedia](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design))
 
 
+{lang=de}
+### Bottom-up-Ansatz
+
+Arbeitsrichtung (oder Bearbeitungsstrategie) für Modellierung und
+Entwurf. Ausgehend von detaillierten oder konkreten Aspekten wird auf
+etwas Allgemeineres oder Abstrakteres hingearbeitet.
+
+„Beim Bottom-up-Ansatz werden zunächst die einzelnen Grundelemente des
+Systems mit hohem Detailgrad spezifiziert. Diese Elemente werden dann
+miteinander zu größeren Teilsystemen verknüpft." (Übersetztes
+englisches Zitat aus Wikipedia)

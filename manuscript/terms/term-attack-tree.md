@@ -14,3 +14,25 @@ See [Bruce Schneier on "Modeling security threats"](https://www.schneier.com/aca
 
 Category: Security
 
+
+
+
+{lang=de}
+### Angriffsbaum
+
+Formale Möglichkeit zur Beschreibung verschiedener Ansätze eines
+Angreifers zur Erreichung bestimmter Ziele. Üblicherweise ist der Baum
+so aufgebaut, dass sich das Angriffsziel oben befindet und die
+verschiedenen Ansätze als Kindknoten dargestellt sind. Wahrscheinlich
+hat jeder Ansatz Abhängigkeiten, die wiederum als Kindknoten
+aufgeführt sind. Die Möglichkeit einer bestimmten Angriffsweise auf
+ein IT-System kann durch Zuweisung von zusätzlichen Attributen zu
+jedem Knoten analysiert werden. Mögliche Beispiele sind die
+geschätzten Kosten eines Angriffs oder die Frage der Möglichkeit eines
+Angriffsansatzes mittels Einbeziehung von Gegenmaßnahmen.
+
+Siehe [Bruce Schneier zu „Modeling security
+threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)[¹⁶](#_bookmark45).[]{#_bookmark43
+.anchor}
+
+Kategorie: Sicherheit

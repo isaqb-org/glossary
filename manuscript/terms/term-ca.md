@@ -13,3 +13,19 @@ with [TLS](#term-tls).
 Category: Security
 
 
+{lang=de}
+### CA
+
+Ein Zertifizierungsstelle (Certificate Authority, CA) stellt digitale
+Zertifikate für ein gegebenes Subjekt in einer [PKI](#_bookmark154)
+aus. Üblicherweise besteht Vertrauen in diese Stelle, das zum gleichen
+Maß an Vertrauen in die ausgestellten Zertifikate führt.
+
+Ein Beispiel ist die weitverbreitete TLS-PKI, bei der jeder Browser
+die Wurzelzertifikate einer festgelegten Liste von CA enthält. Diese
+CA überprüfen dann die Identität eines gegebenen
+Internet-Domaininhabers und signieren sein Zertifikat digital für die
+Verwendung mit [TLS](#_bookmark201).
+
+[]{#_bookmark56 .anchor}Kategorie: Sicherheit
+

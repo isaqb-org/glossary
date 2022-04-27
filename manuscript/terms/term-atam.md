@@ -7,3 +7,13 @@ Basic idea: Compare fine-grained quality scenarios ("quality-requirements")
 with the corresponding architectural approaches to identify risks and trade-offs.
 
 
+
+{lang=de}
+### ATAM
+
+*Architecture Tradeoff Analysis Method*. Qualitative
+Architekturbewertungsmethode, basierend auf einem (hierarchischen)
+Qualitätsbaum und konkreten Qualitätsszenarien. Grundidee: Vergleich
+feinkörniger Qualitätsszenarien („Qualitätsanforderungen") mit den
+entsprechenden Architekturansätzen zur Identifizierung von Risiken und
+Kompromissen.
