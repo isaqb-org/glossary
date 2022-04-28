@@ -36,3 +36,61 @@ reported, providing transparency for both the provider and consumer of the
 utilized service.
 
 
+{lang=de}
+### Cloud
+
+„Cloudcomputing ist ein Modell zur Ermöglichung eines
+allgegenwärtigen, bequemen, auf Abruf verfügbaren Netzzugriffs auf
+einen gemeinsamen Pool konfigurierbarer Rechenressourcen (z.B.
+Netzwerke, Server, Speicher, Anwendungen und Dienste), der schnell
+bereitgestellt und mit geringfügigem Verwaltungsaufwand bzw. minimalen
+Eingriffen durch den Dienstanbieter freigegeben werden kann."
+
+Übersetztes englisches Zitat von
+[NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)[²²](#_bookmark59)
+(National Institute of Standards and Technology).
+
+Die NIST-Definition enthält die folgenden fünf Eigenschaften (die
+ebenfalls von der oben genannten NIST-Quelle stammen, jedoch verkürzt
+wurden):
+
+-   On-Demand Self-Service: Ein Kunde kann einseitig Rechenkapazitäten,
+    wie Serverzeit und Netzwerkspeicher, anfordern,
+
+ohne dass eine menschliche Interaktion mit jedem Dienstanbieter
+erforderlich ist.
+
+-   Broad Network Access: Die Leistungen sind mittels
+    Standardmechanismen, die durch heterogene Client-Plattformen die
+    Nutzung fördern, über das Netzwerk zugänglich.
+
+-   Resource Pooling: Die Rechenressourcen des Anbieters werden
+    gebündelt, so dass mehrere Kunden mit einem mandantenfähigen Modell
+    bedient werden können, wobei die verschiedenen physischen und
+    virtuellen Ressourcen gemäß Kundenanforderung dynamisch zugewiesen
+    und neu zugewiesen werden. Dies geschieht ortsunabhängig, wobei der
+    Kunde in der Regel keine Kontrolle oder Kenntnis über den genauen
+    Standort der bereitgestellten Ressourcen hat, jedoch gegebenenfalls
+    den Standort auf einer höheren Abstraktionsebene spezifizieren kann
+    (z.B. Land, Bundesstaat oder Rechenzentrum).
+
+Beispiele für Ressourcen sind Speicher, Verarbeitung, Arbeitsspeicher
+und Netzwerkbandbreite.
+
+-   Rapid Elasticity: Die Dienste können flexibel und in manchen Fällen
+    automatisch bereitgestellt und freigegeben werden, um sich schnell
+    an den Bedarf anzupassen. Für den Kunden erscheinen die verfügbaren
+    Kapazitäten oft unbegrenzt und jederzeit in beliebiger Menge
+    verfügbar.
+
+[]{#_bookmark59
+.anchor}²²<http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf>
+
+-   Measured Service: Cloud-Systeme können durch den Einsatz von
+    Messverfahren auf einer der Art des Dienstes (z.B. Speicher,
+    Verarbeitung, Bandbreite und aktive Benutzerkonten) angemessenen
+    Abstraktionsebene die Ressourcennutzung automatisch steuern und
+    optimieren. Die Ressourcennutzung kann überwacht, gesteuert und
+    berichtet werden, was Transparenz für den Anbieter sowie den Kunden
+    des betreffenden Dienstes schafft.
+

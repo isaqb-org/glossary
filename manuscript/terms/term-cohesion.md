@@ -7,3 +7,14 @@ It measures the strength of relationship between pieces of functionality within 
   Strive for high cohesion, because high cohesion often implies reusability,
   low coupling and understandability.
 
+{lang=de}
+### Kohäsion
+
+Maß, in dem Elemente eines Bausteins, einer Komponente oder eines
+Moduls zusammengehören. Sie misst die Stärke der Beziehung zwischen
+Teilen einer Funktionalität in einer gegebenen Komponente. In
+kohärenten Systemen ist Funktionalität stark verbunden. Sie wird in
+der Regel als *starke Kohäsion* oder *schwache Kohäsion*
+charakterisiert. Ziel sollte starke Kohäsion sein, da diese oft mit
+Wiederverwendbarkeit, loser Kopplung und Verständlichkeit einhergeht.
+

@@ -6,3 +6,16 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Kompatibilität
+
+Maß, in dem ein Produkt, ein System oder eine Komponente Informationen
+mit anderen Produkten, Systemen oder Komponenten austauschen und/oder
+ihre geforderten Funktionen erfüllen können, während sie sich eine
+Hardware- oder Softwareumgebung teilen. Es besteht aus folgenden
+Teilmerkmalen: [Koexistenz](#_bookmark73),
+[Interoperabilität](#_bookmark118). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[²³](#_bookmark66).
+
+Kategorie: Qualität, ISO 25010
+

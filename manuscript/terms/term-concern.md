@@ -10,3 +10,21 @@ Note, a concern pertains to any influence on a system in its environment, includ
 Category: ISO-IEC-IEEE-42010
 
 
+{lang=de}
+### Belang
+
+*Belange* in Bezug auf eine Architektur sind Anforderungen, Ziele,
+Einschränkungen, Absichten oder Bestrebungen eines Stakeholders für
+diese Architektur. (\[Rozanski+11\], Kapitel 8)
+
+Gemäß ISO/IEC/IEEE 42010 ist Belang definiert als (System) Interesse
+an einem System, das für einen oder mehrere Stakeholder relevant ist
+(gemäß Definition in ISO/IEC/IEEE 42010).
+
+Belange beziehen sich auf jegliche Einflüsse auf ein System in seiner
+Umgebung, wie Entwicklungs-, Geschäfts- und Betriebseinflüsse sowie
+technologische, organisatorische, politische, wirtschaftliche,
+rechtlichen, regulatorische, ökologische und soziale Einflüsse.
+
+Kategorie: ISO-IEC-IEEE-42010
+

@@ -9,3 +9,18 @@ Neighbors can either be other software, hardware (like sensors), humans, user-ro
 See [Context](#term-context).
 
 
+{lang=de}
+### Kontextabgrenzung
+
+Zeigt das vollständige System als eine [Blackbox](#_bookmark48) in
+seiner Umgebung, entweder aus Geschäftsperspektive
+(*Geschäftskontext*) oder aus technischer oder Verteilungsperspektive
+(*technischer Kontext*). Die Kontextabgrenzung (oder Kontextdiagramm)
+zeigt die Grenzen zwischen einem System und seiner Umgebung und stellt
+die Entitäten in seiner Umgebung (seine Nachbarn), mit denen es
+interagiert, dar.
+
+Nachbarn können andere Software, Hardware (wie Sensoren), Menschen,
+Benutzerrollen oder sogar Organisationen, die das System nutzen, sein.
+
+[]{#_bookmark73 .anchor}Siehe [Kontext](#_bookmark71).

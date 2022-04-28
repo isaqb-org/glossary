@@ -5,3 +5,17 @@ A restriction on the degree of freedom you have in creating, designing, implemen
 Based upon a [definition from Scott Ambler](http://agilemodeling.com/artifacts/constraint.htm)
 
 
+
+{lang=de}
+### Einschränkung
+
+Eine Einschränkung des Freiheitsgrads bei der Erstellung, dem Entwurf,
+der Implementierung oder der sonstigen Bereitstellung einer Lösung.
+Einschränkungen sind häufig *globale Anforderungen*, wie begrenzte
+Entwicklungsressourcen oder eine Entscheidung der Geschäftsleitung,
+die einschränkt, wie ein System geplant, entworfen, entwickelt oder
+betrieben wird.
+
+[]{#_bookmark71 .anchor}Gestützt auf eine [Definition von Scott
+Ambler](http://agilemodeling.com/artifacts/constraint.htm)[²⁶](#_bookmark74)
+

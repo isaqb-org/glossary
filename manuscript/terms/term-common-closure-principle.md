@@ -15,3 +15,44 @@ This principle leads to [highly cohesive](#term-cohesion) components. It also im
 
 Category: Design-Principle
 
+{lang=de}
+### Common-Closure-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch [Packaging-Prinzipien](#_bookmark147)). Er ist eine
+direkte und ausdrückliche Neuformulierung des
+[Single-Responsibility-Prinzips](#_bookmark188) für größere
+Komponenten.
+
+Die Unterkomponenten einer Komponente sollen idealerweise genau
+dieselben Änderungsgründe haben. Ein Änderungsantrag, der sich auf
+eine von ihnen auswirkt, soll sich auf sie alle, aber auf *nichts*
+außerhalb ihrer enthaltenden Komponente auswirken.
+
+Dadurch würde sich jeder erwartete Änderungsantrag auf eine minimale
+Zahl an Komponenten auswirken. Oder anders gesagt: Jede Komponente
+wäre gegenüber einer maximalen Zahl an erwarteten Änderungsanträgen
+[geschlossen](#_bookmark145). Der Begriff *erwartet* hat an dieser
+Stelle einige bedeutende Auswirkungen:
+
+1.  Die inhärenten Konzepte/Verantwortlichkeiten eines Systems gehen
+    tiefer als einer Beschreibung seines Verhaltens auf
+    Oberflächenebene.
+
+2.  Die tieferen Konzepte/Verantwortlichkeiten eines Systems sind nicht
+    vollständig objektiv, sondern können auf unterschiedliche Weise
+    modelliert werden.
+
+3.  Die Festlegung der Konzepte/Verantwortlichkeiten eines Systems ist
+    nicht nur eine passive Beschreibung, sondern aktive
+    *Strategieentwicklung*.
+
+
+Dieses Prinzip führt zu Komponenten mit [starker
+Kohäsion](#_bookmark60). Es geht auch mit [lose
+gekoppelten](#_bookmark78) Komponenten einher, da verbundene Konzepte,
+die sich zusammen *ändern*, in dieselbe Komponente *gebündelt* werden.
+Wenn jedes einzelne Konzept von einer einzigen Komponente ausgedrückt
+wird, gibt es keine unnötigen Kopplungen zwischen Komponenten.
+
+[]{#_bookmark62 .anchor}Kategorie: Entwurfsprinzip

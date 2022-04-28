@@ -16,3 +16,13 @@ Input-/Output relationships are named by their _business meaning_ instead of the
 Embedded systems, for example, often care for hardware-related information very early in development. 
 
 
+{lang=de}
+### Kontext (eines Systems)
+
+„Definiert die Beziehungen, Abhängigkeiten und Interaktionen zwischen
+dem System und seiner Umgebung: Menschen, Systeme und externe
+Entitäten, mit denen es interagiert." (Übersetztes englisches Zitat
+aus
+[Rozanski-](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/)[]{#_bookmark72
+.anchor}Woods[²⁷](#_bookmark74))
+

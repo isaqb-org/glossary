@@ -11,3 +11,18 @@ There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
 on this subject.
 
 
+{lang=de}
+### CQRS
+
+(Command-Query-Responsibility-Segregation): Trennt die Elemente, die
+Daten manipulieren (*Befehl*) von denen, die Daten nur lesen
+(*Abfrage*). Diese Trennung ermöglicht verschiedene
+Optimierungsstrategien für das Lesen und Schreiben von Daten
+(beispielsweise ist es wesentlich leichter, schreibgeschützte Daten zu
+cachen, als Daten, die auch abgeändert werden können).
+
+Es gibt ein interessantes [eBook von Mark
+Nijhof](https://leanpub.com/cqrs)[²⁹](#_bookmark80) zu diesem Thema.
+
+[]{#_bookmark80 .anchor}²⁹<https://leanpub.com/cqrs>
+

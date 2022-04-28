@@ -15,3 +15,29 @@ See also:
 
 
 
+{lang=de}
+### Domain-Driven Design (DDD)
+
+„Domain-Driven Design (DDD) ist ein Ansatz zur Softwareentwicklung für
+komplexe Anforderungen durch tiefreichende Verbindung der
+Implementierung mit einem sich evolvierenden Modell der
+Kerngeschäftskonzepte." (Übersetztes englisches Zitat von
+[DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)[³⁵](#_bookmark94)).
+Siehe [Evans-2004](#_bookmark230).
+
+Siehe auch:
+
+-   [Entität](#_bookmark95)
+
+-   [Wertobjekt](#_bookmark212)
+
+-   [Aggregat](#_bookmark28)
+
+-   [Service](#_bookmark187)
+
+-   [Fabrik](#_bookmark99)
+
+-   [Ablage](#_bookmark172)
+
+-   [Allgegenwärtige Sprache](#_bookmark207)
+

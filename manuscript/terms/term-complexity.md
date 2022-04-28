@@ -12,3 +12,26 @@
 
   Architects shall strive to reduce accidental complexity.
 
+{lang=de}
+### Komplexität
+
+„Komplexität wird im Allgemeinen zur Charakterisierung eines Systems
+o.Ä. mit vielen Teilen, in dem diese Teile auf unterschiedliche Weise
+miteinander interagieren, verwendet." (Übersetztes englisches Zitat
+aus Wikipedia.)
+
+-   *Essenzielle* Komplexität ist der Kern des Problems, das es zu lösen
+    gilt, und besteht aus den Teilen der Software, die wirklich
+    schwierige Probleme sind. Den meisten Softwareproblemen wohnt eine
+    gewisse Komplexität inne.
+
+-   *Akzidentelle* Komplexität ist alles, was sich nicht
+    notwendigerweise direkt auf die Lösung bezieht, mit dem wir uns aber
+    dennoch befassen müssen.
+
+(Übersetztes englisches Zitat von [Mark
+Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/)[²⁴](#_bookmark66))
+
+[]{#_bookmark64 .anchor}Architekten haben sich um einer Verringerung
+der akzidentellen Komplexität zu bemühen.
+

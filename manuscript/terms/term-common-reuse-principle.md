@@ -9,3 +9,28 @@ This obviously echoes the [Single Responsibility Principle](#term-single-respons
 
 Category: Design-Principle
 
+{lang=de}
+### Common-Reuse-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch [Packaging-Prinzipien](#_bookmark147)). Die
+Unterkomponenten (Klassen) einer Komponente sollen genau die sein, die
+zusammen (wieder)verwendet werden. Oder anders herum: Komponenten, die
+zusammen (wieder)verwendet werden, sollen in eine größere Komponente
+gepackt werden. Dies bedeutet auch, dass Unterkomponenten, die *nicht*
+häufig zusammen mit anderen Unterkomponenten verwendet werden, *nicht*
+in der entsprechenden Komponente sein sollen.
+
+Diese Perspektive hilft bei der Entscheidung, was in eine Komponente
+gehört und was nicht. Sie zielt auf eine Systemzerlegung mit [lose
+gekoppelten](#_bookmark78) und [stark kohärenten](#_bookmark60)
+Komponenten ab.
+
+Dies steht natürlich im engen Zusammenhang mit dem
+[Single-Responsibility-Prinzip](#_bookmark188). Außerdem besteht ein
+Zusammenhang zum [Schnittstellenaufteilungsprinzip](#_bookmark117), da
+das Prinzip sicherstellt, dass Clients nicht gezwungen werden, von
+Konzepten abzuhängen, die für sie bedeutungslos sind.
+
+[]{#_bookmark63 .anchor}Kategorie: Entwurfsprinzip
+

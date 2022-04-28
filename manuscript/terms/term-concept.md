@@ -11,3 +11,16 @@ concept.
 Concepts form the basis for _conceptual integrity_.
 
 
+{lang=de}
+### Konzept
+
+Plan, Prinzip(ien) oder Regel(n), wie ein spezifisches Problem zu
+lösen ist.
+
+Konzepte sind häufig *querschnittlich*, in dem Sinne, dass mehrere
+Architekturelemente von einem einzigen Konzept betroffen sein können.
+Das heißt, dass Implementierer von z.B. Implementierungseinheiten
+(Bausteinen) das entsprechende Konzept einhalten sollen.
+
+Konzepte bilden die Basis für *konzeptionelle Integrität*.
+
