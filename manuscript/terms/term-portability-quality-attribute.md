@@ -6,3 +6,16 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Portierbarkeit
+
+Maß der Effektivität und Effizienz, mit dem ein System, ein Produkt
+oder eine Komponente von einer Hardware-, Software- oder sonstigen
+Betriebs- oder Nutzungsumgebung in eine andere übertragen werden kann.
+Es besteht aus folgenden Teilmerkmalen:
+[Adaptierbarkeit](#_bookmark22), [Installierbarkeit](#_bookmark113),
+[Austauschbarkeit](#_bookmark171). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁶⁸](#_bookmark159).
+
+Kategorie: Qualität, ISO 25010
+

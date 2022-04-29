@@ -6,3 +6,13 @@
     well-known design pattern.)
 
 
+{lang=de}
+### Registry
+
+„Sehr bekanntes Objekt, das andere Objekte nutzen können, um
+gemeinsame Objekte und Dienste zu finden." (Übersetztes englisches
+Zitat
+[PoEAA](http://martinfowler.com/eaaCatalog/registry.html)[⁷⁴](#_bookmark174)).
+Häufig als *Singleton* (auch ein bekanntes Entwurfsmuster)
+implementiert.
+

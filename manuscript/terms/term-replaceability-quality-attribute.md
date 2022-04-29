@@ -6,3 +6,12 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Austauschbarkeit
+
+Maß, in dem ein Produkt ein anderes spezifiziertes Softwareprodukt für
+den gleichen Zweck in der gleichen Umgebung ersetzen kann. Teilmerkmal
+von: [Portierbarkeit](#_bookmark157). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁷⁶](#_bookmark176).
+
+[]{#_bookmark172 .anchor}Kategorie: Qualität, ISO 25010

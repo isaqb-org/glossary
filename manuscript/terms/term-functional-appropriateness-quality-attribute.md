@@ -6,3 +6,13 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal funktionale Angemessenheit
+
+Maß, in dem die Funktionen die Erfüllung von spezifizierten Aufgaben
+und Zielen ermöglichen. Teilmerkmal von: [Funktionale
+Eignung](#_bookmark107). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[³⁹](#_bookmark104).
+
+[]{#_bookmark102 .anchor}Kategorie: Qualität, ISO 25010
+

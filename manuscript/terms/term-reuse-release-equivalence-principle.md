@@ -11,3 +11,25 @@ The REP contains two different insights:
 Category: Design-Principle
 
 
+{lang=de}
+### Reuse-Release-Equivalence-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch [Packaging-Prinzipien](#_bookmark147)). Es verlangt einen
+„Release" und eine Versionskontrolle von großen Komponenten,
+insbesondere wenn das System sie von mehreren Punkten aus nutzt. Auch
+wenn sie nicht öffentlich herausgegeben werden, sollten diese
+Komponenten aus dem System extrahiert werden und durch einen externen
+Dependency Manager eine ordnungsgemäße Versionskontrolle erhalten.
+
+Das REP enthält zwei unterschiedliche Erkenntnisse:
+
+1.  Im großen Maßstab erfordern [Modularität](#_bookmark137) und [lose
+    Kopplung](#_bookmark78) mehr als Typentrennung.
+
+2.  Die [Wiederverwendbarkeit](#_bookmark177) von Komponenten (auch wenn
+    die gesamte „Wiederverwendung" intern erfolgt) führt zu allgemeiner
+    [Wartbarkeit](#_bookmark128).
+
+Kategorie: Entwurfsprinzip
+

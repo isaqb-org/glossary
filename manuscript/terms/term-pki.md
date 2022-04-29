@@ -13,3 +13,20 @@ PKI is usually based on a [CA](#term-ca) or a [Web-of-Trust](#term-web-of-trust)
 Category: Security
 
 
+{lang=de}
+### PKI
+
+Abkürzung von Public-Key-Infrastruktur. Ein Konzept zum Management
+von digitalen Zertifikaten, das üblicherweise [asymmetrische
+Kryptographie](#_bookmark42) nutzt. Der Begriff „public" (öffentlich)
+bezieht sich zumeist auf die Art des verwendeten
+Kryptographieschlüssels und nicht notwendigerweise auf eine öffentlich
+zugängliche Infrastruktur. Zur Vermeidung von Begriffsverwirrungen
+kann „offene PKI" oder „geschlossene PKI" verwendet werden, vgl.
+[Anderson, Kapitel](#_bookmark225) [PKI, Seite 672](#_bookmark225).
+
+Eine PKI basiert in der Regel auf einer [CA](#_bookmark55) oder einem
+[Netz des Vertrauens](#_bookmark213).
+
+Kategorie: Sicherheit
+

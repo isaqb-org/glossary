@@ -6,3 +6,14 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Bedienbarkeit
+
+Maß, in dem ein Produkt oder System Eigenschaften aufweist, die es
+einfach bedien- und steuerbar machen. Teilmerkmal von:
+[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
+Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁶³](#_bookmark150).
+
+Kategorie: Qualität, ISO 25010
+

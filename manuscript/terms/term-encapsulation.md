@@ -9,3 +9,17 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
   Encapsulation is a mechanism for [information hiding](#term-information-hiding).
 
 
+{lang=de}
+### Kapselung
+
+Kapselung bezeichnet zwei leicht unterschiedliche Konzepte und
+manchmal eine Kombination der beiden:
+
+-   Einschränkung des Zugriffs auf einige Komponenten des Objekts
+
+-   Bündelung von Daten mit Methoden oder Funktionen, die auf diese
+    Daten angewandt werden
+
+Kapselung ist ein Mechanismus zum [Verbergen von
+Informationen](#_bookmark112).
+

@@ -7,3 +7,14 @@ Note, examples of model kinds include data flow diagrams, class diagrams, Petri 
 
 Category: ISO-IEC-IEEE-42010
 
+{lang=de}
+### Modellart
+
+Konventionen für einen Modellierungstyp (gemäß Definition in
+ISO/IEC/IEEE 42010).
+
+Beispiele für Modellarten sind Datenflussdiagramme, Klassendiagramme,
+Petri-Netze, Bilanzen, Organigramme und Zustandsübergangsmodelle.
+
+[]{#_bookmark135 .anchor}Kategorie: ISO-IEC-IEEE-42010
+

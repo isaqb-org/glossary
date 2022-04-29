@@ -16,3 +16,30 @@ Data or behavioral integrity:
 
 See also [consistency](#term-consistency).
 
+
+{lang=de}
+### Integrität
+
+Verschiedene Bedeutungen:
+
+Kategorie: Sicherheit
+
+Eines der grundlegenden [Schutzziele](#_bookmark183), das die
+Aufrechterhaltung und Gewährleistung der Richtigkeit und
+Vollständigkeit der Daten bezeichnet. Dies wird üblicherweise durch
+den Einsatz von kryptographischen Algorithmen zur Erstellung einer
+digitalen Signatur erreicht.
+
+Kategorie: Grundlegend
+
+Daten- oder Verhaltensintegrität: \* Maß, in dem Clients (einer
+Datenbank) bei identischen Abfragen identische Ergebnisse erhalten
+(z.B. Monotonic-Read-Consistency, Montonic-Write-Consistency,
+Read-Your-Writes-Consistency etc.)\* Maß, in dem ein System sich
+kohärent, reproduzierbar und vernünftig verhält.
+
+[]{#_bookmark115 .anchor}Siehe auch [Konsistenz](#_bookmark77).
+
+[]{#_bookmark116
+.anchor}⁴⁵<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+

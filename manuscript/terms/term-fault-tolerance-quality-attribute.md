@@ -6,3 +6,13 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Fehlertoleranz
+
+Maß, in dem ein System, ein Produkt oder eine Komponente trotz
+Hardware- oder Softwarefehlern wie vorgesehen funktioniert.
+Teilmerkmal von: [Zuverlässigkeit](#_bookmark169). Vgl. Website von
+[ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[³⁸](#_bookmark104).
+
+Kategorie: Qualität, ISO 25010

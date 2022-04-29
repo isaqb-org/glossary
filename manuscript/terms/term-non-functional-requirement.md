@@ -9,3 +9,21 @@ the _attributes_ involved directly relate to specific system _functions_
   _required constraints_).
 
 
+{lang=de}
+### Nichtfunktionale Anforderung
+
+Anforderungen, die *die Lösung einschränken*. Nichtfunktionale
+Anforderungen werden auch als *Qualitätsanforderungen* bezeichnet. Der
+Begriff nichtfunktional ist eigentlich irreführend, da viele der
+betreffenden *Eigenschaften* sich direkt auf spezifische
+System*funktionen* beziehen (weshalb sie im modernen
+Anforderungsmanagements[]{#_bookmark141 .anchor} gerne als
+*vorgegebene Randbedingungen* bezeichnet werden).
+
+⁵⁸<http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf>
+
+[]{#_bookmark144
+.anchor}⁵⁹<https://en.wikipedia.org/wiki/Modular_programming>
+
+⁶⁰<https://nodejs.org/en/>
+

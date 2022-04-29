@@ -10,3 +10,18 @@ only one aspect of the desired functionality.
    (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Modular_programming))
 
 
+
+{lang=de}
+### Modulare Programmierung
+
+„Softwareentwurfstechnik, die die Funktionalität eines Programms in
+unabhängige, austauschbare *Module* unterteilt, so dass jedes Modul
+alles enthält, was zur Ausführung von nur einem Aspekt der gewünschten
+Funktionalität erforderlich ist.
+
+Module haben *Schnittstellen*, die die vom Modul bereitgestellten und
+benötigten Elemente angeben. Die in der Schnittstelle definierten
+Elemente können von anderen Modulen erkannt werden." (Übersetztes
+englisches Zitat aus
+[Wikipedia](https://en.wikipedia.org/wiki/Modular_programming)[⁵⁹](#_bookmark143))
+

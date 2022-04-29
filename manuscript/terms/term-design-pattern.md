@@ -11,3 +11,20 @@ know at least some patterns from the pioneering [Gang-of-Four](https://en.wikipe
 book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 
 
+{lang=de}
+### Entwurfsmuster
+
+Allgemeine oder generische wiederverwendbare Lösung für ein gängiges
+Problem in einem gegebenen Kontext beim Entwurf. Das ursprünglich von
+dem berühmten Architekten [Christopher
+Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)[³²](#_bookmark86)
+erdachte Konzept von *Entwurfsmustern* wurde von Softwareentwicklern
+übernommen.
+
+Unserer Ansicht nach sollte jeder ernsthafte Softwareentwickler
+zumindest einige Muster aus dem[]{#_bookmark85 .anchor} bahnbrechenden
+Buch
+[Gang-of-Four](https://en.wikipedia.org/wiki/Design_Patterns)[³³](#_bookmark88)
+von Erich Gamma ([Gamma+1994](#_bookmark231)) und seinen drei
+Verbündeten kennen.
+

@@ -19,3 +19,43 @@ While Martin expressed the Package Principles in terms of large-scale components
 Category: Design-Principle
 
 
+{lang=de}
+### Packaging-Prinzipien
+
+Grundsätze für die Gestaltung der Struktur von Softwaresystemen
+([Martin-2003](#_bookmark234)):
+
+-   [Reuse-Release-Equivalence-Prinzip (REP)](#_bookmark178)
+
+-   [Common-Reuse-Prinzip (CRP)](#_bookmark62)
+
+-   [Common-Closure-Prinzip (CCP)](#_bookmark61)
+
+-   [Acyclic-Dependencies-Prinzip (ADP)](#_bookmark21)
+
+-   [Stable-Dependencies-Prinzip (SDP)](#_bookmark196)
+
+-   [Stable-Abstractions-Prinzip (SAP)](#_bookmark195)
+
+Robert C. Martin, der das Akronym „[SOLID](#_bookmark192)" geprägt
+hat, hat auch die Packaging-Prinzipien eingeführt[⁶⁵](#_bookmark153)
+und häufig beide zusammen angeführt. Während die SOLID-Prinzipien auf
+die Klassen-Ebene abzielen, beziehen sich die Packaging-Prinzipien auf
+die Ebene größerer Komponenten, die mehrere Klassen enthalten und
+eventuell unabhängig verteilt werden.
+
+Package- und SOLID-Prinzipien haben beide das ausdrückliche Ziel,
+Software [wartbar](#_bookmark128) zu halten und die Anzeichen von
+schlechtem Design, Rigidität, Fragilität, Immobilität und Viskosität
+zu vermeiden.
+
+Martin hat die Packaging-Prinzipien zwar bezogen auf große Komponenten
+formuliert, sie gelten jedoch auch für alle anderen Größen. Ihr Kern
+sind universelle Prinzipien, wie lose Kopplung, eindeutige
+Verantwortung, hierarchische (azyklische) Zerlegung und die
+Erkenntnis, dass sinnvolle Abhängigkeiten von spezifischen/instabilen
+Konzepten zu abstrakteren/stabileren verlaufen (was sich im
+[DIP](#_bookmark82) wiederfindet).
+
+Kategorie: Entwurfsprinzip
+

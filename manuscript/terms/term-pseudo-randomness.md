@@ -13,3 +13,19 @@ intensive.
 Category: Security
 
 
+
+{lang=de}
+###Pseudo-Zufälligkeit
+
+Häufig in Verbindung mit Pseudozufallszahlengeneratoren verwendet. Die
+Erzeugung von Zufälligkeit mit hoher [Entropie](#_bookmark96) ist
+ressourcenintensiv und, abgesehen von Kryptographie, nicht für viele
+Anwendungen erforderlich. Zur Behebung dieses Problems werden
+Pseudozufallszahlengeneratoren mit einen Daten-Startwert initialisiert
+und erzeugen basierend auf diesem Startwert zufällige Werte. Die Daten
+werden zufällig erzeugt, aber sind immer gleich, wenn der Generator
+mit dem gleichen Startwert initialisiert wird. Dies wird als
+Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
+
+Kategorie: Sicherheit
+

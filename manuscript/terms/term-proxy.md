@@ -5,3 +5,20 @@
 (quoted from [Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern))
 
 
+
+
+{lang=de}
+### Stellvertreter / Proxy
+
+(Entwurfsmuster) „Ein Wrapper oder Stellvertreterobjekt, das vom
+Client aufgerufen wird, um auf das reale Serving-Objekt im Hintergrund
+zuzugreifen. Die Funktion des Stellvertreters kann einfach in der
+Weiterleitung an das reale Objekt oder die Bereitstellung zusätzlicher
+Logik sein. Im Stellvertreter kann eine zusätzliche Funktionalität
+bereitgestellt werden, beispielsweise Caching, wenn die Operationen
+des realen Objekts ressourcenintensiv sind, oder Überprüfung von
+Voraussetzungen vor dem Aufruf von Operationen des realen Objekts. Für
+den Client ist die Verwendung eines Stellvertreterobjekts mit der
+Verwendung des realen Objekts vergleichbar, da beide die gleiche
+Schnittstelle implementieren." (Übersetztes englisches Zitat aus
+[Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)[⁷²](#_bookmark165))

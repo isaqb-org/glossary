@@ -55,3 +55,63 @@ Examples of runtime quality attributes are functional suitability, performance e
 
 Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability, and testability.
 
+{lang=de}
+### Qualitätsmerkmal
+
+Die Softwarequalität ist das Maß, in dem ein System die gewünschte
+Kombination von *Merkmalen* besitzt.
+
+(Siehe: [Softwarequalität](#_bookmark191)).
+
+In der [ISO-25010](#_bookmark120) Norm sind folgende Qualitätsmerkmale
+definiert: -- [Funktionale Eignung](#_bookmark107) -- [Funktionale
+Vollständigkeit,](#_bookmark102) -- [Funktionale
+Korrektheit](#_bookmark103) -- [Funktionale
+Angemessenheit](#_bookmark101) -- [Leistungseffizienz](#_bookmark152)
+-- [Zeitverhalten](#_bookmark200) --
+[Ressourcenverbrauch](#_bookmark173) -- [Kapazität](#_bookmark56) --
+[Kompatibilität](#_bookmark63) -- [Koexistenz](#_bookmark73) --
+[Interoperabilität](#_bookmark118) --
+[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit) --
+[Erkennbarkeit der Brauchbarkeit](#_bookmark30) --
+[Erlernbarkeit](#_bookmark124) -- [Bedienbarkeit](#_bookmark146) --
+[Schutz vor Fehlbedienung](#_bookmark209) -- [Ästhetik der
+Benutzeroberfläche](#_bookmark211) -- [Zugänglichkeit](#_bookmark14)
+-- [Zuverlässigkeit](#_bookmark169) -- [Verfügbarkeit](#_bookmark47)
+-- [Fehlertoleranz](#_bookmark100) --
+[Wiederherstellbarkeit](#_bookmark167) -- [Sicherheit](#_bookmark184)
+-- [Vertraulichkeit](#_bookmark69) -- [Integrität](#_bookmark115) --
+[Nichtabstreitbarkeit](#_bookmark141) --
+[Verantwortlichkeit](#_bookmark16) --
+[Authentifizierbarkeit](#_bookmark46) -- [Wartbarkeit](#_bookmark128)
+-- [Modularität](#_bookmark137) --
+[Wiederverwendbarkeit](#_bookmark177) --
+[Analysierbarkeit](#_bookmark29) --
+[Modifizierbarkeit](#qualitätsmerkmal-modifizierbarkeit) --
+[Testbarkeit](#_bookmark199) -- [Portierbarkeit](#_bookmark157) --
+[Adaptierbarkeit](#_bookmark22) -- [Installierbarkeit](#_bookmark113)
+-- [Austauschbarkeit](#_bookmark171)
+
+
+Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
+
+[]{#_bookmark165
+.anchor}⁷²<https://en.wikipedia.org/wiki/Proxy_pattern>
+
+-   *Laufzeit-Qualitätsmerkmalen* (die während der Ausführungszeit des
+    Systems beobachtet werden können),
+
+-   Nicht-Laufzeit-Qualitätsmerkmalen (die während der Ausführung des
+    Systems nicht beobachtet werden können) und
+
+-   Geschäftsqualitätsmerkmalen (Kosten, Zeitplan, Marktfähigkeit,
+    Eignung für Unternehmen)
+
+Beispiele für Laufzeit-Qualitätsmerkmale sind funktionale Eignung,
+Leistungseffizienz, Sicherheit, Zuverlässigkeit,
+Benutzerfreundlichkeit und Interoperabilität.
+
+Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit,
+Portierbarkeit, Wiederverwendbarkeit, Integrierbarkeit und
+Testbarkeit.
+

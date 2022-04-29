@@ -6,3 +6,20 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal funktionale Vollständigkeit
+
+Maß, in dem der Satz von Funktionen alle spezifizierten Aufgaben und
+Benutzerziele abdeckt. Teilmerkmal von: [Funktionale
+Eignung](#_bookmark107). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁴⁰](#_bookmark106).
+
+[]{#_bookmark103 .anchor}Kategorie: Qualität, ISO 25010
+
+[]{#_bookmark104
+.anchor}³⁸<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>[]{#_bookmark106
+.anchor}
+
+³⁹<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+
+⁴⁰<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>

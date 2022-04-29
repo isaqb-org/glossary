@@ -10,3 +10,21 @@ key, previously recorded communication sessions can still not be decrypted.
 
 Category: Security
 
+{lang=de}
+### Perfect Forward Secrecy / Perfekte vorwärts gerichtete Geheimhaltung
+
+Eigenschaft eines kryptografischen Protokolls, die darin besteht, dass
+ein Angreifer durch Kompromittierung von Langzeitschlüsseln keine
+Informationen über Kurzzeit-Sitzungsschlüssel erhalten kann.
+
+Beispiele für Protokolle mit perfekter vorwärts gerichteter
+Geheimhaltung sind TLS und OTR. Wenn diese Funktion für
+[TLS](#_bookmark201) aktiviert ist und ein Angreifer Zugriff auf den
+privaten Schlüssel erhält, können früher aufgezeichnete
+Kommunikationssitzungen dennoch nicht entschlüsselt werden.
+
+[]{#_bookmark152 .anchor}Kategorie: Sicherheit
+
+[]{#_bookmark153
+.anchor}⁶⁵[\[RobertC.Martin\](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
+

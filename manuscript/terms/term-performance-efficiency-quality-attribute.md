@@ -10,3 +10,20 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Leistungseffizienz
+
+Leistung im Verhältnis zur Menge der unter angegebenen Bedingungen
+genutzten Ressourcen.
+
+Ressourcen können andere Softwareprodukte, die Software- und
+Hardwarekonfiguration des Systems und Materialien (z.B. Druckerpapier,
+Speichermedien) umfassen.
+
+Es besteht aus folgenden Teilmerkmalen:
+[Zeitverhalten](#_bookmark200), [Ressourcenverbrauch](#_bookmark173),
+[Kapazität](#_bookmark56). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁶⁶](#_bookmark155).
+
+Kategorie: Qualität, ISO 25010
+

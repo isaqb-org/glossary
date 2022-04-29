@@ -6,3 +6,13 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Wiederverwendbarkeit
+
+Maß, in dem ein Asset in mehr als einem System oder zum Aufbau anderer
+Assets genutzt werden kann. Teilmerkmal von:
+[Wartbarkeit](#_bookmark128). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁷⁸](#_bookmark179).
+
+[]{#_bookmark178 .anchor}Kategorie: Qualität, ISO 25010
+

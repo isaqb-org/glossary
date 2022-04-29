@@ -18,3 +18,39 @@ Architects apply perspectives iteratively to the system's _architectural views_ 
  * Security
  * Usability
 
+{lang=de}
+### Perspektive
+
+Eine Perspektive dient der Berücksichtigung einer Reihe von
+zusammenhängenden Qualitätseigenschaften und Belangen eines Systems.
+
+Architekten wenden Perspektiven iterativ auf die *Architektursichten*
+eines Systems an, um die Auswirkungen von
+*Architekturentwurfsentscheidungen* über mehrere *Blickwinkel* und
+*Architektursichten* hinweg zu beurteilen.
+
+\[Rozanski+11\] verbindet mit dem Begriff *Perspektive* auch
+Aktivitäten, Taktiken und Richtlinien, die zu berücksichtigen sind,
+wenn ein System eine Reihe von zusammenhängenden
+Qualitätseigenschaften erfüllen soll, und schlägt folgende
+Perspektiven vor:
+
+-   Zugänglichkeit
+
+-   Verfügbarkeit und Resilienz
+
+-   Entwicklungsressource
+
+-   Weiterentwicklung
+
+-   Internationalisierung
+
+-   Standort
+
+-   Performance und Skalierbarkeit
+
+-   Regulierung
+
+-   Sicherheit
+
+-   Benutzerfreundlichkeit

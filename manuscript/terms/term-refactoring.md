@@ -5,3 +5,15 @@ A term denoting the improvement of software units by changing their internal str
 Not to be confused with re*design*
 
 
+
+{lang=de}
+### Refactoring
+
+Begriff zur Bezeichnung der Verbesserung von Softwareeinheiten durch
+Veränderung ihrer internen Struktur ohne Veränderung des Verhaltens.
+(vgl.: Refactoring ist der Prozess der Änderung eines Softwaresystems,
+so dass sich das externe Verhalten des Codes nicht verändert, aber die
+interne Struktur verbessert wird.) Refactoring, Martin Fowler, 1999
+
+Nicht mit Re*design* zu verwechseln.
+
