@@ -13,3 +13,25 @@ The email encryption PGP is an example for a [PKI](#term-pki) based on a web of 
 Category: Security
 
 
+{lang=de}
+### Netz des Vertrauens / Web of Trust
+
+Da eine einzelne [CA](#_bookmark55) ein leichtes Ziel für einen
+Angreifer sein könnte, delegiert ein Netz des Vertrauens die
+Begründung des Vertrauens an den Benutzer. Jeder Benutzer entscheidet,
+in der Regel durch Überprüfung eines Fingerprints eines Schlüssels,
+welchem Identitätsnachweis anderer Nutzer er vertraut. Dieses
+Vertrauen wird durch die Signatur des Schlüssels des anderen
+Benutzers, der ihn dann mit der zusätzlichen Signatur veröffentlichen
+kann, ausgedrückt. Ein dritter Benutzer kann dann diese Signatur
+überprüfen und entscheiden, ob er der Identität vertraut oder nicht.
+
+Die E-Mail-Verschlüsselung PGP ist ein Beispiel für eine auf einem
+Netz des Vertrauens basierende [PKI](#_bookmark154). Kategorie:
+Sicherheit
+
+[]{#_bookmark214
+.anchor}⁹²<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+
+⁹³<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+

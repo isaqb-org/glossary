@@ -6,3 +6,10 @@ If A uses B than execution of A depends on the
 presence of a correct implementation of B.
 
 
+{lang=de}
+### Nutzungsbeziehung
+
+Abhängigkeit zwischen zwei Bausteinen. Wenn A B nutzt, dann hängt die
+Ausführung von A[]{#_bookmark212 .anchor} von der Anwesenheit einer
+korrekten Implementierung von B ab.
+

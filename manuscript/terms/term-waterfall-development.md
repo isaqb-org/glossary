@@ -6,3 +6,18 @@ Development approach "where you gather all the requirements up front, do all nec
 Contrast to [_iterative development_](#term-iterative-development).
 
 
+{lang=de}
+### Wasserfall-Entwicklung
+
+Entwicklungsansatz, „bei dem man alle Anforderungen vorab
+zusammenträgt, den gesamten erforderlichen Entwurf bis runter auf
+Detailebene macht und dann die Spezifikationen an die Coder, die den
+Code schreiben, weitergibt; dann werden Tests durchgeführt (eventuell
+mit einem Abstecher in die Integrationshölle) und schließlich wird das
+Ganze mit einem großen abschließenden Release geliefert. Alles ist
+groß, auch die Gefahr des Scheiterns." (Übersetztes englisches Zitat
+aus
+\[[http://c2.com/cgi/wiki?IterativeDevelopment\])](http://c2.com/cgi/wiki?IterativeDevelopment)
+
+[]{#_bookmark213 .anchor}Gegensatz zur *iterativen Entwicklung*
+

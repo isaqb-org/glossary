@@ -13,3 +13,18 @@ Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
 Category: Security
 
 
+{lang=de}
+### TLS
+
+Transport-Layer-Security (Transportschichtsicherheit)
+bezeichnet eine Reihe von Protokollen zum kryptographischen Schutz der
+Kommunikation von zwei Parteien mit den Mitteln der
+[CIA-Triade](#_bookmark58). Es wird sehr häufig zur sicheren
+Kommunikation im Internet genutzt und bildet die Grundlage für HTTPS.
+
+TLS begann als Update seines Vorgängers SSL (Secure Socket Layer)
+Version 3.0 und sollte nun statt SSL verwendet werden [siehe RFC7568
+„Deprecating Secure Sockets Layer Version
+3.0"](https://tools.ietf.org/html/rfc7568)[⁹⁰](#_bookmark205).
+
+Kategorie: Sicherheit

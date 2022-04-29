@@ -5,3 +5,21 @@ Is composed of the following sub-characteristics: [appropriateness recognizabili
 Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Benutzerfreundlichkeit
+
+Maß, in dem ein Produkt oder System von spezifizierten Benutzern
+effektiv, effizient, und zufriedenstellend zur Erreichung von
+spezifizierten Zielen in einem spezifizierten Nutzungskontext genutzt
+werden kann. Es besteht aus folgenden Teilmerkmalen: [Erkennbarkeit
+der Brauchbarkeit](#_bookmark30), [Erlernbarkeit](#_bookmark124),
+[Bedienbarkeit](#_bookmark146), [Schutz](#_bookmark209) [vor
+Fehlbedienung](#_bookmark209), [Ästhetik der
+Benutzeroberfläche](#_bookmark211), [Zugänglichkeit](#_bookmark14).
+Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁹¹](#_bookmark210).
+Kategorie:[]{#_bookmark209 .anchor} Qualität, ISO 25010
+
+[]{#_bookmark210
+.anchor}⁹¹<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+

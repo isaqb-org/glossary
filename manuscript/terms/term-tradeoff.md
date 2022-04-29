@@ -11,3 +11,20 @@ speed.
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
 
+{lang=de}
+### Abwägung
+
+(Syn.: Kompromiss). Erreichte oder ausgehandelte Balance zwischen zwei
+gewünschten oder vorgegebenen, aber üblicherweise unvereinbaren oder
+widersprüchlichen Eigenschaften. Beispielsweise muss in der
+Softwareentwicklung in der Regel ein Kompromiss zwischen
+Speicherbedarf und Laufzeitgeschwindigkeit gefunden werden.
+
+Umgangssprachlicher gesagt, wenn etwas zunimmt, muss etwas anderes
+abnehmen.
+
+Und noch umgangssprachlicher: Es gibt nichts umsonst. Für jedes
+Qualitätsmerkmal ist bei anderen Qualitätsmerkmalen ein Preis zu
+zahlen.
+
+[]{#_bookmark205 .anchor}⁹⁰<https://tools.ietf.org/html/rfc7568>
