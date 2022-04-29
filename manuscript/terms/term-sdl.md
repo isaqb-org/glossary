@@ -14,3 +14,19 @@ See [McGraw "An Enterprise Software Security Program", page 239](#ref-mcgraw-200
 Category: Security
 
 
+{lang=de}
+### SDL
+
+Ein Secure-Development-Lifecycle ist der übliche
+Softwareentwicklungsprozess eines Unternehmens mit zusätzlichen
+Praktiken zur Entwicklung von sicherer Software. Er umfasst
+beispielsweise Code-Reviews, Architektur-Risikoanalysen,
+Black-/Whitebox und Penetrationstests und zahlreiche weitere
+Ergänzungen. Der SDL sollte den gesamten Lebenszyklus einer Anwendung,
+von den ersten Anforderungsmanagementaufgaben bis zum Feedback aus dem
+Betrieb der herausgegebenen Software durch Behebung von
+Sicherheitsproblemen, abdecken.
+
+Siehe [McGraw „An Enterprise Software Security Program", Seite
+239](#_bookmark238).[]{#_bookmark183 .anchor} Kategorie: Sicherheit
+

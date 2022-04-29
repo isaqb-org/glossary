@@ -22,3 +22,34 @@ See ["What is Security Engineering - Definitions", page 11](#ref-anderson-2008) 
 Category: Security
 
 
+{lang=de}
+### Schutzziele
+
+Die Ziele sind der Hauptpunkt von Informationssicherheit. Sie sind ein
+Basissatz an Informationseigenschaften, die abhängig von der
+Architektur und den Prozessen eines Systems erfüllt werden können oder
+nicht.
+
+Die gängigste Gruppe von vereinbarten Schutzzielen ist die sogenannte
+„CIA-Triade":
+
+-   Vertraulichkeit (Confidentiality)
+
+-   Integrität (Integrity)
+
+-   Verfügbarkeit (Availability)
+
+Das „Reference Model of Information Assurance and Security" (RIMAS)
+erweitert diese Liste um Verantwortlichkeit, Prüfbarkeit,
+Authentifizierbarkeit/Vertrauenswürdigkeit, Nichtabstreitbarkeit und
+Datenschutz.
+
+Dies sind die typischen Beispiele für nichtfunktionale Anforderungen
+in Zusammenhang mit Sicherheit.
+
+Siehe [„What is Security Engineering - Definitions", Seite
+11](#_bookmark225) oder [RMIAS](#_bookmark240).
+
+[]{#_bookmark184 .anchor}Kategorie: Sicherheit
+
+Kategorie: Sicherheit

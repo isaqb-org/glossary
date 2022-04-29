@@ -6,3 +6,18 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
+{lang=de}
+### Qualitätsmerkmal Sicherheit
+
+Maß, in dem ein Produkt oder System Informationen und Daten schützt,
+so dass Personen oder andere Produkte oder Systeme den ihren
+Berechtigungsarten oder -stufen entsprechenden Datenzugriffsgrad
+haben. Es besteht aus folgenden Teilmerkmalen:
+[Vertraulichkeit](#_bookmark69), [Integrität](#_bookmark115),
+[Nichtabstreitbarkeit](#_bookmark141),
+[Verantwortlichkeit](#_bookmark16),
+[Authentifizierbarkeit](#_bookmark46). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁸⁰](#_bookmark185).
+
+Kategorie: Qualität, ISO 25010
+

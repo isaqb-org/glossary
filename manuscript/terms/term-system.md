@@ -15,3 +15,30 @@ In ISO/IEC/IEEE Standards a couple of system definitions are available:
 Category: ISO-IEC-IEEE-42010
 
 
+{lang=de}
+### System
+
+Sammlung von Elementen (Bausteinen, Komponenten usw.), die zu einem
+gemeinsamen Zweck organisiert sind. In den ISO/IEC/IEEE-Normen gibt es
+eine Reihe von Systemdefinitionen:
+
+-   Systeme gemäß Beschreibung in \[ISO/IEC 15288\]: Systeme, die vom
+    Menschen geschaffen wurden und mit einem oder mehreren der folgenden
+    Aspekte konfiguriert werden können: Hardware, Software, Daten,
+    Menschen, Prozesse (z.B. Prozesse zur Bereitstellung eines Dienstes
+    für Benutzer), Verfahren (z.B. Bedieneranweisungen), Anlagen,
+    Material und natürlich vorkommende Entitäten.
+
+-   Softwareprodukte und Dienste gemäß Beschreibung in \[ISO/IEC
+    12207\].
+
+-   Softwareintensive Systeme gemäß Beschreibung in \[IEEE Std
+    1471:2000\]: jegliche Systeme, in denen Software wesentliche
+    Einflüsse zum Entwurf, zur Entwicklung, Verbreitung und
+    Weiterentwicklung des Systems als Ganzes beisteuert, um individuelle
+    Anwendungen, Systeme im herkömmlichen Sinne, Teilsysteme,
+    Systemverbünde, Produktlinien, Produktfamilien, ganze Unternehmen
+    und sonstige Interessensvereinigungen zu umspannen.
+
+Kategorie: ISO-IEC-IEEE-42010
+

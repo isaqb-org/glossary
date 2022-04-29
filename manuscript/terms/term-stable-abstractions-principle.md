@@ -11,3 +11,38 @@ The SAP is closely related to the [SDP](#term-stable-dependencies-principle). Th
 
 Category: Design-Principle
 
+{lang=de}
+### Stable-Abstractions-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch [Packaging-Prinzipien](#_bookmark147)). Er fordert, dass
+die Abstraktheit von Komponenten proportional zu ihrer Stabilität ist.
+Das eng damit verbundene [SDP](#_bookmark196) erklärt auch den Begriff
+*Stabilität* in diesem Zusammenhang.
+
+Wir wollen, dass Komponenten, die abstrakte Konzepte und
+Verantwortlichkeiten repräsentieren, wenig oder keine Änderungen
+benötigen, weil zahlreiche konzeptionell spezifischere (konkrete)
+Komponenten von ihnen abhängen. Und wir wollen, dass Komponenten, die
+nicht einfach geändert werden können oder sollten, mindestens so
+abstrakt sind, dass wir sie erweitern können. Dies steht mit dem
+[OCP](#_bookmark145) in Zusammenhang.
+
+Das SAP kann wie ein Zirkelargument klingen, bis die zugrunde liegende
+Idee zu Tage tritt: *Konkrete* Dinge und Konzepte sind natürlich
+volatiler, spezifischer, willkürlicher und zahlreicher als
+*abstrakte*. Die Komponentenstruktur eines Systems sollte dies einfach
+widerspiegeln. Die allgemeine Logik, die physischen Artefakte des
+Systems sowie seine funktionalen und technischen Konzepte sollten alle
+Deckungsgleich sein.
+
+Das SAP ist eng mit dem [SDP](#_bookmark196) verbunden. Ihre
+Kombination ergibt eine allgemeinere und wohl tiefergehende Version
+des [DIP](#_bookmark82): Spezifische Konzepte hängen natürlich von
+*abstrakteren* ab, da sie aus universaleren Bausteinen bestehen oder
+davon abgeleitet sind. Und abhängige Konzepte sind natürlich
+*spezifischer*, weil sie durch mehr Informationen als ihre
+Abhängigkeiten definiert sind (vorausgesetzt es gibt [keine
+Abhängigkeitszyklen](#_bookmark21)).
+
+[]{#_bookmark196 .anchor}Kategorie: Entwurfsprinzip

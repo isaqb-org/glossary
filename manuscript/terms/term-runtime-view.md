@@ -7,3 +7,11 @@ Should refer to elements of the [Building Block View](#term-building-block-view)
 Could for example (but doesn't need to) be expressed in UML sequence or activity diagrams.
 
 
+{lang=de}
+### Laufzeitsicht
+
+Zeigt die Zusammenarbeit von Bausteinen (beziehungsweise ihrer
+Instanzen) zur Laufzeit in konkreten Szenarien. Sollte auf Elemente
+der [Bausteinsicht](#_bookmark54) verweisen. Kann beispielsweise (muss
+aber nicht) als UML-Sequenz oder Aktivitätsdiagramm ausgedrückt
+werden.
