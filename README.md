@@ -85,7 +85,9 @@ Example:
 
     ./gradlew generateTerms --args="de"
 
-The translator generates one markdown file - currently you need to manually copy this into the `manuscript/generated-dont-edit` directory.
+The translator generates one markdown file - `generated/gen-terms-<language-code>.md`.
+
+Currently you need to manually copy this into the `manuscript/generated-dont-edit` directory.
 
 ## About personal opinion
 
