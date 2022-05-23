@@ -10,8 +10,8 @@ Category: Quality, ISO 25010
 {lang=de}
 ### Qualitätsmerkmal Zugänglichkeit
 
-Maß, in dem ein Produkt oder System von Personen mit den
-unterschiedlichsten Eigenschaften und Fähigkeiten zur Erreichung eines
+Maß, in dem ein Produkt oder System von Personen mit einer großen Bandbreite
+von Eigenschaften und Fähigkeiten zur Erreichung eines
 spezifizierten Ziels in einem spezifizierten Nutzungskontext genutzt
 werden kann. Teilmerkmal von:
 [Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
