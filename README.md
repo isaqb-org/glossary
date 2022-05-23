@@ -146,7 +146,7 @@ existing authors.
 the glossary.
 (You need a (free) Leanpub account to become an author.)
 
-## Donating to EEF (Electronic Frontier Foundation)
+## Donating to EFF (Electronic Frontier Foundation)
 
 All royalties from Leanpub sales of this book are donated to
 the [Electronic Frontier Foundation (eff.org)](http://eff.org).
