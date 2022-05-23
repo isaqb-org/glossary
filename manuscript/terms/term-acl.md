@@ -19,7 +19,7 @@ Category: Security
 
 Zugriffskontrolllisten (Access Control Lists, ACL) repräsentieren 
 die Autorisierung eines
-[Principals](#term-principlal), um auf eine spezifische
+[Principals](#term-principal), um auf eine spezifische
 [Entität](#term-entity) zuzugreifen.  Eine ACL, die einer Entität
 zugeordnet ist, ist eine Liste von Principals zusammen mit ihren
 Berechtigungen.  Viele Dateisysteme - darunter Windows und POSIX -
