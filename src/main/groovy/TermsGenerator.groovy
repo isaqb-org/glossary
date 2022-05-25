@@ -8,7 +8,7 @@ class TermsGenerator {
     final static String TERMS_FILENAME = "gen-terms-"
 
     static String getTermRegex(String language) {
-        def regex = /(?:\{lang=(?i)${language}(?-i)\}\n)(### (.*)[\S\s]+?)(?=\{lang=|\Z)/
+        def regex = /(?:\{lang=(?i)${language}(?-i)\}\n)(### .*)\n*([\S\s]+?)(?=\{lang=|\Z)/
         return regex
     }
 
@@ -24,13 +24,19 @@ class TermsGenerator {
                     def termName = it.name.split("\\.")[0]
                     def termHeader = "{#${termName}}\n"
                     textMatches.add(matches.getAt(0) + termHeader)
+                    // entries in textMatches now in the format:
+                    // [full-matched, matched-header, matched-body, termHeader]
                 } else {
                     println "File ${it.name} is missing translation for ${language}."
                 }
             }
         }
-        textMatches.sort({it.getAt(2).toLowerCase()})
-        def termTexts = textMatches.collect{it.getAt(3) + it.getAt(1)}
+        textMatches.sort({it.getAt(1).toLowerCase()})
+        def termTexts = textMatches.collect{(it.getAt(1)
+                                            + " "
+                                            + it.getAt(3)
+                                            + "\n"
+                                             + it.getAt(2))}
 
         return termTexts
     }
