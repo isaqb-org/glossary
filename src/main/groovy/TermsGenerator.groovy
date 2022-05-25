@@ -37,7 +37,7 @@ class TermsGenerator {
                                             + " "
                                             + it.getAt(3)
                                             + "\n"
-                                             + it.getAt(2))}
+                                             + it.getAt(2)) + "\n"}
 
         return termTexts
     }
