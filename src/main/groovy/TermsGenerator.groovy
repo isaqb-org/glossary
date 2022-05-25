@@ -31,7 +31,8 @@ class TermsGenerator {
                 }
             }
         }
-        textMatches.sort({it.getAt(1).toLowerCase()})
+        textMatches.sort({
+            it.getAt(1).replaceAll("\\P{L}+", "").toLowerCase()})
         def termTexts = textMatches.collect{(it.getAt(1)
                                             + " "
                                             + it.getAt(3)
