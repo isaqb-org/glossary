@@ -10,8 +10,8 @@ An architectural style, similar to [Microservices](#term-microservice). To quote
 {lang=de}
 ### SCS (Self Contained System)
 
-Ein Architekturstil, ähnlich wie [Microservices](#_bookmark130). Auf
-[scs-architecture.org](http://scs-architecture.org/)[⁸¹](#_bookmark185)
+Ein Architekturstil, ähnlich wie [Microservices](#term-microservice). Auf
+[scs-architecture.org](http://scs-architecture.org/)
 heißt es hierzu (übersetzt aus dem Englischen):
 
 „Der Ansatz Self-contained System (SCS) ist eine Architektur, die sich
@@ -20,9 +20,4 @@ konzentriert, so dass das vollständige System eine Zusammenarbeit
 vieler kleinerer Softwaresysteme ist. Dies verhindert das Problem
 großer Monolithen, die stetig wachsen und irgendwann nicht mehr
 wartbar sind."
-
-[]{#_bookmark185
-.anchor}⁸⁰<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
-
-⁸¹<http://scs-architecture.org/>
 

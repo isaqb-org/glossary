@@ -15,4 +15,4 @@ häufig dazu verwendet, vorhandene Komponenten ohne Veränderung ihres
 Quellcodes dazu zu bringen, mit anderen Komponenten
 zusammenzuarbeiten.
 
-[]{#_bookmark28 .anchor}Kategorie: Entwurfsmuster, Foundation.
+Kategorie: Entwurfsmuster, Foundation.

@@ -13,9 +13,9 @@ Category: Security
 {lang=de}
 ### Verfügbarkeit
 
-Eines der grundlegenden [Schutzziele](#_bookmark183), das ein System
+Eines der grundlegenden [Schutzziele](#term-security-goals), das ein System
 beschreibt, das die gewünschten Informationen bei Bedarf bereitstellen
 kann. Aus einer Sicherheitsperspektive können beispielsweise
 Denial-of-Service-Angriffe die Verfügbarkeit verhindern.
 
-[]{#_bookmark47 .anchor}Kategorie: Sicherheit
+Kategorie: Sicherheit

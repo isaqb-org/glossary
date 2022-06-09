@@ -28,9 +28,9 @@ veröffentlicht werden und von jedem zur Verschlüsselung von
 Informationen verwendet werden; diese können nur von der Partei, die
 im Besitz des privaten Schlüssels für die Entschlüsselung ist, gelesen
 werden. Siehe [Schneier, Public-Key Algorithms, Seite
-17](#_bookmark242).
+17](#ref-schneier-1996).
 
-Asymmetrische Kryptographie ist die Grundlage für [PKI](#_bookmark154)
+Asymmetrische Kryptographie ist die Grundlage für [PKI](#term-pki)
 und digitale Signaturen.
 
 Kategorie: Sicherheit

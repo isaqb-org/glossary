@@ -10,8 +10,8 @@ Category: Quality, ISO 25010
 ### Qualitätsmerkmal Schutz vor Fehlbedienung
 
 Maß, in dem ein System Benutzer davor schützt, Fehler zu machen.
-Teilmerkmal von:[]{#_bookmark211 .anchor}
-[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
+Teilmerkmal von:
+[Benutzerfreundlichkeit](#term-usability-quality-attribute).
 Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁹²](#_bookmark214).
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 Kategorie: Qualität, ISO 25010

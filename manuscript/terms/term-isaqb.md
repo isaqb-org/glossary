@@ -10,5 +10,5 @@ international Software Architecture Qualification Board – an internationally a
 international Software Architecture Qualification Board -- eine
 international aktive Organisation zur Förderung der Entwicklung der
 Softwarearchitektur-Ausbildung. Siehe auch die Diskussion im
-[Anhang](#_bookmark244).
+[Anhang](#section-about-isaqb).
 

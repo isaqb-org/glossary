@@ -16,5 +16,5 @@ ISO/IEC/IEEE 42010).
 Beispiele für Modellarten sind Datenflussdiagramme, Klassendiagramme,
 Petri-Netze, Bilanzen, Organigramme und Zustandsübergangsmodelle.
 
-[]{#_bookmark135 .anchor}Kategorie: ISO-IEC-IEEE-42010
+Kategorie: ISO-IEC-IEEE-42010
 

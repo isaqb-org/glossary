@@ -8,7 +8,7 @@ Provides an infrastructure for the set-up, performance and monitoring of a defin
 ### Workflow-Management-System (WFMS)
 
 „Bietet eine Infrastruktur für die Einrichtung, Durchführung und
-Überwachung einer festgelegten Abfolge von[]{#_bookmark216 .anchor}
+Überwachung einer festgelegten Abfolge von
 Aufgaben in Form eines Workflows." (Übersetztes englisches Zitat aus
 Wikipedia)
 

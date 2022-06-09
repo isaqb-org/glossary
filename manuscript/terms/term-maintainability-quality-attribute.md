@@ -12,12 +12,12 @@ Category: Quality, ISO 25010
 Grad an Effektivität und Effizienz, mit dem ein Produkt modifiziert
 werden kann, um es zu verbessern, zu korrigieren oder an Veränderungen
 der Umgebung oder der Anforderungen anzupassen. Es besteht aus
-folgenden Teilmerkmalen: [Modularität](#_bookmark137),
-[Wiederverwendbarkeit](#_bookmark177),
-[Analysierbarkeit](#_bookmark29),
+folgenden Teilmerkmalen: [Modularität](#term-modularity-quality-attribute),
+[Wiederverwendbarkeit](#term-reusability-quality-attribute),
+[Analysierbarkeit](#term-analysability-quality-attribute),
 [Modifizierbarkeit](#qualitätsmerkmal-modifizierbarkeit),
-[Testbarkeit](#_bookmark199). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁵²](#_bookmark131).
+[Testbarkeit](#term-testability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark129 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010
 

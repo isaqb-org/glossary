@@ -15,6 +15,6 @@ Maß, in dem Benutzer erkennen können, ob ein Produkt oder System für
 ihre Bedürfnisse geeignet ist. Teilmerkmal von:
 [Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
 Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[¹³](#_bookmark34).
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark33 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010

@@ -20,5 +20,5 @@ Speicherkapazitäten), der technischen Umgebungsanforderungen für jeden
 Knoten (oder Knotentyp) im System und des Mappings Ihrer
 Softwareelemente in Bezug auf die Laufzeitumgebung, die sie ausführt."
 (Übersetztes englisches Zitat von
-[Rozanski+2011](http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/)[³¹](#_bookmark86))
+[Rozanski+2011](http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/))
 

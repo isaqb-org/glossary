@@ -11,6 +11,6 @@ See [architecture pattern](#term-architecture-pattern) or [design pattern](#term
 Wiederverwendbare oder wiederholbare Lösung für ein gängiges Problem
 beim Softwareentwurf oder in der Softwarearchitektur.
 
-Siehe [Architekturmuster](#_bookmark38) oder
-[Entwurfsmuster](#_bookmark84).
+Siehe [Architekturmuster](#term-architecture-pattern) oder
+[Entwurfsmuster](#term-design-pattern).
 

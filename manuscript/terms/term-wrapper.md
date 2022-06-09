@@ -15,10 +15,9 @@ D> The tiny differences found in literature regarding this term often don't matt
 konkreten Schnittstelle oder Implementierung oder Komponente. Fügen
 zusätzliche Verantwortlichkeiten dynamisch zu einem Objekt hinzu.
 
-![](media/image11.png){width="0.3937007874015748in"
-height="0.3937007874015748in"}Anmerkung (Gernot Starke)
+D> ###### Anmerkung (Gernot Starke)
 
-Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff
-finden, spielen im realen Leben häufig keine Rolle. Das *Wrapping*
-einer Komponente oder eines Bausteins muss in einem einzelnen
-Softwaresystem eine klare Bedeutung haben.
+D> Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff
+D> finden, spielen im realen Leben häufig keine Rolle. Das *Wrapping*
+D> einer Komponente oder eines Bausteins muss in einem einzelnen
+D> Softwaresystem eine klare Bedeutung haben.

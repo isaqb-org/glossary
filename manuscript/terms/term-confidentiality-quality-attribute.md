@@ -12,11 +12,8 @@ Category: Quality, ISO 25010
 
 Maß, in dem ein Produkt oder System sicherstellt, dass nur
 Zugriffsberechtigte Zugriff auf die Daten haben. Teilmerkmal von:
-[Sicherheit](#_bookmark184). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[²⁵](#_bookmark70).
+[Sicherheit](#term-security-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
-
-[]{#_bookmark70
-.anchor}²⁵<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
 

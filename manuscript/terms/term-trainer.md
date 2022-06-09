@@ -7,8 +7,8 @@ A trainer is a person who conducts a training course himself, provided that this
 
 Ein Trainer ist eine Person, die eine Schulung selbst leitet, mit der
 Maßgabe, dass diese im Rahmen einer einem akkreditierten
-Schulungsanbieter gewährten Akkreditierung durchgeführt wird.
+[Schulungsanbieter](#term-training-provider) gewährten Akkreditierung durchgeführt wird.
 Entsprechend dürfen akkreditierte Schulungsanbieter nur
 CPSA-Schulungen mit akkreditierten Schulungsleitern organisieren und
 durchführen. Nur akkreditierte Schulungsanbieter können
-[Akkreditierungen](#_bookmark17) von Schulungsleitern beantragen.
+[Akkreditierungen](#term-accreditation) von Schulungsleitern beantragen.

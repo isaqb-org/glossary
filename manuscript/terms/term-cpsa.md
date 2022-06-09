@@ -7,7 +7,7 @@ Certified Professional for Software Architecture(R) – the common name for diff
 
 Certified Professional for Software Architecture(R) -- die gängige
 Bezeichnung für die verschiedenen Zertifizierungsstufen des
-[iSAQB](#_bookmark119). Die bekanntesten Zertifizierungen sind das
-Foundation[]{#_bookmark79 .anchor} Level (CPSA-F) und das Advanced
+[iSAQB](#term-isaqb). Die bekanntesten Zertifizierungen sind das
+Foundation Level (CPSA-F) und das Advanced
 Level (CPSA-A).
 

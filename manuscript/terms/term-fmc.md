@@ -11,5 +11,5 @@
 Grafische Notation für die Modellierung und Dokumentation von
 Softwaresystemen. Von ihrer Website: FMC bietet einen Rahmen für die
 umfassende Beschreibung von softwareintensiven Systemen. Es
-basiert[]{#_bookmark101 .anchor} auf einer präzisen Terminologie und
+basiert auf einer präzisen Terminologie und
 wird durch eine leicht verständliche grafische Notation unterstützt.

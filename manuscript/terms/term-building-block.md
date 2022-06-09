@@ -18,13 +18,13 @@ of software architecture.
 
 Allgemeiner oder abstrakter Begriff für alle Arten von Artefakten, aus
 denen Software aufgebaut ist. Teil der statischen Struktur
-([Bausteinsicht](#_bookmark54)) von Softwarearchitektur.
+([Bausteinsicht](#term-building-block-view)) von Softwarearchitektur.
 
 Bausteine können hierarchisch strukturiert sein -- sie können andere
 (kleinere) Bausteine enthalten.
 
 Einige Beispiele für alternative (konkrete) Bezeichnungen von
-Bausteinen: Komponente, Modul,[]{#_bookmark54 .anchor} Paket,
+Bausteinen: Komponente, Modul, Paket,
 Namensraum, Klasse, Datei, Programm, Teilsystem, Funktion,
 Konfiguration, Datendefinition.
 

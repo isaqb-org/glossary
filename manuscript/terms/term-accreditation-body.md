@@ -7,10 +7,10 @@ It coordinates the accreditation procedure, carries out the formal assessment of
 {lang=de}
 ### Akkreditierungsstelle
 
-Der Antrag auf [Akkreditierung](#_bookmark17) ist über die vom iSAQB
+Der Antrag auf [Akkreditierung](#term-accreditation) ist über die vom iSAQB
 benannte *Akkreditierungsstelle* einzureichen. Die
 Akkreditierungsstelle ist Ansprechpartner für alle Fragen des
-Schulungsanbieters während der [Akkreditierung](#_bookmark17). Sie
+Schulungsanbieters während der [Akkreditierung](#term-accreditation). Sie
 koordiniert das Akkreditierungsverfahren, führt die offizielle
 Bewertung der eingereichten Unterlagen durch und organisiert die
-technische Beurteilung in der [AUDIT-ARBEITSGRUPPE](#_bookmark43).
+technische Beurteilung in der [AUDIT-ARBEITSGRUPPE](#term-audit-working-group).

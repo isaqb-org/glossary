@@ -13,10 +13,10 @@ Category: Quality, ISO 25010
 Maß, in dem ein System, ein Produkt oder eine Komponente unter
 spezifizierten Bedingungen für eine spezifizierte Zeitdauer
 spezifizierte Funktionen erfüllt. Es besteht aus folgenden
-Teilmerkmalen: [Reifegrad](#_bookmark129),
-[Verfügbarkeit](#_bookmark47), [Fehlertoleranz](#_bookmark100),
-[Wiederherstellbarkeit](#_bookmark167). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁷⁵](#_bookmark174).
+Teilmerkmalen: [Reifegrad](#term-maturity-quality-attribute),
+[Verfügbarkeit](#term-availability-quality-attribute), [Fehlertoleranz](#term-fault-tolerance-quality-attribute),
+[Wiederherstellbarkeit](#term-recoverability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark170 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010
 

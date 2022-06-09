@@ -22,5 +22,5 @@ Statt mit der Berechnung oder Messung bestimmter Eigenschaften von
 Systemen oder Architekturen befasst sich die qualitative Bewertung mit
 Risiken, Kompromissen und Sensitivitätspunkten.
 
-Siehe auch [*Beurteilung*](#_bookmark40).
+Siehe auch [*Beurteilung*](#term-assessment).
 

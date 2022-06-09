@@ -14,9 +14,9 @@ Category: Security
 ### RBAC (Role Based Access Control / Rollenbasierte Zugriffskontrolle)
 
 Eine Rolle ist ein fester Satz an Berechtigungen, der üblicherweise
-einer Gruppe von [Principals](#_bookmark158) zugewiesen wird. So kann
+einer Gruppe von [Principals](#term-principal) zugewiesen wird. So kann
 eine rollenbasierte Zugriffskontrolle zumeist effizienter
-umgesetzt werden als ein [ACL](#_bookmark15)-basiertes System und
+umgesetzt werden als ein [ACL](#term-acl)-basiertes System und
 ermöglicht beispielsweise Vertreterreglungen.
 
-[]{#_bookmark167 .anchor}Kategorie: Sicherheit
+Kategorie: Sicherheit

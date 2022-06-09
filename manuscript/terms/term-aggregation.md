@@ -12,9 +12,9 @@ Category: Foundation
 {lang=de}
 ### Aggregation
 
-Eine Form der [Komposition](#_bookmark65) in der objektorientierten
+Eine Form der [Komposition](#term-composition) in der objektorientierten
 Programmierung. Sie unterscheidet sich von der Komposition dadurch,
 dass sie keinen Besitz impliziert. Wenn das Element vernichtet wird,
 bleiben die enthaltenen Elemente intakt.
 
-[]{#_bookmark29 .anchor}Kategorie: Foundation
+Kategorie: Foundation

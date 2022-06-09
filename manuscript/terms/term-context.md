@@ -23,6 +23,7 @@ Embedded systems, for example, often care for hardware-related information very 
 dem System und seiner Umgebung: Menschen, Systeme und externe
 Entitäten, mit denen es interagiert." (Übersetztes englisches Zitat
 aus
-[Rozanski-](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/)[]{#_bookmark72
-.anchor}Woods[²⁷](#_bookmark74))
+[Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
+
+FIXME: Hier fehlt noch was
 

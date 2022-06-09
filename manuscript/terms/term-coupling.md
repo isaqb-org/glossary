@@ -8,10 +8,11 @@ Coupling is usually contrasted with [_cohesion_](#term-cohesion). Low coupling o
 and vice versa. Low coupling is often a sign of a well-structured system.
 When combined with high cohesion, it supports understandability and maintainability.
 
+{lang=de}
+### Kopplung
 
-### [Kopplung](https://en.wikipedia.org/wiki/Coupling_(computer_programming))
-
-Kopplung ist die Art und der Grad der *Interdependenz* zwischen
+[Kopplung](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)
+ist die Art und der Grad der *Interdependenz* zwischen
 Software-Bausteinen; ein Maß dafür, wie eng zwei Komponenten verbunden
 sind.\\ Ziel sollte immer eine *lose* Kopplung sein. Kopplung steht in
 der Regel im Gegensatz zu *Kohäsion*. Lose Kopplung korreliert häufig

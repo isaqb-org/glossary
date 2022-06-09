@@ -19,12 +19,10 @@ Informationen über Kurzzeit-Sitzungsschlüssel erhalten kann.
 
 Beispiele für Protokolle mit perfekter vorwärts gerichteter
 Geheimhaltung sind TLS und OTR. Wenn diese Funktion für
-[TLS](#_bookmark201) aktiviert ist und ein Angreifer Zugriff auf den
+[TLS](#term-tls) aktiviert ist und ein Angreifer Zugriff auf den
 privaten Schlüssel erhält, können früher aufgezeichnete
 Kommunikationssitzungen dennoch nicht entschlüsselt werden.
 
-[]{#_bookmark152 .anchor}Kategorie: Sicherheit
+Kategorie: Sicherheit
 
-[]{#_bookmark153
-.anchor}⁶⁵[\[RobertC.Martin\](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
 

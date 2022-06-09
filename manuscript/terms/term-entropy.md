@@ -30,13 +30,12 @@ sollten auch eine hohe Entropie aufweisen. Die Schaffung von hoher
 Entropie in einem Computersystem ist nicht trivial und kann die
 Systemleistung beeinträchtigen.
 
-Siehe [11.1 Information Theory of Schneier-1996](#_bookmark242) und
+Siehe [11.1 Information Theory of Schneier-1996](#ref-schneier-1996) und
 Whitewood Inc. zu [„Understanding
-and](https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf)
-[Managing
-Entropy"](https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf)[³⁶](#_bookmark97)
+and Managing
+Entropy"](https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf)
 oder [SANS „Randomness and Entropy - An
-Introduction"](https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874)[³⁷](#_bookmark97).
+Introduction"](https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874).
 
 Kategorie: Sicherheit
 

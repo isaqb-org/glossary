@@ -26,5 +26,5 @@ Der berühmte Edgar Dijkstra sagte 1974: „Separation of concerns ...
 ist, auch wenn es nicht perfekt möglich ist, die einzig verfügbare
 Technik zur effektiven Ordnung der eigenen Gedanken."
 
-Ähnlich wie das [Single-Responsibility-Prinzip](#_bookmark188).
+Ähnlich wie das [Single-Responsibility-Prinzip](#term-single-responsibility-principle).
 

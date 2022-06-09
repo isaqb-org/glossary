@@ -18,7 +18,7 @@ Definiert eine Beziehung zwischen Objekten (im Allgemeinen zwischen
 Modulen). Jede Assoziation lässt sich durch Kardinalitäten und
 (Rollen-) Namen im Detail beschreiben.
 
-Siehe [Kopplung](#_bookmark78), [Abhängigkeit](#_bookmark81) und
-[Beziehung](#_bookmark170)[]{#_bookmark42 .anchor}
+Siehe [Kopplung](#term-coupling), [Abhängigkeit](#term-dependency) und
+[Beziehung](#term-relationship)
 
 Kategorie: Foundation

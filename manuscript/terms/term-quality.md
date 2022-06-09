@@ -7,6 +7,6 @@ see [_software quality_](#term-software-quality) and [quality attributes](#term-
 {lang=de}
 ### Qualität
 
-[]{#_bookmark164 .anchor}Siehe [*Softwarequalität*](#_bookmark191) und
-[Qualitätsmerkmale](#_bookmark164).
+Siehe [*Softwarequalität*](#term-software-quality) und
+[Qualitätsmerkmale](#term-quality-attribute).
 

@@ -18,6 +18,5 @@ einem System *hinzuzufügen* (Erweiterung), sollte *keine Modifikation*
 des vorhandenen Codes erforderlich sein. Teil der „SOLID-"Prinzipien
 von Robin Martins für objektorientierte Systeme. Kann in
 objektorientierten Sprachen durch
-Schnittstellenvererbung,[]{#_bookmark146 .anchor} allgemeiner als
+Schnittstellenvererbung, allgemeiner als
 *Plugins*, implementiert werden.
-

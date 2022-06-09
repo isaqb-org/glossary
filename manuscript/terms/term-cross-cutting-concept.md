@@ -9,6 +9,6 @@ Synonym: principle, rule.
 {lang=de}
 ### Querschnittskonzept
 
-Siehe [Konzept](#_bookmark68).
+Siehe [Konzept](#term-concept).
 
 Synonym: Prinzip, Regel.

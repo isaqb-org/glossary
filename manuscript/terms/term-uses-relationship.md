@@ -10,6 +10,6 @@ presence of a correct implementation of B.
 ### Nutzungsbeziehung
 
 Abhängigkeit zwischen zwei Bausteinen. Wenn A B nutzt, dann hängt die
-Ausführung von A[]{#_bookmark212 .anchor} von der Anwesenheit einer
+Ausführung von A von der Anwesenheit einer
 korrekten Implementierung von B ab.
 

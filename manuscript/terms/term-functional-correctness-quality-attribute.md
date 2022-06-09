@@ -11,9 +11,8 @@ Category: Quality, ISO 25010
 
 Maß, in dem ein Produkt oder System die korrekten Ergebnisse mit dem
 benötigten Grad an Präzision liefert. Teilmerkmal von: [Funktionale
-Eignung](#_bookmark107). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁴¹](#_bookmark108)
-.
+Eignung](#term-functional-suitability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark107 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010
 

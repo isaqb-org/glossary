@@ -27,6 +27,7 @@ von den ersten Anforderungsmanagementaufgaben bis zum Feedback aus dem
 Betrieb der herausgegebenen Software durch Behebung von
 Sicherheitsproblemen, abdecken.
 
-Siehe [McGraw „An Enterprise Software Security Program", Seite
-239](#_bookmark238).[]{#_bookmark183 .anchor} Kategorie: Sicherheit
+Siehe [McGraw „An Enterprise Software Security Program", Seite 239](#ref-mcgraw-2006).
+
+Kategorie: Sicherheit
 

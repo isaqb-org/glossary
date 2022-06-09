@@ -28,4 +28,4 @@ Beispiele:
 
 -   Pipes und Filter
 
--   [CQRS](#_bookmark79)
+-   [CQRS](#term-cqrs)

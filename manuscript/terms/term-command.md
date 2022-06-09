@@ -8,6 +8,6 @@ an action. This action might be invoked or executed at a later time.
 ### Kommando
 
 Entwurfsmuster, bei dem ein Objekt zur Kapselung einer Aktion genutzt
-wird. Diese Aktion kann später aufgerufen[]{#_bookmark61 .anchor} oder
+wird. Diese Aktion kann später aufgerufen oder
 ausgeführt werden.
 

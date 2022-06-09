@@ -17,7 +17,7 @@ mit einem Abstecher in die Integrationshölle) und schließlich wird das
 Ganze mit einem großen abschließenden Release geliefert. Alles ist
 groß, auch die Gefahr des Scheiterns." (Übersetztes englisches Zitat
 aus
-\[[http://c2.com/cgi/wiki?IterativeDevelopment\])](http://c2.com/cgi/wiki?IterativeDevelopment)
+[C2 wiki](http://c2.com/cgi/wiki?IterativeDevelopment).
 
-[]{#_bookmark213 .anchor}Gegensatz zur *iterativen Entwicklung*
+Gegensatz zur [_iterativen Entwicklung_](#term-iterative-development]
 

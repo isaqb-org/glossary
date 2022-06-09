@@ -16,4 +16,7 @@ Korrespondenzregeln werden genutzt, um Beziehungen innerhalb einer
 Architekturbeschreibung (oder zwischen Architekturbeschreibungen)
 durchzusetzen (gemäß Definition in ISO/IEC/IEEE 42010).
 
-[]{#_bookmark77 .anchor}Kategorie: ISO-IEC-IEEE-42010
+Kategorie: ISO-IEC-IEEE-42010
+
+Synonym: [Integrität](#term-integrity),
+Homogenität, konzeptionelle Integrität.

@@ -23,29 +23,29 @@ Category: Design-Principle
 ### Packaging-Prinzipien
 
 Grundsätze für die Gestaltung der Struktur von Softwaresystemen
-([Martin-2003](#_bookmark234)):
+([Martin-2003](#ref-martin-2003)):
 
--   [Reuse-Release-Equivalence-Prinzip (REP)](#_bookmark178)
+-   [Reuse-Release-Equivalence-Prinzip (REP)](#term-reuse-release-equivalence-principle)
 
--   [Common-Reuse-Prinzip (CRP)](#_bookmark62)
+-   [Common-Reuse-Prinzip (CRP)](#term-common-reuse-principle)
 
--   [Common-Closure-Prinzip (CCP)](#_bookmark61)
+-   [Common-Closure-Prinzip (CCP)](#term-common-closure-principle)
 
--   [Acyclic-Dependencies-Prinzip (ADP)](#_bookmark21)
+-   [Acyclic-Dependencies-Prinzip (ADP)](#term-acyclic-dependencies-principle)
 
--   [Stable-Dependencies-Prinzip (SDP)](#_bookmark196)
+-   [Stable-Dependencies-Prinzip (SDP)](#term-stable-dependencies-principle)
 
--   [Stable-Abstractions-Prinzip (SAP)](#_bookmark195)
+-   [Stable-Abstractions-Prinzip (SAP)](#term-stable-abstractions-principle)
 
-Robert C. Martin, der das Akronym „[SOLID](#_bookmark192)" geprägt
-hat, hat auch die Packaging-Prinzipien eingeführt[⁶⁵](#_bookmark153)
+Robert C. Martin, der das Akronym „[SOLID](#term-solid-principles)" geprägt
+hat, hat auch die [Packaging-Prinzipien eingeführt]([Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
 und häufig beide zusammen angeführt. Während die SOLID-Prinzipien auf
 die Klassen-Ebene abzielen, beziehen sich die Packaging-Prinzipien auf
 die Ebene größerer Komponenten, die mehrere Klassen enthalten und
 eventuell unabhängig verteilt werden.
 
 Package- und SOLID-Prinzipien haben beide das ausdrückliche Ziel,
-Software [wartbar](#_bookmark128) zu halten und die Anzeichen von
+Software [wartbar](#term-maintainability-quality-attribute) zu halten und die Anzeichen von
 schlechtem Design, Rigidität, Fragilität, Immobilität und Viskosität
 zu vermeiden.
 
@@ -55,7 +55,7 @@ sind universelle Prinzipien, wie lose Kopplung, eindeutige
 Verantwortung, hierarchische (azyklische) Zerlegung und die
 Erkenntnis, dass sinnvolle Abhängigkeiten von spezifischen/instabilen
 Konzepten zu abstrakteren/stabileren verlaufen (was sich im
-[DIP](#_bookmark82) wiederfindet).
+[DIP](#term-dependency-inversion) wiederfindet).
 
 Kategorie: Entwurfsprinzip
 

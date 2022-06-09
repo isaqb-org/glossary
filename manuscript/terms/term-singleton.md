@@ -8,8 +8,8 @@
 ### Singleton
 
 „Entwurfsmuster, das die Instanziierung einer Klasse auf ein Objekt
-beschränkt. Dies ist sinnvoll, wenn genau[]{#_bookmark188 .anchor} ein
+beschränkt. Dies ist sinnvoll, wenn genau ein
 Objekt benötigt wird, um Aktionen im System zu koordinieren."
 (Übersetztes englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)[⁸²](#_bookmark190).)
+[Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern).)
 

@@ -10,6 +10,6 @@ with its environment.
 ### Port
 
 UML-Konstrukt, das in Komponentendiagrammen verwendet wird. Eine
-Schnittstelle, die einen Punkt, an dem eine Komponente[]{#_bookmark157
+Schnittstelle, die einen Punkt, an dem eine Komponente
 .anchor} mit ihrer Umgebung interagiert, definiert.
 

@@ -6,9 +6,9 @@ A concept of [Domain-Driven Design](#term-DDD): The ubiquitous language is a lan
 {lang=de}
 ### Allgegenwärtige Sprache
 
-Ein Konzept von [Domain-Driven Design](#_bookmark90): Eine
+Ein Konzept von [Domain-Driven Design](#term-DDD): Eine
 allgegenwärtige Sprache ist eine Sprache, die um das
-[Domänenmodell](#domänenmodell) strukturiert ist. Sie wird von allen
+[Domänenmodell](#term-domain-model) strukturiert ist. Sie wird von allen
 Teammitgliedern zur Verbindung aller Aktivitäten des Teams mit der
 Software genutzt. Die allgegenwärtige Sprache ist lebendig, entwickelt
 sich während eines Projekts weiter und verändert sich während des

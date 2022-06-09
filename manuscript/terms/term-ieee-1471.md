@@ -13,9 +13,4 @@ Software-Intensive Systems*, definiert als ISO/IEC 42010:2007. Legt
 einen (abstrakten) Rahmen für die Beschreibung von
 Softwarearchitekturen fest.
 
-{lang=de}
-### Inkrementelle Entwicklung
-
-[]{#_bookmark112 .anchor}Siehe *iterative und inkrementelle
-Entwicklung*.
 

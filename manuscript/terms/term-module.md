@@ -27,7 +27,7 @@
     wurde erstmals in einem bahnbrechenden Grundlagenpapier von David L.
     Parnas beschrieben: [On the Criteria to be Used in Decomposing
     Software into
-    Modules](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)[⁵⁸](#_bookmark142)
+    Modules](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
 2.  In mehreren Programmiersprachen ist ein *Modul* ein Konstrukt zur
     Zusammenstellung kleinerer Programmiereinheiten, z.B. in Python. In

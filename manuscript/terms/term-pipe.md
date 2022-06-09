@@ -12,10 +12,5 @@ of another filter without modifying values or order of data.
 Verbindung im „Pipes und Filter"-Architekturstil, die Datenströme oder
 -blöcke von der Ausgabe eines Filters zur Eingabe eines anderen
 Filters überträgt, ohne Werte oder die
-+Datenreihenfolge[]{#_bookmark154 .anchor} zu verändern.
-
-[]{#_bookmark155
-.anchor}⁶⁶<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
-
-⁶⁷<https://simple.wikipedia.org/wiki/Pikachu>
+Datenreihenfolge zu verändern.
 

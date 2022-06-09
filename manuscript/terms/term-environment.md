@@ -20,7 +20,3 @@ Einflüsse ein.
 
 Kategorie: ISO-IEC-IEEE-42010
 
-[]{#_bookmark97
-.anchor}³⁶<https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf>
-³⁷<https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874>
-

@@ -30,8 +30,8 @@ aus Wikipedia.)
     dennoch befassen müssen.
 
 (Übersetztes englisches Zitat von [Mark
-Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/)[²⁴](#_bookmark66))
+Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/))
 
-[]{#_bookmark64 .anchor}Architekten haben sich um einer Verringerung
+Architekten haben sich um einer Verringerung
 der akzidentellen Komplexität zu bemühen.
 

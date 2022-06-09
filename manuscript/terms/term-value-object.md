@@ -8,9 +8,9 @@ Value Object is a building block of [Domain-Driven Design](#term-DDD). ValueObje
 ### Wertobjekt
 
 Ein Wertobjekt ist ein Baustein des [Domain-Driven
-Designs](#_bookmark90). Wertobjekte haben keine eigene konzeptionelle
+Designs](#term-DDD). Wertobjekte haben keine eigene konzeptionelle
 Identität und sollten als unveränderlich behandelt werden. Sie werden
-zur Beschreibung des Zustands von [Entitäten](#_bookmark95) genutzt
+zur Beschreibung des Zustands von [Entitäten](#term-entity) genutzt
 und können aus anderen Wertobjekten, aber niemals aus
-[Entitäten](#_bookmark95) bestehen.
+[Entitäten](#term-entity) bestehen.
 

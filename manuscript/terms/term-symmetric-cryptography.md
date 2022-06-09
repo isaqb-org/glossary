@@ -14,11 +14,8 @@ Category: Security
 Symmetrische Kryptographie basiert auf einem identischen Schlüssel für
 die Verschlüsselung und Entschlüsselung von Daten. Sender und
 Empfänger vereinbaren einen Schlüssel für die Kommunikation. Siehe
-[Schneier, Symmetric](#_bookmark242) [Algorithms, Seite
-17](#_bookmark242).
+[Schneier, Symmetric Algorithms, Seite
+17](#ref-schneier-1996).
 
 Kategorie: Sicherheit
-
-[]{#_bookmark198
-.anchor}⁸⁶<https://en.wikipedia.org/wiki/Software_package_metrics>
 

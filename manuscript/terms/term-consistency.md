@@ -27,6 +27,3 @@ Ein konsistentes System enthält keine Widersprüche.
 
 -   In Bezug auf Verhalten: Maß, in dem ein System sich kohärent,
     reproduzierbar und vernünftig verhält.
-
-[]{#_bookmark78 .anchor}Synonym: [Integrität](#_bookmark114),
-Homogenität, konzeptionelle Integrität.

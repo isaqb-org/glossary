@@ -9,8 +9,8 @@ Category: Security
 {lang=de}
 ### Zufälligkeit
 
-Siehe [Entropie](#_bookmark96) oder
-[Pseudo-Zufälligkeit](#_bookmark163).
+Siehe [Entropie](#term-entropy) oder
+[Pseudo-Zufälligkeit](#term-pseudo-randomness).
 
 Kategorie: Sicherheit
 

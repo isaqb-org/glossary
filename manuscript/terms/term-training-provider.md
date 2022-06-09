@@ -8,7 +8,7 @@ An organisation or person who holds the rights of use to accredited training mat
 
 Eine Organisation oder Person, die über die Rechte zur Nutzung von
 akkreditierten Schulungsunterlagen verfügt oder die eine
-[Akkreditierung](#_bookmark17) für Schulungsunterlagen erworben hat,
+[Akkreditierung](#term-accreditation) für Schulungsunterlagen erworben hat,
 Schulungsleiter und Infrastruktur zur Verfügung stellt
-und[]{#_bookmark207 .anchor} Schulungen durchführt.
+und Schulungen durchführt.
 

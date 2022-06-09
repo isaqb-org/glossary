@@ -9,7 +9,7 @@ can help to identify critical parts or elements of systems.
 ### Quantitative Bewertung
 
 (Syn.: quantitative Analyse): Messung oder Zählung von Werten von
-Softwareartefakten, z.B. [Kopplung](#_bookmark78), zyklomatische
+Softwareartefakten, z.B. [Kopplung](#term-coupling), zyklomatische
 Komplexität, Größe, Testabdeckung. Kennzahlen wie diese helfen bei der
 Identifizierung von kritischen Teilen oder Elementen von Systemen.
 

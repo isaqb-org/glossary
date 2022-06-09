@@ -14,5 +14,5 @@ Kombination von einfacheren Elementen (z.B. Funktionen, Datentypen,
 Bausteinen) zu komplizierteren, leistungsstärkeren oder stärker
 verantwortlichen Elementen.
 
-[]{#_bookmark68 .anchor}In UML: Wenn das enthaltende Element
+In UML: Wenn das enthaltende Element
 vernichtet wird, werden auch die enthaltenen Elemente vernichtet.

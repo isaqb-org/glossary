@@ -13,8 +13,8 @@ Category: Quality, ISO 25010
 Maß, in dem sich ein Produkt oder System effektiv und effizient an
 unterschiedliche oder sich weiterentwickelnde Hardware, Software oder
 sonstige Betriebs- oder Nutzungsumgebungen anpassen lässt. Teilmerkmal
-von: [Portierbarkeit](#_bookmark157). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[¹¹](#_bookmark31)
+von: [Portierbarkeit](#term-portability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
 .
 
-[]{#_bookmark27 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010

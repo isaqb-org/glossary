@@ -10,5 +10,4 @@ Ein Werkzeug, das Modelle erstellt (z.B. UML- oder BPMN-Modelle). Kann
 zur Erstellung von konsistenten Diagrammen zur Dokumentation verwendet
 werden, da es den Vorteil hat, dass jedes Modellelement nur einmal
 vorhanden ist, aber in vielen Diagrammen konsistent angezeigt wird
-(anders als bei einem einfachen [Mal-/Zeichenprogramm](#_bookmark92)).
-
+(anders als bei einem einfachen [Mal-/Zeichenprogramm](#term-drawing-tool)).

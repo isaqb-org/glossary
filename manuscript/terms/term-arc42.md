@@ -8,18 +8,10 @@ See <https://arc42.org> for details.
 Category: Communication, Documentation
 
 
-### Architecture
-
-See [Software Architecture](#term-software-architecture)
-
-Category: ISO-IEC-IEEE-42010
-
-
-
 {lang=de}
 ### arc42
 
-Kostenloses [Template](http://arc42.org/)[¹⁴](#_bookmark34) zur
+Kostenloses [Template](http://arc42.org/)zur
 Kommunikation und Dokumentation von Softwarearchitekturen. arc42
 besteht aus 12 (optionalen) Teilen oder Abschnitten.
 

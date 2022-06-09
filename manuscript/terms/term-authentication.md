@@ -33,6 +33,6 @@ bekannten Authentifizierungsfaktoren:
 
 Für eine stärkere Authentifizierung können mehrere Faktoren oder
 mindestens Faktoren aus zwei Kategorien verlangt
-werden.[]{#_bookmark46 .anchor}
+werden.
 
 Kategorie: Sicherheit

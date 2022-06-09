@@ -21,8 +21,6 @@ Optimierungsstrategien für das Lesen und Schreiben von Daten
 (beispielsweise ist es wesentlich leichter, schreibgeschützte Daten zu
 cachen, als Daten, die auch abgeändert werden können).
 
-Es gibt ein interessantes [eBook von Mark
-Nijhof](https://leanpub.com/cqrs)[²⁹](#_bookmark80) zu diesem Thema.
+Es gibt ein interessantes [eBook von Mark Nijhof](https://leanpub.com/cqrs) zu diesem Thema.
 
-[]{#_bookmark80 .anchor}²⁹<https://leanpub.com/cqrs>
 

@@ -45,7 +45,7 @@ Category: ISO-IEC-IEEE-42010
 
 Es gibt mehrere (!) gültige und plausible Definitionen des Begriffs
 *Softwarearchitektur*. Die [IEEE
-1471](https://en.wikipedia.org/wiki/IEEE_1471)[⁸³](#_bookmark193) Norm
+1471](https://en.wikipedia.org/wiki/IEEE_1471) Norm
 schlägt folgende Definition vor:
 
 In der neuen Norm ISO/IEC/IEEE 42010:2011 wurden die Definitionen
@@ -75,5 +75,10 @@ Die Schlüsselbegriffe dieser Definition bedürfen einer Erläuterung:
     bilden die Grundlage für *konzeptionelle Integrität*.
 
 Das *Software Engineering Institute* führt eine [Sammlung weiterer
-Definitionen](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)[⁸⁴](#_bookmark194)[]{#_bookmark191
-.anchor} Kategorie: ISO-IEC-IEEE-42010
+Definitionen](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)
+
+Auch wenn der Begriff sich oft auf die _Softwarearchitektur eines
+IT-Systems_ bezieht, wird er auch benutzt, um sich auf
+_Softwarearchitektur als Ingenieursdisziplin_ zu beziehen.
+
+Kategorie: ISO-IEC-IEEE-42010

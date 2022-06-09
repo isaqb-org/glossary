@@ -31,4 +31,4 @@ Beispiele:
 -   Reference Model of Open Distributed Processing (RM-ODP) \[ISO/IEC
     10746\] ist ein Architektur-Framework.
 
-[]{#_bookmark37 .anchor}Kategorie: ISO-IEC-IEEE-42010
+Kategorie: ISO-IEC-IEEE-42010

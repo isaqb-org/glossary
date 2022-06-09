@@ -11,9 +11,9 @@ Category: Security
 {lang=de}
 ### Vertraulichkeit
 
-Eines der grundlegenden [Schutzziele](#_bookmark183), das ein System
+Eines der grundlegenden [Schutzziele](#term-security-goals), das ein System
 beschreibt, welches Informationen nur Befugten offenlegt und
 bereitstellt.
 
-[]{#_bookmark69 .anchor}Kategorie: Sicherheit
+Kategorie: Sicherheit
 

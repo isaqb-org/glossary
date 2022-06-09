@@ -16,3 +16,22 @@ See [Bruce Schneiers Crypto-Gram, May 15, 2002](https://www.schneier.com/crypto-
 
 Category: Security
 
+{lang=de}
+### Kerckhoffs\'sches Prinzip
+
+Eines der sechs kryptographischen Axiome, die 1883 von dem
+niederländischen Kryptographen und Linguisten Auguste Kerckhoffs in
+dem Artikel „La cryptographie militaire" beschrieben wurde. Dieses
+Axiom ist heute noch relevant und wird daher als „Kerckhoffs\'sches
+Prinzip" bezeichnet.
+
+Es schildert, dass eine kryptographische Methode nicht geheim gehalten
+werden muss, um die verschlüsselte Botschaft zu schützen.
+
+„Der Feind kennt das System" ist ein weiterer Ausdruck, den der
+Mathematiker Claude Shannon als Shannons Maxime geprägt hat.
+
+Siehe [Bruce Schneiers Crypto-Gram, May 15,
+2002](https://www.schneier.com/crypto-gram/archives/2002/0515.html)
+
+Kategorie: Sicherheit

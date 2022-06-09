@@ -15,8 +15,8 @@ Erzeugungsmuster, das Fabrikmethoden oder Fabrikkomponenten zur
 Erzeugung von Objekten nutzt, ohne die exakte Klasse des zu
 erzeugenden Objekts spezifizieren zu müssen.
 
-Im [Domain-Driven Design](#_bookmark90): Eine Fabrik kapselt die
-Erzeugung von [Aggregaten](#_bookmark28), [Entitäten](#_bookmark95)
-und [Wertobjekten](#_bookmark212). Fabriken arbeiten ausschließlich in
+Im [Domain-Driven Design](#term-DDD): Eine Fabrik kapselt die
+Erzeugung von [Aggregaten](#term-aggregate), [Entitäten](#term-entity)
+und [Wertobjekten](#term-value-object). Fabriken arbeiten ausschließlich in
 der Domäne und haben keinen Zugriff auf technische
-Bausteine[]{#_bookmark100 .anchor} (z.B. eine Datenbank).
+Bausteine (z.B. eine Datenbank).

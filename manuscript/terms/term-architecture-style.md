@@ -15,6 +15,6 @@ D> However, from a practical point of view this distinction is not essential.
 ### Architekturstil
 
 Beschreibung von Element- und Beziehungstypen zusammen mit
-Einschränkungen ihrer Nutzungsweise.[]{#_bookmark39 .anchor} Häufig
+Einschränkungen ihrer Nutzungsweise. Häufig
 *Architekturmuster* genannt. Beispiele: Pipes und Filter,
 Model-View-Controller, Schichten.

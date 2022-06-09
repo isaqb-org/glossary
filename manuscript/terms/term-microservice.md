@@ -13,7 +13,7 @@ als leichtere Alternativen, wie Docker-Container, oder als
 individuelle Prozesse implementiert werden. Dadurch können sie leicht
 einzeln in Produktion genommen werden." (Übersetztes englisches Zitat
 aus dem (kostenlosen) [LeanPub booklet on
-Microservices](https://leanpub.com/microservices-primer)[⁵⁴](#_bookmark133)
+Microservices](https://leanpub.com/microservices-primer)
 von [Eberhard
-Wolff](http://microservices-book.com/)[⁵⁵](#_bookmark134).
+Wolff](http://microservices-book.com/).
 

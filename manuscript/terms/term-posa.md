@@ -9,6 +9,6 @@ patterns.
 {lang=de}
 ### POSA
 
-[]{#_bookmark158 .anchor}Pattern-oriented Software Architecture.
+Pattern-oriented Software Architecture.
 Buchreihe zu Softwarearchitekturmustern.
 

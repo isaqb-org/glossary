@@ -10,6 +10,6 @@ See also [wrapper](#term-wrapper), [adapter](#term-adapter).
 
 Ein (Entwurfs- oder Architektur-) Muster: Elemente, die den Zugriff
 auf (üblicherweise externe) Systeme oder Ressourcen kapseln. Siehe
-auch [Wrapper](#_bookmark216), [Adapter](#_bookmark27).
+auch [Wrapper](#term-wrapper), [Adapter](#term-adaptability-quality-attribute).
 
 

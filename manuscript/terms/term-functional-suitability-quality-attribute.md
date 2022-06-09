@@ -13,10 +13,10 @@ Category: Quality, ISO 25010
 Maß, in dem ein Produkt oder System bei Nutzung unter spezifizierten
 Bedingungen Funktionen liefert, die festgelegte und vorausgesetzte
 Erfordernisse erfüllen. Es besteht aus folgenden Teilmerkmalen:
-[funktionale](#_bookmark102) [Vollständigkeit](#_bookmark102),
-[funktionale Korrektheit](#_bookmark103), [funktionale
-Angemessenheit](#_bookmark101). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁴²](#_bookmark108).
+[funktionale Vollständigkeit](#term-functional-completeness-quality-attribute),
+[funktionale Korrektheit](#term-functional-correctness-quality-attribute), [funktionale
+Angemessenheit](#term-functional-appropriateness-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

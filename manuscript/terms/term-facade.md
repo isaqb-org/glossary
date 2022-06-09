@@ -8,5 +8,5 @@ or complicated building block (the _provider_) without any modifications to the 
 ### Fassade
 
 Strukturentwurfsmuster. Eine Fassade bietet eine einfache
-Schnittstelle zu einem komplexen oder komplizierten[]{#_bookmark99
-.anchor} Baustein (dem *Provider*) ohne Modifikationen am Provider.
+Schnittstelle zu einem komplexen oder komplizierten
+Baustein (dem *Provider*) ohne Modifikationen am Provider.

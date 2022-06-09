@@ -12,6 +12,6 @@ Could for example (but doesn't need to) be expressed in UML sequence or activity
 
 Zeigt die Zusammenarbeit von Bausteinen (beziehungsweise ihrer
 Instanzen) zur Laufzeit in konkreten Szenarien. Sollte auf Elemente
-der [Bausteinsicht](#_bookmark54) verweisen. Kann beispielsweise (muss
+der [Bausteinsicht](#term-building-block-view) verweisen. Kann beispielsweise (muss
 aber nicht) als UML-Sequenz oder Aktivitätsdiagramm ausgedrückt
 werden.

@@ -28,3 +28,10 @@ public class Horse implements Animal {
    } 
 ~~~~~~~~
 
+{lang=de}
+### Schnittstelle
+
+Grenze, über die zwei Bausteine hinweg
+miteinander interagieren oder kommunizieren.
+
+FIXME: hier fehlt was

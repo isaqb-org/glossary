@@ -9,7 +9,7 @@ Category: Security
 {lang=de}
 ### CIA-Triade
 
-Siehe [Schutzziele](#_bookmark183)
+Siehe [Schutzziele](#term-security-goals)
 
 Kategorie: Sicherheit
 

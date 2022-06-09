@@ -23,5 +23,5 @@ Module haben *Schnittstellen*, die die vom Modul bereitgestellten und
 benötigten Elemente angeben. Die in der Schnittstelle definierten
 Elemente können von anderen Modulen erkannt werden." (Übersetztes
 englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/wiki/Modular_programming)[⁵⁹](#_bookmark143))
+[Wikipedia](https://en.wikipedia.org/wiki/Modular_programming))
 

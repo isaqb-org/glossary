@@ -18,11 +18,7 @@ ansonsten bleibt die Beurteilung der Qualität der Intuition
 in dem das System die festgelegten und vorausgesetzten Anforderungen
 seiner verschiedenen Stakeholder erfüllt und somit Wert bietet. Diese
 festgelegten und vorausgesetzten Anforderungen sind in den ISO 25000
-Qualitätsmodellen dargestellt, die Produktqualität[]{#_bookmark192
-.anchor} in Eigenschaften, welche in manchen Fällen weiter in
+Qualitätsmodellen dargestellt, die Produktqualität
+in Eigenschaften, welche in manchen Fällen weiter in
 Untereigenschaften unterteilt werden, einteilt.
-
-⁸³<https://en.wikipedia.org/wiki/IEEE_1471>
-
-⁸⁴<http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm>
 

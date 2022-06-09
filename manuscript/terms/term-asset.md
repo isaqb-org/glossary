@@ -22,7 +22,7 @@ Informationen unterstützen. Assets umfassen im Allgemeinen Hardware
 Anwendungen und Supportsysteme) und vertrauliche Informationen."
 
 (Übersetztes englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042)[¹⁵](#_bookmark41))[]{#_bookmark40
-.anchor} Kategorie: Sicherheit
+[Wikipedia](https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042))
 
-{lang=de}
+Kategorie: Sicherheit
+

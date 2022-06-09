@@ -12,7 +12,7 @@
 „Sehr bekanntes Objekt, das andere Objekte nutzen können, um
 gemeinsame Objekte und Dienste zu finden." (Übersetztes englisches
 Zitat
-[PoEAA](http://martinfowler.com/eaaCatalog/registry.html)[⁷⁴](#_bookmark174)).
+[PoEAA](http://martinfowler.com/eaaCatalog/registry.html)).
 Häufig als *Singleton* (auch ein bekanntes Entwurfsmuster)
 implementiert.
 

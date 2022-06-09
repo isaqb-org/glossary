@@ -47,7 +47,7 @@ bereitgestellt und mit geringfügigem Verwaltungsaufwand bzw. minimalen
 Eingriffen durch den Dienstanbieter freigegeben werden kann."
 
 Übersetztes englisches Zitat von
-[NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)[²²](#_bookmark59)
+[NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 (National Institute of Standards and Technology).
 
 Die NIST-Definition enthält die folgenden fünf Eigenschaften (die
@@ -82,9 +82,6 @@ und Netzwerkbandbreite.
     an den Bedarf anzupassen. Für den Kunden erscheinen die verfügbaren
     Kapazitäten oft unbegrenzt und jederzeit in beliebiger Menge
     verfügbar.
-
-[]{#_bookmark59
-.anchor}²²<http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf>
 
 -   Measured Service: Cloud-Systeme können durch den Einsatz von
     Messverfahren auf einer der Art des Dienstes (z.B. Speicher,

@@ -11,7 +11,7 @@ Assessment might concerning potentially all aspects
 
 ### Beurteilung
 
-Siehe auch [Bewertung](#_bookmark36).
+Siehe auch [Bewertung](#term-assessment).
 
 Zusammenstellung von Informationen über Status, Risiken oder Schwächen
 eines Systems. Die Beurteilung kann potenziell alle Aspekte

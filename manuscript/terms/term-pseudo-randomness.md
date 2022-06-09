@@ -18,7 +18,7 @@ Category: Security
 ###Pseudo-Zufälligkeit
 
 Häufig in Verbindung mit Pseudozufallszahlengeneratoren verwendet. Die
-Erzeugung von Zufälligkeit mit hoher [Entropie](#_bookmark96) ist
+Erzeugung von Zufälligkeit mit hoher [Entropie](#term-entropy) ist
 ressourcenintensiv und, abgesehen von Kryptographie, nicht für viele
 Anwendungen erforderlich. Zur Behebung dieses Problems werden
 Pseudozufallszahlengeneratoren mit einen Daten-Startwert initialisiert

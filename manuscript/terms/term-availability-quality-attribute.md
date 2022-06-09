@@ -12,14 +12,7 @@ Category: Quality, ISO 25010, Security
 
 Maß, in dem ein System, ein Produkt oder eine Komponente einsatzfähig
 und zugänglich sind, wenn sie benötigt werden. Teilmerkmal von:
-[Zuverlässigkeit](#_bookmark169). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[¹⁹](#_bookmark51).
+[Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark48 .anchor}Kategorie: Qualität, ISO 25010, Sicherheit
-
-[]{#_bookmark49
-.anchor}¹⁷<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>[]{#_bookmark51
-.anchor}
-¹⁸<https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234>
-
-¹⁹<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+Kategorie: Qualität, ISO 25010, Sicherheit

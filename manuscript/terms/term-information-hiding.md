@@ -15,9 +15,9 @@ Implementierungsentscheidungen, die sich wahrscheinlich ändern, werden
 *verborgen* gehalten, so dass andere Teile des Systems vor
 Modifizierungen geschützt sind, wenn diese Entscheidungen oder
 Implementierungen geändert werden. Eine der wichtigen Eigenschaften
-von [Blackboxen](#_bookmark48). Trennt Schnittstelle von
+von [Blackboxen](#term-blackbox). Trennt Schnittstelle von
 Implementierung.
 
-[]{#_bookmark113 .anchor}Der Begriff [Kapselung](#_bookmark93) wird
+Der Begriff [Kapselung](#term-encapsulation) wird
 häufig austauschbar mit Verbergen von Informationen verwendet.
 

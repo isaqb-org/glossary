@@ -8,5 +8,5 @@ that are easier to understand, implement or maintain.
 ### Zerlegung
 
 (Syn.: Factoring) Aufbrechen oder Unterteilen eines komplexen Systems
-oder Problems in mehrere kleinere Teile, die[]{#_bookmark81 .anchor}
+oder Problems in mehrere kleinere Teile, die
 einfacher zu verstehen, zu implementieren oder zu warten sind.

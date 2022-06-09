@@ -21,4 +21,4 @@ Voraussetzungen vor dem Aufruf von Operationen des realen Objekts. Für
 den Client ist die Verwendung eines Stellvertreterobjekts mit der
 Verwendung des realen Objekts vergleichbar, da beide die gleiche
 Schnittstelle implementieren." (Übersetztes englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)[⁷²](#_bookmark165))
+[Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern))

@@ -12,5 +12,5 @@ OmniGraffle, PowerPoint, etc. Mal-/Zeichenprogramme behandeln jede
 Zeichnung als separate Sache, was bei der Aktualisierung eines
 Elements der Architektur, das in mehreren Diagrammen erscheint, zu
 höheren Wartungskosten führt (anders als ein
-[Modellierungswerkzeug](#_bookmark135)).
+[Modellierungswerkzeug](#term-modeling-tool)).
 

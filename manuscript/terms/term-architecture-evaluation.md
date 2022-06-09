@@ -18,13 +18,12 @@ Quantitative oder qualitative Beurteilung einer (Software- oder
 System-) Architektur. Ermittlung, ob eine Architektur ihre
 Zieleigenschaften oder Qualitätsmerkmale erreichen kann?
 
-Siehe [Beurteilung](#_bookmark40)
+Siehe [Beurteilung](#term-assessment)
 
-![](media/image11.png){width="0.3937007874015748in"
-height="0.3937007874015748in"}Anmerkung (Gernot Starke)
+D> ###### Anmerkung (Gernot Starke)
 
-Ich halte die Begriffe *Architekturanalyse* oder
-*Architekturbeurteilung* für passender, da in *Bewertung Wert*
-mitschwingt und eine numerische Beurteilung oder Kennzahlen impliziert
-werden, was üblicherweise nur ein *Teil* dessen ist, was im Rahmen
-einer Architekturanalyse gemacht werden sollte.
+D>Ich halte die Begriffe *Architekturanalyse* oder
+D>*Architekturbeurteilung* für passender, da in *Bewertung Wert*
+D>mitschwingt und eine numerische Beurteilung oder Kennzahlen impliziert
+D>werden, was üblicherweise nur ein *Teil* dessen ist, was im Rahmen
+D>einer Architekturanalyse gemacht werden sollte.

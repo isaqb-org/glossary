@@ -18,15 +18,15 @@ Category: Security
 
 Abkürzung von Public-Key-Infrastruktur. Ein Konzept zum Management
 von digitalen Zertifikaten, das üblicherweise [asymmetrische
-Kryptographie](#_bookmark42) nutzt. Der Begriff „public" (öffentlich)
+Kryptographie](#term-asymmetric-cryptography) nutzt. Der Begriff „public" (öffentlich)
 bezieht sich zumeist auf die Art des verwendeten
 Kryptographieschlüssels und nicht notwendigerweise auf eine öffentlich
 zugängliche Infrastruktur. Zur Vermeidung von Begriffsverwirrungen
 kann „offene PKI" oder „geschlossene PKI" verwendet werden, vgl.
-[Anderson, Kapitel](#_bookmark225) [PKI, Seite 672](#_bookmark225).
+[Anderson, Kapitel 21.4.5.7 PLI, Seite 672](#ref-anderson-2008).
 
-Eine PKI basiert in der Regel auf einer [CA](#_bookmark55) oder einem
-[Netz des Vertrauens](#_bookmark213).
+Eine PKI basiert in der Regel auf einer [CA](#term-ca) oder einem
+[Netz des Vertrauens](#term-web-of-trust).
 
 Kategorie: Sicherheit
 

@@ -24,7 +24,7 @@ Verschiedene Bedeutungen:
 
 Kategorie: Sicherheit
 
-Eines der grundlegenden [Schutzziele](#_bookmark183), das die
+Eines der grundlegenden [Schutzziele](#term-security-goals), das die
 Aufrechterhaltung und Gewährleistung der Richtigkeit und
 Vollständigkeit der Daten bezeichnet. Dies wird üblicherweise durch
 den Einsatz von kryptographischen Algorithmen zur Erstellung einer
@@ -38,8 +38,5 @@ Datenbank) bei identischen Abfragen identische Ergebnisse erhalten
 Read-Your-Writes-Consistency etc.)\* Maß, in dem ein System sich
 kohärent, reproduzierbar und vernünftig verhält.
 
-[]{#_bookmark115 .anchor}Siehe auch [Konsistenz](#_bookmark77).
-
-[]{#_bookmark116
-.anchor}⁴⁵<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+Siehe auch [Konsistenz](#term-consistency).
 

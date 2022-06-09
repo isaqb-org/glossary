@@ -15,9 +15,7 @@ Jedes Element in einem System oder einer Architektur sollte eine
 einzige Verantwortlichkeit haben, und alle seine Funktionen oder
 Dienste sollten auf diese Verantwortlichkeit abgestimmt sein.
 
-[]{#_bookmark189 .anchor}Kohäsion wird manchmal als gleichbedeutend
+[Kohäsion](#term-cohesion) wird manchmal als gleichbedeutend
 mit SRP angesehen.
 
-[]{#_bookmark190
-.anchor}⁸²<https://en.wikipedia.org/wiki/Singleton_pattern>
 

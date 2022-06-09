@@ -27,4 +27,3 @@ Und noch umgangssprachlicher: Es gibt nichts umsonst. Für jedes
 Qualitätsmerkmal ist bei anderen Qualitätsmerkmalen ein Preis zu
 zahlen.
 
-[]{#_bookmark205 .anchor}⁹⁰<https://tools.ietf.org/html/rfc7568>

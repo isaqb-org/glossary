@@ -13,7 +13,7 @@ Being economical, simple, lean or achievable with relatively low effort.
 In ein größeres mechanisches oder elektrisches System *eingebettetes*
 System. Eingebettete Systeme haben häufig
 Echtzeit-Recheneinschränkungen. Typische Eigenschaften von
-eingebetteten Systemen sind niedriger[]{#_bookmark93 .anchor}
+eingebetteten Systemen sind niedriger
 Stromverbrauch, begrenzter Speicher und begrenzte
 Verarbeitungsressourcen sowie geringe Größe.
 

@@ -11,6 +11,6 @@ Complemented by one or several [runtime scenarios](#term-runtime-view).
 
 Zeigt die statische Struktur des Systems, die Organisationsweise des
 Quellcodes. Üblicherweise hierarchisch, ausgehend von der
-[Kontextabgrenzung](#_bookmark72). Ergänzt durch ein oder mehrere
-[Laufzeitszenarien](#_bookmark182).
+[Kontextabgrenzung](#term-context-view). Ergänzt durch ein oder mehrere
+[Laufzeitszenarien](#term-runtime-view).
 

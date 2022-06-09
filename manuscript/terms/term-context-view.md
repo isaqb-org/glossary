@@ -12,7 +12,7 @@ See [Context](#term-context).
 {lang=de}
 ### Kontextabgrenzung
 
-Zeigt das vollständige System als eine [Blackbox](#_bookmark48) in
+Zeigt das vollständige System als eine [Blackbox](#term-blackbox) in
 seiner Umgebung, entweder aus Geschäftsperspektive
 (*Geschäftskontext*) oder aus technischer oder Verteilungsperspektive
 (*technischer Kontext*). Die Kontextabgrenzung (oder Kontextdiagramm)
@@ -23,4 +23,4 @@ interagiert, dar.
 Nachbarn können andere Software, Hardware (wie Sensoren), Menschen,
 Benutzerrollen oder sogar Organisationen, die das System nutzen, sein.
 
-[]{#_bookmark73 .anchor}Siehe [Kontext](#_bookmark71).
+Siehe [Kontext](#term-context).

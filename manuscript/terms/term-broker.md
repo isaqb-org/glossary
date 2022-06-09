@@ -21,5 +21,5 @@ Broker sind für die Koordinierung der Kommunikation, wie die
 Weiterleitung von Anfragen, sowie die Übermittlung von Ergebnissen und
 Ausnahmen zuständig.
 
-[]{#_bookmark53 .anchor}Kategorie: Architekturmuster
+Kategorie: Architekturmuster
 

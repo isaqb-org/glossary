@@ -11,8 +11,8 @@ Category: Quality, ISO 25010
 
 Maß, in dem ein System, ein Produkt oder eine Komponente im
 Normalbetrieb die Zuverlässigkeitsanforderungen erfüllt. Teilmerkmal
-von: [Zuverlässigkeit](#_bookmark169). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁵³](#_bookmark132).
+von: [Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

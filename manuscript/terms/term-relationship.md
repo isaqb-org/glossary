@@ -14,6 +14,6 @@ creation or inheritance.
 Allgemeiner Begriff zur Bezeichnung einer Art von Abhängigkeit
 zwischen Elementen einer Architektur. In Architekturen werden
 unterschiedliche Arten von Beziehungen verwendet, z.B. Aufruf,
-Benachrichtigung, Besitz, Containment,[]{#_bookmark171 .anchor}
+Benachrichtigung, Besitz, Containment,
 Erzeugung oder Vererbung.
 

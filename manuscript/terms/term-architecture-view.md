@@ -23,7 +23,7 @@ Category: ISO-IEC-IEEE-42010
 Eine Darstellung eines Systems aus einer spezifischen Perspektive.
 Wichtige und bekannte Sichten:
 
--   [Kontextabgrenzung](#_bookmark72),
+-   [Kontextabgrenzung](#term-context-view),
 
 -   Bausteinsicht
 
@@ -31,7 +31,7 @@ Wichtige und bekannte Sichten:
 
 -   Verteilungssicht
 
-\[Bass+2012\] und \[Rozanski+11\] erörtern dieses Konzept ausführlich.
+[Bass+2012] und [Rozanski+11] erörtern dieses Konzept ausführlich.
 
 Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis,
 das die Architektur eines Systems aus der Perspektive spezifischer

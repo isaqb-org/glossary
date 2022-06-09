@@ -21,9 +21,9 @@ Hardwarekonfiguration des Systems und Materialien (z.B. Druckerpapier,
 Speichermedien) umfassen.
 
 Es besteht aus folgenden Teilmerkmalen:
-[Zeitverhalten](#_bookmark200), [Ressourcenverbrauch](#_bookmark173),
-[Kapazität](#_bookmark56). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁶⁶](#_bookmark155).
+[Zeitverhalten](#term-time-behaviour-quality-attribute), [Ressourcenverbrauch](#term-resource-utilization-quality-attribute),
+[Kapazität](#term-capacity-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

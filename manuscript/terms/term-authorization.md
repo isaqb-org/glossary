@@ -23,5 +23,5 @@ Besonderen. Förmlicher bezeichnet „autorisieren" die Festlegung einer
 Zugrissrichtlinie."
 
 (Übersetztes englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234)[¹⁸](#_bookmark49))
+[Wikipedia](https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234))
 Kategorie: Sicherheit

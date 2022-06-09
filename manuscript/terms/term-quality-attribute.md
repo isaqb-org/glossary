@@ -61,42 +61,39 @@ Examples of non-runtime quality attributes are modifiability, portability, reusa
 Die Softwarequalität ist das Maß, in dem ein System die gewünschte
 Kombination von *Merkmalen* besitzt.
 
-(Siehe: [Softwarequalität](#_bookmark191)).
+(Siehe: [Softwarequalität](#term-software-quality)).
 
-In der [ISO-25010](#_bookmark120) Norm sind folgende Qualitätsmerkmale
-definiert: -- [Funktionale Eignung](#_bookmark107) -- [Funktionale
-Vollständigkeit,](#_bookmark102) -- [Funktionale
-Korrektheit](#_bookmark103) -- [Funktionale
-Angemessenheit](#_bookmark101) -- [Leistungseffizienz](#_bookmark152)
--- [Zeitverhalten](#_bookmark200) --
-[Ressourcenverbrauch](#_bookmark173) -- [Kapazität](#_bookmark56) --
-[Kompatibilität](#_bookmark63) -- [Koexistenz](#_bookmark73) --
-[Interoperabilität](#_bookmark118) --
-[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit) --
-[Erkennbarkeit der Brauchbarkeit](#_bookmark30) --
-[Erlernbarkeit](#_bookmark124) -- [Bedienbarkeit](#_bookmark146) --
-[Schutz vor Fehlbedienung](#_bookmark209) -- [Ästhetik der
-Benutzeroberfläche](#_bookmark211) -- [Zugänglichkeit](#_bookmark14)
--- [Zuverlässigkeit](#_bookmark169) -- [Verfügbarkeit](#_bookmark47)
--- [Fehlertoleranz](#_bookmark100) --
-[Wiederherstellbarkeit](#_bookmark167) -- [Sicherheit](#_bookmark184)
--- [Vertraulichkeit](#_bookmark69) -- [Integrität](#_bookmark115) --
-[Nichtabstreitbarkeit](#_bookmark141) --
-[Verantwortlichkeit](#_bookmark16) --
-[Authentifizierbarkeit](#_bookmark46) -- [Wartbarkeit](#_bookmark128)
--- [Modularität](#_bookmark137) --
-[Wiederverwendbarkeit](#_bookmark177) --
-[Analysierbarkeit](#_bookmark29) --
-[Modifizierbarkeit](#qualitätsmerkmal-modifizierbarkeit) --
-[Testbarkeit](#_bookmark199) -- [Portierbarkeit](#_bookmark157) --
-[Adaptierbarkeit](#_bookmark22) -- [Installierbarkeit](#_bookmark113)
--- [Austauschbarkeit](#_bookmark171)
+In der [ISO-25010](#term-iso-25010) Norm sind folgende Qualitätsmerkmale
+definiert: -- [Funktionale Eignung](#term-functional-suitability-quality-attribute) -- [Funktionale
+Vollständigkeit,](#term-functional-completeness-quality-attribute) -- [Funktionale
+Korrektheit](#term-functional-correctness-quality-attribute) -- [Funktionale
+Angemessenheit](#term-functional-suitability-quality-attribute) -- [Leistungseffizienz](#term-performance-efficiency-quality-attribute)
+-- [Zeitverhalten](#term-time-behaviour-quality-attribute) --
+[Ressourcenverbrauch](#term-resource-utilization-quality-attribute) -- [Kapazität](#term-capacity-quality-attribute) --
+[Kompatibilität](#term-compatibility-quality-attribute) -- [Koexistenz](#term-co-existence-quality-attribute) --
+[Interoperabilität](#term-interoperability-quality-attribute) --
+[Benutzerfreundlichkeit](#term-usability-quality-attribute) --
+[Erkennbarkeit der Brauchbarkeit](#term-appropriateness-recognizability-quality-attribute) --
+[Erlernbarkeit](#term-learnability-quality-attribute) -- [Bedienbarkeit](#term-operability-quality-attribute) --
+[Schutz vor Fehlbedienung](#term-user-error-protection-quality-attribute) -- [Ästhetik der
+Benutzeroberfläche](#term-user-interface-aesthetics-quality-attribute) -- [Zugänglichkeit](#term-accessibility-quality-attribute)
+-- [Zuverlässigkeit](#term-reliability-quality-attribute) -- [Verfügbarkeit](#term-availability-quality-attribute)
+-- [Fehlertoleranz](#term-fault-tolerance-quality-attribute) --
+[Wiederherstellbarkeit](#term-recoverability-quality-attribute) -- [Sicherheit](#term-security-quality-attribute)
+-- [Vertraulichkeit](#term-confidentiality-quality-attribute) -- [Integrität](#term-integrity-quality-attribute) --
+[Nichtabstreitbarkeit](#term-non-repudiation-quality-attribute) --
+[Verantwortlichkeit](#term-accountability-quality-attribute) --
+[Authentifizierbarkeit](#term-authenticity-quality-attribute) -- [Wartbarkeit](#term-maintainability-quality-attribute)
+-- [Modularität](#term-modularity-quality-attribute) --
+[Wiederverwendbarkeit](#term-reusability-quality-attribute) --
+[Analysierbarkeit](#term-analysability-quality-attribute) --
+[Modifizierbarkeit](#term-modifiability-quality-attribute) --
+[Testbarkeit](#term-testability-quality-attribute) -- [Portierbarkeit](#term-portability-quality-attribute) --
+[Adaptierbarkeit](#term-adaptability-quality-attribute) -- [Installierbarkeit](#term-installability-quality-attribute)
+-- [Austauschbarkeit](#term-replaceability-quality-attribute)
 
 
 Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
-
-[]{#_bookmark165
-.anchor}⁷²<https://en.wikipedia.org/wiki/Proxy_pattern>
 
 -   *Laufzeit-Qualitätsmerkmalen* (die während der Ausführungszeit des
     Systems beobachtet werden können),

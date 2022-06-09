@@ -12,11 +12,10 @@ The result of the assessments (the respective accreditation recommendation of th
 Die *Audit-Arbeitsgruppe* ist für die technische Beurteilung der
 Schulungsunterlagen sowie für die Überwachung und Beurteilung der
 Schulungen zuständig. Die vom iSAQB(R) ermächtigten Mitglieder der
-Audit-Arbeitsgruppe sind von den [Schulungsanbietern](#_bookmark206)
-unabhängig. []{#_bookmark44 .anchor}Der
-[Schulungsanbieter](#_bookmark206) wird von der
-[Akkreditierungsstelle](#_bookmark20) über das Ergebnis der
+Audit-Arbeitsgruppe sind von den [Schulungsanbietern](#term-training-provider)
+unabhängig. Der
+[Schulungsanbieter](#term-training-provider) wird von der
+[Akkreditierungsstelle](#term-accreditation-body) über das Ergebnis der
 Beurteilungen (die jeweilige Akkreditierungsempfehlung der
 AUDIT-ARBEITSGRUPPE) informiert.
 
-¹⁶<https://www.schneier.com/academic/archives/1999/12/attack_trees.html>

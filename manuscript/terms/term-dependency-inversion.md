@@ -8,11 +8,10 @@ High level (abstract) elements should not depend upon low level (specific) eleme
 
 (Abstrakte) Elemente höherer Ebenen sollten nicht von (spezifischen)
 Elementen niedrigerer Ebenen abhängen. Details sollten von
-Abstraktionen abhängen ([Martin-2003](#_bookmark234)). Eines der
-[SOLID-Prinzipien](#_bookmark192), das [Brett
-Schuchert](http://martinfowler.com/articles/dipInTheWild.html)[³⁰](#_bookmark83)
-anschaulich erläutert, und das eng mit dem [SDP](#_bookmark196) und
-[SAP](#_bookmark195) zusammenhängt.
+Abstraktionen abhängen ([Martin-2003](#ref-martin-2003)). Eines der
+[SOLID-Prinzipien](#term-solid-principles), das [Brett
+Schuchert](http://martinfowler.com/articles/dipInTheWild.html)
+anschaulich erläutert, und das eng mit dem [SDP](#term-stable-dependencies-principle) und
+[SAP](#term-stable-abstractions-principle) zusammenhängt.
 
-³⁰<http://martinfowler.com/articles/dipInTheWild.html>
 

@@ -12,11 +12,8 @@ Category: Quality, ISO 25010
 Maß, in dem ein Produkt oder System im Falle einer Unterbrechung oder
 eines Fehlers die direkt betroffenen Daten und den gewünschten
 Systemstatus wiederherstellen kann. Teilmerkmal von:
-[Zuverlässigkeit](#_bookmark169). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁷³](#_bookmark168).
+[Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
-
-[]{#_bookmark168
-.anchor}⁷³<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
 

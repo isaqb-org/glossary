@@ -7,6 +7,6 @@ Explanation of the reasoning or arguments that lie behind an architecture decisi
 {lang=de}
 ### Begründung
 
-[]{#_bookmark166 .anchor}Erläuterung der Argumentation oder Argumente,
+Erläuterung der Argumentation oder Argumente,
 die einer Architekturentscheidung zugrunde liegen.
 

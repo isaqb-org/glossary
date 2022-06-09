@@ -12,8 +12,7 @@ Category: Quality, ISO 25010
 Maß, in dem ein Produkt, während es sich eine gemeinsame Umgebung und
 Ressourcen mit anderen Produkten teilt, ohne nachteilige Auswirkungen
 auf andere Produkte seine geforderten Funktionen effizient erfüllen
-kann. Teilmerkmal von: [Kompatibilität](#_bookmark63). Vgl. Website
-von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[²⁸](#_bookmark76).
+kann. Teilmerkmal von: [Kompatibilität](#term-compatibility-quality-attribute). Vgl. Website
+von [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010

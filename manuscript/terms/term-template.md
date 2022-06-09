@@ -15,6 +15,6 @@ Softwareentwicklung verwendet werden. Templates können dabei helfen,
 andere Dateien, insbesondere Dokumente, in eine vordefinierte Struktur
 einzubetten, ohne den Inhalt dieser einzelnen Dateien vorzugeben.
 
-[]{#_bookmark199 .anchor}Ein sehr bekanntes Template ist
-[arc42](http://arc42.de/)[⁸⁷](#_bookmark202)
+Ein sehr bekanntes Template ist
+[arc42](http://arc42.de/)
 

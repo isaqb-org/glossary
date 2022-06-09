@@ -48,8 +48,6 @@ Dies sind die typischen Beispiele für nichtfunktionale Anforderungen
 in Zusammenhang mit Sicherheit.
 
 Siehe [„What is Security Engineering - Definitions", Seite
-11](#_bookmark225) oder [RMIAS](#_bookmark240).
-
-[]{#_bookmark184 .anchor}Kategorie: Sicherheit
+11](#ref-anderson-2008) oder [RMIAS](#ref-rmias-2013).
 
 Kategorie: Sicherheit

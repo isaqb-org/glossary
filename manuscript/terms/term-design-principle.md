@@ -34,5 +34,5 @@ die folgenden *schlechten Eigenschaften* zu vermeiden:
 
 Diese Eigenschaften wurden von Robert Martin formuliert und stammen
 von
-[OODesign.com](http://www.oodesign.com/design-principles.html)[³⁴](#_bookmark89)
+[OODesign.com](http://www.oodesign.com/design-principles.html)
 

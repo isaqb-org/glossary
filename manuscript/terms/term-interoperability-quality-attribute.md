@@ -11,9 +11,9 @@ Category: Quality, ISO 25010
 
 Maß, in dem zwei oder mehr Systeme, Produkte oder Komponenten
 Informationen austauschen und die ausgetauschten Informationen nutzen
-können. Teilmerkmal von: [Kompatibilität](#_bookmark63). Vgl. Website
+können. Teilmerkmal von: [Kompatibilität](#term-compatibility-quality-attribute). Vgl. Website
 von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁴⁷](#_bookmark122).
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark119 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010
 

@@ -11,8 +11,8 @@ Category: Quality, ISO 25010
 
 Maß, in dem ein System, ein Produkt oder eine Komponente trotz
 Hardware- oder Softwarefehlern wie vorgesehen funktioniert.
-Teilmerkmal von: [Zuverlässigkeit](#_bookmark169). Vgl. Website von
+Teilmerkmal von: [Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. Website von
 [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[³⁸](#_bookmark104).
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010

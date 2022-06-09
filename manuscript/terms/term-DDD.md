@@ -22,22 +22,22 @@ See also:
 komplexe Anforderungen durch tiefreichende Verbindung der
 Implementierung mit einem sich evolvierenden Modell der
 Kerngeschäftskonzepte." (Übersetztes englisches Zitat von
-[DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)[³⁵](#_bookmark94)).
-Siehe [Evans-2004](#_bookmark230).
+[DDDCommunity](http://dddcommunity.org/learning-ddd/what_is_ddd/)).
+Siehe [Evans-2004](#ref-evans-2004).
 
 Siehe auch:
 
--   [Entität](#_bookmark95)
+-   [Entität](#term-entity)
 
--   [Wertobjekt](#_bookmark212)
+-   [Wertobjekt](#term-value-object)
 
--   [Aggregat](#_bookmark28)
+-   [Aggregat](#term-aggregate)
 
--   [Service](#_bookmark187)
+-   [Service](#term-service-ddd)
 
--   [Fabrik](#_bookmark99)
+-   [Fabrik](#term-factory)
 
--   [Ablage](#_bookmark172)
+-   [Ablage](#term-repository)
 
--   [Allgegenwärtige Sprache](#_bookmark207)
+-   [Allgegenwärtige Sprache](#term-ubiquitous-language)
 

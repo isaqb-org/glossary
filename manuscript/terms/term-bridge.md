@@ -16,10 +16,7 @@ Entwurfsmuster, bei dem eine Abstraktion von ihrer Implementierung
 entkoppelt ist, so dass beide unabhängig voneinander variieren können.
 Wenn Ihnen das (wie den meisten Menschen) unverständlich erscheint --
 sehen
-[hier](http://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm)[²⁰](#_bookmark52)
+[hier](http://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm)
 nach.
 
 Kategorie: Entwurfsmuster
-
-[]{#_bookmark52
-.anchor}²⁰<http://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm>

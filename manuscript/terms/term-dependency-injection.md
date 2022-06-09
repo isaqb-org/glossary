@@ -11,6 +11,6 @@ You therefore make the creation of specific dependencies _somebody else's proble
 Statt dass Ihre Objekte oder eine Fabrik eine Abhängigkeit erzeugen,
 übergeben Sie die benötigten Abhängigkeiten an den Konstruktor oder
 über Eigenschaft-Setter. Damit machen Sie die Erzeugung
-von[]{#_bookmark82 .anchor} spezifischen Abhängigkeiten zum *Problem
+von spezifischen Abhängigkeiten zum *Problem
 anderer Leute*.
 

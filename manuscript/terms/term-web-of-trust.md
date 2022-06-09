@@ -16,7 +16,7 @@ Category: Security
 {lang=de}
 ### Netz des Vertrauens / Web of Trust
 
-Da eine einzelne [CA](#_bookmark55) ein leichtes Ziel für einen
+Da eine einzelne [CA](#term-ca) ein leichtes Ziel für einen
 Angreifer sein könnte, delegiert ein Netz des Vertrauens die
 Begründung des Vertrauens an den Benutzer. Jeder Benutzer entscheidet,
 in der Regel durch Überprüfung eines Fingerprints eines Schlüssels,
@@ -27,11 +27,8 @@ kann, ausgedrückt. Ein dritter Benutzer kann dann diese Signatur
 überprüfen und entscheiden, ob er der Identität vertraut oder nicht.
 
 Die E-Mail-Verschlüsselung PGP ist ein Beispiel für eine auf einem
-Netz des Vertrauens basierende [PKI](#_bookmark154). Kategorie:
-Sicherheit
+Netz des Vertrauens basierende [PKI](#term-pki). 
 
-[]{#_bookmark214
-.anchor}⁹²<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
+Kategorie: Sicherheit
 
-⁹³<http://iso25000.com/index.php/en/iso-25000-standards/iso-25010>
 

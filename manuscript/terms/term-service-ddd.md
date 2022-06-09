@@ -7,9 +7,9 @@ Service is a building block of [Domain-Driven Design](#term-DDD). Services imple
 ### Service (DDD)
 
 Ein Service ist ein Baustein des [Domain-Driven
-Designs](#_bookmark90). Services implementieren eine Logik oder
+Designs](#term-DDD). Services implementieren eine Logik oder
 Prozesse der Geschäftsdomäne, die nicht von Entitäten alleine
 ausgeführt werden. Ein Service ist zustandslos, und die Parameter und
-Rückgabewerte seiner Operationen sind [Entitäten](#_bookmark95),
-[Aggregate](#_bookmark28) und [Wertobjekte](#_bookmark212).
+Rückgabewerte seiner Operationen sind [Entitäten](#term-entity),
+[Aggregate](#term-aggregate) und [Wertobjekte](#term-value-object).
 

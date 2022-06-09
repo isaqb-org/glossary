@@ -9,8 +9,8 @@ Category: DDD
 ### Aggregat
 
 Ein Aggregat ist ein Baustein des [Domain-Driven
-Designs](#_bookmark90). Aggregate sind komplexe Objektstrukturen, die
-aus [Entitäten](#_bookmark95) und [Wertobjekten](#_bookmark212)
+Designs](#term-DDD). Aggregate sind komplexe Objektstrukturen, die
+aus [Entitäten](#term-entity) und [Wertobjekten](#term-value-object)
 bestehen. Jedes Aggregat hat eine Root-Entität und wird in Bezug auf
 Änderungen als Einheit betrachtet. Aggregate stellen die Konsistenz
 und Integrität ihrer enthaltenen Entitäten mit Invarianten sicher.

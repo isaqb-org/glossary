@@ -11,7 +11,7 @@ supporting libraries.
 
 In der modernen Webentwicklung: Kurz für die quelloffene
 JavaScript-Laufzeitumgebung
-[Node.js®](https://nodejs.org/en/)[⁶⁰](#_bookmark144), die auf V8
+[Node.js®](https://nodejs.org/en/), die auf V8
 JavaScript von Chrome aufbaut. Node.js ist für sein
 ereignisgesteuertes, nicht blockierendes E/A-Modell und sein großes
 Ökosystem unterstützender Bibliotheken bekannt.

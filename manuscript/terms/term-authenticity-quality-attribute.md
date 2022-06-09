@@ -12,7 +12,7 @@ Category: Quality, ISO 25010
 
 Maß, inwieweit nachgewiesen werden kann, dass die Identität eines
 Subjekts oder einer Ressource der Identitätsbehauptung entspricht.
-Teilmerkmal von: [Sicherheit](#_bookmark184). Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[¹⁷](#_bookmark49).
+Teilmerkmal von: [Sicherheit](#term-security-quality-attribute). Vgl. Website von [ISO
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010

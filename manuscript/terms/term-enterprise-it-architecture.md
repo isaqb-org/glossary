@@ -12,6 +12,6 @@ Structures and concepts for the IT support of an entire company. Atomic subject 
 Synonym: Unternehmensarchitektur.
 
 Strukturen und Konzepte für den IT-Support eines gesamten
-Unternehmens. Die kleinsten betrachteten Einheiten der[]{#_bookmark95
-.anchor} Unternehmensarchitektur sind einzelne Softwaresysteme, auch
+Unternehmens. Die kleinsten betrachteten Einheiten der
+Unternehmensarchitektur sind einzelne Softwaresysteme, auch
 „Anwendungen" genannt.

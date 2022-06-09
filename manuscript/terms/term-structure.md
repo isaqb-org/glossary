@@ -19,7 +19,7 @@ in einem System. Strukturen bestehen aus Bausteinen
 (Strukturelementen) und ihren Beziehungen (Abhängigkeiten).
 
 In der Softwarearchitektur werden Strukturen häufig in
-[Architektursichten](#_bookmark39), z.B. der
-[Bausteinsicht](#_bookmark54) verwendet. Ein Dokumentationstemplate
-(z.B. [arc42](#_bookmark33)) ist auch eine Art Struktur.
+[Architektursichten](#term-architecture-view), z.B. der
+[Bausteinsicht](#term-building-block-view) verwendet. Ein Dokumentationstemplate
+(z.B. [arc42](#arc42)) ist auch eine Art Struktur.
 

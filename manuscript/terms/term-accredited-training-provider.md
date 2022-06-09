@@ -7,5 +7,5 @@
 {lang=de}
 ### Akkreditierter Schulungsanbieter
 
-[Schulungsanbieter](\l) mit gültiger [Akkreditierung](#_bookmark17)
+[Schulungsanbieter](\l) mit gültiger [Akkreditierung](#term-accreditation)
 des iSAQB(R).

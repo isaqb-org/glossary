@@ -21,5 +21,5 @@ manchmal eine Kombination der beiden:
     Daten angewandt werden
 
 Kapselung ist ein Mechanismus zum [Verbergen von
-Informationen](#_bookmark112).
+Informationen](#term-information-hiding).
 

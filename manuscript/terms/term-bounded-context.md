@@ -12,8 +12,8 @@ Category: DDD
 ### Kontextgrenze
 
 Kontextgrenze ist ein Prinzip des Strategieentwurfs von [Domain-Driven
-Design](#_bookmark90). „Eine Kontextgrenze definiert ausdrücklich den
-Kontext, in dem ein [Domänenmodell](#domänenmodell) für ein
+Design](#term-DDD). „Eine Kontextgrenze definiert ausdrücklich den
+Kontext, in dem ein [Domänenmodell](#term-domain-model) für ein
 Softwaresystem gilt. Idealerweise wäre ein einziges, einheitliches
 Modell für alle Systeme in derselben Domäne am besten. Dies ist zwar
 ein ehrenwertes Ziel, aber in Wirklichkeit ist es normalerweise in

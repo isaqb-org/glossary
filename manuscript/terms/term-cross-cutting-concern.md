@@ -14,4 +14,4 @@ Funktionalität der Architektur oder des Systems, die mehrere Elemente
 betrifft. Beispiele für diese Belange sind Logging, Transaktionen,
 Sicherheit, Ausnahmebehandlung, Caching etc.
 
-Siehe auch [Konzept](#_bookmark68).
+Siehe auch [Konzept](#term-concept).

@@ -12,7 +12,7 @@ The Observer pattern is a key pattern to complement the [model–view–controll
 Strukturen, Observer genannt, führt und sie automatisch, in der Regel
 durch Aufruf einer ihrer Methoden, über Zustandsänderungen
 benachrichtigt. Das Beobachtermuster ist ein wesentlicher Bestandteil
-des MVC-Architekturmusters (model--view--controller).[]{#_bookmark145
-.anchor}" (Übersetztes englisches Zitat aus
-[Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)[.](#_bookmark148))
+des MVC-Architekturmusters (model-view-controller)." 
+(Übersetztes englisches Zitat aus
+[Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern))
 

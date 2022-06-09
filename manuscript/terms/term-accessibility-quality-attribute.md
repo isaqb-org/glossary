@@ -14,8 +14,8 @@ Maß, in dem ein Produkt oder System von Personen mit einer großen Bandbreite
 von Eigenschaften und Fähigkeiten zur Erreichung eines
 spezifizierten Ziels in einem spezifizierten Nutzungskontext genutzt
 werden kann. Teilmerkmal von:
-[Benutzerfreundlichkeit](#qualitätsmerkmal-benutzerfreundlichkeit).
+[Benutzerfreundlichkeit](#term-usability-quality-attribute).
 Vgl. Website von [ISO
-25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)[⁵](#_bookmark18).
+25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
-[]{#_bookmark15 .anchor}Kategorie: Qualität, ISO 25010
+Kategorie: Qualität, ISO 25010

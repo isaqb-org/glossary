@@ -15,6 +15,6 @@ genutzt wird, dann richtig: Instanzen von abgeleiteten Typen
 (Unterklassen) müssen vollständig an die Stelle ihrer Basistypen
 treten können. Wenn der Code Basisklassen verwendet, können diese
 Referenzen durch jede beliebige Instanz einer abgeleiteten Klasse
-ersetzt werden, ohne dass dies[]{#_bookmark128 .anchor} die
+ersetzt werden, ohne dass dies die
 Funktionalität des Codes beeinträchtigt.
 

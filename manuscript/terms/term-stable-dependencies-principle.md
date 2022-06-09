@@ -19,11 +19,11 @@ Category: Design-Principle
 ### Stable-Dependencies-Prinzip
 
 Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
-(siehe auch [Packaging-Prinzipien](#_bookmark147)). Er fordert, dass
+(siehe auch [Packaging-Prinzipien](#term-package-principles)). Er fordert, dass
 sich häufig ändernde Komponenten von stabileren abhängen.
 
 Ein Teil der Volatilität einer Komponente wird
-[erwartet](#_bookmark61) und von ihrer speziellen Verantwortlichkeit
+[erwartet](#term-common-closure-principle) und von ihrer speziellen Verantwortlichkeit
 logischerweise impliziert.
 
 Aber in diesem Kontext hängt Stabilität auch von ein- und ausgehenden
@@ -38,12 +38,9 @@ Eine einzelne Komponente, die diese beiden Eigenschaften auf sich
 vereint, ist ebenfalls eine Red Flag. Eine solche Komponente hat viele
 Gründe für eine Änderung, ist aber gleichzeitig schwer zu ändern.
 
-[]{#_bookmark197
-.anchor}⁸⁵<http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
-
-Ursprüngliche Definitionen des SDP (wie [Martin-2003](#_bookmark234))
+Ursprüngliche Definitionen des SDP (wie [Martin-2003](#ref-martin-2003))
 beinhalten eine [Kennzahl *I* der
-Instabilität](https://en.wikipedia.org/wiki/Software_package_metrics)[⁸⁶](#_bookmark198).
+Instabilität](https://en.wikipedia.org/wiki/Software_package_metrics).
 Leider erfasst diese Kennzahl beabsichtigte/inhärente Volatilität,
 transitive Abhängigkeit oder Fälle, wie die oben genannte Red Flag,
 nicht. Aber wir wissen das Konzept des SDP zu schätzen, unabhängig
@@ -51,8 +48,8 @@ davon, wie es sich messen lässt.
 
 
 
-Das SDP ist eng mit dem [SAP](#_bookmark195) verbunden. Ihre
-Kombination ergibt eine allgemeinere Version des [DIP](#_bookmark82)
-(mehr dazu unter [SAP](#_bookmark195)).
+Das SDP ist eng mit dem [SAP](#term-stable-abstractions-principle) verbunden. Ihre
+Kombination ergibt eine allgemeinere Version des [DIP](#term-dependency-inversion)
+(mehr dazu unter [SAP](#term-stable-abstractions-principle)).
 
 Kategorie: Entwurfsprinzip
