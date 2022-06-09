@@ -6,11 +6,6 @@ you pass the needed dependencies to the constructor or via property setters.
 You therefore make the creation of specific dependencies _somebody else's problem_.
 
 {lang=de}
-### Abhängigkeit
-
-Siehe [Kopplung](#_bookmark78).
-
-{lang=de}
 ### Abhängigkeitsinjektion / Dependency Injection (DI)
 
 Statt dass Ihre Objekte oder eine Fabrik eine Abhängigkeit erzeugen,
