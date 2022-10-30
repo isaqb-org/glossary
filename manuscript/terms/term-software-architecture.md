@@ -32,7 +32,7 @@ Decision or definition, usually valid for several elements of the system. Often
 called _concepts_ or even _solution patterns_. Principles (concepts) are the foundation for _conceptual integrity_.
 
 
-The _Software Engineering Institure_
+The _Software Engineering Institute_
 maintains a [collection of further definitions](http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm)
 
 Although the term often refers to the _software architecture of an IT system_, it is also used to refer to _software architecture as an engineering science_.
