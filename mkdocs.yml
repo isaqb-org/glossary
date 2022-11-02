@@ -1,10 +1,20 @@
 site_name: iSAQB glossary
-site_description: An extensive glossary of software architecture (and development) terminology. Explains the terms used and referenced in the iSAQB foundation and advanced level curricula. 
+site_description: An extensive glossary of software architecture (and development) terminology. Explains the terms used and referenced in the iSAQB foundation and advanced level curricula.
 repo_name: isaqb glossary
 repo_url: https://github.com/isaqb-org/glossary
 
 nav:
-    - README: 'README.md'
+    - Intro: manuscript/0_intro.md
+    - Terms: manuscript/1-terms.md
+    - EN-DE: manuscript/42-translations-EN-DE.md
+    - DE-EN: manuscript/43-translations-DE-EN.md
+    - Categories: manuscript/60-categories.md
+    - Resources: manuscript/99-resources.md
+    - History: manuscript/revision-history.md
+    - Terms:
+      - DDD: manuscript/terms/term-DDD.md
+
+
 
 theme:
     name: material
