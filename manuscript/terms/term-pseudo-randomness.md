@@ -1,4 +1,4 @@
-{lang=en}
+ {lang=en}
 ### Pseudo-Randomness
 
 Often used in conjunction with pseudo-random-number-generators. Gathering
@@ -12,10 +12,8 @@ intensive.
 
 Category: Security
 
-
-
 {lang=de}
-###Pseudo-Zufälligkeit
+### Pseudo-Zufälligkeit
 
 Häufig in Verbindung mit Pseudozufallszahlengeneratoren verwendet. Die
 Erzeugung von Zufälligkeit mit hoher [Entropie](#term-entropy) ist
@@ -28,4 +26,3 @@ mit dem gleichen Startwert initialisiert wird. Dies wird als
 Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
 
 Kategorie: Sicherheit
-
