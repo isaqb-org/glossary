@@ -19,8 +19,4 @@ vertikalen Linien stellen die Lebensspanne von Objekten oder
 Komponenten dar, und die horizontalen Linien zeigen die Interaktionen
 zwischen diesen Komponenten. Siehe folgendes Beispiel.
 
-![](media/image15.png){width="6.137082239720035in"
-height="4.527707786526684in"}
-
-Beispiel eines Sequenzdiagramms
-
+![Beispiel eines Sequenzdiagramms](images/sequence-diagram-sample.png)
