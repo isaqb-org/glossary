@@ -1,21 +1,10 @@
 {lang=en}
 ### Economicalness
 
-Being economical, simple, lean or achievable with relatively low effort. 
+Being economical, simple, lean or achievable with relatively low effort.
 
 
 {lang=de}
-### Sparsamkeit 
+### Sparsamkeit
 
-{lang=de}
-### Eingebettete Systeme
-
-In ein größeres mechanisches oder elektrisches System *eingebettetes*
-System. Eingebettete Systeme haben häufig
-Echtzeit-Recheneinschränkungen. Typische Eigenschaften von
-eingebetteten Systemen sind niedriger
-Stromverbrauch, begrenzter Speicher und begrenzte
-Verarbeitungsressourcen sowie geringe Größe.
-
-³⁵<http://dddcommunity.org/learning-ddd/what_is_ddd/>
-
+Wirtschaftlich, einfach, schlank oder mit relativ geringem Aufwand machbar sein.
