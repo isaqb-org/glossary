@@ -1,0 +1,25 @@
+site_name: iSAQB glossary
+site_description: An extensive glossary of software architecture (and development) terminology. Explains the terms used and referenced in the iSAQB foundation and advanced level curricula. 
+repo_name: isaqb glossary
+repo_url: https://github.com/isaqb-org/glossary
+
+nav:
+    - README: 'README.md'
+
+theme:
+    name: material
+    palette:
+      primary: 'blue'
+      accent: 'red'
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+# - codehilite
+  - toc:
+      permalink: True
+edit_uri: ""
