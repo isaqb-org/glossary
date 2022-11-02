@@ -11,6 +11,9 @@ nav:
     - Categories: manuscript/60-categories.md
     - Resources: manuscript/99-resources.md
     - History: manuscript/revision-history.md
+    - Terms:
+      - DDD: manuscript/terms/term-DDD.md
+
 
 
 theme:
