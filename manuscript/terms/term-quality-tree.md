@@ -20,15 +20,12 @@ Beschreibung von Produktqualität: Die Wurzel „Qualität" wird
 hierarchisch in *Bereiche* oder Themen verfeinert, welche wiederum
 verfeinert werden. Qualitätsszenarien bilden die Blätter dieses Baums.
 
--   Standards zu Produktqualität, wie \[ISO 25010\](#term-iso-25010,
+-   Standards zu Produktqualität, wie \[ISO 25010\](#term-iso-25010),
     enthalten Vorschläge von *allgemeinen* Qualitätsbäumen.
 
 -   Die Qualität eines spezifischen Systems kann mit einem
     *spezifischen* Qualitätsbaum beschrieben werden (siehe nachfolgendes
     Beispiel).
 
-![](media/image13.png){width="3.5522911198600173in"
+![Beispiel eines Qualitätsbaums](media/image13.png){width="3.5522911198600173in"
 height="2.0834372265966756in"}
-
-Beispiel eines Qualitätsbaums
-

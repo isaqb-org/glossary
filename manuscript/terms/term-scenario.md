@@ -27,10 +27,9 @@ Sie helfen bei der Beschreibung der vorgegebenen oder gewünschten
 Eigenschaften eines Systems auf pragmatische und informelle Weise und
 machen dennoch das abstrakte Konzept „Qualität" konkret und greifbar.
 
-![](media/image14.jpeg){width="3.0416666666666665in"
+![Allgemeine Form eines (Qualitäts-) Szenarios](media/image14.jpeg){width="3.0416666666666665in"
 height="1.9483333333333333in"}
 
-Allgemeine Form eines (Qualitäts-) Szenarios
 
 -   Ereignis/Stimulus: Jegliche Bedingungen oder Ereignisse, die das
     System erreichen
