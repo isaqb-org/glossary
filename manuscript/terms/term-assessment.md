@@ -8,7 +8,7 @@ Assessment might concerning potentially all aspects
 (development, organization, architecture, code etc.)
 
 
-
+{lang=de}
 ### Beurteilung
 
 Siehe auch [Bewertung](#term-assessment).
