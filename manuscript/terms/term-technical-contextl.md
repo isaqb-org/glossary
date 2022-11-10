@@ -1,0 +1,18 @@
+{lang=en}
+### Technical Context
+
+Shows the complete system as one [blackbox](#term-blackbox) within its environment from a technical or deployment perspective. 
+This includes, in particular, technical interfaces and communication channels as well as the relevant technical details of the neighboring systems.
+The technical context thus supplements the (business context)(#term-business-context)) by mapping domain-specific interactions with neighboring systems to e.g. specific communication channels and technical protocols.
+
+See [Context View](#term-context-view).
+
+
+{lang=de}
+### Technischer Kontext
+
+Zeigt das vollständige System als eine [Blackbox](#term-blackbox) innerhalb seiner Umgebung aus einer technischen bzw. Verteilungsperspektive.
+Dazu gehören insbesondere technische Schnittstellen und Kommunikationskanäle sowie die relevanten technischen Details der Nachbarsysteme.
+Damit ergänzt der technische Kontext den (fachlicher Kontext)(#term-business-context)) um die Zuordnung der fachlichen Interaktionen mit Nachbarsystemen zu z. B. spezifischen Kommunikationskanälen und technischen Protokollen.
+
+Siehe [Kontextabgrenzung](#term-context-view).

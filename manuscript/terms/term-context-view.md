@@ -1,7 +1,7 @@
 {lang=en}
 ### Context View
 
-Shows the complete system as one [blackbox](#term-blackbox) within its environment, either from a business perspective (_business context_) or from a technical or deployment perspective (_technical context_). 
+Shows the complete system as one [blackbox](#term-blackbox) within its environment. This can be done from a business perspective ([_business context_](#term-business-context)) and/or from a technical or deployment perspective ([_technical context_](#term-technical-context)). 
 The context view (or context diagram) shows the boundary between a system  and its environment, showing the entities in its environment (its neighbors) with which it interacts.
 
 Neighbors can either be other software, hardware (like sensors), humans, user-roles or even organizations using the system.
@@ -12,10 +12,12 @@ See [Context](#term-context).
 {lang=de}
 ### Kontextabgrenzung
 
+Auch als Kontextsicht bezeichnet.
 Zeigt das vollständige System als eine [Blackbox](#term-blackbox) in
-seiner Umgebung, entweder aus Geschäftsperspektive
-(*Geschäftskontext*) oder aus technischer oder Verteilungsperspektive
-(*technischer Kontext*). Die Kontextabgrenzung (oder Kontextdiagramm)
+seiner Umgebung.
+Dies kann entweder aus fachlicher Perspektive ([_fachlicher Kontext_](#term-business-context))
+und/oder aus technischer oder Verteilungsperspektive ([_technischer Kontext_](#term-technical-context)) erfolgen.
+Die Kontextabgrenzung (oder Kontextdiagramm)
 zeigt die Grenzen zwischen einem System und seiner Umgebung und stellt
 die Entitäten in seiner Umgebung (seine Nachbarn), mit denen es
 interagiert, dar.

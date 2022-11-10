@@ -104,6 +104,9 @@
   { en: "Business architecture",
    de: ["fachliche Architektur", "Geschäftsarchitektur"]
   },
+  { en: "Business context",
+    de: ["Fachlicher Kontext"]
+  },
   { en: "Cabinet (as methaphor for template)",
     de: "Schrank (als Metapher für Template)"
   },
@@ -500,6 +503,9 @@
   },
   { en: "Team regulations",
     de: "Arbeitsgruppenordnung"
+  },
+  { en: "Technical context",
+    de: "Technischer Kontext"
   },
   { en: "Term",
     de: "Begriff"
