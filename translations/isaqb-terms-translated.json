@@ -105,7 +105,7 @@
    de: ["fachliche Architektur", "Geschäftsarchitektur"]
   },
   { en: "Business context",
-    de: ["Fachlicher Kontext"]
+    de: "Fachlicher Kontext"
   },
   { en: "Cabinet (as methaphor for template)",
     de: "Schrank (als Metapher für Template)"

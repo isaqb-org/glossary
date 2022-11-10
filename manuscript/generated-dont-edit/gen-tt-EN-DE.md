@@ -2,20 +2,36 @@
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:133 english terms, generated on Oktober/04/2016
+[^TransTableGenerationDate]:182 english terms, generated on November/10/2022
 
 
 
 {width=95%}
 |English     |German  |
 |----------------------|-------------------|
+|Accessibility |Barrierefreiheit, Zugänglichkeit |
+|----------------------|-------------------|
+|Accountability |Rechenschaft, Verantwortlichkeit |
+|----------------------|-------------------|
+|Accreditation contract |Akkreditierungsvertrag |
+|----------------------|-------------------|
+|Accreditation fee |Akkreditierungsgebühr |
+|----------------------|-------------------|
+|Action |Maßnahme |
+|----------------------|-------------------|
+|Adaptability |Adaptierbarkeit |
+|----------------------|-------------------|
 |Adaption |Anpassung |
 |----------------------|-------------------|
 |Adequacy |Angemessenheit |
 |----------------------|-------------------|
+|Analysability |Analysierbarkeit |
+|----------------------|-------------------|
 |Approach |Ansatz |
 |----------------------|-------------------|
 |Appropriateness |Angemessenheit |
+|----------------------|-------------------|
+|Appropriateness Recognizability |Erkennbarkeit der Brauchbarkeit, Verständlichkeit |
 |----------------------|-------------------|
 |Architectural objective |Architekturziel |
 |----------------------|-------------------|
@@ -41,7 +57,11 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Attack Tree |Angriffsbäume |
 |----------------------|-------------------|
+|Authenticity |Authentifizierbarkeit |
+|----------------------|-------------------|
 |Availability |Verfügbarkeit |
+|----------------------|-------------------|
+|Bounded Context |Kontextgrenze |
 |----------------------|-------------------|
 |Building block |Baustein |
 |----------------------|-------------------|
@@ -51,7 +71,11 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Business architecture |fachliche Architektur, Geschäftsarchitektur |
 |----------------------|-------------------|
+|Business context |Fachlicher Kontext |
+|----------------------|-------------------|
 |Cabinet (as methaphor for template) |Schrank (als Metapher für Template) |
+|----------------------|-------------------|
+|Capacity |Kapazität |
 |----------------------|-------------------|
 |Cash audit |Rechnungsprüfung |
 |----------------------|-------------------|
@@ -65,9 +89,13 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Channel |Kanal |
 |----------------------|-------------------|
+|Co-Existence |Koexistenz |
+|----------------------|-------------------|
 |Cohesion |Kohäsion, innerer Zusammenhalt |
 |----------------------|-------------------|
 |Commensurability |Angemessenheit, Messbarkeit, Vergleichbarkeit |
+|----------------------|-------------------|
+|Compatibility |Kompatibilität |
 |----------------------|-------------------|
 |Compliance |Erfüllung, Einhaltung |
 |----------------------|-------------------|
@@ -85,7 +113,7 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Coupling |Kopplung, Abhängigkeit |
 |----------------------|-------------------|
-|Crosscutting |Querschnittlich |
+|Cross-cutting |Querschnittlich |
 |----------------------|-------------------|
 |Curriculum |Lehrplan |
 |----------------------|-------------------|
@@ -110,6 +138,8 @@ from JSON by Groovy and Gradle.
 |Design principle |Entwurfsprinzip |
 |----------------------|-------------------|
 |Domain |Fachdomäne, Fachlicher Bereich, Geschäftsbereich |
+|----------------------|-------------------|
+|Domain event |Fachliches Event |
 |----------------------|-------------------|
 |Domain-related architecture |fachliche Architektur |
 |----------------------|-------------------|
@@ -141,13 +171,31 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Executive board |Vorstand |
 |----------------------|-------------------|
+|Fault Tolerance |Fehlertoleranz |
+|----------------------|-------------------|
 |Fees rules and regulations |Gebührenordnung |
 |----------------------|-------------------|
+|Fitness Function |Fitnessfunktion |
+|----------------------|-------------------|
+|Functional Appropriateness |Funktionale Angemessenheit |
+|----------------------|-------------------|
+|Functional Completeness |Funktionale Vollständigkeit |
+|----------------------|-------------------|
+|Functional Correctness |Funktionale Korrektheit |
+|----------------------|-------------------|
+|Functional Suitability |Funktionale Eignung |
+|----------------------|-------------------|
 |General meeting |Mitgliederversammlung |
+|----------------------|-------------------|
+|Improvement |Verbesserung |
+|----------------------|-------------------|
+|Improvement action |Verbesserungsmaßnahme |
 |----------------------|-------------------|
 |Influencing Factor |Einflussfaktor |
 |----------------------|-------------------|
 |Information hiding principle |Geheimnisprinzip |
+|----------------------|-------------------|
+|Installability |Installierbarkeit |
 |----------------------|-------------------|
 |Integrity |Integrität |
 |----------------------|-------------------|
@@ -157,19 +205,23 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Interface description |Schnittstellenbeschreibung, Schnittstellendokumentation |
 |----------------------|-------------------|
+|Interoperability |Interoperabilität |
+|----------------------|-------------------|
+|Learnability |Erlernbarkeit |
+|----------------------|-------------------|
 |Learning goal |Lernziel |
 |----------------------|-------------------|
-|License fee |Lizenzgebühr |
-|----------------------|-------------------|
-|License holder |Lizenznehmer |
+|License fee |Akkreditierungsgebühr |
 |----------------------|-------------------|
 |Licensee |Lizenznehmer |
 |----------------------|-------------------|
-|Licensing agreement |Lizenzvertrag, Lizenzvereinbarung |
-|----------------------|-------------------|
-|Licensor |Lizenzgeber |
+|Licensing agreement |Lizenzvertrag, Lizenzvereinbarung, Akkreditierungsvertrag |
 |----------------------|-------------------|
 |Local court |Amtsgericht |
+|----------------------|-------------------|
+|Maintainability |Wartbarkeit |
+|----------------------|-------------------|
+|Maturity |Reifegrad |
 |----------------------|-------------------|
 |Means for describing |Beschreibungsmittel |
 |----------------------|-------------------|
@@ -179,7 +231,13 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Members' meeting |Mitgliederversammlung |
 |----------------------|-------------------|
+|message-driven |Nachrichten-zentrisch |
+|----------------------|-------------------|
 |Modeling Tool |Modellierungswerkzeug |
+|----------------------|-------------------|
+|Modifiability |Modifizierbarkeit |
+|----------------------|-------------------|
+|Modularity |Modularität |
 |----------------------|-------------------|
 |Module |Komponente, Modul, Baustein |
 |----------------------|-------------------|
@@ -187,11 +245,17 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Non-exclusive license |Einfache Lizenz |
 |----------------------|-------------------|
-|Non-profit |Gemmeinnützig |
+|Non-profit |Gemeinnützig |
+|----------------------|-------------------|
+|Non-repudiation |Nichtabstreitbarkeit |
+|----------------------|-------------------|
+|Normal case |Normalfall |
 |----------------------|-------------------|
 |Notification |Benachrichtigung |
 |----------------------|-------------------|
 |Objective |Ziel |
+|----------------------|-------------------|
+|Operability |Bedienbarkeit |
 |----------------------|-------------------|
 |Operational processes |Betriebsprozesse (von Software) |
 |----------------------|-------------------|
@@ -199,7 +263,11 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Pattern language |Mustersprache, Musterfamilie |
 |----------------------|-------------------|
+|Performance Efficiency |Leistungseffizienz, Performance |
+|----------------------|-------------------|
 |Perspective |Perspektive |
+|----------------------|-------------------|
+|Portability |Portierbarkeit |
 |----------------------|-------------------|
 |Principle |Prinzip, Konzept |
 |----------------------|-------------------|
@@ -213,25 +281,41 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Real-time system |Echtzeitsystem |
 |----------------------|-------------------|
+|Recoverability |Widerherstellbarkeit |
+|----------------------|-------------------|
 |Registered trademark |Marke (gesetzlich geschützt) |
 |----------------------|-------------------|
 |Relationship |Beziehung |
 |----------------------|-------------------|
 |Relationship (kind of) |Beziehungsart |
 |----------------------|-------------------|
+|Reliability |Zuverlässigkeit |
+|----------------------|-------------------|
+|Replaceability |Austauschbarkeit |
+|----------------------|-------------------|
 |Repository |Ablage |
 |----------------------|-------------------|
 |Requirement |Anforderung |
 |----------------------|-------------------|
+|resilient |unverwüstlich, selbstwiederherstellend |
+|----------------------|-------------------|
 |Resolution |Beschluss |
 |----------------------|-------------------|
+|Resource Utilization |Ressourcenverbrauch |
+|----------------------|-------------------|
 |Responsibility |Verantwortlichkeit |
+|----------------------|-------------------|
+|responsive |reaktionsfähig |
+|----------------------|-------------------|
+|Reusability |Wiederverwendbarkeit |
 |----------------------|-------------------|
 |Rights of use |Nutzungsrecht |
 |----------------------|-------------------|
 |Runtime |Laufzeit |
 |----------------------|-------------------|
 |Runtime view |Laufzeitsicht |
+|----------------------|-------------------|
+|Security |Sicherheit |
 |----------------------|-------------------|
 |Security Goals |Schutzziele, Sachziele |
 |----------------------|-------------------|
@@ -249,19 +333,33 @@ from JSON by Groovy and Gradle.
 |----------------------|-------------------|
 |Team regulations |Arbeitsgruppenordnung |
 |----------------------|-------------------|
+|Technical context |Technischer Kontext |
+|----------------------|-------------------|
 |Term |Begriff |
 |----------------------|-------------------|
+|Testability |Testbarkeit |
+|----------------------|-------------------|
 |Thriftyness |Sparsamkeit, Wirtschaftlichkeit |
+|----------------------|-------------------|
+|Time Behaviour |Zeitverhalten |
 |----------------------|-------------------|
 |Tools |Arbeitsmittel, Werkzeug |
 |----------------------|-------------------|
 |Tools-and-material-approach |Werkzeug-Material-Ansatz |
 |----------------------|-------------------|
-|Tradeoff |Kompromiss, Abwägung |
+|Tradeoff |Kompromiss, Abwägung, Wechselwirkung |
 |----------------------|-------------------|
 |Training provider |Schulungsanbieter |
 |----------------------|-------------------|
 |Treasurer |Schatzmeister |
+|----------------------|-------------------|
+|Ubiquitous language |Allgegenwärtige Sprache |
+|----------------------|-------------------|
+|Usability |Benutzbarkeit, Benutzerfreundlichkeit |
+|----------------------|-------------------|
+|User Error Protection |Schutz vor Fehlbedienung |
+|----------------------|-------------------|
+|User Interface Aesthetics |Ästhetik der Benutzeroberfläche |
 |----------------------|-------------------|
 |Uses relationship |Benutzt-Beziehung, Nutzungsbeziehung |
 |----------------------|-------------------|
