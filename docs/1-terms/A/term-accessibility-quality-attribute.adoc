@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== Accessibility Quality Attribute
+==== Accessibility Quality Attribute
 
 Degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
 Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
@@ -12,7 +12,7 @@ Category: Quality, ISO 25010
 
 // tag::DE[]
 
-=== Qualitätsmerkmal Zugänglichkeit
+==== Qualitätsmerkmal Zugänglichkeit
 
 Maß, in dem ein Produkt oder System von Personen mit einer großen Bandbreite
 von Eigenschaften und Fähigkeiten zur Erreichung eines
