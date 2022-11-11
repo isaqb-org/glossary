@@ -1,3 +1,6 @@
+import groovy.json.JsonParserType
+import groovy.json.JsonSlurper
+
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
@@ -28,8 +31,8 @@ class Translator {
 
 
     static def parseFile(File file) {
-        def slurper = new groovy.json.JsonSlurper()
-        slurper.setType(groovy.json.JsonParserType.LAX)
+        def slurper = new JsonSlurper()
+        slurper.setType(JsonParserType.LAX)
 
         def terms = slurper.parse(file)
 
