@@ -14,7 +14,7 @@ endif::withRemarks[]
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
-:language: DE
+:language: EN
 
 // ":include_configuration:" always consists of the language, optionally
 // followed by ";REMARK"
@@ -22,7 +22,7 @@ endif::withRemarks[]
 :include_configuration: tags=**;{language}{remarks};!*
 
 ifeval::["{language}" == "DE"]
-:curriculum-header-title: Glossar für Begrifflichkeiten aus der Softwarearchitektur
+:curriculum-header-title: iSAQB Glossar für Begriffe rund um Softwarearchitektur
 endif::[]
 
 ifeval::["{language}" == "EN"]

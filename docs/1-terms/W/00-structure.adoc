@@ -1,5 +1,6 @@
 === W
 
+include::term-waterfall-development.adoc[{include_configuration}]
 include::term-wrapper.adoc[{include_configuration}]
 
 
