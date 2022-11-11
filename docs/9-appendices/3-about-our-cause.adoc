@@ -1,6 +1,5 @@
 
-[appendix]
-== About our Cause
+=== About our Cause
 
 image:images/42-backmatter/eff-logo-name-url.jpg[]
 

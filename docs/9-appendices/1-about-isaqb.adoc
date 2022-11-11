@@ -1,9 +1,5 @@
-{pagebreak}
 
-{#section-about-isaqb}
-
-[appendix]
-== The iSAQB e.V. Association
+=== The iSAQB e.V. Association
 
 {width=20%,float=inside}
 image:images/42-backmatter/isaqb-logo.png[]
