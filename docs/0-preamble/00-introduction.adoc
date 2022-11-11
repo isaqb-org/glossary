@@ -1,0 +1,15 @@
+// tag::DE[]
+== Einführung
+// end::DE[]
+
+// tag::EN[]
+== Introduction
+// end::EN[]
+
+include::01-intro.adoc[{include_configuration}]
+include::02-personal-comments.adoc[{include_configuration}]
+include::03-referencing.adoc[{include_configuration}]
+include::04-license.adoc[{include_configuration}]
+include::05-acknowledgements.adoc[{include_configuration}]
+include::06-contributing.adoc[{include_configuration}]
+

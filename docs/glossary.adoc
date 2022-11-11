@@ -22,19 +22,12 @@ include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
 :sectnums!:
-include::00a-preamble/copyright.adoc[{include_configuration}]
 
 <<<
 toc::[]
 
-
 <<<
-:sectnums!:
-include::00a-preamble/00-introduction.adoc[{include_configuration}]
-
-<<<
-:sectnums!:
-include::00b-basics/00-basics.adoc[{include_configuration}]
+include::0-preamble/00-introduction.adoc[{include_configuration}]
 
 <<<
 :sectnums:
