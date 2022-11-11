@@ -53,9 +53,6 @@ Mahbouba Gharbi is CIO of iTech Progress, book author and conference speaker.
 
 Several years ago Mahbouba became president of the iSAQB. She lives in Mannheim with her family.
 
-=== Mirko Hillert
-
-Mirko is chairman and CEO of the iSAQB GmbH, the commercial branch of the iSAQB association. He contributed the majority of the more formal terms, concerning accreditation and the like.
 
 === Simon Kölsch
 
@@ -73,7 +70,7 @@ As an active member of the International Software Architecture Qualification Boa
 
 === Michael Mahlberg
 
-Michael Mahlberg runs his own http://consulting-guild.de[method consultancy] in Germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
+Michael Mahlberg runs his own https://consulting-guild.de[method consultancy] in Germany and spends most of his time supporting clients in their quest for more effective ways to work. Mostly by applying lean and agile concepts.
 
 Running his own computer and software related companies since he was 18, he quickly came to realize that software architecture and (development) processes are in a way timeless aspects of the craft.
 
