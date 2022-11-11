@@ -1,0 +1,6 @@
+[submodule "html-theme"]
+	path = html-theme
+	url = https://github.com/isaqb-org/html-theme
+[submodule "pdf-theme"]
+	path = pdf-theme
+	url = https://github.com/isaqb-org/pdf-theme
