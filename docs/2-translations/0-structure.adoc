@@ -1,0 +1,20 @@
+
+// tag::DE[]
+== Übersetzungstabellen
+// end::DE[]
+
+// tag::EN[]
+== Translation Tables
+// end::EN[]
+
+
+include::translations-EN-DE.adoc[{include_configuration}]
+// these are included without configuration
+include::gen-tt-EN-DE.adoc[]
+
+<<<
+include::translations-DE-EN.adoc[{include_configuration}]
+include::gen-tt-DE-EN.adoc[]
+
+
+

@@ -1,10 +1,5 @@
-# mkdocs releated
-mk_docs
-site
 # generated folders
-generated/gen-tt-DE-EN.md
-generated/gen-tt-EN-DE.md
-generated/gen-terms-*.md
+generated/gen-terms-*
 # IDE files
 .idea
 .DS_Store

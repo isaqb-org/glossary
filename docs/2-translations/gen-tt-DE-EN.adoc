@@ -1,0 +1,11 @@
+// this is just to test the required table syntax,
+// so we can tweak the generator later on
+
+[cols="1,1"]
+|===
+|German |English
+|Abhängigkeit |Coupling, Dependency
+|Abhängigkeit (zwischen Entwurfsentscheidungen) |Interdependency (between design decisions)
+|Ablage |Repository
+|Ablaufsteuerung |Workflow management
+|===

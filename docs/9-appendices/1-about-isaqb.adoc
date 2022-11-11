@@ -2,9 +2,6 @@
 
 === The iSAQB e.V. Association
 
-
-image::42-backmatter/isaqb-logo.png[]
-
 The International Software Architecture Qualification Board  (iSAQB e.V., http://isaqb.org) is a non-profit organization with members from industry, development and consulting firms,  education, academia and other organizations.
 
 It is established as an _association_ (e.V.) according to German law with the following objectives:
