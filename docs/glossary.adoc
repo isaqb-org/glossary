@@ -2,15 +2,11 @@
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
 
-ifeval::["{language}" == "DE"]
-= Glossar für Begrifflichkeiten aus der Softwarearchitektur
-:toc-title: Inhaltsverzeichnis
+= {curriculum-header-title}
 :toc: left
-endif::[]
 
-ifeval::["{language}" == "EN"]
-= Glossary of Software Architecture Terminology
-:toc: left
+ifeval::["{language}" == "DE"]
+:toc-title: Inhaltsverzeichnis
 endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
@@ -34,4 +30,4 @@ include::0-preamble/00-introduction.adoc[{include_configuration}]
 include::1-terms/00-structure.adoc[{include_configuration}]
 
 <<<
-include::99-references/00-references.adoc[{include_configuration}]
+include::8-references/00-references.adoc[{include_configuration}]

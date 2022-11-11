@@ -21,16 +21,12 @@ endif::withRemarks[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{remarks};!*
 
-:curriculum-short: MODULKUERZEL
-
 ifeval::["{language}" == "DE"]
-:curriculum-name: MODULNAME IN VOLLER LAENGE
-:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+:curriculum-header-title: Glossar für Begrifflichkeiten aus der Softwarearchitektur
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: FULL NAME OF MODULE
-:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB Glossary of Software Architecture Terminology
 endif::[]
 
 // you might want to output some internal information...
