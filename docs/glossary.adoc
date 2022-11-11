@@ -34,7 +34,4 @@ include::0-preamble/00-introduction.adoc[{include_configuration}]
 include::1-terms/00-structure.adoc[{include_configuration}]
 
 <<<
-include::42-glossary/00-glossary.adoc[{include_configuration}]
-
-<<<
 include::99-references/00-references.adoc[{include_configuration}]
