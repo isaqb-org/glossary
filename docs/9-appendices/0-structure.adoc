@@ -1,0 +1,10 @@
+
+== Appendix
+
+include::1-about-isaqb.adoc[{include_configuration}]
+
+include::2-about-the-authors.adoc[{include_configuration}]
+
+include::3-also-from-the-authors.adoc[{include_configuration}]
+
+include::4-about-our-cause.adoc[{include_configuration}]

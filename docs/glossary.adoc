@@ -31,3 +31,7 @@ include::1-terms/00-structure.adoc[{include_configuration}]
 
 <<<
 include::8-references/00-references.adoc[{include_configuration}]
+
+:toclevels: 1
+<<<
+include::9-appendices/0-structure.adoc[{include_configuration}]
