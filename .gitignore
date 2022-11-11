@@ -1,5 +1,5 @@
 # mkdocs releated
-docs
+mk_docs
 site
 # generated folders
 /generated/gen-terms-*.md
