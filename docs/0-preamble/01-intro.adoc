@@ -11,7 +11,7 @@ Furthermore, you find proposals for <<section-translations,translations>>
 of the iSAQB terminology,
 currently between English and German (and vice-versa).
 
-Finally this book contains numerous <<section-references,references>> to books
+Finally, this book contains numerous <<section-references,references>> to books
 and other resources, many of which we quoted in the definitions.
 
 *This book is work in progress.*

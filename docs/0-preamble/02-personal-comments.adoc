@@ -3,8 +3,9 @@
 
 Several of the terms contained in this book have been commented by one or several authors:
 
-D&gt; ###### Comment (Gernot Starke)
-D&gt; Some terms might be especially important, or sometimes there are some subtle aspects involved. Comments like these give a personal opinion and do *not* necessarily reflect the iSAQB.
-D&gt;
+[NOTE]
+====
+###### Comment (Gernot Starke)
 
-{pagebreak}
+Some terms might be especially important, or sometimes there are some subtle aspects involved. Comments like these give a personal opinion and do *not* necessarily reflect the iSAQB.
+====

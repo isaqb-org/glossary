@@ -1,6 +1,3 @@
-// header file for curriculum section "References"
-// (c) iSAQB e.V. (https://isaqb.org)
-// ===============================================
 
 [bibliography]
 == {references}

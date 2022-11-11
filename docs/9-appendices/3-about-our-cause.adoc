@@ -1,7 +1,7 @@
 
 === About our Cause
 
-image:images/42-backmatter/eff-logo-name-url.jpg[]
+image::/images/42-backmatter/eff-logo-name-url.jpg[]
 
 All royalties of this book are donated to the EFF. By paying for this book, you support
 their cause:

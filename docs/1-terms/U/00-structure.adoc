@@ -1,11 +1,5 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
-// (c) iSAQB e.V. (https://isaqb.org)
-// ====================================================
 
+=== U
 
-=== A
-
-include::term-abstraction.adoc[{include_configuration}]
-include::term-abstractness.adoc[{include_configuration}]
-include::term-accessibility-quality-attribute.adoc[{include_configuration}]
+// include::term-abstraction.adoc[{include_configuration}]
 

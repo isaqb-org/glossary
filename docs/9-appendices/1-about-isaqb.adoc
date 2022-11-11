@@ -2,7 +2,7 @@
 === The iSAQB e.V. Association
 
 
-image:images/42-backmatter/isaqb-logo.png[]
+image::images/42-backmatter/isaqb-logo.png
 
 The International Software Architecture Qualification Board
 (iSAQB e.V., http://isaqb.org) is a non-profit
