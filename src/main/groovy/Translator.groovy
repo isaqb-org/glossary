@@ -50,9 +50,11 @@ class Translator {
             def trans = it.de
             if (trans instanceof String) {
                 translations.add(trans)
-            } else if (trans instanceof List) {
+            }
+            else if (trans instanceof List) {
                 translations = trans
-            } else {
+            }
+            else {
                 println "error: $trans"
                 assert false
             }
@@ -76,18 +78,24 @@ class Translator {
             if (sources instanceof String) {
                 def existingTrans = translationTable?.terms.get(sources)
 
-                if (existingTrans == null) existingTrans = []
+                if (existingTrans == null) {
+                    existingTrans = []
+                }
                 existingTrans.add(it.en)
                 translationTable.put(sources, existingTrans)
-            } else if (sources instanceof List) {
+            }
+            else if (sources instanceof List) {
                 sources.each { deWord ->
                     def existingTrans = translationTable?.terms?.get(deWord)
-                    if (existingTrans == null) existingTrans = []
+                    if (existingTrans == null) {
+                        existingTrans = []
+                    }
 
                     existingTrans.add(it.en)
                     translationTable.put(deWord, existingTrans.sort())
                 }
-            } else {
+            }
+            else {
                 println "error in de_en: $sources"
                 assert false
             }
@@ -105,8 +113,9 @@ class Translator {
 
 
     static boolean checkIfTranslationMap(Object termsFromJSON) {
-        if (termsFromJSON instanceof java.util.List)
+        if (termsFromJSON instanceof java.util.List) {
             return true
+        }
         else {
             errorMsg(termsFromJSON, "has no JSON list format.")
         }
@@ -119,8 +128,9 @@ class Translator {
     }
 
     private static boolean isMap(Object term) {
-        if (term instanceof Map)
+        if (term instanceof Map) {
             return true
+        }
         else {
             errorMsg(term, "syntax error: is no Map (but ${term.class})")
         }
@@ -128,73 +138,92 @@ class Translator {
 
     private static boolean hasENEntry(Object term) {
         if (term.en instanceof String) {
-            if ((term.en != null) && (term.en != "") && (term.en.size() > 1))
+            if ((term.en != null) && (term.en != "") && (term.en.size() > 1)) {
                 return true
-            else errorMsg(term, "has no proper English (en:) source-term.")
-        } else {
+            }
+            else {
+                errorMsg(term, "has no proper English (en:) source-term.")
+            }
+        }
+        else {
             errorMsg(term, "is missing English (en:) source-term.")
         }
     }
 
     private static boolean hasDETranslation(Object term) {
-        if (term.de != null)
+        if (term.de != null) {
             return true
-        else errorMsg(term, "seems to have no German translation")
+        }
+        else {
+            errorMsg(term, "seems to have no German translation")
+        }
     }
 
 
     private static boolean translationIsStringOrList(Object term) {
-        if ((term.de instanceof String) || (term.de instanceof List<String>))
+        if ((term.de instanceof String) || (term.de instanceof List<String>)) {
             return true
-        else errorMsg(term, ": German (de) translation is neither String nor List")
+        }
+        else {
+            errorMsg(term, ": German (de) translation is neither String nor List")
+        }
     }
 
 
     private static boolean isNonTrivialTranslation(term) {
-        if (term.en != term.de)
+        if (term.en != term.de) {
             return true
-        else errorMsg(term, ": English word shall be different from German word.")
+        }
+        else {
+            errorMsg(term, ": English word shall be different from German word.")
+        }
     }
 
 
     private static boolean translationListHasMultipleEntries(Object term) {
         if (term.de instanceof List<String>) {
-            if (term.de.size() >= 2)
+            if (term.de.size() >= 2) {
                 return true
-            else errorMsg(term, "'de:' translation list shall contain multiple translations (otherwise a list makes no sense).")
-        } else return true
+            }
+            else {
+                errorMsg(term, "'de:' translation list shall contain multiple translations (otherwise a list makes no sense).")
+            }
+        }
+        else {
+            return true
+        }
     }
 
     private static boolean hasOnlyGermanAndEnglishEntries(Object term) {
-        if (term.keySet().sort() == ["de", "en"])
+        if (term.keySet().sort() == ["de", "en"]) {
             return true
-        else errorMsg(term.keySet(), ": contains illegal language keys (currently only 'de:' and 'en:' are supported)")
+        }
+        else {
+            errorMsg(term.keySet(), ": contains illegal language keys (currently only 'de:' and 'en:' are supported)")
+        }
     }
 
 
     static boolean isItCompliantToRules(Object termsFromJSON) {
 
 
-        Boolean isCompliant = false
-
-        // is it a Map
-        isCompliant = checkIfTranslationMap(termsFromJSON)
+        Boolean isCompliant = checkIfTranslationMap(termsFromJSON)
 
         print "Checking term "
 
         termsFromJSON.each { term ->
-            isCompliant = isCompliant &&
-                    isMap(term) &&
-                    hasENEntry(term) &&
-                    hasDETranslation(term) &&
-                    translationIsStringOrList(term) &&
-                    isNonTrivialTranslation(term) &&
-                    hasOnlyGermanAndEnglishEntries(term)
+            isCompliant = isCompliant
+                    && isMap(term)
+                    && hasENEntry(term)
+                    && hasDETranslation(term)
+                    && translationIsStringOrList(term)
+                    && isNonTrivialTranslation(term)
+                    && hasOnlyGermanAndEnglishEntries(term)
 
             // if German translations are a list, it has more than one element
-            if (term.de instanceof List<String>)
-                isCompliant = isCompliant &&
-                        translationListHasMultipleEntries(term)
+            if (term.de instanceof List<String>) {
+                isCompliant = isCompliant && translationListHasMultipleEntries(term)
+            }
 
             print "${term.en}."
         }
@@ -204,18 +233,17 @@ class Translator {
     }
 
     /*
-    ** As a convention, we insert a Footnote in the translation table.
+     ** As a convention, we insert a Footnote in the translation table.
      */
 
     static final String createDateAsMarkDownFootnote(int nrOfTerms) {
-        final teaser = """
+        return """
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
 [^TransTableGenerationDate]:$nrOfTerms english terms, generated on ${DateTimeFormatter.ofPattern("MMMM dd, yyyy", Locale.GERMAN).format(LocalDateTime.now())}\n
 
 """
-
     }
 
     static void main(String... args) {
@@ -240,8 +268,9 @@ from JSON by Groovy and Gradle.
             generated_DE_EN_File.text = de_en.translationTableToLeanpubMarkdown()
             println("with ${nrOfTerms} terms, file \"$DE_EN_FILENAME\".")
 
-        } else println("Error in JSON file - cannot proceed")
-
-
+        }
+        else {
+            println("Error in JSON file - cannot proceed")
+        }
     }
 }
