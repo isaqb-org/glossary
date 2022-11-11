@@ -1,0 +1,36 @@
+// tag::EN[]
+
+=== ACL
+
+Access Control Lists control authorization of
+a <<term-principal,principal>> to access a specific
+<<term-entity,entity>>. An ACL attached to an entity lists
+principals along with their access permissions.
+Many file systems - among them Windows and POSIX file systems -
+support ACLs to control access.
+
+Since ACLs don't scale well on a large base it is common to model access
+control based on roles (<<term-rbac,RBAC>>).
+
+Category: Security
+
+// end::EN[]
+
+// tag::DE[]
+
+=== ACL
+
+Zugriffskontrolllisten (Access Control Lists, ACL) repräsentieren
+die Autorisierung eines
+<<term-principal,Principals>>, um auf eine spezifische
+<<term-entity,Entität>> zuzugreifen. Eine ACL, die einer Entität
+zugeordnet ist, ist eine Liste von Principals zusammen mit ihren
+Berechtigungen. Viele Dateisysteme - darunter Windows und POSIX -
+unterstützen die Verwendung von ACLs zur Zugriffskontrolle.
+
+Da ACL sich nicht gut im großen Maßstab skalieren lassen, ist eine
+rollenbasierte Modellierung der Zugriffskontrolle
+(<<term-rbac,RBAC>>) gängig.
+
+Kategorie: Sicherheit
+// end:DE[]

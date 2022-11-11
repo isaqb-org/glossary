@@ -1,0 +1,21 @@
+// tag::EN[]
+
+=== Accreditation Body
+
+The application for <<term-accreditation,accreditation>> must be submitted through the _accreditation body_ designated by the iSAQB. The accreditation body is the contact point for all questions of the training provider during the <<term-accreditation,accreditation>>.
+It coordinates the accreditation procedure, carries out the formal assessment of the documents submitted and organises the technical assessment in the <<term-audit-working-group,AUDIT WORKING GROUP>>.
+
+// end::EN[]
+
+// tag::DE[]
+
+=== Akkreditierungsstelle
+
+Der Antrag auf <<term-accreditation,Akkreditierung>> ist über die vom iSAQB
+benannte _Akkreditierungsstelle_ einzureichen. Die
+Akkreditierungsstelle ist Ansprechpartner für alle Fragen des
+Schulungsanbieters während der <<term-accreditation,Akkreditierung>>. Sie
+koordiniert das Akkreditierungsverfahren, führt die offizielle
+Bewertung der eingereichten Unterlagen durch und organisiert die
+technische Beurteilung in der <<term-audit-working-group,AUDIT-ARBEITSGRUPPE>>.
+// end:DE[]
