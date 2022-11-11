@@ -1,0 +1,46 @@
+group 'org.isaqb'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 17
+targetCompatibility = 17
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.codehaus.groovy:groovy-all:3.0.13'
+
+    // We use the awesome Spock testing and specification framework
+    testImplementation 'org.spockframework:spock-core:2.3-groovy-4.0'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+task generateTerms(dependsOn: compileGroovy, type: JavaExec) {
+    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util.regex=ALL-UNNAMED']
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'TermsGenerator'
+
+    if (project.hasProperty("args")) {
+        args project.getProperty("args")[0]
+    } else {
+        args "en" // default en
+    }
+}
+
+task generateTables(dependsOn: compileGroovy, type: JavaExec) {
+    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED']
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'Translator'
+}
+
+description = "Buildfile for iSAQB(c) Glossary Project\n"

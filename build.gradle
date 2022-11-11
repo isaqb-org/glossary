@@ -1,46 +1,102 @@
-group 'org.isaqb'
-version '1.0-SNAPSHOT'
+import org.asciidoctor.gradle.jvm.AsciidoctorTask
+import java.text.SimpleDateFormat
 
-apply plugin: 'groovy'
-apply plugin: 'java'
-apply plugin: 'application'
-
-sourceCompatibility = 17
-targetCompatibility = 17
-
+plugins {
+    id "org.asciidoctor.jvm.base" version "3.3.2"
+    id "org.asciidoctor.jvm.convert" version "3.3.2"
+    id "org.asciidoctor.jvm.pdf" version "3.3.2"
+}
 repositories {
     mavenCentral()
 }
 
-dependencies {
-    implementation 'org.codehaus.groovy:groovy-all:3.0.13'
-
-    // We use the awesome Spock testing and specification framework
-    testImplementation 'org.spockframework:spock-core:2.3-groovy-4.0'
-    testImplementation 'junit:junit:4.13.2'
+asciidoctorj {
+    version = '2.5.3'
 }
 
-task generateTerms(dependsOn: compileGroovy, type: JavaExec) {
-    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.util=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.util.regex=ALL-UNNAMED']
-    classpath = sourceSets.main.runtimeClasspath
-    mainClass = 'TermsGenerator'
+ext {
+    today = new Date()
+    versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
-    if (project.hasProperty("args")) {
-        args project.getProperty("args")[0]
-    } else {
-        args "en" // default en
+    project.version = project.file("./document.version").text
+    curriculumFileName = "curriculum-template"
+    addSuffixToCurriculum = { suffix ->
+        for (extension in ["html", "pdf"]) {
+            File source = new File("${buildDir}/${curriculumFileName}.${extension}")
+            File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
+
+            source.renameTo(target)
+        }
     }
 }
 
-task generateTables(dependsOn: compileGroovy, type: JavaExec) {
-    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.util=ALL-UNNAMED']
-    classpath = sourceSets.main.runtimeClasspath
-    mainClass = 'Translator'
+
+
+
+class RenderCurriculumTask extends AsciidoctorTask {
+    @Inject
+    RenderCurriculumTask(WorkerExecutor we, String curriculumFileName, String versionDate, String language, boolean withRemarks) {
+        super(we)
+
+        forkOptions {
+            jvmArgs "--add-opens", "java.base/sun.nio.ch=ALL-UNNAMED", "--add-opens", "java.base/java.io=ALL-UNNAMED"
+        }
+
+
+        sourceDir = new File("./docs/")
+        baseDir = new File ("./docs/")
+        sources {
+            include "index.adoc"
+            include "${curriculumFileName}.adoc"
+        }
+        outputDir = new File("./build/")
+        outputOptions {
+            separateOutputDirs = false
+            backends 'pdf', 'html5'
+        }
+
+        def fileVersion = project.version.trim() + "-" + language
+
+        attributes = [
+                'icons'             : 'font',
+                'version-label'     : '',
+                'revnumber'         : fileVersion,
+                'revdate'           : versionDate,
+                'document-version'  : fileVersion + "-" + versionDate,
+                'currentDate'       : versionDate,
+                'language'          : language,
+                'withRemarks'       : withRemarks,
+                'curriculumFileName': curriculumFileName,
+                'debug_adoc'        : false,
+                'pdf-stylesdir'     : '../pdf-theme/themes',
+                'pdf-fontsdir'      : '../pdf-theme/fonts',
+                'pdf-style'         : 'isaqb',
+                'stylesheet'        : '../html-theme/adoc-github.css',
+                'stylesheet-dir'    : '../html-theme'
+        ]
+    }
 }
 
-description = "Buildfile for iSAQB(c) Glossary Project\n"
+task buildDocs {
+    group 'Documentation'
+    description 'Grouping task for generating all languages in several formats'
+    dependsOn "generateTerms", "generateTables", "renderDE", "renderEN"
+}
+
+task renderDE(type: RenderCurriculumTask,
+        constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
+    doLast {
+        addSuffixToCurriculum("-de")
+    }
+}
+
+task renderEN(type: RenderCurriculumTask,
+        constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
+    doLast {
+        addSuffixToCurriculum("-en")
+    }
+}
+
+apply from: 'scripts/generateTermTables.gradle'
+
+defaultTasks "buildDocs"
