@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Randomness
 
 See [Entropy](#term-entropy) or [Pseudo-Randomness](#term-pseudo-randomness).
@@ -6,7 +6,9 @@ See [Entropy](#term-entropy) or [Pseudo-Randomness](#term-pseudo-randomness).
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Zufälligkeit
 
 Siehe [Entropie](#term-entropy) oder

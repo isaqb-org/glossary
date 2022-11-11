@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### OWASP
 
 The **Open Web Application Security Project** is a worldwide
@@ -11,7 +11,9 @@ the projects data survey.
 
 Category: Security
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### OWASP
 
 Das Open Web Application Security Project ist eine 2001

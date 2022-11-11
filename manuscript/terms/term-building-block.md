@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Building Block
 
 General or abstract term for all kinds of artifacts from which software is constructed.
@@ -13,7 +13,9 @@ of software architecture.
   file, program, subsystem, function, configuration, data-definition.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Baustein
 
 Allgemeiner oder abstrakter Begriff für alle Arten von Artefakten, aus

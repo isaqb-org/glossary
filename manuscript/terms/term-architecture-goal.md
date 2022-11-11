@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture Goal
 
 (syn: Architectural quality goal, Architectural quality requirement): A quality attribute that the system needs to achieve and the quality attribute is understood to be an architectural issue.
@@ -10,7 +10,9 @@ Category: Foundation
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Architekturziel
 
 (Syn.: Architektur-Qualitätsziel, Architektur-Qualitätsanforderung):

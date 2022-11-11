@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Availability
 
 One of the basic [Security Goals](#term-security-goals) describing a system
@@ -10,7 +10,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Verfügbarkeit
 
 Eines der grundlegenden [Schutzziele](#term-security-goals), das ein System

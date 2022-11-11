@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Template (for Documentation)
 
 Standardized order of artifacts used in software development.
@@ -7,7 +7,9 @@ structure without prescribing the content of these single files.
 
   A well known example of such templates is [arc42](http://arc42.de)
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Template (zur Dokumentation)
 
 Standardisierte Zusammenstellung von Artefakten, die in der

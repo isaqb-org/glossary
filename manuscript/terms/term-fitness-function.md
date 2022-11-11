@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Fitness Function
 "An architectural fitness function provides an objective integrity assessment of some architectural characteristics." ([Ford+2017](#ref-ford-2017)).
 

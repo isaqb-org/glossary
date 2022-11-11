@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Temporal Coupling
 Different interpretations exist from various sources. Temporal coupling:
 

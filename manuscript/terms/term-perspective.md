@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Perspective
 
 A perspective is used to consider a set of related quality properties and concerns of a system.
@@ -18,7 +18,9 @@ Architects apply perspectives iteratively to the system's _architectural views_ 
  * Security
  * Usability
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Perspektive
 
 Eine Perspektive dient der Berücksichtigung einer Reihe von

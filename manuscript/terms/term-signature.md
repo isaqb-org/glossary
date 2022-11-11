@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Signature
 
 Signature of function or method: See [function signature](#term-function-signature)

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Module
 
 (see also [Modular programming](#term-modular-programming))
@@ -15,7 +15,9 @@
 
   3. The CPSA(R)-Advanced Level is currently divided into several modules, which can be learned or taught separately and in any order. The exact relationships between these modules and the contents of these modules are defined in the respective curricula.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Modul
 
 (Siehe auch [Modulare Programmierung](#modulare-programmierung))

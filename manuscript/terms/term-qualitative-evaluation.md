@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Qualitative Evaluation
 
 Finding risks concerning the desired quality attributes of a system. Analyzing or
@@ -10,7 +10,9 @@ assessing if a system or its architecture can meet the desired or required quali
   See also [_assessment_](#term-assessment).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitative Bewertung
 
 Erkennung von Risiken bezüglich der gewünschten Qualitätsmerkmale

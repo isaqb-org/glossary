@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Co-Existence Quality Attribute
 Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
 Is a sub-characteristic of: [compatibility](#term-compatibility-quality-attribute).
@@ -6,7 +6,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsmerkmal Koexistenz
 
 Maß, in dem ein Produkt, während es sich eine gemeinsame Umgebung und

@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Port
 
 UML construct, used in component diagrams. An interface,
 defining a point of interaction of a component
 with its environment.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Port
 
 UML-Konstrukt, das in Komponentendiagrammen verwendet wird. Eine

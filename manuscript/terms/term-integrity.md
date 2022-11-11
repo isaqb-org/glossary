@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Integrity 
 
 Various meanings:
@@ -17,7 +17,9 @@ Data or behavioral integrity:
 See also [consistency](#term-consistency).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Integrität
 
 Verschiedene Bedeutungen:

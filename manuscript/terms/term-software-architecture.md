@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Software Architecture
 
 There exist several (!) valid and plausible definitions
@@ -40,7 +40,9 @@ Although the term often refers to the _software architecture of an IT system_, i
 Category: ISO-IEC-IEEE-42010
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Softwarearchitektur:
 
 Es gibt mehrere (!) gültige und plausible Definitionen des Begriffs

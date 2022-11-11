@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Context View
 
 Shows the complete system as one [blackbox](#term-blackbox) within its environment. This can be done from a business perspective ([_business context_](#term-business-context)) and/or from a technical or deployment perspective ([_technical context_](#term-technical-context)). 
@@ -9,7 +9,9 @@ Neighbors can either be other software, hardware (like sensors), humans, user-ro
 See [Context](#term-context).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kontextabgrenzung
 
 Auch als Kontextsicht bezeichnet.

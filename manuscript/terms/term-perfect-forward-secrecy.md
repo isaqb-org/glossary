@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Perfect Forward Secrecy
 
 Property of a cryptographic protocol were an attacker can't gain any
@@ -10,7 +10,9 @@ key, previously recorded communication sessions can still not be decrypted.
 
 Category: Security
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Perfect Forward Secrecy / Perfekte vorwärts gerichtete Geheimhaltung
 
 Eigenschaft eines kryptografischen Protokolls, die darin besteht, dass

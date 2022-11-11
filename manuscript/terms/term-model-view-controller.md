@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Model-View-Controller
 
 Architecture pattern, often used to implement user interfaces. It divides a
@@ -12,7 +12,9 @@ the following responsibilities:
   * Controller accepts (user) input and converts those to commands for the model or view.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Model-View-Controller
 
 Architekturmuster, das häufig zur Implementierung von

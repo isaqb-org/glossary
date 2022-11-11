@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Security Goals
 
 The goals are the key point of information security. They are a basic set of
@@ -22,7 +22,9 @@ See ["What is Security Engineering - Definitions", page 11](#ref-anderson-2008) 
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Schutzziele
 
 Die Ziele sind der Hauptpunkt von Informationssicherheit. Sie sind ein

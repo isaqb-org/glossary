@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Latency
 Latency is the time delay between the cause and the effect of some change in a system.
 

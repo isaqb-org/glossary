@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Trade-Off
 
 (syn: compromise). A balance achieved or negotiated between two desired or
@@ -11,7 +11,9 @@ speed.
   Even more colloquially: There is no free lunch. Every quality attribute
   has a price among other quality attributes.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Abwägung
 
 (Syn.: Kompromiss). Erreichte oder ausgehandelte Balance zwischen zwei

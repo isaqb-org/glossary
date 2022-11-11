@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### ATAM
 
 _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation method,
@@ -8,7 +8,9 @@ with the corresponding architectural approaches to identify risks and trade-offs
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### ATAM
 
 *Architecture Tradeoff Analysis Method*. Qualitative

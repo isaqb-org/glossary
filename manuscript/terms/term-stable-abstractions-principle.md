@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Stable Abstractions Principle
 
 A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that the abstractness of components is proportional to their stability. The closely related [SDP](#term-stable-dependencies-principle) also explains the notion of *stability* in this context.
@@ -11,7 +11,9 @@ The SAP is closely related to the [SDP](#term-stable-dependencies-principle). Th
 
 Category: Design-Principle
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Stable-Abstractions-Prinzip
 
 Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen

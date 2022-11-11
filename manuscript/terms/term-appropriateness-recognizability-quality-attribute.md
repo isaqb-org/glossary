@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Appropriateness Recognizability Quality Attribute
 Degree to which users can recognize whether a product or system is appropriate for their needs.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
@@ -8,7 +8,9 @@ Category: Quality, ISO 25010
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsmerkmal Erkennbarkeit der Brauchbarkeit
 
 Maß, in dem Benutzer erkennen können, ob ein Produkt oder System für

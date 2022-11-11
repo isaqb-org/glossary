@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Sequence Diagram
 
 Type of diagram to illustrate how elements of an architecture interact
@@ -9,7 +9,9 @@ depict interactions between these components. See the following example.
 
 ![Example of Sequence Diagram](images/sequence-diagram-sample.png)
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Sequenzdiagramm
 
 Diagrammart zur Illustration, wie Elemente einer Architektur

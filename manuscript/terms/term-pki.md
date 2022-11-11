@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### PKI
 
 Short for **Public-Key-Infrastructure**. A concept of managing digital certificates
@@ -13,7 +13,9 @@ PKI is usually based on a [CA](#term-ca) or a [Web-of-Trust](#term-web-of-trust)
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### PKI
 
 Abkürzung von Public-Key-Infrastruktur. Ein Konzept zum Management

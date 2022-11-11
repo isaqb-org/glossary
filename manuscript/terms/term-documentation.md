@@ -1,9 +1,11 @@
-{lang=en}
+// tag::EN[]
 ### Documentation
 
 A systematically ordered collection of documents and other material of any kind that makes usage or evaluation easier. Examples for "other material": presentation, video, audio, web page, image, etc.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Dokumentation
 
 Systematisch geordnete Sammlung von Dokumenten und sonstigen

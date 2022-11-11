@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Entropy
 
 In information theory defined as "amount of information" a message has or
@@ -16,7 +16,9 @@ See [11.1 Information Theory of Schneier-1996](#ref-schneier-1996) and Whitewood
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Entropie
 
 In der Informationstheorie definiert als „Menge an Informationen" in

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### System
 
 Collection of elements (building blocks, components etc)
@@ -15,7 +15,9 @@ In ISO/IEC/IEEE Standards a couple of system definitions are available:
 Category: ISO-IEC-IEEE-42010
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### System
 
 Sammlung von Elementen (Bausteinen, Komponenten usw.), die zu einem

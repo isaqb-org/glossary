@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Cloud
 "Cloud computing is a model for enabling ubiquitous, convenient, on-demand network
 access to a shared pool of configurable computing resources (e.g., networks, servers,
@@ -36,7 +36,9 @@ reported, providing transparency for both the provider and consumer of the
 utilized service.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Cloud
 
 „Cloudcomputing ist ein Modell zur Ermöglichung eines

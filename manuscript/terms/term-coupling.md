@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Coupling
 
 [Coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29) is the kind and degree of _interdependence_ between building blocks of
@@ -8,7 +8,9 @@ Coupling is usually contrasted with [_cohesion_](#term-cohesion). Low coupling o
 and vice versa. Low coupling is often a sign of a well-structured system.
 When combined with high cohesion, it supports understandability and maintainability.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kopplung
 
 [Kopplung](https://en.wikipedia.org/wiki/Coupling_%28computer_programming%29)

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Bridge
 
 Design pattern in which an abstraction is decoupled from its implementation,
@@ -9,7 +9,9 @@ so that the two can vary independently. In case you find that incomprehensible
 Category: Design-Pattern
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Brücke
 
 Entwurfsmuster, bei dem eine Abstraktion von ihrer Implementierung

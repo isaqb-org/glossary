@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Asymmetric Cryptography
 
 Asymmetric cryptography algorithms are designed that the key which is used for
@@ -16,7 +16,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Asymmetrische Kryptographie
 
 Algorithmen der asymmetrischen Kryptographie sind so ausgelegt, dass

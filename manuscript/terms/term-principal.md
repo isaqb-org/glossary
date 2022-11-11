@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Principal
 
 Principals in a security context are entities which have been authenticated and
@@ -12,7 +12,9 @@ RFC4121](https://tools.ietf.org/html/rfc4121)).
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Principal
 
 Im Sicherheitskontext sind Principals Entitäten, die authentifiziert

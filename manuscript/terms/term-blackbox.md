@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Black Box
 
 View on a [building block](#term-building-block) (or [component](#term-component)) that hides the internal structure.
@@ -10,7 +10,9 @@ for example timing behavior, throughput or security aspects.
 Category: Foundation
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Blackbox
 
 Sicht auf einen [Baustein](#term-building-block) (oder eine

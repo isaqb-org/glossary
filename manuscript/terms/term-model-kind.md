@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Model Kind
 
 Conventions for a type of modeling (as defined in ISO/IEC/IEEE 42010).
@@ -7,7 +7,9 @@ Note, examples of model kinds include data flow diagrams, class diagrams, Petri 
 
 Category: ISO-IEC-IEEE-42010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Modellart
 
 Konventionen für einen Modellierungstyp (gemäß Definition in

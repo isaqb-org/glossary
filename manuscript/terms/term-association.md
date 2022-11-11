@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Association
 Defines a relationship between objects (in general: between components).
 Each association can be described in detail by cardinalities and (role-)names.
@@ -11,7 +11,9 @@ Category: Foundation
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Assoziation
 
 Definiert eine Beziehung zwischen Objekten (im Allgemeinen zwischen

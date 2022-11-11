@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Modular Programming
 
 "Software design technique that separates the functionality of a program into independent,
@@ -11,7 +11,9 @@ only one aspect of the desired functionality.
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Modulare Programmierung
 
 „Softwareentwurfstechnik, die die Funktionalität eines Programms in

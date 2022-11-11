@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Non Functional Requirement (NFR)
 
 Requirements that _constrain the solution_.
@@ -9,7 +9,9 @@ the _attributes_ involved directly relate to specific system _functions_
   _required constraints_).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Nichtfunktionale Anforderung
 
 Anforderungen, die *die Lösung einschränken*. Nichtfunktionale

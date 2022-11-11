@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Attack Tree
 
 Formal way to describe different approaches of an attacker to reach certain
@@ -17,7 +17,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Angriffsbaum
 
 Formale Möglichkeit zur Beschreibung verschiedener Ansätze eines

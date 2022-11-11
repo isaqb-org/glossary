@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Quality
 
 see [_software quality_](#term-software-quality) and [quality attributes](#term-quality-attribute).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualität
 
 Siehe [*Softwarequalität*](#term-software-quality) und

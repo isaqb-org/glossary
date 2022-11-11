@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Interface
 
 Multiple meanings, depending on context:
@@ -27,7 +27,9 @@ public class Horse implements Animal {
    }
 ```
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Schnittstelle
 
 Mehrere Bedeutungen, je nach Kontext:

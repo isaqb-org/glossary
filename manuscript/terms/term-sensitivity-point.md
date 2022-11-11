@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Sensitivity Point
 
 (in qualitative evaluation like ATAM):
@@ -8,7 +8,9 @@ For example, if one component is responsible for both runtime performance _and_ 
 Casually said, if you mess up a sensitivity point, you will most often have more than one problem.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Sensitivitätspunkt
 
 (In der qualitativen Bewertung, wie ATAM): Element des

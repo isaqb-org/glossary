@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture Framework
 
 Conventions, principles and practices for the description of architectures established within a specific domain of application and/or community of stakeholders (as defined in ISO/IEC/IEEE 42010).
@@ -15,7 +15,9 @@ Category: ISO-IEC-IEEE-42010
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Architektur-Framework
 
 Konventionen, Grundsätze und Praktiken für die Beschreibung von

@@ -1,9 +1,11 @@
-{lang=en}
+// tag::EN[]
 ### Heterogeneous Architectural Style
 
 see _hybrid architecture style_.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Heterogener Architekturstil
 
 Siehe *hybrider Architekturstil*.

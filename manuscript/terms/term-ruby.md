@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Ruby
 
 A wonderful programming language.
 
 Category: Programming
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Ruby
 
 Eine großartige Programmiersprache.

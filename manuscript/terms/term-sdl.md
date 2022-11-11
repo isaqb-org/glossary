@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### SDL
 
 A **Secure-Development-Lifecycle** is a companies usual software
@@ -14,7 +14,9 @@ See [McGraw "An Enterprise Software Security Program", page 239](#ref-mcgraw-200
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### SDL
 
 Ein Secure-Development-Lifecycle ist der übliche

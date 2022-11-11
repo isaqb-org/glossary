@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### CA
 
 A **C**ertificate **Authority** issues digital certificates to a given subject
@@ -13,7 +13,9 @@ with [TLS](#term-tls).
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### CA
 
 Ein Zertifizierungsstelle (Certificate Authority, CA) stellt digitale

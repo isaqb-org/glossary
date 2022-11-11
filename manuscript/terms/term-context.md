@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Context (of a System)
 
 "Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](https://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
@@ -16,7 +16,9 @@ Input-/Output relationships are named by their _business meaning_ instead of the
 Embedded systems, for example, often care for hardware-related information very early in development. 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kontext (eines Systems)
 
 „Definiert die Beziehungen, Abhängigkeiten und Interaktionen zwischen

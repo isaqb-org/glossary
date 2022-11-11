@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Document
 
 A (usually written) artifact conveying information.
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Dokument
 
 Ein (üblicherweise schriftliches) Artefakt zur

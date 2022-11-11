@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architectural Decision
 Decision, which has an sustainable or essential effect on the architecture.
 
@@ -8,7 +8,9 @@ Following ISO/IEC/IEEE 42010 an architectural decision pertain to system concern
 
 Category: ISO-IEC-IEEE-42010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Architekturentscheidung
 
 Entscheidung mit nachhaltiger oder wesentlicher Auswirkung auf die

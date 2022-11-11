@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Design Pattern
 
 General or generic reusable solution to a commonly occurring problem within a given context in design.
@@ -11,7 +11,9 @@ know at least some patterns from the pioneering [Gang-of-Four](https://en.wikipe
 book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Entwurfsmuster
 
 Allgemeine oder generische wiederverwendbare Lösung für ein gängiges

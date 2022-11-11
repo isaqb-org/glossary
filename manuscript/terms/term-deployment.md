@@ -1,9 +1,11 @@
-{lang=en}
+// tag::EN[]
 ### Deployment
 
 Bring software onto its execution environment (hardware, processor etc). Put software into operation.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Verteilung
 
 Einbringen der Software in ihre Ausführungsumgebung (Hardware,

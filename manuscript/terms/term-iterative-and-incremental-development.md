@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Iterative and Incremental Development
 
 Combination of iterative and incremental approaches for software development.
 These are essential parts of the various _agile_ development approaches,
 e.g. Scrum and XP.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Iterative und inkrementelle Entwicklung
 
 Kombination von iterativen und inkrementellen Ansätzen zur

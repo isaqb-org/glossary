@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Scenario
 
 Quality scenarios document required quality attributes.
@@ -19,7 +19,9 @@ Usually scenarios are differentiated into:
 * Change scenarios (modification or growth scenarios)
 * Failure scenarios (boundary, stress, or exploratory scenarios)
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Szenario
 
 Qualitätsszenarien dokumentieren die vorgegebenen Qualitätsmerkmale.

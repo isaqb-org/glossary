@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Web of Trust
 
 Since a single [CA](#term-ca) could be an easy target for an attacker the web
@@ -13,7 +13,9 @@ The email encryption PGP is an example for a [PKI](#term-pki) based on a web of 
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Netz des Vertrauens / Web of Trust
 
 Da eine einzelne [CA](#term-ca) ein leichtes Ziel für einen

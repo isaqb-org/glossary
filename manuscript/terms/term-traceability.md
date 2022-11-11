@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Traceability
 
 (more precisely: _requirements_ traceability): Document that
@@ -10,7 +10,9 @@
   My personal opinion: If you can, you should avoid traceabiltiy, as it creates
   a lot of documentation overhead.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Verfolgbarkeit
 
 (Genauer gesagt: *Anforderungs*verfolgbarkeit): Dokumentation, dass

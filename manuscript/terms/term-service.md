@@ -1,9 +1,11 @@
-{lang=en}
+// tag::EN[]
 ### Service
 t.b.d.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Dienst
 
 zu erledigen

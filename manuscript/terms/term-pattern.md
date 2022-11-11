@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Pattern
 
  A reusable or repeatable solution to a common problem in software design or architecture.
 
 See [architecture pattern](#term-architecture-pattern) or [design pattern](#term-design-pattern).
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Muster
 
 Wiederverwendbare oder wiederholbare Lösung für ein gängiges Problem

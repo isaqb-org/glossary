@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Authentication
 
 Authentication is the process of confirming the claim of an identity by a given
@@ -17,7 +17,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Authentifizierung
 
 Authentifizierung ist der Vorgang der Bestätigung der

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Cross-Cutting Concept
 
 See [concept](#term-concept).
@@ -6,7 +6,9 @@ See [concept](#term-concept).
 Synonym: principle, rule.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Querschnittskonzept
 
 Siehe [Konzept](#term-concept).

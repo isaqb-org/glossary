@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Relationship
 
 Generic term denoting some kind of dependency between elements of
@@ -8,7 +8,9 @@ creation or inheritance.
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Beziehung
 
 Allgemeiner Begriff zur Bezeichnung einer Art von Abhängigkeit

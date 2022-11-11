@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Asset
 
 "In information security, computer security and network security an Asset is any
@@ -11,7 +11,9 @@ systems) and confidential information"
 
 Category: Security
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Asset
 
 „In der Informationssicherheit, Computersicherheit und

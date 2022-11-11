@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Learnability Quality Attribute
 Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
 Is a sub-characteristic of: [usability](#term-usability-quality-attribute).
@@ -6,7 +6,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsmerkmal Erlernbarkeit
 
 Maß, in dem ein Produkt oder System von spezifizierten Benutzern

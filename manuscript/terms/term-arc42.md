@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### arc42
 
 Free template  for communication and documentation of software architectures.
@@ -8,7 +8,9 @@ See <https://arc42.org> for details.
 Category: Communication, Documentation
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### arc42
 
 Kostenloses [Template](http://arc42.org/)zur

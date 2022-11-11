@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Concept
 
 Plan, principle(s) or rule(s) how to solve a specific problem.
@@ -11,7 +11,9 @@ concept.
 Concepts form the basis for _conceptual integrity_.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Konzept
 
 Plan, Prinzip(ien) oder Regel(n), wie ein spezifisches Problem zu

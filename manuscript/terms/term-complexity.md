@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Complexity
 
 "Complexity is generally used to characterize something with many parts where those parts interact with each other in multiple ways."
@@ -12,7 +12,9 @@
 
   Architects shall strive to reduce accidental complexity.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Komplexität
 
 „Komplexität wird im Allgemeinen zur Charakterisierung eines Systems

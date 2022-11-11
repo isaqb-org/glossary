@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Design Principle
 
 Set of guidelines that helps software developers to design and implement better solutions,
@@ -14,7 +14,9 @@ where "better" could, for example, mean one or more of the following:
    occur at other elements.
   * avoid *Immobility*: An element is difficult to reuse because it cannot be disentagled from the rest of the system.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Entwurfsprinzip
 
 Eine Reihe von Richtlinien, die Softwareentwicklern hilft, bessere

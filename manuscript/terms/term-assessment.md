@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Assessment
 
 See also [Evaluation](#term-architecture-evaluation).
@@ -8,7 +8,9 @@ Assessment might concerning potentially all aspects
 (development, organization, architecture, code etc.)
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Beurteilung
 
 Siehe auch [Bewertung](#term-assessment).

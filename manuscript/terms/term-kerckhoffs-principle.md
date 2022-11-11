@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Kerckhoffs' Principle
 
 One of the six cryptographic axioms described 1883 in an article "La
@@ -16,7 +16,9 @@ See [Bruce Schneiers Crypto-Gram, May 15, 2002](https://www.schneier.com/crypto-
 
 Category: Security
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kerckhoffs\'sches Prinzip
 
 Eines der sechs kryptographischen Axiome, die 1883 von dem

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Business Context
 
 Shows the complete system as one [blackbox](#term-blackbox) within its environment from a business perspective and includes a specification of all communication partners (users, IT-systems, etc.) with explanations of domain specific inputs and outputs or interfaces.
@@ -7,7 +7,9 @@ Note that the specific technical solutions for interacting with external actors 
 See [Context View](#term-context-view).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Fachlicher Kontext
 
 Zeigt das vollständige System als eine [Blackbox](#term-blackbox) innerhalb seiner Umgebung aus fachlicher Perspektive und enthält eine Spezifikation aller Kommunikationspartner (Benutzer, IT-Systeme, usw.) mit Erläuterungen zu den domänenspezifischen Ein- und Ausgaben oder Schnittstellen.

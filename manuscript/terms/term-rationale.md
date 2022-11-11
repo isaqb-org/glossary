@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Rationale
 
 Explanation of the reasoning or arguments that lie behind an architecture decision.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Begründung
 
 Erläuterung der Argumentation oder Argumente,

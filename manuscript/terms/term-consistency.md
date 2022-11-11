@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Consistency
 
 A consistent systems does not contain contradictions.
@@ -10,7 +10,9 @@ A consistent systems does not contain contradictions.
 * With respect to behavior: Degree, to which a system behaves coherent, replicable and reasonable.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Konsistenz
 
 Ein konsistentes System enthält keine Widersprüche.

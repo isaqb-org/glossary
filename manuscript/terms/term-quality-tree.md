@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Quality Tree
 
 (syn: quality attribute utility tree).
@@ -12,7 +12,9 @@ The root "quality" is hierarchically refined in _areas_ or topics, which itself 
   ![Sample Quality Tree](images/QualityTree.png)
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsbaum
 
 (Syn.: Qualitätsattributbaum). Ein hierarchisches Modell zur

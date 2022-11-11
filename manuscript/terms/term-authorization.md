@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Authorization
 
 "Authorization or authorisation is the function of specifying access rights to
@@ -13,7 +13,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Autorisierung
 
 „Autorisierung ist der Vorgang der Spezifizierung von Zugriffsrechten

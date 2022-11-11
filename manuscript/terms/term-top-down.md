@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Top-Down
 
 "Direction of work" or "order of communication": Starting from an abstract or general
 construct working towards more concrete, special or detailed representation.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Top-Down
 
 „Arbeitsrichtung" oder „Kommunikationsabfolge": Ausgehend von einem

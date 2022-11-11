@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Dependency
 
 See [coupling](#term-coupling).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Abhängigkeit
 
 Siehe [Kopplung](#term-coupling).

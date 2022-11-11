@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Separation of Concerns (SoC)
 
 Any element of an architecture should have exclusivity and singularity of responsibility and purpose: No element should share the responsibilities of another element or contain unrelated responsibilities.
@@ -11,7 +11,9 @@ Any element of an architecture should have exclusivity and singularity of respon
   Similar to the [Single Responsibility Principle](#term-single-responsibility-principle).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Separation of concern (SoC)
 
 Jedes Element einer Architektur sollte über Exklusivität und

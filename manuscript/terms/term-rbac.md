@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### RBAC (Role Based Access Control)
 
 A role is a fixed set of permissions usually assigned to a group of
@@ -10,7 +10,9 @@ arrangements possible.
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### RBAC (Role Based Access Control / Rollenbasierte Zugriffskontrolle)
 
 Eine Rolle ist ein fester Satz an Berechtigungen, der üblicherweise

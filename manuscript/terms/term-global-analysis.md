@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Global Analysis
 
 Systematic approach to achieve desired quality attributes.
@@ -7,7 +7,9 @@ Global analysis is described in [Hofmeister+2000].
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Globale Analyse
 
 Systematischer Ansatz zur Erreichung der gewünschten

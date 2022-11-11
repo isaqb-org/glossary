@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Liskov Substitution Principle
 
 Refers to object oriented programming: If you use inheritance, do it right:
@@ -7,7 +7,9 @@ must be completely substitutable for their base types. If code uses a base class
 these references can be replaced with any instance of a derived class
 without affecting the functionality of that code.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Liskovsches Substitutionsprinzip
 
 Bezieht sich auf die objektorientierte Programmierung: Wenn Vererbung

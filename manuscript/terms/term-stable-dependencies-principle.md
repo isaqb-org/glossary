@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Stable Dependencies Principle
 
 A fundamental principle for designing the structure of software systems (also see [Package Principles](#term-package-principles)). It demands that frequently changing components depend on more stable ones.
@@ -15,7 +15,9 @@ The SDP is closely related to the [SAP](#term-stable-abstractions-principle). Th
 
 Category: Design-Principle
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Stable-Dependencies-Prinzip
 
 Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen

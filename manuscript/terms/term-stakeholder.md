@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Stakeholder
 
 Person or organization that can be affected by
@@ -15,7 +15,9 @@ Category: ISO-IEC-IEEE-42010
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Stakeholder
 
 Person oder Organisation, die von einem System, seiner Entwicklung

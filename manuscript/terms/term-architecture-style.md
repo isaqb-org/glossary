@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture Style
 
 Description of element and relation types, together with constraints on how they can be used.
@@ -11,7 +11,9 @@ D> That is, "distributed system" is a style while "client-server, CQRS, broker a
 D> However, from a practical point of view this distinction is not essential.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Architekturstil
 
 Beschreibung von Element- und Beziehungstypen zusammen mit

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### CIA Triad
 
 See [Security Goals](#term-security-goals)
@@ -6,7 +6,9 @@ See [Security Goals](#term-security-goals)
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### CIA-Triade
 
 Siehe [Schutzziele](#term-security-goals)

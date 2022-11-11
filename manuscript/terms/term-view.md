@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### View
 
 see: [architecture view](#term-architecture-view)
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Sicht
 
 Siehe: Architektursicht.

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### CQRS
 
 (command query responsibility segregation): Separate the elements manipulating
@@ -11,7 +11,9 @@ There's an interesting [eBook by Mark Nijhof](https://leanpub.com/cqrs)
 on this subject.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### CQRS
 
 (Command-Query-Responsibility-Segregation): Trennt die Elemente, die

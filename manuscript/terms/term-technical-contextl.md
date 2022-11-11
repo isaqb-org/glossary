@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Technical Context
 
 Shows the complete system as one [blackbox](#term-blackbox) within its environment from a technical or deployment perspective. 
@@ -8,7 +8,9 @@ The technical context thus supplements the (business context)(#term-business-con
 See [Context View](#term-context-view).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Technischer Kontext
 
 Zeigt das vollständige System als eine [Blackbox](#term-blackbox) innerhalb seiner Umgebung aus einer technischen bzw. Verteilungsperspektive.

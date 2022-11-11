@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Package Principles
 
 Fundamental principles for designing the structure of software systems ([Martin-2003](#ref-martin-2003)):
@@ -19,7 +19,9 @@ While Martin expressed the Package Principles in terms of large-scale components
 Category: Design-Principle
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Packaging-Prinzipien
 
 Grundsätze für die Gestaltung der Struktur von Softwaresystemen

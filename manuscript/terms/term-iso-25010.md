@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### ISO 25010
 
 Standards to describe (and evaluate) _software product quality_.
@@ -6,7 +6,9 @@ Standards to describe (and evaluate) _software product quality_.
 
 For a list of quality attributes defined by the ISO 25010 standard, refer to [ISO 25010](#term-iso-25010)
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### ISO 25010
 
 Normen zur Beschreibung (und Bewertung) von *Softwareproduktqualität*.

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Node (Node.js)
 
 In modern web development: Short form for the open source
@@ -6,7 +6,9 @@ JavaScript runtime [Node.js®](https://nodejs.org/en/), which is built on Chrome
 supporting libraries.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Node (Node.js)
 
 In der modernen Webentwicklung: Kurz für die quelloffene

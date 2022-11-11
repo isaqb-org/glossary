@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Node (in UML)
 
 A processing resource (execution environment, processor, machine, virtual machine,
   application server) where artifacts can be deployed and executed.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Knoten (in UML)
 
 Eine Verarbeitungsressource (Ausführungsumgebung, Prozessor, Maschine,

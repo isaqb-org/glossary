@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Risk
 Simply said, a risk is the possibility that a problem occurs.
 A risk involves _uncertainty_ about the effects, consequences or implications of an activity or decision, usually with a negative connotation concerning a certain value (such as health, money, or qualities of a system like availability or security).
 
 To quantify a risk the likelihood of occurrence is multiplied by the potential value (which is usually a loss - otherwise the risk would be a chance which given the uncertainty might be a potential outcome for some risks).
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Risiko
 
 Einfach gesagt ist ein Risiko die Möglichkeit, dass ein Problem auftritt.

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Round-trip Engineering
 
 "Concept of being able to make any kind of change to a model as well as to the code generated from that model. The changes always propagate bidirectional and both artifacts are always consistent." (quoted from
@@ -11,7 +11,9 @@ D> ###### Comment (Matthias Bohlen)
 D>Recently I have seen code that originated from DDD where reverse engineering did indeed work.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Round-Trip-Engineering
 
 „Konzept, gemäß dem an einem Modell sowie am aus diesem Modell

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Environment
 
 (System) Context determining the setting and circumstances of all influences upon a system (as defined in ISO/IEC/IEEE 42010).
@@ -7,7 +7,9 @@ Note, the environment of a system includes developmental, technological, busines
 
 Category: ISO-IEC-IEEE-42010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Umgebung
 
 (System) Kontext, der das Setting und die Umstände aller Einflüsse auf

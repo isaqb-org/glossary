@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Compatibility Quality Attribute
 Degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment.
 Is composed of the following sub-characteristics: [co-existence](#term-co-existence-quality-attribute), [interoperabilty](#term-interoperability-quality-attribute).
@@ -6,7 +6,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 
 Category: Quality, ISO 25010
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsmerkmal Kompatibilität
 
 Maß, in dem ein Produkt, ein System oder eine Komponente Informationen

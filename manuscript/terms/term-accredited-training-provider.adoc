@@ -1,0 +1,14 @@
+// tag::EN[]
+
+=== Accredited Training Provider
+
+<<term-training-provider,Training Provider>> with valid <<term-accreditation,accreditation>> issued by the iSAQB(R).
+
+// end::EN[]
+
+// tag::DE[]
+
+=== Akkreditierter Schulungsanbieter
+
+link:\l[Schulungsanbieter] mit gültiger <<term-accreditation,Akkreditierung>>
+des iSAQB(R).

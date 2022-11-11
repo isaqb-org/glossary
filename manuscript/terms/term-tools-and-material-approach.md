@@ -1,8 +1,10 @@
-{lang=en}
+// tag::EN[]
 ### Tools-and-material-approach
 t.b.d.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Werkzeug- und Materialansatz
 
 zu erledigen

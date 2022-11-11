@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture
 
 See [Software Architecture](#term-software-architecture)

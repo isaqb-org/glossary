@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Self Contained System (SCS)
 
 An architectural style, similar to [Microservices](#term-microservice). To quote from the site
@@ -7,7 +7,9 @@ An architectural style, similar to [Microservices](#term-microservice). To quote
   "The Self-contained System (SCS) approach is an architecture that focuses on a separation of the functionality into many independent systems, making the complete system a collaboration of many smaller software systems. This avoids the problem of large monoliths that grow constantly and eventually become unmaintainable"
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### SCS (Self Contained System)
 
 Ein Architekturstil, ähnlich wie [Microservices](#term-microservice). Auf

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Runtime View
 
 Shows the cooperation or collaboration of building blocks
@@ -7,7 +7,9 @@ Should refer to elements of the [Building Block View](#term-building-block-view)
 Could for example (but doesn't need to) be expressed in UML sequence or activity diagrams.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Laufzeitsicht
 
 Zeigt die Zusammenarbeit von Bausteinen (beziehungsweise ihrer

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Symmetric Cryptography
 
 Symmetric cryptography is based on an identical key for encryption and
@@ -8,7 +8,9 @@ communication. See [Schneier, Symmetric Algorithms, page 17](#ref-schneier-1996)
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Symmetrische Kryptographie
 
 Symmetrische Kryptographie basiert auf einem identischen Schlüssel für

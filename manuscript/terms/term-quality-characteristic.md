@@ -1,10 +1,10 @@
-{lang=en}
+// tag::EN[]
 ### Quality Characteristic
 
 synonym: _quality attribute_.
 
 
-{lang=de}
+//end:EN[] // tag::D[]
 ### Qualitätseigenschaft
 
 Synonym: *Qualitätsmerkmal*.

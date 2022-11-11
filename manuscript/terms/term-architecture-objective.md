@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture Objective
 
 See [architecture goal](#term-architecture-goal).

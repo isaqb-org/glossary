@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Layer
 
 Grouping of building blocks or components that (together) offer a
 cohesive set of services to other layers.
 Layers are related to each other by the ordered relation _allowed to use_.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Schicht
 
 Zusammenstellung von Bausteinen oder Komponenten die (zusammen)

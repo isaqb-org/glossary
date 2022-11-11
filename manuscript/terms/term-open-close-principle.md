@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Open-Close-Principle (OCP)
 
 "Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification" (Bertrand Meyer, 1998).
@@ -8,7 +8,9 @@ Part of Robin Martins "SOLID" principles for object-oriented systems.
 Can be implemented in object oriented languages by interface inheritance, in a more general way as _plugins_.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Open-Close-Prinzip (OCP)
 
 Softwareentitäten (Klassen, Module, Funktionen usw.) sollten für

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Confidentiality Quality Attribute
 Degree to which a product or system ensures that data are accessible only to those authorized to have access.
 Is a sub-characteristic of: [security](#term-security-quality-attribute).
@@ -7,7 +7,9 @@ Refer to [ISO 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25
 Category: Quality, ISO 25010
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Qualitätsmerkmal Vertraulichkeit
 
 Maß, in dem ein Produkt oder System sicherstellt, dass nur

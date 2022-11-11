@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Component
 
 See [Building block](#term-building-block). Structural element of an architecture.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Komponente
 
 Siehe [Baustein](#term-building-block).

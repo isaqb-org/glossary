@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### POSA
 
 Pattern-oriented Software Architecture. Series of books on software architecture
@@ -6,7 +6,9 @@ patterns.
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### POSA
 
 Pattern-oriented Software Architecture.

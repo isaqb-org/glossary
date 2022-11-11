@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Appropriateness
 
 (syn: adequacy) Suitability for a particular purpose.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Angemessenheit
 
 Eignung für einen bestimmten Zweck.

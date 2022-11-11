@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Concern
 
 "A _concern_ about an architecture is a requirement, an objective, a constraint, an intention, or an aspiration a stakeholder has for that architecture." (quoted from [Rozanski+11], chapter 8)
@@ -10,7 +10,9 @@ Note, a concern pertains to any influence on a system in its environment, includ
 Category: ISO-IEC-IEEE-42010
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Belang
 
 *Belange* in Bezug auf eine Architektur sind Anforderungen, Ziele,

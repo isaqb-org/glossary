@@ -1,4 +1,4 @@
- {lang=en}
+ // tag::EN[]
 ### Pseudo-Randomness
 
 Often used in conjunction with pseudo-random-number-generators. Gathering
@@ -12,7 +12,9 @@ intensive.
 
 Category: Security
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Pseudo-Zufälligkeit
 
 Häufig in Verbindung mit Pseudozufallszahlengeneratoren verwendet. Die

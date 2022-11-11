@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Economicalness
 
 Being economical, simple, lean or achievable with relatively low effort.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Sparsamkeit
 
 Wirtschaftlich, einfach, schlank oder mit relativ geringem Aufwand machbar sein.

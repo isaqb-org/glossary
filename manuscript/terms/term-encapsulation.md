@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Encapsulation
 
 Encapsulation has two slightly distinct notions, and sometimes to the combination thereof:
@@ -9,7 +9,9 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
   Encapsulation is a mechanism for [information hiding](#term-information-hiding).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kapselung
 
 Kapselung bezeichnet zwei leicht unterschiedliche Konzepte und

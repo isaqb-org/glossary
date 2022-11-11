@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Composition
 
 Combine simpler elements (e.g. functions, data types,
@@ -7,7 +7,9 @@ more responsible ones.
 
   In UML: When the owning element is destroyed, so are the contained elements.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Komposition
 
 Kombination von einfacheren Elementen (z.B. Funktionen, Datentypen,

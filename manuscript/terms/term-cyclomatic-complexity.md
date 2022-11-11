@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Cyclomatic Complexity
 
 Quantitative measure, number of independent paths through a program's source code.
@@ -8,7 +8,9 @@ Many software engineers believe that higher complexity correlates to the number 
 
 Category: Metric.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Zyklomatische Komplexität
 
 Quantitatives Maß, Zahl der unabhängigen Pfade durch den Quellcode

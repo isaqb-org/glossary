@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Facade
 
 Structural design pattern. A Facade offers a simplified interface to a complex
 or complicated building block (the _provider_) without any modifications to the provider.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Fassade
 
 Strukturentwurfsmuster. Eine Fassade bietet eine einfache

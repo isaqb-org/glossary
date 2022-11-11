@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### TLS
 
 **T**ransport-**L**ayer-**S**ecurity is a set of protocols to cryptographically
@@ -13,7 +13,9 @@ Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
 Category: Security
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### TLS
 
 Transport-Layer-Security (Transportschichtsicherheit)

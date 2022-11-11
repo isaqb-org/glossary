@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Architecture View
 
 A representation of a system from a specific perspective. Important and well-known views are:
@@ -17,7 +17,9 @@ Category: ISO-IEC-IEEE-42010
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Architektursicht
 
 Eine Darstellung eines Systems aus einer spezifischen Perspektive.

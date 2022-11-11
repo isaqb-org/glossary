@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Registry
 
 "A well-known object that other objects can use to find common objects and services." (quoted from
@@ -6,7 +6,9 @@
     well-known design pattern.)
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Registry
 
 „Sehr bekanntes Objekt, das andere Objekte nutzen können, um

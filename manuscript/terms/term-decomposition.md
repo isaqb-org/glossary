@@ -1,10 +1,12 @@
-{lang=en}
+// tag::EN[]
 ### Decomposition
 
 (syn: factoring) Breaking or dividing a complex system or problem into several smaller parts
 that are easier to understand, implement or maintain.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Zerlegung
 
 (Syn.: Factoring) Aufbrechen oder Unterteilen eines komplexen Systems

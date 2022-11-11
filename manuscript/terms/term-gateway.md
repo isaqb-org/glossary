@@ -1,11 +1,13 @@
-{lang=en}
+// tag::EN[]
 ### Gateway
 
 A (design or architecture) pattern: An element of that encapsulates
 access to a (usually external) system or resource.
 See also [wrapper](#term-wrapper), [adapter](#term-adapter).
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Gateway
 
 Ein (Entwurfs- oder Architektur-) Muster: Elemente, die den Zugriff

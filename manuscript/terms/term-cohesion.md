@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Cohesion
 
 The degree to which elements of a building block, component or module belong together is called [cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29).
@@ -7,7 +7,9 @@ It measures the strength of relationship between pieces of functionality within 
   Strive for high cohesion, because high cohesion often implies reusability,
   low coupling and understandability.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Kohäsion
 
 Maß, in dem Elemente eines Bausteins, einer Komponente oder eines

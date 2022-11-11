@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Information Hiding
 
 A fundamental principle in software design: Keep those design or implementation decisions
@@ -7,7 +7,9 @@ attributes of [blackboxes](#term-blackbox). Separates interface from implementat
 
   The term [encapsulation](#term-encapsulation) is often used interchangeably with information hiding.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Verbergen von Informationen
 
 Ein grundlegendes Prinzip im Softwareentwurf: Entwurfs- oder

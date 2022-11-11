@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Iterative Development
 
 "Development approach that _cycles_ through development phases,
@@ -10,7 +10,9 @@ from gathering requirements to delivering functionality in a working release."
   Contrast to the [_Waterfall Development_](#term-waterfall-development).
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Iterative Entwicklung
 
 „Entwicklungsansatz, bei dem Entwicklungsphasen, von der

@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Artifact
 
 Tangible by-product created or generated during development
@@ -6,7 +6,9 @@ of software. Examples of artifacts are use cases, all kinds
 of diagrams, UML models, requirements and design documents,
 source code, test cases, class-files, archives.
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Artefakt
 
 Greifbares Nebenprodukt, das während der Softwareentwicklung erstellt

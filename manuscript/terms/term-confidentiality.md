@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Confidentiality
 
 One of the basic [Security Goals](#term-security-goals) describing a system to
@@ -8,7 +8,9 @@ Category: Security
 
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Vertraulichkeit
 
 Eines der grundlegenden [Schutzziele](#term-security-goals), das ein System

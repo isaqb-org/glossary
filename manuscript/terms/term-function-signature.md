@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Function Signature
 (Synonym: type or method signature) defines input and output of functions or methods.
 

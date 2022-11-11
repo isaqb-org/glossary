@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Structure
 
 An arrangement, order or organization of interrelated elements in a system.
@@ -11,7 +11,9 @@ and their relationships (dependencies).
   a kind of structure too.
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Struktur
 
 Anordnung, Ordnung oder Organisation von zusammenhängenden Elementen

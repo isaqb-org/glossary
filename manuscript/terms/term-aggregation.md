@@ -1,4 +1,4 @@
-{lang=en}
+// tag::EN[]
 ### Aggregation
 
 A form of object [composition](#term-composition) in object-oriented programming.
@@ -9,7 +9,9 @@ remain intact.
 Category: Foundation
 
 
-{lang=de}
+// end::EN[]
+
+// tag::DE[]
 ### Aggregation
 
 Eine Form der [Komposition](#term-composition) in der objektorientierten

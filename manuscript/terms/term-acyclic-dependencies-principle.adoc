@@ -1,0 +1,58 @@
+// tag::EN[]
+
+=== Acyclic Dependencies Principle
+
+A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). It demands that there be no cycles in the dependence graph of a system, which is also a https://en.wikipedia.org/wiki/Directed_acyclic_graph[necessity] for https://en.wikipedia.org/wiki/Functional_decomposition[_hierarchical_ decomposition].
+
+Avoiding dependence cycles is essential for <<term-coupling,low coupling>> and <<term-maintainability-quality-attribute,maintainability>>, as _all_ components in a dependence cycle effectively (even if indirectly) depend on each other, which makes it hard to understand, change or replace any part of the cycle in isolation (also see <<ref-lilienthal-2019,Lilienthal-2019>>).
+
+Although Robert C. Martin (<<ref-martin-2003,Martin-2003>>) expressed it in terms of large components of object-oriented software, the ADP is a _universal_ principle. It goes back (at least) to one of the origins of software architecture, the classic 1972 paper "On the Criteria To Be Used in Decomposing Systems into Modules" (<<ref-parnas-1972,Parnas-1972>>), which concludes that hierarchical structure along with "clean" decomposition are desirable properties of any system.
+
+It can be argued that a dependence cycle, even before considering its various practical problems, is logically already as flawed as a https://en.wikipedia.org/wiki/Circular_reasoning[circular argument] or https://en.wikipedia.org/wiki/Fallacies_of_definition#Circularity[circular definition]. As a structural contradiction, a cycle can neither be an _appropriate_ nor meaningful model of the inherent nature and purpose of a system. And this conceptual divergence alone virtually guarantees for (unpredictable) problems to arise, which is exactly what a <<term-design-principle,_principled_>> approach guards against.
+
+Category: Design-Principle
+
+// end::EN[]
+
+// tag::DE[]
+
+=== Azyklischer Abhängigkeitsgrundsatz (ADP)
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch <<term-package-principles,Packaging-Prinzipien>>). Er besagt, dass
+der Abhängigkeitsgraph eines Systems keine Zyklen enthalten darf, was
+auch eine
+https://en.wikipedia.org/wiki/Directed_acyclic_graph[Notwendigkeit]
+für die https://en.wikipedia.org/wiki/Functional_decomposition[_hierarchische_
+Zerlegung]
+ist.
+
+Die Vermeidung von Abhängigkeitszyklen ist für <<term-coupling,lose
+Kopplung>> und <<term-maintainability-quality-attribute,Wartbarkeit>> entscheidend,
+da _alle_ Komponenten in einem Abhängigkeitszyklus effektiv (auch wenn
+mittelbar) voneinander abhängen, wodurch es schwierig ist, einen Teil
+des Zyklus isoliert zu verstehen, zu ändern oder zu ersetzen (siehe
+auch <<ref-lilienthal-2019,Lilienthal-2019>>).
+
+Auch wenn Robert C. Martin (<<ref-martin-2003,Martin-2003>>) sich auf
+große Komponenten objektorientierter Software bezog, ist ADP ein
+_universeller_ Grundsatz. Er geht (mindestens) auf einen der Ursprünge
+der Softwarearchitektur zurück, den Klassiker von 1972 „On the
+Criteria To Be Used in Decomposing Systems into Modules"
+(<<ref-parnas-1972,Parnas-1972>>), der zu dem Ergebnis gelangt, dass
+eine hierarchische Struktur zusammen mit einer „sauberen" Zerlegung
+wünschenswerte Eigenschaften eines jeden Systems sind.
+
+Es kann argumentiert werden, dass ein Abhängigkeitszyklus, selbst vor
+Berücksichtigung seiner verschiedenen praktischen Probleme, logisch
+bereits so fehlerhaft ist wie ein
+https://en.wikipedia.org/wiki/Circular_reasoning[Zirkelargument]
+oder eine
+https://en.wikipedia.org/wiki/Fallacies_of_definition%23Circularity[Zirkeldefinition].
+Als struktureller Widerspruch kann ein Zyklus weder ein _angemessenes_
+noch ein aussagekräftiges Modell der inhärenten Natur und des Zwecks
+eines Systems sein. Alleine diese konzeptuelle Abweichung führt
+geradezu mit Sicherheit zur Entstehung von Problemen. Und genau das
+soll durch einen <<term-design-principle,_Prinzip_>>-Ansatz verhindert werden.
+
+Kategorie: Entwurfsprinzip
