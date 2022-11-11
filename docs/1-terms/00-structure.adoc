@@ -13,4 +13,5 @@
 
 
 include::A/00-structure.adoc[{include_configuration}]
+include::W/00-structure.adoc[{include_configuration}]
 
