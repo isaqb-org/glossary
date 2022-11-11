@@ -80,7 +80,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
     group 'Documentation'
     description 'Grouping task for generating all languages in several formats'
-    dependsOn "generateTerms", "generateTables", "renderDE", "renderEN"
+    dependsOn "generateTables", "renderDE", "renderEN"
 }
 
 task renderDE(type: RenderCurriculumTask,

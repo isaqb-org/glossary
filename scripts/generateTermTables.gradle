@@ -20,21 +20,6 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
 }
 
-task generateTerms(dependsOn: compileGroovy, type: JavaExec) {
-    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.util=ALL-UNNAMED',
-               '--add-opens', 'java.base/java.util.regex=ALL-UNNAMED']
-    classpath = sourceSets.main.runtimeClasspath
-    mainClass = 'TermsGenerator'
-
-    if (project.hasProperty("args")) {
-        args project.getProperty("args")[0]
-    } else {
-        args "en" // default en
-    }
-}
-
 task generateTables(dependsOn: compileGroovy, type: JavaExec) {
     jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
                '--add-opens', 'java.base/java.io=ALL-UNNAMED',
