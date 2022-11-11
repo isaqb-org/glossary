@@ -1,7 +1,7 @@
 
 === The iSAQB e.V. Association
 
-{width=20%,float=inside}
+
 image:images/42-backmatter/isaqb-logo.png[]
 
 The International Software Architecture Qualification Board

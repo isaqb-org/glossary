@@ -1,7 +1,3 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
-// (c) iSAQB e.V. (https://isaqb.org)
-// ====================================================
-
 
 === A
 

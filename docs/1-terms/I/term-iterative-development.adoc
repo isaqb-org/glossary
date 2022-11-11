@@ -1,0 +1,31 @@
+// tag::EN[]
+
+[[term-iterative-development]]
+==== Iterative Development
+
+"Development approach that _cycles_ through development phases,
+from gathering requirements to delivering functionality in a working release."
+(quoted from http://c2.com/cgi/wiki?IterativeDevelopment[c2-wiki])
+
+Such cycles are repeated to improve either functionality, quality or both.
+
+Contrast to the <<term-waterfall-development,_Waterfall Development_>>.
+
+// end::EN[]
+
+// tag::DE[]
+[[term-iterative-development]]
+==== Iterative Entwicklung
+
+„Entwicklungsansatz, bei dem Entwicklungsphasen, von der
+Zusammenstellung der Anforderungen bis zur Bereitstellung der
+Funktionalität in einem funktionierenden Release in _Zyklen_
+durchlaufen werden.&quot; (Übersetztes englisches Zitat von
+http://c2.com/cgi/wiki?IterativeDevelopment[c2-wiki]).
+
+Diese Zyklen werden zur Verbesserung von Funktionalität, Qualität oder
+beidem wiederholt.
+
+Siehe auch <<term-waterfall-development, _Wasserfall-Entwicklung_>>.
+
+// end::DE[]
