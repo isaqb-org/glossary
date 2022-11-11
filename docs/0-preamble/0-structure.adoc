@@ -6,6 +6,8 @@
 == Introduction
 // end::EN[]
 
+
+
 include::01-intro.adoc[{include_configuration}]
 include::02-personal-comments.adoc[{include_configuration}]
 include::03-referencing.adoc[{include_configuration}]

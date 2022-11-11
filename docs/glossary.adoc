@@ -23,14 +23,14 @@ include::config/i18n-definitions.adoc[tags={language}]
 toc::[]
 
 <<<
-include::0-preamble/00-structure.adoc[{include_configuration}]
+include::0-preamble/0-structure.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::1-terms/00-structure.adoc[{include_configuration}]
+include::1-terms/0-structure.adoc[{include_configuration}]
 
 <<<
-include::8-references/00-references.adoc[{include_configuration}]
+include::8-references/0-references.adoc[{include_configuration}]
 
 :toclevels: 1
 <<<

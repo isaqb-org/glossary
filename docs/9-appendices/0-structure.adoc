@@ -1,6 +1,12 @@
 <<<
 
+// tag::DE[]
+== Anhänge
+// end::DE[]
+
+// tag::EN[]
 == Appendix
+// end::EN[]
 
 include::1-about-isaqb.adoc[{include_configuration}]
 

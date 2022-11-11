@@ -6,7 +6,6 @@ Degree to which a product or system can be used by people with the widest range 
 Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
 Refer to http://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
 
 // end::EN[]
 
@@ -22,6 +21,4 @@ werden kann. Teilmerkmal von:
 Vgl. Website von http://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO
 25010].
 
-Kategorie: Qualität, ISO 25010
-
-// end:DE[]
+// end::DE[]

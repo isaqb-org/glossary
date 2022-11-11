@@ -38,6 +38,6 @@ Current configuration:
 * Language(s): {language}
 * Document version: {document-version}
 * Include-configuration: {include_configuration}
-
+* Image directory: {imagesdir}
 ====
 endif::debug_adoc[]
