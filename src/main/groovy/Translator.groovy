@@ -1,3 +1,6 @@
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
+
 class Translator {
 
     final static String SOURCE_FILEPATH = "translations/"
@@ -209,7 +212,7 @@ class Translator {
 The following tables have been automatically generated[^TransTableGenerationDate]
 from JSON by Groovy and Gradle.
 
-[^TransTableGenerationDate]:$nrOfTerms english terms, generated on ${new Date().format("MMMM/dd/yyyy")}\n
+[^TransTableGenerationDate]:$nrOfTerms english terms, generated on ${DateTimeFormatter.ofPattern("MMMM dd, yyyy", Locale.GERMAN).format(LocalDateTime.now())}\n
 
 """
 
