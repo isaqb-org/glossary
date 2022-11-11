@@ -3,13 +3,13 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+= Glossar für Begrifflichkeiten aus der Softwarearchitektur
 :toc-title: Inhaltsverzeichnis
 :toc: left
 endif::[]
 
 ifeval::["{language}" == "EN"]
-= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+= Glossary of Software Architecture Terminology
 :toc: left
 endif::[]
 
