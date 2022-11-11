@@ -1,0 +1,16 @@
+// header file for curriculum section 1: ERSTE LERNEINHEIT
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+== Begriffe
+// end::DE[]
+
+// tag::EN[]
+== Terms
+// end::EN[]
+
+
+include::A/00-structure.adoc[{include_configuration}]
+
