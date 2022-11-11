@@ -1,14 +1,20 @@
+// tag::EN[]
 
 === Contributing
 
-A&gt;#### Contributions are welcome
-A&gt;
-A&gt;In case find errors, omissions or typos, or want to contribute additional content -
-A&gt;please feel free to do this via one of the following ways:
-A&gt;
-A&gt;1. Open an issue in our https://github.com/isaqb-org/glossary/issues[Github repository]
-A&gt;2. Fork the repository and create a pull request.
-A&gt;3. Discuss topics on the books' https://leanpub.com/isaqbglossary/feedback[Leanpub feedback page]
-A&gt;4. Write an email to the authors, also from the books' https://leanpub.com/isaqbglossary/email_author/new[website]
+[TIP]
+====
+**Contributions are welcome**
+
+In case find errors, omissions or typos, or want to contribute additional content -
+please feel free to do this via one of the following ways:
+
+1. Open an issue in our https://github.com/isaqb-org/glossary/issues[Github repository]
+2. Fork the repository and create a pull request.
+3. Write an email to the authors,
 
 Your input is highly appreciated by the authors.
+
+====
+
+// end::EN[]

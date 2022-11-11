@@ -1,5 +1,7 @@
 
+// tag::EN[]
 
+[#authors]
 === About the Authors
 
 ==== Gernot Starke
@@ -99,3 +101,5 @@ Since 2014, Roger has been an active member of the International Software Archit
 ==== Sebastian Fichtner
 
 Founder of https://www.flowtoolz.com[flowtoolz.com]. App engineer and consultant. Started coding in 1995. Passionate about architecture ever since. Does original apps, open source and projects for various clients. Loves Apple platforms and the language Swift.
+
+// end::EN[]
