@@ -12,7 +12,17 @@
 |----------------------|-------------------|
 |Abwägung |Tradeoff |
 |----------------------|-------------------|
+|Adaptierbarkeit |Adaptability |
+|----------------------|-------------------|
+|Akkreditierungsgebühr |Accreditation fee, License fee |
+|----------------------|-------------------|
+|Akkreditierungsvertrag |Accreditation contract, Licensing agreement |
+|----------------------|-------------------|
+|Allgegenwärtige Sprache |Ubiquitous language |
+|----------------------|-------------------|
 |Amtsgericht |Local court |
+|----------------------|-------------------|
+|Analysierbarkeit |Analysability |
 |----------------------|-------------------|
 |Anforderung |Requirement |
 |----------------------|-------------------|
@@ -50,9 +60,17 @@
 |----------------------|-------------------|
 |Aufgabe |Task |
 |----------------------|-------------------|
+|Austauschbarkeit |Replaceability |
+|----------------------|-------------------|
+|Authentifizierbarkeit |Authenticity |
+|----------------------|-------------------|
+|Barrierefreiheit |Accessibility |
+|----------------------|-------------------|
 |Baustein |Building block, Component, Module |
 |----------------------|-------------------|
 |Bausteinsicht |Building block view |
+|----------------------|-------------------|
+|Bedienbarkeit |Operability |
 |----------------------|-------------------|
 |Begriff |Term |
 |----------------------|-------------------|
@@ -63,6 +81,10 @@
 |Belang |Aspect, Concern |
 |----------------------|-------------------|
 |Benachrichtigung |Notification |
+|----------------------|-------------------|
+|Benutzbarkeit |Usability |
+|----------------------|-------------------|
+|Benutzerfreundlichkeit |Usability |
 |----------------------|-------------------|
 |Benutzt-Beziehung |Uses relationship |
 |----------------------|-------------------|
@@ -110,7 +132,11 @@
 |----------------------|-------------------|
 |Erfüllung |Compliance |
 |----------------------|-------------------|
+|Erkennbarkeit der Brauchbarkeit |Appropriateness Recognizability |
+|----------------------|-------------------|
 |Erklärung |Rationale |
+|----------------------|-------------------|
+|Erlernbarkeit |Learnability |
 |----------------------|-------------------|
 |Fachdomäne |Domain |
 |----------------------|-------------------|
@@ -118,9 +144,25 @@
 |----------------------|-------------------|
 |Fachlicher Bereich |Domain |
 |----------------------|-------------------|
+|Fachlicher Kontext |Business context |
+|----------------------|-------------------|
+|Fachliches Event |Domain event |
+|----------------------|-------------------|
 |Fachlichkeit |Business |
 |----------------------|-------------------|
+|Fehlertoleranz |Fault Tolerance |
+|----------------------|-------------------|
 |Fertigkeit |Skill |
+|----------------------|-------------------|
+|Fitnessfunktion |Fitness Function |
+|----------------------|-------------------|
+|Funktionale Angemessenheit |Functional Appropriateness |
+|----------------------|-------------------|
+|Funktionale Eignung |Functional Suitability |
+|----------------------|-------------------|
+|Funktionale Korrektheit |Functional Correctness |
+|----------------------|-------------------|
+|Funktionale Vollständigkeit |Functional Completeness |
 |----------------------|-------------------|
 |Fähigkeit |Skill |
 |----------------------|-------------------|
@@ -128,7 +170,7 @@
 |----------------------|-------------------|
 |Geheimnisprinzip |Information hiding principle |
 |----------------------|-------------------|
-|Gemmeinnützig |Non-profit |
+|Gemeinnützig |Non-profit |
 |----------------------|-------------------|
 |Geschäftsarchitektur |Business architecture |
 |----------------------|-------------------|
@@ -136,21 +178,33 @@
 |----------------------|-------------------|
 |innerer Zusammenhalt |Cohesion |
 |----------------------|-------------------|
+|Installierbarkeit |Installability |
+|----------------------|-------------------|
 |Integrität |Integrity |
 |----------------------|-------------------|
+|Interoperabilität |Interoperability |
+|----------------------|-------------------|
 |Kanal |Channel |
+|----------------------|-------------------|
+|Kapazität |Capacity |
 |----------------------|-------------------|
 |Kapselung |Encapsulation |
 |----------------------|-------------------|
 |Knoten |Node |
 |----------------------|-------------------|
+|Koexistenz |Co-Existence |
+|----------------------|-------------------|
 |Kohäsion |Cohesion |
+|----------------------|-------------------|
+|Kompatibilität |Compatibility |
 |----------------------|-------------------|
 |Komponente |Component, Module |
 |----------------------|-------------------|
 |Kompromiss |Tradeoff |
 |----------------------|-------------------|
 |Kontextabgrenzung |Context view |
+|----------------------|-------------------|
+|Kontextgrenze |Bounded Context |
 |----------------------|-------------------|
 |Konzept |Principle |
 |----------------------|-------------------|
@@ -162,13 +216,11 @@
 |----------------------|-------------------|
 |Lehrplan |Curriculum |
 |----------------------|-------------------|
+|Leistungseffizienz |Performance Efficiency |
+|----------------------|-------------------|
 |Lernziel |Learning goal |
 |----------------------|-------------------|
-|Lizenzgeber |Licensor |
-|----------------------|-------------------|
-|Lizenzgebühr |License fee |
-|----------------------|-------------------|
-|Lizenznehmer |Licensee, License holder |
+|Lizenznehmer |Licensee |
 |----------------------|-------------------|
 |Lizenzvereinbarung |Licensing agreement |
 |----------------------|-------------------|
@@ -180,13 +232,19 @@
 |----------------------|-------------------|
 |materiell förderndes Mitglied |sponsoring (board) member |
 |----------------------|-------------------|
+|Maßnahme |Action |
+|----------------------|-------------------|
 |Messbarkeit |Commensurability, Measurability |
 |----------------------|-------------------|
 |Mitgliederversammlung |General meeting, Members' meeting |
 |----------------------|-------------------|
 |Modellierungswerkzeug |Modeling Tool |
 |----------------------|-------------------|
+|Modifizierbarkeit |Modifiability |
+|----------------------|-------------------|
 |Modul |Module |
+|----------------------|-------------------|
+|Modularität |Modularity |
 |----------------------|-------------------|
 |Muster |Pattern |
 |----------------------|-------------------|
@@ -194,11 +252,21 @@
 |----------------------|-------------------|
 |Mustersprache |Pattern language |
 |----------------------|-------------------|
+|Nachrichten-zentrisch |message-driven |
+|----------------------|-------------------|
+|Nichtabstreitbarkeit |Non-repudiation |
+|----------------------|-------------------|
+|Normalfall |Normal case |
+|----------------------|-------------------|
 |Nutzungsbeziehung |Uses relationship |
 |----------------------|-------------------|
 |Nutzungsrecht |Rights of use |
 |----------------------|-------------------|
+|Performance |Performance Efficiency |
+|----------------------|-------------------|
 |Perspektive |Perspective |
+|----------------------|-------------------|
+|Portierbarkeit |Portability |
 |----------------------|-------------------|
 |Prinzip |Principle |
 |----------------------|-------------------|
@@ -218,13 +286,21 @@
 |----------------------|-------------------|
 |Qualitätsmerkmal |Quality attribute, Quality characteristic, Quality feature |
 |----------------------|-------------------|
-|Querschnittlich |Crosscutting |
+|Querschnittlich |Cross-cutting |
 |----------------------|-------------------|
 |Randbedingung |Constraint |
+|----------------------|-------------------|
+|reaktionsfähig |responsive |
+|----------------------|-------------------|
+|Rechenschaft |Accountability |
 |----------------------|-------------------|
 |Rechnungsprüfer |Cash auditor |
 |----------------------|-------------------|
 |Rechnungsprüfung |Cash audit |
+|----------------------|-------------------|
+|Reifegrad |Maturity |
+|----------------------|-------------------|
+|Ressourcenverbrauch |Resource Utilization |
 |----------------------|-------------------|
 |Sachziele |Security Goals |
 |----------------------|-------------------|
@@ -244,9 +320,15 @@
 |----------------------|-------------------|
 |Schulungsanbieter |Training provider |
 |----------------------|-------------------|
+|Schutz vor Fehlbedienung |User Error Protection |
+|----------------------|-------------------|
 |Schutzziele |Security Goals |
 |----------------------|-------------------|
 |Schätzung |Estimation |
+|----------------------|-------------------|
+|selbstwiederherstellend |resilient |
+|----------------------|-------------------|
+|Sicherheit |Security |
 |----------------------|-------------------|
 |Sicht |Architectural view, View |
 |----------------------|-------------------|
@@ -256,17 +338,29 @@
 |----------------------|-------------------|
 |Struktur |Structure |
 |----------------------|-------------------|
+|Technischer Kontext |Technical context |
+|----------------------|-------------------|
+|Testbarkeit |Testability |
+|----------------------|-------------------|
 |Unternehmens-IT-Architektur |Enterprise IT architecture |
 |----------------------|-------------------|
 |Untersuchung |Assessment |
 |----------------------|-------------------|
-|Verantwortlichkeit |Responsibility |
+|unverwüstlich |resilient |
+|----------------------|-------------------|
+|Verantwortlichkeit |Accountability, Responsibility |
+|----------------------|-------------------|
+|Verbesserung |Improvement |
+|----------------------|-------------------|
+|Verbesserungsmaßnahme |Improvement action |
 |----------------------|-------------------|
 |Verein |Association |
 |----------------------|-------------------|
 |Verfügbarkeit |Availability |
 |----------------------|-------------------|
 |Vergleichbarkeit |Commensurability |
+|----------------------|-------------------|
+|Verständlichkeit |Appropriateness Recognizability |
 |----------------------|-------------------|
 |Verteilung |Deployment |
 |----------------------|-------------------|
@@ -280,15 +374,31 @@
 |----------------------|-------------------|
 |Vorstand |Executive board |
 |----------------------|-------------------|
+|Wartbarkeit |Maintainability |
+|----------------------|-------------------|
+|Wechselwirkung |Tradeoff |
+|----------------------|-------------------|
 |Werkzeug |Tools |
 |----------------------|-------------------|
 |Werkzeug-Material-Ansatz |Tools-and-material-approach |
 |----------------------|-------------------|
+|Widerherstellbarkeit |Recoverability |
+|----------------------|-------------------|
+|Wiederverwendbarkeit |Reusability |
+|----------------------|-------------------|
 |Wirtschaftlichkeit |Economicalness, Thriftyness |
+|----------------------|-------------------|
+|Zeitverhalten |Time Behaviour |
 |----------------------|-------------------|
 |Zerlegung |Decomposition |
 |----------------------|-------------------|
 |Zertifizierungsstelle |Certification authority, Certification body |
 |----------------------|-------------------|
 |Ziel |Objective |
+|----------------------|-------------------|
+|Zugänglichkeit |Accessibility |
+|----------------------|-------------------|
+|Zuverlässigkeit |Reliability |
+|----------------------|-------------------|
+|Ästhetik der Benutzeroberfläche |User Interface Aesthetics |
 |----------------------|-------------------|
