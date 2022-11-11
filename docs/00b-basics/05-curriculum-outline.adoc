@@ -1,0 +1,26 @@
+// tag::DE[]
+=== Gliederung des Lehrplans
+
+Die einzelnen Abschnitte des Lehrplans sind gemäß folgender Gliederung beschrieben:
+
+- **Begriffe/Konzepte**: Wesentliche Kernbegriffe dieses Themas.
+- **Unterrichts-/Übungszeit**: Legt die Unterrichts- und Übungszeit fest, die für dieses Thema bzw. dessen Übung in einer akkreditierten Schulung mindestens aufgewendet werden muss.
+- **Lernziele**: Beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte.
+
+Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprechenden Schulungen.
+// end::DE[]
+
+// tag::EN[]
+=== Structure of the Curriculum
+
+The individual sections of the curriculum are described according to the following structure:
+
+- **Terms/principles**: Essential core terms of this topic.
+- **Teaching/practice time**: Defines the minimum amount of teaching and practice time that must be spent on this topic or its practice in an accredited training course.
+- **Learning goals**: Describes the content to be conveyed including its core terms and principles.
+
+This section therefore also outlines the skills to be acquired in corresponding training courses.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

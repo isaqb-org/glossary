@@ -1,0 +1,17 @@
+// header file for curriculum section 1: Basic Concepts
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+== {basics}
+
+include::01-what-to-expect-of-this-module.adoc[{include_configuration}]
+
+include::02-curriculum-structure-and-chronological-breakdown.adoc[{include_configuration}]
+
+include::03-timing-didactics-and-more.adoc[{include_configuration}]
+
+include::04-prerequisites-for-this-training.adoc[{include_configuration}]
+
+include::05-curriculum-outline.adoc[{include_configuration}]
+
+include::06-complementary-information.adoc[{include_configuration}]

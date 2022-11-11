@@ -1,0 +1,34 @@
+// tag::DE[]
+|===
+| Dauer: XXX Min. | Übungszeit: XXX Min.
+|===
+
+Dieser Abschnitt ist nicht prüfungsrelevant.
+
+=== Begriffe und Konzepte
+Innerhalb jeder lizenzierten Schulung muss mindestens ein Beispiel für {curriculum-short} vorgestellt werden.
+
+Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. den Interessen der Teilnehmer abhängen und werden seitens iSAQB nicht vorgegeben.
+// end::DE[]
+
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+This section is not examinable.
+
+=== Terms and Principles
+In every licensed training session, at least one example for {curriculum-short} must be presented.
+
+Type and structure of the examples presented may depend on the training and participants' interests.
+The are not prescribed by iSAQB.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen.
+====
+// end::REMARK[]

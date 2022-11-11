@@ -1,0 +1,65 @@
+// handle numerous attributes. Successful include of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+:toc-title: Inhaltsverzeichnis
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+:toc: left
+endif::[]
+
+// document-version fallback, should usually be overwritten by the build process,
+// e.g. build.gradle
+:document-version: 2020.1
+
+// define terms for toc, learning-goals
+include::config/i18n-definitions.adoc[tags={language}]
+
+<<<
+:sectnums!:
+include::00a-preamble/copyright.adoc[{include_configuration}]
+
+<<<
+toc::[]
+
+<<<
+// Auto-generated list of learning objectives
+include::learning-objectives.adoc[{include_configuration}]
+
+<<<
+:sectnums!:
+include::00a-preamble/00-introduction.adoc[{include_configuration}]
+
+<<<
+:sectnums!:
+include::00b-basics/00-basics.adoc[{include_configuration}]
+
+<<<
+:sectnums:
+include::01-module-block-1/00-structure.adoc[{include_configuration}]
+
+<<<
+include::02-module-block-2/00-structure.adoc[{include_configuration}]
+
+<<<
+include::03-module-block-3/00-structure.adoc[{include_configuration}]
+
+<<<
+include::04-module-block-4/00-structure.adoc[{include_configuration}]
+
+<<<
+include::05-module-block-5/00-structure.adoc[{include_configuration}]
+
+<<<
+include::20-examples/00-examples.adoc[{include_configuration}]
+
+<<<
+include::42-glossary/00-glossary.adoc[{include_configuration}]
+
+<<<
+include::99-references/00-references.adoc[{include_configuration}]

@@ -1,0 +1,15 @@
+// tag::DE[]
+:lang: DE
+:basics: Grundlegendes
+:learning-goals: Lernziele
+:references: Referenzen
+:examples: Beispiele
+// end::DE[]
+
+// tag::EN[]
+:lang: EN
+:basics: Essentials
+:learning-goals: Learning Goals
+:references: References
+:examples: Examples
+// end::EN[]

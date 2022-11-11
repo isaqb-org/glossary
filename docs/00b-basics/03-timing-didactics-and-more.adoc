@@ -1,0 +1,48 @@
+// tag::REMARK[]
+[NOTE]
+====
+Bitte in dieser Datei nur die "**?**"-Platzhalter durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen. Ansonsten keine Änderungen vornehmen!
+====
+// end::REMARK[]
+:recommended-duration-in-days: **?**
+:methodical-credits: **?**
+:technical-credits: **?**
+:communicative-credits: **?**
+
+// tag::DE[]
+=== Dauer, Didaktik und weitere Details
+
+Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
+sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
+Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+
+Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
+
+[stripes=none, frame=none, grid=rows]
+|===
+| Methodische Kompetenz: | {methodical-credits} Punkte
+| Technische Kompetenz: | {technical-credits} Punkte
+| Kommunikative Kompetenz: | {communicative-credits} Punkte
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Duration, Teaching Method and Further Details
+
+The times stated below are recommendations.
+The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
+Providers may differ in terms of duration, teaching method, type and structure of the exercises, and the detailed course structure.
+In particular, the curriculum provides no specifications on the nature of the examples and exercises.
+
+Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:
+
+[stripes=none, frame=none, grid=rows]
+|===
+| Methodical Competence: | {methodical-credits} Points
+| Technical Competence: | {technical-credits} Points
+| Communicative Competence: | {communicative-credits} Points
+|===
+
+// end::EN[]

@@ -1,0 +1,30 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-98-1]]
+==== LZ 98-1: Dies ist das letzte Lernziel des Lehrplans
+Hier wird ein mögliches Lernziel der Beispiele beschrieben, was Teilnehmer:innen lernen sollen.
+Das kann in Prosa-Text in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen.
+Dabei kann auch unterschieden werden, wie wichtig einzelne Aspekte des Lernziels sind.
+Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+// end::DE[]
+
+
+// tag::EN[]
+[[LG-98-1]]
+==== LG 98-1: Last learning goal of the curriculum
+// end::EN[]
+
+
+// tag::REMARK[]
+
+[NOTE]
+====
+KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
+====
+// end::REMARK[]

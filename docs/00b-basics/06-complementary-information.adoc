@@ -1,0 +1,15 @@
+// tag::DE[]
+=== Ergänzende Informationen, Begriffe, Übersetzungen
+
+Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
+
+// end::DE[]
+
+// tag::EN[]
+=== Supplementary Information, Terms, Translations
+
+To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the https://github.com/isaqb-org/glossary[iSAQB glossary] and complemented them by references to (translated) literature.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

@@ -1,0 +1,36 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Dies ist das erste Lernziel in Kapitel 4, das mit xyz
+
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+[[LZ-4-2]]
+==== LZ 4-2: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: TBD
+tbd.
+
+[[LG-4-2]]
+==== LG 4-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

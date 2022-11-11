@@ -1,0 +1,55 @@
+// header file for curriculum section "References"
+// (c) iSAQB e.V. (https://isaqb.org)
+// ===============================================
+
+[bibliography]
+== {references}
+
+// tag::DE[]
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+// end::DE[]
+
+// tag::EN[]
+This section contains references that are cited in the curriculum.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Aufbau eines Eintrags-Ankers:
+```
+- [[[label,Text der erscheint]]]
+```
+ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+
+= = =
+
+Structure of an anchor:
+```
+- [[[label,text that will be shown]]]
+```
+ATTENTION: labels have to be non-numeric.
+====
+// end::REMARK[]
+
+**B**
+
+- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
+- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+
+**C**
+
+- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+
+**H**
+
+- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+
+**K**
+
+- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+
+**S**
+
+- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+

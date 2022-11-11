@@ -1,0 +1,42 @@
+// tag::DE[]
+=== Voraussetzungen
+
+Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+
+- Voraussetzung 1
+- Voraussetzung 2, etc.
+
+**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
+
+- Kenntnisgruppe 1:
+  * Kenntnis 1
+  * Erfahrung 2
+  * Kenntnis 3
+  * Erfahrung 4
+  * Wissen 5
+// end::DE[]
+
+// tag::EN[]
+=== Prerequisites
+
+Participants **should** have the following prerequisite knowledge:
+
+- Prerequisite 1
+- Prerequisite 2, etc.
+
+Knowledge in the following areas may be **helpful** for understanding some concepts:
+
+- Area 1:
+  * Knowledge 1
+  * Experience 2
+  * Knowledge 3
+  * Experience 4
+  * Understanding 5
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
+====
+// end::REMARK[]

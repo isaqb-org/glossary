@@ -1,0 +1,28 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: The is the first learning goal, in category xy
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

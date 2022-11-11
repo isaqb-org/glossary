@@ -1,0 +1,47 @@
+:doctype: book
+:icons: font
+:sectnumlevels: 2
+:imagesdir: images
+:chapter-label: 
+
+// if the attribute ":withRemarks:" is set, we amend every content-include
+// by ";REMARK", so that the sections tagged "REMARK" are always included.
+:withRemarks!:
+:remarks:
+ifdef::withRemarks[]
+:remarks: ;REMARK
+endif::withRemarks[]
+
+// ":language:" denotes the language or the target document.
+// currently only DE and EN are supported
+:language: DE
+
+// ":include_configuration:" always consists of the language, optionally
+// followed by ";REMARK"
+// additional markers might be configured here!
+:include_configuration: tags=**;{language}{remarks};!*
+
+:curriculum-short: MODULKUERZEL
+
+ifeval::["{language}" == "DE"]
+:curriculum-name: MODULNAME IN VOLLER LAENGE
+:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+endif::[]
+
+ifeval::["{language}" == "EN"]
+:curriculum-name: FULL NAME OF MODULE
+:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+endif::[]
+
+// you might want to output some internal information...
+ifdef::debug_adoc[]
+[NOTE]
+====
+Current configuration:
+
+* Language(s): {language}
+* Document version: {document-version}
+* Include-configuration: {include_configuration}
+
+====
+endif::debug_adoc[]

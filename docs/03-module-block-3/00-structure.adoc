@@ -1,0 +1,18 @@
+// header file for curriculum section 3: Lerneinheit 3
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::DE[]
+== Der Titel des dritten Moduls
+// end::DE[]
+
+// tag::EN[]
+== The Third Module's Title
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[{include_configuration}]
+
+// references (if any!)
+include::references.adoc[{include_configuration}]
