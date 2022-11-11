@@ -9,8 +9,8 @@ class Translator {
     final static String SOURCE_FILEPATH = "translations/"
     final static String TARGET_FILEPATH = "generated/"
 
-    final static String EN_DE_FILENAME = "gen-tt-EN-DE.md"
-    final static String DE_EN_FILENAME = "gen-tt-DE-EN.md"
+    final static String EN_DE_FILENAME = "gen-tt-EN-DE.adoc"
+    final static String DE_EN_FILENAME = "gen-tt-DE-EN.adoc"
 
     final static String FILENAME = "isaqb-terms-translated.json"
 
@@ -42,7 +42,7 @@ class Translator {
 
 
     static TranslationTable build_EN_TranslationTable(List terms) {
-        print "Building markdown translation table EN to DE "
+        print "Building asciidoc translation table EN to DE "
 
         TranslationTable translationTable = new TranslationTable("en", "de")
 
@@ -71,7 +71,7 @@ class Translator {
 
 
     static TranslationTable build_DE_TranslationTable(List terms) {
-        print "Building markdown translation table DE to EN "
+        print "Building asciidoc translation table DE to EN "
 
         TranslationTable translationTable = new TranslationTable("de", "en")
 
@@ -250,7 +250,7 @@ from JSON by Groovy and Gradle.
     }
 
     static void main(String... args) {
-        println("\n\niSAQB Glossary Translation Markdown Generator\n\n")
+        println("\n\niSAQB Glossary Translation AsciiDoc Generator\n\n")
 
         def terms = parseFile(translationJSONSourceFile)
 
@@ -261,14 +261,14 @@ from JSON by Groovy and Gradle.
             int nrOfTerms = en_de.terms.size()
 
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
-            generated_EN_DE_File.text = createDateAsMarkDownFootnote(nrOfTerms) + en_de.translationTableToLeanpubMarkdown()
+            generated_EN_DE_File.text = createDateAsMarkDownFootnote(nrOfTerms) + en_de.translationTableToAsciiDoc()
             println("with ${nrOfTerms} terms, file \"$EN_DE_FILENAME\".\n")
 
             de_en = build_DE_TranslationTable(terms)
             nrOfTerms = de_en.terms.size()
 
             generated_DE_EN_File = clearFileForWriting(TARGET_FILEPATH + DE_EN_FILENAME)
-            generated_DE_EN_File.text = de_en.translationTableToLeanpubMarkdown()
+            generated_DE_EN_File.text = de_en.translationTableToAsciiDoc()
             println("with ${nrOfTerms} terms, file \"$DE_EN_FILENAME\".")
 
         }

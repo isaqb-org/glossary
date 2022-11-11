@@ -1,11 +1,15 @@
 import org.asciidoctor.gradle.jvm.AsciidoctorTask
 import java.text.SimpleDateFormat
 
+
 plugins {
     id "org.asciidoctor.jvm.base" version "3.3.2"
     id "org.asciidoctor.jvm.convert" version "3.3.2"
     id "org.asciidoctor.jvm.pdf" version "3.3.2"
+    id "java"
+    id "groovy"
 }
+
 repositories {
     mavenCentral()
 }
@@ -30,6 +34,22 @@ ext {
     }
 }
 
+
+dependencies {
+    implementation 'org.codehaus.groovy:groovy-all:3.0.13'
+
+    // We use the awesome Spock testing and specification framework
+    testImplementation 'org.spockframework:spock-core:2.3-groovy-4.0'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+task generateTranslationTables(dependsOn: compileGroovy, type: JavaExec) {
+    jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED']
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'Translator'
+}
 
 
 

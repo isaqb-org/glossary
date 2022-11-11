@@ -5,8 +5,6 @@ class TranslationTable {
 
     final String sourceLanguage // e.g. "English"
 
-    final String MARKDOWN_TABLE_SEPARATOR = "|----------------------|-------------------|\n"
-
     final Map<String, String> LANGUAGES = [en: "English", de: "German"]
 
 
@@ -51,27 +49,25 @@ class TranslationTable {
         }
     }
 
-    // ********** convert to Markdown
+    // ********** convert to AsciiDoc
 
     private String ttHeader() {
 
-        return "\n{width=95%}\n" +
-                "|${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)}  |\n" +
-                MARKDOWN_TABLE_SEPARATOR
-
+        return "[cols=\"1,1\"]" +
+                "|===\n" +
+                "]${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)} \n"
     }
 
     private String ttLines() {
         String lines = ""
         terms.sort(String.CASE_INSENSITIVE_ORDER).each { key, value ->
-            lines = lines + termToMarkdown(key) +
-                    MARKDOWN_TABLE_SEPARATOR
+            lines = lines + termToAsciiDoc(key)
         }
         return lines
     }
 
 
-    String termToMarkdown(String key) {
+    String termToAsciiDoc(String key) {
         String tmp = terms.get(key)
 
         String temp = "|${key} |${terms?.get(key)?.join(", ")} |\n"
@@ -79,18 +75,13 @@ class TranslationTable {
         return temp
     }
 
-    /*
-    // "functional" version that does not handle de-en translation correctly
-    def translations = {final List list, result=null ->
-        if (!list) return result
-        final nextRes = result ? result+", " +list.head() : list.head()
-        call (list.tail(), nextRes)
+    String ttFooter() {
+        return "|==="
     }
-    */
 
 
-    String translationTableToLeanpubMarkdown() {
-        return ttHeader() + ttLines()
+    String translationTableToAsciiDoc() {
+        return ttHeader() + ttLines() + ttFooter()
     }
 
     // ********* translate words
