@@ -1,5 +1,6 @@
 
 [bibliography]
+[#section-references]
 == {references}
 
 // tag::DE[]

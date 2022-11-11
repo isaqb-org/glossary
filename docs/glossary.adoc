@@ -30,7 +30,7 @@ include::0-preamble/0-structure.adoc[{include_configuration}]
 include::1-terms/0-structure.adoc[{include_configuration}]
 
 <<<
-include::8-references/0-references.adoc[{include_configuration}]
+include::8-references/references.adoc[{include_configuration}]
 
 :toclevels: 1
 <<<

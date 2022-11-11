@@ -1,8 +1,14 @@
+// tag::EN[]
 
 === Acknowledgements
 
-Several parts of this glossary have been contributed by the following volunteers and sponsors
-(apart from the numerous <<authors,authors.>>)
+Several parts of this glossary have been contributed by the following volunteers and sponsors  (apart from the numerous <<authors,authors.>>)
 
 * The definitions of about 120 terms have been donated by  Gernot Starke, originally compiled for one of his https://esabuch.de/[books].
 * A number of definitions in context of system improvement and evolution was contributed by the http://aim42.github.io/[aim42] open source project.
+// end::EN[]
+
+// tag::DE[]
+=== Danksagung
+
+// end::DE[]
