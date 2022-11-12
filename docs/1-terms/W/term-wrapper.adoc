@@ -10,7 +10,8 @@ Depending on the sources, the semantics of the term _wrapper_ may vary.
 ====
 Comment (Gernot Starke)
 
-The tiny differences found in literature regarding this term often don't matter in real-life. _Wrapping_ a component or building-block shall have a clear semantics within a single software system.
+The tiny differences found in literature regarding this term often don't matter in real-life.
+_Wrapping_ a component or building-block shall have a clear semantics within a single software system.
 ====
 // end::EN[]
 
@@ -18,15 +19,15 @@ The tiny differences found in literature regarding this term often don't matter 
 
 ==== Wrapper
 
-(Syn.: Decorator, Adapter, Gateway) Muster zum Wegabstrahieren der
-konkreten Schnittstelle oder Implementierung oder Komponente. Fügen
-zusätzliche Verantwortlichkeiten dynamisch zu einem Objekt hinzu.
+(Syn.: Decorator, Adapter, Gateway) Muster zum abstrahieren der konkreten Schnittstelle oder Implementierung oder Komponente.
+Wrapper fügen zusätzliche Verantwortlichkeiten dynamisch zu einem Objekt hinzu.
 
 [NOTE]
 ====
 Anmerkung (Gernot Starke)
 
-Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff  finden, spielen im realen Leben häufig keine Rolle. Das _Wrapping_  einer Komponente oder eines Bausteins muss in einem einzelnen Softwaresystem eine klare Bedeutung haben.
+Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff  finden, spielen im realen Leben häufig keine Rolle.
+Das _Wrapping_  einer Komponente oder eines Bausteins muss in einem einzelnen Softwaresystem eine klare Bedeutung haben.
 ====
 
 // end::DE[]

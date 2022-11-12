@@ -1,6 +1,9 @@
 
 === A
 
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
 include::term-abstraction.adoc[{include_configuration}]
 include::term-abstractness.adoc[{include_configuration}]
 include::term-accessibility-quality-attribute.adoc[{include_configuration}]

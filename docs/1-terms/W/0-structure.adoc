@@ -1,6 +1,12 @@
 === W
 
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
 include::term-waterfall-development.adoc[{include_configuration}]
+include::term-web-of-trust.adoc[{include_configuration}]
+include::term-whitebox.adoc[{include_configuration}]
+include::term-workflow-management-system.adoc[{include_configuration}]
 include::term-wrapper.adoc[{include_configuration}]
 
 

@@ -1,5 +1,8 @@
 
 === I
 
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
 include::term-iterative-development.adoc[{include_configuration}]
 
