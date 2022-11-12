@@ -13,11 +13,11 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.codehaus.groovy:groovy-all:3.0.13'
-
-    // We use the awesome Spock testing and specification framework
-    testImplementation 'org.spockframework:spock-core:2.3-groovy-4.0'
-    testImplementation 'junit:junit:4.13.2'
+    implementation platform('org.apache.groovy:groovy-bom:4.0.5')
+    implementation 'org.apache.groovy:groovy'
+    testImplementation platform("org.spockframework:spock-bom:2.3-groovy-4.0")
+    testImplementation "org.spockframework:spock-core"
+    testImplementation "org.apache.groovy:groovy-json:4.0.3"
 }
 
 task generateTables(dependsOn: compileGroovy, type: JavaExec) {

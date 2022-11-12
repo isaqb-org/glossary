@@ -52,10 +52,10 @@ class TranslationTable {
     // ********** convert to AsciiDoc
 
     private String ttHeader() {
+        String columnDefinition = "[cols=\"1,1\"]\n"
+        String titleRow =  "| *${LANGUAGES.get(sourceLanguageCode)}* | *${LANGUAGES.get(targetLanguageCode)}*\n"
 
-        return "[cols=\"1,1\"]" +
-                "|===\n" +
-                "]${LANGUAGES.get(sourceLanguageCode)}     |${LANGUAGES.get(targetLanguageCode)} \n"
+        return "${columnDefinition}|===\n$titleRow"
     }
 
     private String ttLines() {
@@ -70,13 +70,13 @@ class TranslationTable {
     String termToAsciiDoc(String key) {
         String tmp = terms.get(key)
 
-        String temp = "|${key} |${terms?.get(key)?.join(", ")} |\n"
+        String temp = "|${key} |${terms?.get(key)?.join(", ")} \n"
 
         return temp
     }
 
     String ttFooter() {
-        return "|==="
+        return "\n|=== \n"
     }
 
 

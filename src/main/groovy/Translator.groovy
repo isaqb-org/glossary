@@ -53,11 +53,9 @@ class Translator {
             def trans = it.de
             if (trans instanceof String) {
                 translations.add(trans)
-            }
-            else if (trans instanceof List) {
+            } else if (trans instanceof List) {
                 translations = trans
-            }
-            else {
+            } else {
                 println "error: $trans"
                 assert false
             }
@@ -86,8 +84,7 @@ class Translator {
                 }
                 existingTrans.add(it.en)
                 translationTable.put(sources, existingTrans)
-            }
-            else if (sources instanceof List) {
+            } else if (sources instanceof List) {
                 sources.each { deWord ->
                     def existingTrans = translationTable?.terms?.get(deWord)
                     if (existingTrans == null) {
@@ -97,8 +94,7 @@ class Translator {
                     existingTrans.add(it.en)
                     translationTable.put(deWord, existingTrans.sort())
                 }
-            }
-            else {
+            } else {
                 println "error in de_en: $sources"
                 assert false
             }
@@ -118,8 +114,7 @@ class Translator {
     static boolean checkIfTranslationMap(Object termsFromJSON) {
         if (termsFromJSON instanceof java.util.List) {
             return true
-        }
-        else {
+        } else {
             errorMsg(termsFromJSON, "has no JSON list format.")
         }
     }
@@ -133,8 +128,7 @@ class Translator {
     private static boolean isMap(Object term) {
         if (term instanceof Map) {
             return true
-        }
-        else {
+        } else {
             errorMsg(term, "syntax error: is no Map (but ${term.class})")
         }
     }
@@ -143,12 +137,10 @@ class Translator {
         if (term.en instanceof String) {
             if ((term.en != null) && (term.en != "") && (term.en.size() > 1)) {
                 return true
-            }
-            else {
+            } else {
                 errorMsg(term, "has no proper English (en:) source-term.")
             }
-        }
-        else {
+        } else {
             errorMsg(term, "is missing English (en:) source-term.")
         }
     }
@@ -156,8 +148,7 @@ class Translator {
     private static boolean hasDETranslation(Object term) {
         if (term.de != null) {
             return true
-        }
-        else {
+        } else {
             errorMsg(term, "seems to have no German translation")
         }
     }
@@ -166,8 +157,7 @@ class Translator {
     private static boolean translationIsStringOrList(Object term) {
         if ((term.de instanceof String) || (term.de instanceof List<String>)) {
             return true
-        }
-        else {
+        } else {
             errorMsg(term, ": German (de) translation is neither String nor List")
         }
     }
@@ -176,8 +166,7 @@ class Translator {
     private static boolean isNonTrivialTranslation(term) {
         if (term.en != term.de) {
             return true
-        }
-        else {
+        } else {
             errorMsg(term, ": English word shall be different from German word.")
         }
     }
@@ -187,12 +176,10 @@ class Translator {
         if (term.de instanceof List<String>) {
             if (term.de.size() >= 2) {
                 return true
-            }
-            else {
+            } else {
                 errorMsg(term, "'de:' translation list shall contain multiple translations (otherwise a list makes no sense).")
             }
-        }
-        else {
+        } else {
             return true
         }
     }
@@ -200,8 +187,7 @@ class Translator {
     private static boolean hasOnlyGermanAndEnglishEntries(Object term) {
         if (term.keySet().sort() == ["de", "en"]) {
             return true
-        }
-        else {
+        } else {
             errorMsg(term.keySet(), ": contains illegal language keys (currently only 'de:' and 'en:' are supported)")
         }
     }
@@ -235,18 +221,27 @@ class Translator {
         return isCompliant
     }
 
-    /*
-     ** As a convention, we insert a Footnote in the translation table.
-     */
 
-    static final String createDateAsMarkDownFootnote(int nrOfTerms) {
+
+
+    static final String createCommentHeader() {
         return """
-The following tables have been automatically generated[^TransTableGenerationDate]
-from JSON by Groovy and Gradle.
+// This file has been generated. 
+//
+// DO NOT MODIFY, as changes will be overwritten. 
+//
+//------------------------------------------------- 
+ 
+ """
+    } // ttCommentHeader
 
-[^TransTableGenerationDate]:$nrOfTerms english terms, generated on ${DateTimeFormatter.ofPattern("MMMM dd, yyyy", Locale.GERMAN).format(LocalDateTime.now())}\n
 
-"""
+    static final String creationDateAsAsciiDoc(int nrOfTerms) {
+        def generationStats = "They contain $nrOfTerms english terms, generated on " +
+                DateTimeFormatter.ofPattern("MMMM dd, yyyy", Locale.US).format(LocalDateTime.now()) + "\n\n"
+
+        return "The following tables have been automatically generated from JSON by Groovy and Gradle.\n" + generationStats
+
     }
 
     static void main(String... args) {
@@ -261,18 +256,22 @@ from JSON by Groovy and Gradle.
             int nrOfTerms = en_de.terms.size()
 
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
-            generated_EN_DE_File.text = createDateAsMarkDownFootnote(nrOfTerms) + en_de.translationTableToAsciiDoc()
+
+            // here we create the actual content of the generated file
+            generated_EN_DE_File.text = createCommentHeader()+ "\n" + creationDateAsAsciiDoc(nrOfTerms) + (en_de.translationTableToAsciiDoc())
+
             println("with ${nrOfTerms} terms, file \"$EN_DE_FILENAME\".\n")
 
             de_en = build_DE_TranslationTable(terms)
             nrOfTerms = de_en.terms.size()
 
             generated_DE_EN_File = clearFileForWriting(TARGET_FILEPATH + DE_EN_FILENAME)
-            generated_DE_EN_File.text = de_en.translationTableToAsciiDoc()
+            generated_DE_EN_File.text = createCommentHeader()
+              << de_en.translationTableToAsciiDoc()
+
             println("with ${nrOfTerms} terms, file \"$DE_EN_FILENAME\".")
 
-        }
-        else {
+        } else {
             println("Error in JSON file - cannot proceed")
         }
     }
