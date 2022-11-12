@@ -15,7 +15,7 @@
 include::A/0-structure.adoc[]
 // include::B/0-structure.adoc[{include_configuration}]
 // include::C/0-structure.adoc[{include_configuration}]
-// include::D/0-structure.adoc[{include_configuration}]
+include::D/0-structure.adoc[]
 // include::E/0-structure.adoc[{include_configuration}]
 // include::F/0-structure.adoc[{include_configuration}]
 // include::G/0-structure.adoc[{include_configuration}]
