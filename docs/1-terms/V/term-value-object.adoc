@@ -1,0 +1,19 @@
+// tag::EN[]
+
+==== Value Object
+
+Value Object is a building block of <<term-DDD,Domain-Driven Design>>.
+ValueObjects do not have a conceptual identity of their own and should be treated as immutable.
+They are used to describe the state of <<term-entity,entities>> and may be composed of other value objects but never of <<term-entity,entities>>.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Wertobjekt
+
+Ein Wertobjekt ist ein Baustein des <<term-DDD,Domain-Driven  Designs>>.
+Wertobjekte haben keine eigene konzeptionelle Identität und sollten als unveränderlich behandelt werden.
+Sie werden zur Beschreibung des Zustands von <<term-entity,Entitäten>> genutzt und können aus anderen Wertobjekten, aber niemals aus <<term-entity,Entitäten>> bestehen.
+
+// end::DE[]

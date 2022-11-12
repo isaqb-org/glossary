@@ -1,0 +1,9 @@
+=== V
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-value-object.adoc[{include_configuration}]
+include::term-view.adoc[{include_configuration}]
+
+

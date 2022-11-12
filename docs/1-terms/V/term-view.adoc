@@ -1,0 +1,15 @@
+// tag::EN[]
+
+==== View
+
+see: <<term-architecture-view,architecture view>>
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Sicht
+
+Siehe: <<term-architecture-view,Architektursicht>>
+
+// end::DE[]
