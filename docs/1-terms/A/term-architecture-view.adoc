@@ -1,9 +1,10 @@
 // tag::EN[]
-### Architecture View
+
+==== Architecture View
 
 A representation of a system from a specific perspective. Important and well-known views are:
 
-* [Context view](#term-context-view),
+* <<term-context-view,Context view>>
 * Building block view
 * Runtime view
 * Deployment view
@@ -12,31 +13,26 @@ A representation of a system from a specific perspective. Important and well-kno
 
 Following ISO/IEC/IEEE 42010, an architecture view is a work product expressing the architecture of a system from the perspective of specific system concerns (as defined in ISO/IEC/IEEE 42010).
 
-Category: ISO-IEC-IEEE-42010
-
-
-
 
 // end::EN[]
 
 // tag::DE[]
-### Architektursicht
+
+==== Architektursicht
 
 Eine Darstellung eines Systems aus einer spezifischen Perspektive.
 Wichtige und bekannte Sichten:
 
--   [Kontextabgrenzung](#term-context-view),
+* <<term-context-view,Kontextabgrenzung>>
 
--   Bausteinsicht
+* Bausteinsicht
 
--   Laufzeitsicht
+* Laufzeitsicht
 
--   Verteilungssicht
+* Verteilungssicht
 
 [Bass+2012] und [Rozanski+11] erörtern dieses Konzept ausführlich.
 
-Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis,
-das die Architektur eines Systems aus der Perspektive spezifischer
-Systembelange darstellt (gemäß Definition in ISO/IEC/IEEE 42010).
+Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis, das die Architektur eines Systems aus der Perspektive spezifischer Systembelange darstellt (gemäß Definition in ISO/IEC/IEEE 42010).
 
-Kategorie: ISO-IEC-IEEE-42010
+// end::DE[]

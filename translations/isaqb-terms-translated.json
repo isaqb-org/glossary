@@ -833,7 +833,7 @@
   },
   {
     "en": "View",
-    "de": "Sicht"
+    "de": ["Sicht","Architektursicht"]
   },
   {
     "en": "Working group",

@@ -7,4 +7,4 @@
 include::term-abstraction.adoc[{include_configuration}]
 include::term-abstractness.adoc[{include_configuration}]
 include::term-accessibility-quality-attribute.adoc[{include_configuration}]
-
+include::term-architecture-view.adoc[{include_configuration}]
