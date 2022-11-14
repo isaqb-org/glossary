@@ -20,3 +20,7 @@ werden. (Übersetztes englisches Zitat von der
 Eine Liste der in der ISO 25010 Norm definierten Qualitätsmerkmale
 findet sich unter [ISO 25010](#term-iso-25010).
 
+
+
+// end::DE[]
+

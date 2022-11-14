@@ -17,3 +17,7 @@ Instanzen) zur Laufzeit in konkreten Szenarien. Sollte auf Elemente
 der [Bausteinsicht](#term-building-block-view) verweisen. Kann beispielsweise (muss
 aber nicht) als UML-Sequenz oder Aktivitätsdiagramm ausgedrückt
 werden.
+
+
+// end::DE[]
+

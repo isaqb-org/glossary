@@ -27,3 +27,7 @@ Meine persönliche Meinung: Verfolgbarkeit sollte nach Möglichkeit
 vermieden werden, da sie einen erheblichen Dokumentationsaufwand
 verursacht.
 
+
+
+// end::DE[]
+

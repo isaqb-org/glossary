@@ -15,3 +15,7 @@ Greifbares Nebenprodukt, das während der Softwareentwicklung erstellt
 oder erzeugt wird. Beispiele für Artefakte sind Anwendungsfälle, alle
 Arten von Diagrammen, UML-Modelle, Anforderungs- und
 Entwurfsunterlagen, Quellcode, Testfälle, Klassendateien, Archive.
+
+
+// end::DE[]
+

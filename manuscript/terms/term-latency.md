@@ -7,3 +7,7 @@ In computer networks, latency describes the time it takes for an amount of data 
 In interactive systems, latency is the time interval between some input to the system and the audio-visual response.
 Often a delay exists, often caused by network delays.
 
+
+
+// end::DE[]
+

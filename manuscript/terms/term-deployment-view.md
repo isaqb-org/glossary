@@ -24,3 +24,7 @@ Softwareelemente in Bezug auf die Laufzeitumgebung, die sie ausführt."
 (Übersetztes englisches Zitat von
 [Rozanski+2011](http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/))
 
+
+
+// end::DE[]
+

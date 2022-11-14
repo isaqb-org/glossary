@@ -58,3 +58,7 @@ Wenn jedes einzelne Konzept von einer einzigen Komponente ausgedrückt
 wird, gibt es keine unnötigen Kopplungen zwischen Komponenten.
 
 Kategorie: Entwurfsprinzip
+
+
+// end::DE[]
+

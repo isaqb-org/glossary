@@ -18,3 +18,7 @@ und zugänglich sind, wenn sie benötigt werden. Teilmerkmal von:
 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010, Sicherheit
+
+
+// end::DE[]
+

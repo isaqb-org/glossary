@@ -22,3 +22,7 @@ von Robin Martins für objektorientierte Systeme. Kann in
 objektorientierten Sprachen durch
 Schnittstellenvererbung, allgemeiner als
 *Plugins*, implementiert werden.
+
+
+// end::DE[]
+

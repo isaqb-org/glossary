@@ -22,3 +22,7 @@ sehen
 nach.
 
 Kategorie: Entwurfsmuster
+
+
+// end::DE[]
+

@@ -25,3 +25,7 @@ manchmal eine Kombination der beiden:
 Kapselung ist ein Mechanismus zum [Verbergen von
 Informationen](#term-information-hiding).
 
+
+
+// end::DE[]
+

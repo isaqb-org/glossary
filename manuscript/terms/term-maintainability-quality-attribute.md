@@ -23,3 +23,7 @@ folgenden Teilmerkmalen: [Modularität](#term-modularity-quality-attribute),
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

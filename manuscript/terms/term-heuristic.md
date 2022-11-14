@@ -16,3 +16,7 @@ Entwurf](http://www.vincehuston.org/ood/oo_design_heuristics.html)
 oder
 [Benutzeroberflächenentwurf](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
+
+
+// end::DE[]
+

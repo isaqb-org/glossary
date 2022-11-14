@@ -29,3 +29,7 @@ Version 3.0 und sollte nun statt SSL verwendet werden [siehe RFC7568
 „Deprecating Secure Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
 
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

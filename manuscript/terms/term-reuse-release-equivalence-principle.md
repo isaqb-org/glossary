@@ -35,3 +35,7 @@ Das REP enthält zwei unterschiedliche Erkenntnisse:
 
 Kategorie: Entwurfsprinzip
 
+
+
+// end::DE[]
+

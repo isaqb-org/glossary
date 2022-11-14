@@ -17,3 +17,7 @@ betrifft. Beispiele für diese Belange sind Logging, Transaktionen,
 Sicherheit, Ausnahmebehandlung, Caching etc.
 
 Siehe auch [Konzept](#term-concept).
+
+
+// end::DE[]
+

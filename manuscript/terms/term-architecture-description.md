@@ -14,3 +14,7 @@ Arbeitsergebnis, das genutzt wird, um eine Architektur zum Ausdruck zu
 bringen (gemäß Definition in ISO/IEC/IEEE 42010).
 
 Kategorie: ISO-IEC-IEEE-42010
+
+
+// end::DE[]
+

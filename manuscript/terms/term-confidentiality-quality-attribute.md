@@ -19,3 +19,7 @@ Zugriffsberechtigte Zugriff auf die Daten haben. Teilmerkmal von:
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

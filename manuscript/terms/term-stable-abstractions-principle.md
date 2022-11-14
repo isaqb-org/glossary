@@ -48,3 +48,7 @@ Abhängigkeiten definiert sind (vorausgesetzt es gibt [keine
 Abhängigkeitszyklen](#term-acyclic-dependencies-principle)).
 
 Kategorie: Entwurfsprinzip
+
+
+// end::DE[]
+

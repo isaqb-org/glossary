@@ -30,3 +30,7 @@ rechtlichen, regulatorische, ökologische und soziale Einflüsse.
 
 Kategorie: ISO-IEC-IEEE-42010
 
+
+
+// end::DE[]
+

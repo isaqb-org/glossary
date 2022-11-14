@@ -11,3 +11,7 @@
 *The Open Group Architecture Framework*. Konzeptioneller Rahmen für
 die Planung und Wartung von Unternehmens-IT-Architekturen.
 
+
+
+// end::DE[]
+

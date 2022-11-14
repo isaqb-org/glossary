@@ -33,3 +33,7 @@ Siehe [McGraw „An Enterprise Software Security Program", Seite 239](#ref-mcgra
 
 Kategorie: Sicherheit
 
+
+
+// end::DE[]
+

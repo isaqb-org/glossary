@@ -21,3 +21,7 @@ betrieben wird.
 Gestützt auf eine [Definition von Scott
 Ambler](http://agilemodeling.com/artifacts/constraint.htm)
 
+
+
+// end::DE[]
+

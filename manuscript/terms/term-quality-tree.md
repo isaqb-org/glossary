@@ -31,3 +31,7 @@ verfeinert werden. Qualitätsszenarien bilden die Blätter dieses Baums.
 
 ![Beispiel eines Qualitätsbaums](media/image13.png){width="3.5522911198600173in"
 height="2.0834372265966756in"}
+
+
+// end::DE[]
+

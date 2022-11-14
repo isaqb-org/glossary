@@ -14,3 +14,7 @@ Synonym: principle, rule.
 Siehe [Konzept](#term-concept).
 
 Synonym: Prinzip, Regel.
+
+
+// end::DE[]
+

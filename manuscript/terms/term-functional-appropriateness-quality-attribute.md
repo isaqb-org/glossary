@@ -18,3 +18,7 @@ Eignung](#term-functional-suitability-quality-attribute). Vgl. Website von [ISO
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

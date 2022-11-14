@@ -12,3 +12,7 @@ or complicated building block (the _provider_) without any modifications to the 
 Strukturentwurfsmuster. Eine Fassade bietet eine einfache
 Schnittstelle zu einem komplexen oder komplizierten
 Baustein (dem *Provider*) ohne Modifikationen am Provider.
+
+
+// end::DE[]
+

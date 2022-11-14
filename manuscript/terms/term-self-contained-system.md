@@ -23,3 +23,7 @@ vieler kleinerer Softwaresysteme ist. Dies verhindert das Problem
 großer Monolithen, die stetig wachsen und irgendwann nicht mehr
 wartbar sind."
 
+
+
+// end::DE[]
+

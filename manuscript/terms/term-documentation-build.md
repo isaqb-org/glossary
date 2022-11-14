@@ -12,3 +12,7 @@ Automatic build process that collects artifacts into a consistent documentation.
 Automatischer Prozess, mit dem Artefakte zu
 einer konsistenten Dokumentation zusammengestellt werden.
 
+
+
+// end::DE[]
+

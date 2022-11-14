@@ -25,3 +25,7 @@ Ausnahmen zuständig.
 
 Kategorie: Architekturmuster
 
+
+
+// end::DE[]
+

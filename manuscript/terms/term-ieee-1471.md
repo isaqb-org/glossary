@@ -16,3 +16,7 @@ einen (abstrakten) Rahmen für die Beschreibung von
 Softwarearchitekturen fest.
 
 
+
+
+// end::DE[]
+

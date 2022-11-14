@@ -15,3 +15,7 @@ Softwaresystemen. Von ihrer Website: FMC bietet einen Rahmen für die
 umfassende Beschreibung von softwareintensiven Systemen. Es
 basiert auf einer präzisen Terminologie und
 wird durch eine leicht verständliche grafische Notation unterstützt.
+
+
+// end::DE[]
+

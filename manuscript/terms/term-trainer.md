@@ -14,3 +14,7 @@ Entsprechend dürfen akkreditierte Schulungsanbieter nur
 CPSA-Schulungen mit akkreditierten Schulungsleitern organisieren und
 durchführen. Nur akkreditierte Schulungsanbieter können
 [Akkreditierungen](#term-accreditation) von Schulungsleitern beantragen.
+
+
+// end::DE[]
+

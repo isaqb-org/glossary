@@ -28,3 +28,7 @@ Nachbarn können andere Software, Hardware (wie Sensoren), Menschen,
 Benutzerrollen oder sogar Organisationen, die das System nutzen, sein.
 
 Siehe [Kontext](#term-context).
+
+
+// end::DE[]
+

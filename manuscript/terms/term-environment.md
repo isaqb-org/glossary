@@ -22,3 +22,7 @@ Einflüsse ein.
 
 Kategorie: ISO-IEC-IEEE-42010
 
+
+
+// end::DE[]
+

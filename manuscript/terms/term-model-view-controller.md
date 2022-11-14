@@ -35,3 +35,7 @@ trennen:
 -   Die Steuerung akzeptiert (Benutzer-) Eingaben und wandelt diese in
     Befehle für das Modell oder die Präsentation um.
 
+
+
+// end::DE[]
+

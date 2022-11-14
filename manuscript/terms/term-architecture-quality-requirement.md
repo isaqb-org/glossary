@@ -10,3 +10,7 @@ See [architecture goal](#term-architecture-goal).
 ### Architektur-Qualitätsanforderung
 
 Siehe [Architekturziel](#term-architecture-goal).
+
+
+// end::DE[]
+

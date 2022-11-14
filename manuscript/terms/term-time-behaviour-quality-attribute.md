@@ -19,3 +19,7 @@ von: [Leistungseffizienz](#term-performance-efficiency-quality-attribute). Vgl. 
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

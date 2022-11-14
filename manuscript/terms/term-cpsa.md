@@ -12,3 +12,7 @@ Bezeichnung für die verschiedenen Zertifizierungsstufen des
 [iSAQB](#term-isaqb). Die bekanntesten Zertifizierungen sind das
 Foundation Level (CPSA-F) und das Advanced
 Level (CPSA-A).
+
+
+// end::DE[]
+

@@ -23,3 +23,7 @@ haben. Es besteht aus folgenden Teilmerkmalen:
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

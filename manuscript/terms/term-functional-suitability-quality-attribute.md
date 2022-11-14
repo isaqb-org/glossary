@@ -22,3 +22,7 @@ Angemessenheit](#term-functional-appropriateness-quality-attribute). Vgl. Websit
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

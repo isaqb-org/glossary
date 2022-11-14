@@ -18,3 +18,7 @@ von: [Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. Website von [
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

@@ -13,3 +13,7 @@ for documentation of information systems. Defined in ISO/IEC 10746.
 *Reference Model for Open Distributed Processing*. (Abstraktes)
 Metamodell zur Dokumentation von Informationssystemen. Definiert in
 ISO/IEC 10746.
+
+
+// end::DE[]
+

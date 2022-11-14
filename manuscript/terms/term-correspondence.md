@@ -20,3 +20,7 @@ auszudrücken (gemäß Definition in ISO/IEC/IEEE 42010).
 
 Kategorie: ISO-IEC-IEEE-42010
 
+
+
+// end::DE[]
+

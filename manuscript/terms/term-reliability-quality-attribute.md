@@ -22,3 +22,7 @@ Teilmerkmalen: [Reifegrad](#term-maturity-quality-attribute),
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

@@ -36,3 +36,7 @@ Angriffsansatzes mittels Einbeziehung von Gegenmaßnahmen.
 Siehe [Bruce Schneier zu „Modeling security threats"](https://www.schneier.com/academic/archives/1999/12/attack_trees.html).
 
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

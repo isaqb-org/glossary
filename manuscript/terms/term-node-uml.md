@@ -13,3 +13,7 @@ A processing resource (execution environment, processor, machine, virtual machin
 Eine Verarbeitungsressource (Ausführungsumgebung, Prozessor, Maschine,
 virtuelle Maschine, Anwendungsserver) zur Verteilung und Ausführung
 von Artefakten.
+
+
+// end::DE[]
+

@@ -17,3 +17,7 @@ Funktionalität von der Spezifikation der Implementierung dieser
 Funktionalität auf einer spezifischen Technologieplattform getrennt
 wird.
 
+
+
+// end::DE[]
+

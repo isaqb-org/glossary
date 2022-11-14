@@ -25,3 +25,7 @@ In der Softwarearchitektur werden Strukturen häufig in
 [Bausteinsicht](#term-building-block-view) verwendet. Ein Dokumentationstemplate
 (z.B. [arc42](#arc42)) ist auch eine Art Struktur.
 
+
+
+// end::DE[]
+

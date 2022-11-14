@@ -20,3 +20,7 @@ Referenzen durch jede beliebige Instanz einer abgeleiteten Klasse
 ersetzt werden, ohne dass dies die
 Funktionalität des Codes beeinträchtigt.
 
+
+
+// end::DE[]
+

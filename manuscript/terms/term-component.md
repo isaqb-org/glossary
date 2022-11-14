@@ -11,3 +11,7 @@ See [Building block](#term-building-block). Structural element of an architectur
 
 Siehe [Baustein](#term-building-block).
 Strukturelement einer Architektur.
+
+
+// end::DE[]
+

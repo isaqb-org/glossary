@@ -21,3 +21,7 @@ Teilmerkmalen: [Koexistenz](#term-co-existence-quality-attribute),
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

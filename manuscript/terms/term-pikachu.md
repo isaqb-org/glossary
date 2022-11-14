@@ -17,3 +17,7 @@ Das brauchen Sie eigentlich nicht zu wissen. Aber es schadet auch
 nicht -- und vielleicht beeindrucken Sie Ihre Kinder mit diesem
 Wissen...
 
+
+
+// end::DE[]
+

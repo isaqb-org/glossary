@@ -21,3 +21,7 @@ von [ISO
 .
 
 Kategorie: Qualität, ISO 25010
+
+
+// end::DE[]
+

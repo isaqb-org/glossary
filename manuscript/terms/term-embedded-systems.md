@@ -16,3 +16,7 @@ Echtzeit-Recheneinschränkungen. Typische Eigenschaften von
 eingebetteten Systemen sind niedriger
 Stromverbrauch, begrenzter Speicher und begrenzte
 Verarbeitungsressourcen sowie geringe Größe.
+
+
+// end::DE[]
+

@@ -17,3 +17,7 @@ Qualitätsmerkmale. Entwickelt und dokumentiert von Christine
 Hofmeister (Siemens Corporate Research). Die globale Analyse wird in
 \[Hofmeister+2000\] beschrieben.
 
+
+
+// end::DE[]
+

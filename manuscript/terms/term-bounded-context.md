@@ -36,3 +36,7 @@ außerhalb ablenken oder verwirren." (Übersetztes englisches Zitat aus
 Wikipedia)
 
 Kategorie: DDD
+
+
+// end::DE[]
+

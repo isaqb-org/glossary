@@ -55,3 +55,7 @@ Kombination ergibt eine allgemeinere Version des [DIP](#term-dependency-inversio
 (mehr dazu unter [SAP](#term-stable-abstractions-principle)).
 
 Kategorie: Entwurfsprinzip
+
+
+// end::DE[]
+

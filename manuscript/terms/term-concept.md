@@ -26,3 +26,7 @@ Das heißt, dass Implementierer von z.B. Implementierungseinheiten
 
 Konzepte bilden die Basis für *konzeptionelle Integrität*.
 
+
+
+// end::DE[]
+

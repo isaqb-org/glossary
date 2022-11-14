@@ -17,3 +17,7 @@ anschaulich erläutert, und das eng mit dem [SDP](#term-stable-dependencies-prin
 [SAP](#term-stable-abstractions-principle) zusammenhängt.
 
 
+
+
+// end::DE[]
+

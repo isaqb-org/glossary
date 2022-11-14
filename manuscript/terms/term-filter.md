@@ -14,3 +14,7 @@ Teil des „Pipes und Filter"-Architekturstils, der Daten erzeugt oder
 transformiert. Filter werden üblicherweise unabhängig von anderen
 Filtern ausgeführt.
 
+
+
+// end::DE[]
+

@@ -18,3 +18,7 @@ Anforderungen entsprechen. Teilmerkmal von:
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

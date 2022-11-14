@@ -43,3 +43,7 @@ Siehe auch:
 
 -   [Allgegenwärtige Sprache](#term-ubiquitous-language)
 
+
+
+// end::DE[]
+

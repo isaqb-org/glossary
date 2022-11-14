@@ -30,3 +30,7 @@ Technik zur effektiven Ordnung der eigenen Gedanken."
 
 Ähnlich wie das [Single-Responsibility-Prinzip](#term-single-responsibility-principle).
 
+
+
+// end::DE[]
+

@@ -42,3 +42,7 @@ height="1.9483333333333333in"}
 
 -   Kennzahl (Antwortmaß): Die Antwort sollte auf irgendeine Weise
     gemessen werden.
+
+
+// end::DE[]
+

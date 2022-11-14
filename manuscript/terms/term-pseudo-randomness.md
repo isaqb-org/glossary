@@ -28,3 +28,7 @@ mit dem gleichen Startwert initialisiert wird. Dies wird als
 Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
 
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

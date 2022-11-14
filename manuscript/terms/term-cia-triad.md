@@ -15,3 +15,7 @@ Siehe [Schutzziele](#term-security-goals)
 
 Kategorie: Sicherheit
 
+
+
+// end::DE[]
+

@@ -18,3 +18,7 @@ Teilmerkmal von: [Sicherheit](#term-security-quality-attribute). Vgl. Website vo
 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
+
+
+// end::DE[]
+

@@ -14,3 +14,7 @@ international aktive Organisation zur Förderung der Entwicklung der
 Softwarearchitektur-Ausbildung. Siehe auch die Diskussion im
 [Anhang](#section-about-isaqb).
 
+
+
+// end::DE[]
+

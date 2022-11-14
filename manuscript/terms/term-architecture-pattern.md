@@ -31,3 +31,7 @@ Beispiele:
 -   Pipes und Filter
 
 -   [CQRS](#term-cqrs)
+
+
+// end::DE[]
+

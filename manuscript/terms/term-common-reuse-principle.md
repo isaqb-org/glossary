@@ -36,3 +36,7 @@ Konzepten abzuhängen, die für sie bedeutungslos sind.
 
 Kategorie: Entwurfsprinzip
 
+
+
+// end::DE[]
+

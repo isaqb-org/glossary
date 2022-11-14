@@ -19,3 +19,7 @@ können. Teilmerkmal von: [Sicherheit](#term-security-quality-attribute). Vgl. W
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

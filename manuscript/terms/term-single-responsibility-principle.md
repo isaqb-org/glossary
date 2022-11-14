@@ -21,3 +21,7 @@ Dienste sollten auf diese Verantwortlichkeit abgestimmt sein.
 mit SRP angesehen.
 
 
+
+
+// end::DE[]
+

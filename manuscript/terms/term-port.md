@@ -13,3 +13,7 @@ with its environment.
 UML-Konstrukt, das in Komponentendiagrammen verwendet wird. Eine
 Schnittstelle, die einen Punkt, an dem eine Komponente
 mit ihrer Umgebung interagiert, definiert.
+
+
+// end::DE[]
+

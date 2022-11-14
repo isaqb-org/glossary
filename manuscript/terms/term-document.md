@@ -12,3 +12,7 @@ A (usually written) artifact conveying information.
 
 Ein (üblicherweise schriftliches) Artefakt zur
 Informationsvermittlung.
+
+
+// end::DE[]
+

@@ -26,3 +26,7 @@ Risiken, Kompromissen und Sensitivitätspunkten.
 
 Siehe auch [*Beurteilung*](#term-assessment).
 
+
+
+// end::DE[]
+

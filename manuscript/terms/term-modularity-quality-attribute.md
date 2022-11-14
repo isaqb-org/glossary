@@ -19,3 +19,7 @@ minimale Auswirkungen auf andere Komponenten hat. Teilmerkmal von:
 
 Kategorie: Qualität, ISO 25010
 
+
+
+// end::DE[]
+

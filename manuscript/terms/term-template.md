@@ -20,3 +20,7 @@ einzubetten, ohne den Inhalt dieser einzelnen Dateien vorzugeben.
 Ein sehr bekanntes Template ist
 [arc42](http://arc42.de/)
 
+
+
+// end::DE[]
+

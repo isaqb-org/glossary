@@ -84,3 +84,7 @@ IT-Systems_ bezieht, wird er auch benutzt, um sich auf
 _Softwarearchitektur als Ingenieursdisziplin_ zu beziehen.
 
 Kategorie: ISO-IEC-IEEE-42010
+
+
+// end::DE[]
+

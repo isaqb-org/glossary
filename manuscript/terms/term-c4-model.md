@@ -6,3 +6,7 @@ It consists of a hierarchical set of software architecture diagrams for context,
 The hierarchy of the C4 diagrams provides different levels of abstraction, each of which is relevant to a different audience.
 
 
+
+
+// end::DE[]
+

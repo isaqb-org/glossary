@@ -26,3 +26,7 @@ cachen, als Daten, die auch abgeändert werden können).
 Es gibt ein interessantes [eBook von Mark Nijhof](https://leanpub.com/cqrs) zu diesem Thema.
 
 
+
+
+// end::DE[]
+

@@ -22,3 +22,7 @@ Sensitivitätspunkt.
 Salopp gesagt, wenn man einen Sensitivitätspunkt in den Sand setzt,
 hat man zumeist mehr als ein Problem.
 
+
+
+// end::DE[]
+

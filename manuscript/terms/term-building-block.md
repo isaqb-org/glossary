@@ -30,3 +30,7 @@ Bausteinen: Komponente, Modul, Paket,
 Namensraum, Klasse, Datei, Programm, Teilsystem, Funktion,
 Konfiguration, Datendefinition.
 
+
+
+// end::DE[]
+

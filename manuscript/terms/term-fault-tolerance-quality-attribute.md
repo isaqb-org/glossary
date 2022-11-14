@@ -18,3 +18,7 @@ Teilmerkmal von: [Zuverlässigkeit](#term-reliability-quality-attribute). Vgl. W
 25010](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
+
+
+// end::DE[]
+

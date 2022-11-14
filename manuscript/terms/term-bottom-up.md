@@ -23,3 +23,7 @@ etwas Allgemeineres oder Abstrakteres hingearbeitet.
 Systems mit hohem Detailgrad spezifiziert. Diese Elemente werden dann
 miteinander zu größeren Teilsystemen verknüpft." (Übersetztes
 englisches Zitat aus Wikipedia)
+
+
+// end::DE[]
+

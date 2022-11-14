@@ -14,3 +14,7 @@ Ein Plan des Unternehmens, der eine gemeinsame Verständnisgrundlage
 der Organisation bildet und zur Abstimmung von
 strategischen Zielen und taktischen Anforderungen genutzt wird.
 
+
+
+// end::DE[]
+

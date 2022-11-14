@@ -22,3 +22,7 @@ Erzeugung von [Aggregaten](#term-aggregate), [Entitäten](#term-entity)
 und [Wertobjekten](#term-value-object). Fabriken arbeiten ausschließlich in
 der Domäne und haben keinen Zugriff auf technische
 Bausteine (z.B. eine Datenbank).
+
+
+// end::DE[]
+

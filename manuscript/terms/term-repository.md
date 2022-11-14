@@ -18,3 +18,7 @@ Designs](#term-DDD). Eine Ablage verbirgt technische Details der
 Infrastrukturschicht vor der Domänenschicht. Ablagen geben
 [Entitäten](#term-entity) zurück, die in der
 Datenbank bestehen.
+
+
+// end::DE[]
+

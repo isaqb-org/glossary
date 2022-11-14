@@ -18,3 +18,7 @@ verantwortlichen Elementen.
 
 In UML: Wenn das enthaltende Element
 vernichtet wird, werden auch die enthaltenen Elemente vernichtet.
+
+
+// end::DE[]
+

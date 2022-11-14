@@ -18,3 +18,7 @@ des MVC-Architekturmusters (model-view-controller)."
 (Übersetztes englisches Zitat aus
 [Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern))
 
+
+
+// end::DE[]
+

@@ -16,3 +16,7 @@ Siehe [Entropie](#term-entropy) oder
 
 Kategorie: Sicherheit
 
+
+
+// end::DE[]
+

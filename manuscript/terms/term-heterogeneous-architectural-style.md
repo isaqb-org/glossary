@@ -10,3 +10,7 @@ see _hybrid architecture style_.
 
 Siehe *hybrider Architekturstil*.
 
+
+
+// end::DE[]
+

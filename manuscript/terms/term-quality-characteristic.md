@@ -8,3 +8,7 @@ synonym: _quality attribute_.
 ### Qualitätseigenschaft
 
 Synonym: *Qualitätsmerkmal*.
+
+
+// end::DE[]
+
