@@ -8,7 +8,7 @@
 
   * _Accidental_ complexity is all the stuff that doesn’t necessarily relate directly to the solution, but that we have to deal with anyway.
 
-  (quoted from [Mark Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/))
+  (quoted from link:http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/[Mark Needham])
 
   Architects shall strive to reduce accidental complexity.
 
@@ -31,8 +31,8 @@ aus Wikipedia.)
     notwendigerweise direkt auf die Lösung bezieht, mit dem wir uns aber
     dennoch befassen müssen.
 
-(Übersetztes englisches Zitat von [Mark
-Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/))
+(Übersetztes englisches Zitat von Link:http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/[Mark
+Needham])
 
 Architekten haben sich um einer Verringerung
 der akzidentellen Komplexität zu bemühen.

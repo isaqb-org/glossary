@@ -3,8 +3,13 @@
 
 The learning process provided by a school (here: iSAQB as the institution governing software architecture education). It includes the content of courses (the syllabus), the methods employed, and other aspects, like norms and values, which relate to the way the education including certification and examination is organized.
 
+// end::EN[]
 
+// tag::DE[]
+==== Lehrplan
 
+Der Lernprozess, der von einer Schule angeboten wird (hier: iSAQB als Institution, die für die Softwarearchitekturausbildung).
+Er umfasst den Inhalt der Kurse (den Lehrplan), die angewandten Methoden und andere Aspekte wie Normen und Werte, die sich auf die Art und Weise beziehen, wie die Ausbildung einschließlich Zertifizierung und Prüfung organisiert ist.
 
 // end::DE[]
 

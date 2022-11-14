@@ -1,10 +1,10 @@
 // tag::EN[]
 ==== Context (of a System)
 
-"Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from [Rozanski-Woods](https://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
+"Defines the relationships, dependencies, and interactions between the system and its environment: People, systems, and external entities with which it interacts." (quoted from link:https://www.viewpoints-and-perspectives.info/home/viewpoints/context/[Rozanski-Woods])
 
 Another definition from arc42:
-"System scope and context - as the name suggests - delimits your system (i.e. your scope) from all its communication partners (neighboring systems and users, i.e. the context of your system). It thereby specifies the external interfaces." (quoted from [docs.arc42.org](https://docs.arc42.org))
+"System scope and context - as the name suggests - delimits your system (i.e. your scope) from all its communication partners (neighboring systems and users, i.e. the context of your system). It thereby specifies the external interfaces." (quoted from link:https://docs.arc42.org[docs.arc42.org])
 
 Distinguish between _business_ and _technical_ context:
 
@@ -24,11 +24,19 @@ Embedded systems, for example, often care for hardware-related information very 
 „Definiert die Beziehungen, Abhängigkeiten und Interaktionen zwischen
 dem System und seiner Umgebung: Menschen, Systeme und externe
 Entitäten, mit denen es interagiert." (Übersetztes englisches Zitat
-aus
-[Rozanski-Woods](http://www.viewpoints-and-perspectives.info/home/viewpoints/context/))
+aus link:https://www.viewpoints-and-perspectives.info/home/viewpoints/context/[Rozanski-Woods])
 
-FIXME: Hier fehlt noch was
+Eine weitere Definition von arc42:
+"System Scope und Kontext - wie der Name schon sagt - grenzen dein System (d.h. deinen Scope) von all seinen Kommunikationspartnern (benachbarte Systeme und Benutzer, d.h. den Kontext deines Systems) ab. Er legt damit die externen Schnittstellen fest." (zitiert aus link:https://docs.arc42.org[docs.arc42.org])
 
+Unterscheide zwischen _geschäftlichem_ und _technischem_ Kontext:
+
+* Der **geschäftliche** Kontext (früher _logischer_ Kontext genannt) zeigt die externen Beziehungen aus einer geschäftlichen oder nicht-technischen Perspektive.
+Er abstrahiert von technischen, Hardware- oder Implementierungsdetails.
+Input-/Output-Beziehungen werden nach ihrer _geschäftlichen Bedeutung_ benannt und nicht nach ihren technischen Eigenschaften.
+
+* Der **technische** Kontext zeigt technische Details, wie Übertragungskanäle, technische Protokolle, IP-Adressen, Busse oder ähnliche Hardware-Details.
+Eingebettete Systeme zum Beispiel interessieren sich oft schon sehr früh in der Entwicklung für hardwarebezogene Informationen.
 
 
 // end::DE[]

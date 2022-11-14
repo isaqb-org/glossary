@@ -6,7 +6,7 @@ Correspondences can be governed by correspondence rules. Correspondence rules ar
 Category: ISO-IEC-IEEE-42010
 
 
-Synonym: [Integrity](#term-integrity), homogeneity, conceptual integrity.
+Synonym: <<term-integrity,Integrity>>, homogeneity, conceptual integrity.
 
 // end::EN[]
 
@@ -20,7 +20,7 @@ durchzusetzen (gemäß Definition in ISO/IEC/IEEE 42010).
 
 Kategorie: ISO-IEC-IEEE-42010
 
-Synonym: [Integrität](#term-integrity),
+Synonym: <<term-integrity,Integrität>>,
 Homogenität, konzeptionelle Integrität.
 
 

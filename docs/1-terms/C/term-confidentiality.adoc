@@ -1,7 +1,7 @@
 // tag::EN[]
 ==== Confidentiality
 
-One of the basic [Security Goals](#term-security-goals) describing a system to
+One of the basic <<term-security-goals,[Security Goals>> describing a system to
 disclose and make information only available to authorized parties.
 
 Category: Security
@@ -13,7 +13,7 @@ Category: Security
 // tag::DE[]
 ==== Vertraulichkeit
 
-Eines der grundlegenden [Schutzziele](#term-security-goals), das ein System
+Eines der grundlegenden <<term-security-goals,Schutzziele>>, das ein System
 beschreibt, welches Informationen nur Befugten offenlegt und
 bereitstellt.
 
