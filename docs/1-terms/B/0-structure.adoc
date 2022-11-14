@@ -5,4 +5,12 @@
 // include::term-XX.adoc[{include_configuration}]
 
 include::term-blackbox.adoc[{include_configuration}]
+include::term-bottom-up.adoc[{include_configuration}]
+include::term-bounded-context.adoc[{include_configuration}]
+include::term-bridge.adoc[{include_configuration}]
+include::term-broker.adoc[{include_configuration}]
+include::term-building-block.adoc[{include_configuration}]
+include::term-building-block-view.adoc[{include_configuration}]
+include::term-business-architecture.adoc[{include_configuration}]
+include::term-business-context.md[{include_configuration}]
 

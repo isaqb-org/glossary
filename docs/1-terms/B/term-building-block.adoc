@@ -1,14 +1,14 @@
 // tag::EN[]
-### Building Block
+====  Building Block
 
 General or abstract term for all kinds of artifacts from which software is constructed.
-Part of the statical structure ([Building Block View](#term-building-block-view))
+Part of the statical structure (<<term-building-block-view,Building Block View>>)
 of software architecture.
 
-  Building blocks can be hierarchically structured - they may contain other (smaller)
+Building blocks can be hierarchically structured - they may contain other (smaller)
   building blocks.
 
-  Some examples of alternative (concrete) names for building blocks:
+Some examples of alternative (concrete) names for building blocks:
   Component, module, package, namespace, class,
   file, program, subsystem, function, configuration, data-definition.
 
@@ -16,11 +16,11 @@ of software architecture.
 // end::EN[]
 
 // tag::DE[]
-### Baustein
+====  Baustein
 
 Allgemeiner oder abstrakter Begriff für alle Arten von Artefakten, aus
 denen Software aufgebaut ist. Teil der statischen Struktur
-([Bausteinsicht](#term-building-block-view)) von Softwarearchitektur.
+(<<term-building-block-view,Bausteinsicht>>) von Softwarearchitektur.
 
 Bausteine können hierarchisch strukturiert sein -- sie können andere
 (kleinere) Bausteine enthalten.
