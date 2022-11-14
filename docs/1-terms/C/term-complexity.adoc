@@ -31,7 +31,7 @@ aus Wikipedia.)
     notwendigerweise direkt auf die Lösung bezieht, mit dem wir uns aber
     dennoch befassen müssen.
 
-(Übersetztes englisches Zitat von Link:http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/[Mark
+(Übersetztes englisches Zitat von link:http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/[Mark
 Needham])
 
 Architekten haben sich um einer Verringerung
