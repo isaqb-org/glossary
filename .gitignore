@@ -10,3 +10,4 @@ generated/gen-terms-*
 # build files
 .gradle
 build
+generated
