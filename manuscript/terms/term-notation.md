@@ -13,3 +13,7 @@ Ein System aus Zeichen, Symbolen, Bildern oder Schriftzeichen zur
 Darstellung von Informationen. Beispiele: Fließtexte, Tabellen,
 Stichpunktlisten, nummeriere Listen, UML, BPMN.
 
+
+
+// end::DE[]
+

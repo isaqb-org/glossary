@@ -20,3 +20,7 @@ Petri-Netze, Bilanzen, Organigramme und Zustandsübergangsmodelle.
 
 Kategorie: ISO-IEC-IEEE-42010
 
+
+
+// end::DE[]
+

@@ -14,3 +14,7 @@ akkreditierten Schulungsunterlagen verfügt oder die eine
 Schulungsleiter und Infrastruktur zur Verfügung stellt
 und Schulungen durchführt.
 
+
+
+// end::DE[]
+

@@ -26,3 +26,7 @@ Die OWASP-Top-10 ist eine häufig angeführte Liste von
 Angriffskategorien basierend auf der Datenerhebung des Projekts.
 
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

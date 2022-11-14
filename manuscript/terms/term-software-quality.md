@@ -24,3 +24,7 @@ Qualitätsmodellen dargestellt, die Produktqualität
 in Eigenschaften, welche in manchen Fällen weiter in
 Untereigenschaften unterteilt werden, einteilt.
 
+
+
+// end::DE[]
+

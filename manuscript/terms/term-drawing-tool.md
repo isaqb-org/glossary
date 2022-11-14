@@ -16,3 +16,7 @@ Elements der Architektur, das in mehreren Diagrammen erscheint, zu
 höheren Wartungskosten führt (anders als ein
 [Modellierungswerkzeug](#term-modeling-tool)).
 
+
+
+// end::DE[]
+

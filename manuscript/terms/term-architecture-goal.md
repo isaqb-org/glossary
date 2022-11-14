@@ -24,3 +24,7 @@ erfüllt wird. Diese Ziele sind im Gegensatz zu (kurzfristigen)
 Projektzielen häufig *langfristig*.
 
 Kategorie: Grundlegend
+
+
+// end::DE[]
+

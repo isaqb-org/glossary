@@ -114,3 +114,7 @@ Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit,
 Portierbarkeit, Wiederverwendbarkeit, Integrierbarkeit und
 Testbarkeit.
 
+
+
+// end::DE[]
+

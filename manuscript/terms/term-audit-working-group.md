@@ -21,3 +21,7 @@ unabhängig. Der
 Beurteilungen (die jeweilige Akkreditierungsempfehlung der
 AUDIT-ARBEITSGRUPPE) informiert.
 
+
+
+// end::DE[]
+

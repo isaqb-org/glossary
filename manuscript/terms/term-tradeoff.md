@@ -29,3 +29,7 @@ Und noch umgangssprachlicher: Es gibt nichts umsonst. Für jedes
 Qualitätsmerkmal ist bei anderen Qualitätsmerkmalen ein Preis zu
 zahlen.
 
+
+
+// end::DE[]
+

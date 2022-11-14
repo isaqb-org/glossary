@@ -12,3 +12,7 @@ Systematisch geordnete Sammlung von Dokumenten und sonstigen
 Materialien aller Art, die die Nutzung oder Beurteilung erleichtern.
 Beispiele für „sonstige Materialien": Präsentationen, Videos, Audios,
 Webseiten, Bilder usw.
+
+
+// end::DE[]
+

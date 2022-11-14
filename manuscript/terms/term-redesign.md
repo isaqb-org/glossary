@@ -11,3 +11,7 @@ The alteration of software units in such a way that they fulfill a similar purpo
 Die Veränderung von Softwareeinheiten, so dass sie den gleichen Zweck
 wie zuvor erfüllen, jedoch auf andere Weise und gegebenenfalls mit
 anderen Mitteln. Häufig fälschlicherweise Refactoring genannt.
+
+
+// end::DE[]
+

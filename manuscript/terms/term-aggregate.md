@@ -18,3 +18,7 @@ bestehen. Jedes Aggregat hat eine Root-Entität und wird in Bezug auf
 und Integrität ihrer enthaltenen Entitäten mit Invarianten sicher.
 
 Kategorie: DDD
+
+
+// end::DE[]
+

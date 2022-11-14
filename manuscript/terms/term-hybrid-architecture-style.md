@@ -14,3 +14,7 @@ Kombination aus zwei oder mehreren existierenden Architekturstilen
 oder -mustern. Beispielsweise ein in eine Schichtstruktur
 eingebettetes MVC-Konstrukt.
 
+
+
+// end::DE[]
+

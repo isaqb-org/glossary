@@ -15,3 +15,7 @@ Softwareartefakten, z.B. [Kopplung](#term-coupling), zyklomatische
 Komplexität, Größe, Testabdeckung. Kennzahlen wie diese helfen bei der
 Identifizierung von kritischen Teilen oder Elementen von Systemen.
 
+
+
+// end::DE[]
+

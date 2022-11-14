@@ -14,3 +14,7 @@ Einfach gesagt ist ein Risiko die Möglichkeit, dass ein Problem auftritt.
 Ein Risiko beinhaltet _Ungewissheit_ über die Auswirkungen, Folgen oder Implikationen einer Aktivität oder Entscheidung, meist mit einer negativen Konnotation in Bezug auf einen bestimmten Wert (wie Gesundheit, Geld oder Eigenschaften eines Systems wie Verfügbarkeit oder Sicherheit).
 
 Um ein Risiko zu quantifizieren, wird die Eintrittswahrscheinlichkeit mit dem potenziellen Wert multipliziert (der normalerweise ein Verlust ist – andernfalls wäre das Risiko eine Chance, die angesichts der Ungewissheit bei einigen Risiken ein mögliches Ergebnis sein könnte).
+
+
+// end::DE[]
+

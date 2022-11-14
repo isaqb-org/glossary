@@ -19,3 +19,7 @@ definierten Lebenszyklus. Entitäten mappen ihren Zustand
 auf [Wertobjekte](#term-value-object) und sind fast
 immer persistent.
 
+
+
+// end::DE[]
+

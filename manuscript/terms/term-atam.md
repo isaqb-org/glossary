@@ -19,3 +19,7 @@ Qualitätsbaum und konkreten Qualitätsszenarien. Grundidee: Vergleich
 feinkörniger Qualitätsszenarien („Qualitätsanforderungen") mit den
 entsprechenden Architekturansätzen zur Identifizierung von Risiken und
 Kompromissen.
+
+
+// end::DE[]
+

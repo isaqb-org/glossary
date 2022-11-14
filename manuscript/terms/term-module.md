@@ -40,3 +40,7 @@
     werden können. Die genauen Beziehungen zwischen diesen Modulen und
     die Inhalte dieser Module sind in den jeweiligen Lehrplänen
     festgelegt.
+
+
+// end::DE[]
+

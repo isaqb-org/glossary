@@ -16,3 +16,7 @@ Statt dass Ihre Objekte oder eine Fabrik eine Abhängigkeit erzeugen,
 von spezifischen Abhängigkeiten zum *Problem
 anderer Leute*.
 
+
+
+// end::DE[]
+

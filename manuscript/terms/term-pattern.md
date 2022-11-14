@@ -16,3 +16,7 @@ beim Softwareentwurf oder in der Softwarearchitektur.
 Siehe [Architekturmuster](#term-architecture-pattern) oder
 [Entwurfsmuster](#term-design-pattern).
 
+
+
+// end::DE[]
+

@@ -14,3 +14,7 @@ Abstraktionen zur Beschreibung ausgewählter Aspekte einer Fachdomäne
 und kann zur Lösung von Problemen in Zusammenhang mit
 dieser Domäne verwendet werden.
 
+
+
+// end::DE[]
+

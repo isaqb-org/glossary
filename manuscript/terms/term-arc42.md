@@ -18,3 +18,7 @@ Kommunikation und Dokumentation von Softwarearchitekturen. arc42
 besteht aus 12 (optionalen) Teilen oder Abschnitten.
 
 Kategorie: Kommunikation, Dokumentation
+
+
+// end::DE[]
+

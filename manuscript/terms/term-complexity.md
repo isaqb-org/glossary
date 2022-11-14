@@ -37,3 +37,7 @@ Needham](http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-c
 Architekten haben sich um einer Verringerung
 der akzidentellen Komplexität zu bemühen.
 
+
+
+// end::DE[]
+

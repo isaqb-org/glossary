@@ -22,3 +22,7 @@ System*funktionen* beziehen (weshalb sie im modernen
 Anforderungsmanagements gerne als
 *vorgegebene Randbedingungen* bezeichnet werden).
 
+
+
+// end::DE[]
+

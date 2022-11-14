@@ -7,3 +7,7 @@ Different interpretations exist from various sources. Temporal coupling:
 * when there's an implicit relationship between two, or more, members of a class requiring clients to invoke one member before the other. Mark Seemann, see <https://blog.ploeh.dk/2011/05/24/DesignSmellTemporalCoupling/>
 * means that one system needs to wait for the response of another system before it can continue processing. See <https://www.beeworks.be/blog/2017/rest-antipattern.html>
 
+
+
+// end::DE[]
+

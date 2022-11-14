@@ -13,3 +13,7 @@ Beschreibt die quantitative Bewertung einer Assoziation oder
 Beziehung. Sie gibt die Zahl der Beteiligten (Objekte, Instanzen,
 Module usw.) der Assoziation an.
 
+
+
+// end::DE[]
+

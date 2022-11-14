@@ -23,3 +23,7 @@ Erwerb, ihren Anforderungen, ihrer Entwicklung, ihrer Nutzung, ihrer
 Bewertung, ihrem Support, ihrer Wartung, ihrer Qualitätssicherung und
 -kontrolle sowie ihrem Audit beteiligte Personen.
 
+
+
+// end::DE[]
+

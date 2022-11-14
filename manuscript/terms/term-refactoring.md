@@ -19,3 +19,7 @@ interne Struktur verbessert wird.) Refactoring, Martin Fowler, 1999
 
 Nicht mit Re*design* zu verwechseln.
 
+
+
+// end::DE[]
+

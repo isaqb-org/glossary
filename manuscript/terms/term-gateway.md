@@ -15,3 +15,7 @@ auf (üblicherweise externe) Systeme oder Ressourcen kapseln. Siehe
 auch [Wrapper](#term-wrapper), [Adapter](#term-adaptability-quality-attribute).
 
 
+
+
+// end::DE[]
+

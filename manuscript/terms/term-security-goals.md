@@ -53,3 +53,7 @@ Siehe [„What is Security Engineering - Definitions", Seite
 11](#ref-anderson-2008) oder [RMIAS](#ref-rmias-2013).
 
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

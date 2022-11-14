@@ -15,3 +15,7 @@ Eigenschaft oder Merkmal einer Komponente eines Systems. Beispiele
 sind Laufzeitleistung, Schutz, Sicherheit, Zuverlässigkeit oder
 Wartbarkeit. Siehe auch *Softwarequalität*.
 
+
+
+// end::DE[]
+

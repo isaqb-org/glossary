@@ -15,3 +15,7 @@ ausgeführt werden. Ein Service ist zustandslos, und die Parameter und
 Rückgabewerte seiner Operationen sind [Entitäten](#term-entity),
 [Aggregate](#term-aggregate) und [Wertobjekte](#term-value-object).
 
+
+
+// end::DE[]
+

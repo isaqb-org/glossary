@@ -18,3 +18,7 @@ Dazu gehören insbesondere technische Schnittstellen und Kommunikationskanäle s
 Damit ergänzt der technische Kontext den (fachlicher Kontext)(#term-business-context)) um die Zuordnung der fachlichen Interaktionen mit Nachbarsystemen zu z. B. spezifischen Kommunikationskanälen und technischen Protokollen.
 
 Siehe [Kontextabgrenzung](#term-context-view).
+
+
+// end::DE[]
+

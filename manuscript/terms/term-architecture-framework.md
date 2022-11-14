@@ -34,3 +34,7 @@ Beispiele:
     10746\] ist ein Architektur-Framework.
 
 Kategorie: ISO-IEC-IEEE-42010
+
+
+// end::DE[]
+

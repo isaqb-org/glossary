@@ -29,3 +29,7 @@ D>*Architekturbeurteilung* für passender, da in *Bewertung Wert*
 D>mitschwingt und eine numerische Beurteilung oder Kennzahlen impliziert
 D>werden, was üblicherweise nur ein *Teil* dessen ist, was im Rahmen
 D>einer Architekturanalyse gemacht werden sollte.
+
+
+// end::DE[]
+

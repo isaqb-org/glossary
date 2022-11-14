@@ -32,7 +32,7 @@
 |Architekturanalyse |Architecture assessment, Architecture evaluation 
 |Architekturbewertung |Architecture assessment, Architecture evaluation 
 |Architekturmuster |Architectural pattern 
-|Architektursicht |Architectural view 
+|Architektursicht |Architectural view, View 
 |Architekturziel |Architectural objective, Architecture objective 
 |Artefakt |Artifact 
 |Aspekt |Aspect 

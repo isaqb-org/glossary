@@ -27,3 +27,7 @@ Elemente können von anderen Modulen erkannt werden." (Übersetztes
 englisches Zitat aus
 [Wikipedia](https://en.wikipedia.org/wiki/Modular_programming))
 
+
+
+// end::DE[]
+

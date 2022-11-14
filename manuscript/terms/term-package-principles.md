@@ -61,3 +61,7 @@ Konzepten zu abstrakteren/stabileren verlaufen (was sich im
 
 Kategorie: Entwurfsprinzip
 
+
+
+// end::DE[]
+

@@ -16,3 +16,7 @@ Verbindung im „Pipes und Filter"-Architekturstil, die Datenströme oder
 Filters überträgt, ohne Werte oder die
 Datenreihenfolge zu verändern.
 
+
+
+// end::DE[]
+

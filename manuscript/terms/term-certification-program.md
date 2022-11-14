@@ -16,3 +16,7 @@ Verträge) und Prozesse.
 Die urheberrechtliche geschützte Abkürzung CPSA(R) steht für
 *Certified Professional for Software Architecture*.
 
+
+
+// end::DE[]
+

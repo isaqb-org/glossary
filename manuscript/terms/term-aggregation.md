@@ -20,3 +20,7 @@ dass sie keinen Besitz impliziert. Wenn das Element vernichtet wird,
 bleiben die enthaltenen Elemente intakt.
 
 Kategorie: Foundation
+
+
+// end::DE[]
+

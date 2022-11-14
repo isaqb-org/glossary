@@ -17,3 +17,7 @@ Strukturen und Konzepte für den IT-Support eines gesamten
 Unternehmens. Die kleinsten betrachteten Einheiten der
 Unternehmensarchitektur sind einzelne Softwaresysteme, auch
 „Anwendungen" genannt.
+
+
+// end::DE[]
+

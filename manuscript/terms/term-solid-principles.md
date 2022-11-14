@@ -24,3 +24,7 @@ leicht zu wartenden und im Laufe der Zeit erweiterbaren Code schreibt.
 Weitere Quellen: siehe
 [Martin-SOLID](#ref-martin-solid).
 
+
+
+// end::DE[]
+

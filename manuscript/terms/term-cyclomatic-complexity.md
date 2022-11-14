@@ -22,3 +22,7 @@ Komplexität mit der Anzahl der Fehler zusammenhängt.
 
 Kategorie: Kennzahl.
 
+
+
+// end::DE[]
+

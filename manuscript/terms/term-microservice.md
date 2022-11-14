@@ -19,3 +19,7 @@ Microservices](https://leanpub.com/microservices-primer)
 von [Eberhard
 Wolff](http://microservices-book.com/).
 
+
+
+// end::DE[]
+

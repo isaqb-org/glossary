@@ -38,3 +38,7 @@ Diese Eigenschaften wurden von Robert Martin formuliert und stammen
 von
 [OODesign.com](http://www.oodesign.com/design-principles.html)
 
+
+
+// end::DE[]
+

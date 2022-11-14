@@ -42,3 +42,7 @@ kohärent, reproduzierbar und vernünftig verhält.
 
 Siehe auch [Konsistenz](#term-consistency).
 
+
+
+// end::DE[]
+

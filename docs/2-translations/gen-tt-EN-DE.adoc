@@ -5,8 +5,10 @@
 //
 //------------------------------------------------- 
  
+ 
 The following tables have been automatically generated from JSON by Groovy and Gradle.
-They contain 182 english terms, generated on November 12, 2022
+They contain 182 english terms, generated on November 14, 2022
+
 [cols="1,1"]
 |===
 | *English* | *German*
@@ -187,7 +189,7 @@ They contain 182 english terms, generated on November 12, 2022
 |User Error Protection |Schutz vor Fehlbedienung 
 |User Interface Aesthetics |Ästhetik der Benutzeroberfläche 
 |Uses relationship |Benutzt-Beziehung, Nutzungsbeziehung 
-|View |Sicht 
+|View |Sicht, Architektursicht 
 |Workflow management |Ablaufsteuerung 
 |Working environment |Arbeitsumgebung 
 |Working group |Arbeitsgruppe 

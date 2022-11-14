@@ -18,3 +18,7 @@ Zitat
 Häufig als *Singleton* (auch ein bekanntes Entwurfsmuster)
 implementiert.
 
+
+
+// end::DE[]
+

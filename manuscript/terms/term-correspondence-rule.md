@@ -22,3 +22,7 @@ Kategorie: ISO-IEC-IEEE-42010
 
 Synonym: [Integrität](#term-integrity),
 Homogenität, konzeptionelle Integrität.
+
+
+// end::DE[]
+

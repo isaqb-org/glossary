@@ -12,3 +12,7 @@ Explanation of the reasoning or arguments that lie behind an architecture decisi
 Erläuterung der Argumentation oder Argumente,
 die einer Architekturentscheidung zugrunde liegen.
 
+
+
+// end::DE[]
+

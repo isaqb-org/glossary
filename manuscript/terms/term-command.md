@@ -13,3 +13,7 @@ Entwurfsmuster, bei dem ein Objekt zur Kapselung einer Aktion genutzt
 wird. Diese Aktion kann später aufgerufen oder
 ausgeführt werden.
 
+
+
+// end::DE[]
+

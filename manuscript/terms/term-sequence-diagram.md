@@ -22,3 +22,7 @@ Komponenten dar, und die horizontalen Linien zeigen die Interaktionen
 zwischen diesen Komponenten. Siehe folgendes Beispiel.
 
 ![Beispiel eines Sequenzdiagramms](images/sequence-diagram-sample.png)
+
+
+// end::DE[]
+

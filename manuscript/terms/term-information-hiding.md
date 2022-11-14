@@ -23,3 +23,7 @@ Implementierung.
 Der Begriff [Kapselung](#term-encapsulation) wird
 häufig austauschbar mit Verbergen von Informationen verwendet.
 
+
+
+// end::DE[]
+

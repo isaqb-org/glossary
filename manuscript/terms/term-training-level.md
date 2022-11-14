@@ -14,3 +14,7 @@ Schulungslevel sollten aufeinander aufbauendes Wissen enthalten. Die
 genauen Beziehungen untereinander und die Inhalte dieser
 Schulungslevel sind in den jeweiligen Lehrplänen festgelegt.
 
+
+
+// end::DE[]
+

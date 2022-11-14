@@ -20,3 +20,7 @@ der Regel als *starke Kohäsion* oder *schwache Kohäsion*
 charakterisiert. Ziel sollte starke Kohäsion sein, da diese oft mit
 Wiederverwendbarkeit, loser Kopplung und Verständlichkeit einhergeht.
 
+
+
+// end::DE[]
+

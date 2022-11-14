@@ -27,3 +27,7 @@ Zugrissrichtlinie."
 (Übersetztes englisches Zitat aus
 [Wikipedia](https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234))
 Kategorie: Sicherheit
+
+
+// end::DE[]
+

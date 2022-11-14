@@ -14,3 +14,7 @@ patterns.
 Pattern-oriented Software Architecture.
 Buchreihe zu Softwarearchitekturmustern.
 
+
+
+// end::DE[]
+

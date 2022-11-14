@@ -24,3 +24,7 @@ Siehe [Kopplung](#term-coupling), [Abhängigkeit](#term-dependency) und
 [Beziehung](#term-relationship)
 
 Kategorie: Foundation
+
+
+// end::DE[]
+

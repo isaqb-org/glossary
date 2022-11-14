@@ -15,3 +15,7 @@ Methoden abzuhängen, die sie nicht nutzen. Nach dem ISP werden größere
 Schnittstellen in kleinere und (client)spezifischere Schnittstellen
 aufgeteilt, so dass Clients nur Methoden
 kennen müssen, die sie tatsächlich nutzen.
+
+
+// end::DE[]
+

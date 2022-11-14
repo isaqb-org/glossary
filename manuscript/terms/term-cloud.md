@@ -93,3 +93,7 @@ und Netzwerkbandbreite.
     berichtet werden, was Transparenz für den Anbieter sowie den Kunden
     des betreffenden Dienstes schafft.
 
+
+
+// end::DE[]
+

@@ -15,3 +15,7 @@ Objekt benötigt wird, um Aktionen im System zu koordinieren."
 (Übersetztes englisches Zitat aus
 [Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern).)
 
+
+
+// end::DE[]
+

@@ -14,3 +14,7 @@ construct working towards more concrete, special or detailed representation.
 abstrakten oder allgemeinen Konstrukt hin zu einer konkreteren,
 spezielleren oder detaillierteren Darstellung.
 
+
+
+// end::DE[]
+

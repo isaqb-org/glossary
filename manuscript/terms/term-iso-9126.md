@@ -14,3 +14,7 @@ Has been superseded by [ISO 25010](#term-iso-25010), see below.
 *Softwareproduktqualität*. Inzwischen abgelöst
 durch [ISO 25010](#term-iso-25010), siehe unten.
 
+
+
+// end::DE[]
+

@@ -10,3 +10,7 @@ Being economical, simple, lean or achievable with relatively low effort.
 ### Sparsamkeit
 
 Wirtschaftlich, einfach, schlank oder mit relativ geringem Aufwand machbar sein.
+
+
+// end::DE[]
+

@@ -22,3 +22,7 @@ mit starker Kohäsion. Lose Kopplung ist oft ein Zeichen für ein gut
 strukturiertes System. Zusammen mit starker Kohäsion unterstützt sie
 Verständlichkeit und Wartbarkeit.
 
+
+
+// end::DE[]
+

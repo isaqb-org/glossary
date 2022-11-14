@@ -36,3 +36,7 @@ D> ###### Anmerkung (Matthias Bohlen)
 D> Vor Kurzem habe ich aus DDD stammenden Code gesehen, bei dem Reverse
 D> Engineering tatsächlich funktioniert hat.
 
+
+
+// end::DE[]
+

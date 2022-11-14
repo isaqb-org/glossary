@@ -4,3 +4,7 @@
 
 A fitness function is derived from manual evaluations and automated tests and shows to which extent architectural or quality requirements are met. 
 
+
+
+// end::DE[]
+

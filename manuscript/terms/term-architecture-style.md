@@ -20,3 +20,7 @@ Beschreibung von Element- und Beziehungstypen zusammen mit
 Einschränkungen ihrer Nutzungsweise. Häufig
 *Architekturmuster* genannt. Beispiele: Pipes und Filter,
 Model-View-Controller, Schichten.
+
+
+// end::DE[]
+

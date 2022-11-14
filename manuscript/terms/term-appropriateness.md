@@ -10,3 +10,7 @@
 ### Angemessenheit
 
 Eignung für einen bestimmten Zweck.
+
+
+// end::DE[]
+

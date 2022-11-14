@@ -12,3 +12,7 @@ see [_software quality_](#term-software-quality) and [quality attributes](#term-
 Siehe [*Softwarequalität*](#term-software-quality) und
 [Qualitätsmerkmale](#term-quality-attribute).
 
+
+
+// end::DE[]
+

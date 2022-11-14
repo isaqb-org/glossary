@@ -30,3 +30,7 @@ Buch
 von Erich Gamma ([Gamma+1994](#ref-gamma-1994)) und seinen drei
 Verbündeten kennen.
 
+
+
+// end::DE[]
+

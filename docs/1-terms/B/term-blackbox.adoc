@@ -1,0 +1,28 @@
+// tag::EN[]
+
+==== Black Box
+
+View on a <<term-building-block,building block>> (or <<term-component,component>>) that hides the internal structure.
+Blackboxes respect the <<term-information-hiding,_information hiding principle_>>.
+They shall have clearly defined input- and output interfaces plus a precisely formulated
+_responsibility_ or _objective_. Optionally a blackbox defines some quality attributes,
+for example timing behavior, throughput or security aspects.
+
+
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Blackbox
+
+Sicht auf einen <<term-building-block,Baustein>> (oder eine
+<<term-component,Komponente>>), die die interne Struktur verbirgt.
+Blackboxen achten das <<term-information-hiding,_Geheimnisprinzip_>>. Sie müssen
+klar definierte Ein- und Ausgabeschnittstellen sowie eine präzise
+formulierte _Verantwortlichkeit_ oder ein präzise formuliertes _Ziel_
+haben. Optional definiert eine Blackbox einige Qualitätsmerkmale, wie
+beispielsweise zeitliches Verhalten, Durchsatz oder
+Sicherheitsaspekte.
+
+// end::DE[]
