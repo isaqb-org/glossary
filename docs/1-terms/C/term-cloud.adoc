@@ -5,7 +5,7 @@ access to a shared pool of configurable computing resources (e.g., networks, ser
 storage, applications, and services) that can be rapidly provisioned and released
 with minimal management effort or service provider interaction."
 
-Definition quoted from [NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+Definition quoted from link:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf[NIST]
 (National Institute of Standards and Technology).
 
 The NIST definition contains the following five characteristics (quoted but abbreviated
@@ -49,7 +49,7 @@ bereitgestellt und mit geringfügigem Verwaltungsaufwand bzw. minimalen
 Eingriffen durch den Dienstanbieter freigegeben werden kann."
 
 Übersetztes englisches Zitat von
-[NIST](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+link:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf[NIST]
 (National Institute of Standards and Technology).
 
 Die NIST-Definition enthält die folgenden fünf Eigenschaften (die

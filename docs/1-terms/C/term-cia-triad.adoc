@@ -1,7 +1,7 @@
 // tag::EN[]
 ==== CIA Triad
 
-See [Security Goals](#term-security-goals)
+See <<term-security-goals,Security Goals>>
 
 Category: Security
 
@@ -11,7 +11,7 @@ Category: Security
 // tag::DE[]
 ==== CIA-Triade
 
-Siehe [Schutzziele](#term-security-goals)
+Siehe <<#term-security-goals,Schutzziele>>
 
 Kategorie: Sicherheit
 
