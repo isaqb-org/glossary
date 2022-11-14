@@ -1,5 +1,5 @@
 // tag::EN[]
-### Business Architecture
+====  Business Architecture
 A blueprint of the enterprise that provides a common understanding
 of the organization and is used to align strategic
 objectives and tactical demands.
@@ -8,7 +8,7 @@ objectives and tactical demands.
 // end::EN[]
 
 // tag::DE[]
-### Geschäftsarchitektur
+====  Geschäftsarchitektur
 
 Ein Plan des Unternehmens, der eine gemeinsame Verständnisgrundlage
 der Organisation bildet und zur Abstimmung von
