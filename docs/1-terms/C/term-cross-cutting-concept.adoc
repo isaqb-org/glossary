@@ -1,0 +1,20 @@
+// tag::EN[]
+==== Cross-Cutting Concept
+
+See [concept](#term-concept).
+
+Synonym: principle, rule.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Querschnittskonzept
+
+Siehe [Konzept](#term-concept).
+
+Synonym: Prinzip, Regel.
+
+
+// end::DE[]
+

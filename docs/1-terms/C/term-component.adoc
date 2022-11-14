@@ -1,0 +1,17 @@
+// tag::EN[]
+==== Component
+
+See [Building block](#term-building-block). Structural element of an architecture.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Komponente
+
+Siehe [Baustein](#term-building-block).
+Strukturelement einer Architektur.
+
+
+// end::DE[]
+
