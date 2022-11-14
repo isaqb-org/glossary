@@ -1,0 +1,42 @@
+// tag::EN[]
+==== Common Reuse Principle
+
+A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). The subcomponents (classes) of a component should be exactly the ones that are being (re)used together. Or the other way around: Components that are being (re)used together should be packaged into a larger component. This also implies that subcomponents that are *not* frequently used in conjunction with the other subcomponents should *not* be in the respective component.
+
+This perspective helps in deciding what belongs into a component and what doesn't. It aims at a system decomposition of <<term-coupling,loosely coupled>> and <<term-cohesion,highly cohesive>> components.
+
+This obviously echoes the <<term-single-responsibility-principle,Single Responsibility Principle>>. It also echoes the <<term-interface-segregation-principle,Interface Segregation Principle>>, as it ensures that clients aren't forced to depend on concepts they don't care about.
+
+Category: Design-Principle
+
+// end::EN[]
+
+// tag::DE[]
+==== Common-Reuse-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch <<term-package-principles,Packaging-Prinzipien>>). Die
+Unterkomponenten (Klassen) einer Komponente sollen genau die sein, die
+zusammen (wieder)verwendet werden. Oder anders herum: Komponenten, die
+zusammen (wieder)verwendet werden, sollen in eine größere Komponente
+gepackt werden. Dies bedeutet auch, dass Unterkomponenten, die *nicht*
+häufig zusammen mit anderen Unterkomponenten verwendet werden, *nicht*
+in der entsprechenden Komponente sein sollen.
+
+Diese Perspektive hilft bei der Entscheidung, was in eine Komponente
+gehört und was nicht. Sie zielt auf eine Systemzerlegung mit <<term-coupling,lose
+gekoppelten>> und <<term-cohesion,stark kohärenten>>
+Komponenten ab.
+
+Dies steht natürlich im engen Zusammenhang mit dem
+<<term-single-responsibility-principle,Single-Responsibility-Prinzip>>. Außerdem besteht ein
+Zusammenhang zum <<term-interface-segregation-principle,Schnittstellenaufteilungsprinzip>>, da
+das Prinzip sicherstellt, dass Clients nicht gezwungen werden, von
+Konzepten abzuhängen, die für sie bedeutungslos sind.
+
+Kategorie: Entwurfsprinzip
+
+
+
+// end::DE[]
+

@@ -1,0 +1,33 @@
+// tag::EN[]
+==== Context View
+
+Shows the complete system as one <<term-blackbox,blackbox>> within its environment. This can be done from a business perspective (<<term-business-context,_business context_>>) and/or from a technical or deployment perspective (<<term-technical-context,_technical context_>>).
+The context view (or context diagram) shows the boundary between a system  and its environment, showing the entities in its environment (its neighbors) with which it interacts.
+
+Neighbors can either be other software, hardware (like sensors), humans, user-roles or even organizations using the system.
+
+See <<term-context,Context>>.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Kontextabgrenzung
+
+Auch als Kontextsicht bezeichnet.
+Zeigt das vollständige System als eine <<term-blackbox,Blackbox>> in seiner Umgebung.
+Dies kann entweder aus fachlicher Perspektive (<<term-business-context,_fachlicher Kontext_>>)
+und/oder aus technischer oder Verteilungsperspektive (<<term-business-context,_technischer Kontext_>>) erfolgen.
+Die Kontextabgrenzung (oder Kontextdiagramm)
+zeigt die Grenzen zwischen einem System und seiner Umgebung und stellt
+die Entitäten in seiner Umgebung (seine Nachbarn), mit denen es
+interagiert, dar.
+
+Nachbarn können andere Software, Hardware (wie Sensoren), Menschen,
+Benutzerrollen oder sogar Organisationen, die das System nutzen, sein.
+
+Siehe <<term-context,Kontext>>.
+
+
+// end::DE[]
+

@@ -1,0 +1,25 @@
+// tag::EN[]
+==== Confidentiality
+
+One of the basic <<term-security-goals,[Security Goals>> describing a system to
+disclose and make information only available to authorized parties.
+
+Category: Security
+
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Vertraulichkeit
+
+Eines der grundlegenden <<term-security-goals,Schutzziele>>, das ein System
+beschreibt, welches Informationen nur Befugten offenlegt und
+bereitstellt.
+
+Kategorie: Sicherheit
+
+
+
+// end::DE[]
+
