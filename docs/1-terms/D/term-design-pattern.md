@@ -18,8 +18,7 @@ book by Erich Gamma ([Gamma+1994](#ref-gamma-1994)) and his three allies.
 
 Allgemeine oder generische wiederverwendbare Lösung für ein gängiges
 Problem in einem gegebenen Kontext beim Entwurf. Das ursprünglich von
-dem berühmten Architekten [Christopher
-Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
+dem berühmten Architekten [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
 erdachte Konzept von *Entwurfsmustern* wurde von Softwareentwicklern
 übernommen.
 

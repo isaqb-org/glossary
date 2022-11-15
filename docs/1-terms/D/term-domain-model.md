@@ -8,8 +8,7 @@ The domain model is a concept of [Domain-Driven Design](#term-DDD). I provides a
 // tag::DE[]
 ### Domänenmodell
 
-Das Domänenmodell ist ein Konzept von [Domain-Driven
-Design](#term-DDD). Das Domänenmodell ist ein System aus
+Das Domänenmodell ist ein Konzept von [Domain-Driven Design](#term-DDD). Das Domänenmodell ist ein System aus
 Abstraktionen zur Beschreibung ausgewählter Aspekte einer Fachdomäne
 und kann zur Lösung von Problemen in Zusammenhang mit
 dieser Domäne verwendet werden.
