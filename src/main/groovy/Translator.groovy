@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter
 class Translator {
 
     final static String SOURCE_FILEPATH = "translations/"
-    final static String TARGET_FILEPATH = "generated/"
+    final static String TARGET_FILEPATH = "docs/2-translations"
 
     final static String EN_DE_FILENAME = "gen-tt-EN-DE.adoc"
     final static String DE_EN_FILENAME = "gen-tt-DE-EN.adoc"
@@ -253,8 +253,6 @@ class Translator {
             en_de = build_EN_TranslationTable(terms)
             int nrOfTerms = en_de.terms.size()
 
-            createOutputFolder()
-
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
 
             // here we create the actual content of the generated file
@@ -274,9 +272,5 @@ class Translator {
         } else {
             println("Error in JSON file - cannot proceed")
         }
-    }
-
-    private static boolean createOutputFolder() {
-        new File(TARGET_FILEPATH).mkdirs()
     }
 }
