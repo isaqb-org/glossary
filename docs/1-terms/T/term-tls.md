@@ -7,8 +7,8 @@ secure the communication of two partys by the means of the
 It is widely used for secure communication on the internet and the foundation for HTTPS.
 
 TLS started as an update to its predecessor SSL (Secure Socket Layer) Version
-3.0 and should be used now instead of SSL [see RFC7568 "Deprecating Secure
-Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
+3.0 and should be used now instead of SSL 
+[see RFC7568 "Deprecating Secure Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
 
 Category: Security
 
@@ -25,8 +25,8 @@ Kommunikation von zwei Parteien mit den Mitteln der
 Kommunikation im Internet genutzt und bildet die Grundlage für HTTPS.
 
 TLS begann als Update seines Vorgängers SSL (Secure Socket Layer)
-Version 3.0 und sollte nun statt SSL verwendet werden [siehe RFC7568
-„Deprecating Secure Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
+Version 3.0 und sollte nun statt SSL verwendet werden 
+[siehe RFC7568 „Deprecating Secure Sockets Layer Version 3.0"](https://tools.ietf.org/html/rfc7568).
 
 Kategorie: Sicherheit
 

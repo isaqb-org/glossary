@@ -44,8 +44,8 @@ des [DIP](#term-dependency-inversion): Spezifische Konzepte hängen natürlich v
 *abstrakteren* ab, da sie aus universaleren Bausteinen bestehen oder
 davon abgeleitet sind. Und abhängige Konzepte sind natürlich
 *spezifischer*, weil sie durch mehr Informationen als ihre
-Abhängigkeiten definiert sind (vorausgesetzt es gibt [keine
-Abhängigkeitszyklen](#term-acyclic-dependencies-principle)).
+Abhängigkeiten definiert sind (vorausgesetzt es gibt 
+[keine Abhängigkeitszyklen](#term-acyclic-dependencies-principle)).
 
 Kategorie: Entwurfsprinzip
 

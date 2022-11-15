@@ -13,13 +13,16 @@ Category: Quality, ISO 25010
 Maß, in dem ein Produkt oder System von spezifizierten Benutzern
 effektiv, effizient, und zufriedenstellend zur Erreichung von
 spezifizierten Zielen in einem spezifizierten Nutzungskontext genutzt
-werden kann. Es besteht aus folgenden Teilmerkmalen: [Erkennbarkeit
-der Brauchbarkeit](#term-appropriateness-recognizability-quality-attribute), [Erlernbarkeit](#term-learnability-quality-attribute),
-[Bedienbarkeit](#term-usability-quality-attribute), [Schutz vor
-Fehlbedienung](#term-user-error-protection-quality-attribute), [Ästhetik der
-Benutzeroberfläche](#term-user-interface-aesthetics-quality-attribute), [Zugänglichkeit](#term-accessibility-quality-attribute).
-Vgl. Website von [ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+werden kann. Es besteht aus folgenden Teilmerkmalen: 
+[Erkennbarkeit der Brauchbarkeit](#term-appropriateness-recognizability-quality-attribute), 
+[Erlernbarkeit](#term-learnability-quality-attribute),
+[Bedienbarkeit](#term-usability-quality-attribute), 
+[Schutz vor Fehlbedienung](#term-user-error-protection-quality-attribute), 
+[Ästhetik der Benutzeroberfläche](#term-user-interface-aesthetics-quality-attribute), 
+[Zugänglichkeit](#term-accessibility-quality-attribute).
+
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 Kategorie: Qualität, ISO 25010
 
 
+// end::DE[]

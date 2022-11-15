@@ -18,8 +18,8 @@ haben. Es besteht aus folgenden Teilmerkmalen:
 [Vertraulichkeit](#term-confidentiality), [Integrität](#term-integrity-quality-attribute),
 [Nichtabstreitbarkeit](#term-non-repudiation-quality-attribute),
 [Verantwortlichkeit](#term-accountability-quality-attribute),
-[Authentifizierbarkeit](#term-authorization). Vgl. Website von [ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+[Authentifizierbarkeit](#term-authorization). 
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

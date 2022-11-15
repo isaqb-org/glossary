@@ -41,8 +41,7 @@ vereint, ist ebenfalls eine Red Flag. Eine solche Komponente hat viele
 Gründe für eine Änderung, ist aber gleichzeitig schwer zu ändern.
 
 Ursprüngliche Definitionen des SDP (wie [Martin-2003](#ref-martin-2003))
-beinhalten eine [Kennzahl *I* der
-Instabilität](https://en.wikipedia.org/wiki/Software_package_metrics).
+beinhalten eine [Kennzahl *I* der Instabilität](https://en.wikipedia.org/wiki/Software_package_metrics).
 Leider erfasst diese Kennzahl beabsichtigte/inhärente Volatilität,
 transitive Abhängigkeit oder Fälle, wie die oben genannte Red Flag,
 nicht. Aber wir wissen das Konzept des SDP zu schätzen, unabhängig

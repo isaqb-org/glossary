@@ -15,3 +15,4 @@ Abhängigkeit zwischen zwei Bausteinen. Wenn A B nutzt, dann hängt die
 Ausführung von A von der Anwesenheit einer
 korrekten Implementierung von B ab.
 
+// end::DE[]

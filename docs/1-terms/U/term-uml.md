@@ -10,7 +10,9 @@
 // end::EN[]
 
 // tag::DE[]
-### [Unified Modeling Language / Vereinheitlichte Modellierungssprache (UML)](http://uml.org/)
+### Unified Modeling Language (UML) 
+
+[Unified Modeling Language / Vereinheitlichte Modellierungssprache (UML)](http://uml.org/)
 
 Graphische Sprache zur Visualisierung, Spezifizierung und
 Dokumentation der Artefakte und Strukturen eines Softwaresystems.
@@ -26,3 +28,5 @@ Dokumentation der Artefakte und Strukturen eines Softwaresystems.
 
 -   Verwenden Sie für Verteilungssichten Verteilungsdiagramme mit
     Knotensymbolen.
+
+// end::DE[]

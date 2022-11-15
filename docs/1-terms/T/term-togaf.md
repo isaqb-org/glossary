@@ -8,8 +8,9 @@
 // tag::DE[]
 ### [TOGAF](http://www.opengroup.org/subjectareas/enterprise/togaf)
 
-*The Open Group Architecture Framework*. Konzeptioneller Rahmen für
-die Planung und Wartung von Unternehmens-IT-Architekturen.
+[_The Open Group Architecture Framework_](http://www.opengroup.org/subjectareas/enterprise/togaf)
+
+Konzeptioneller Rahmen für die Planung und Wartung von Unternehmens-IT-Architekturen.
 
 
 

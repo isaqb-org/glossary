@@ -16,3 +16,5 @@ Software genutzt. Die allgegenwärtige Sprache ist lebendig, entwickelt
 sich während eines Projekts weiter und verändert sich während des
 gesamten Lebenszyklus der Software.
 
+// end::DE[]
+

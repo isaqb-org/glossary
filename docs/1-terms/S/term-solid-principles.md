@@ -13,9 +13,8 @@ For some additional sources, see [Martin-SOLID](#ref-martin-solid).
 ### S.O.L.I.D.-Prinzipien
 
 SOLID (Single-Responsibility, Open-Closed, Liskovsche Substitution,
-Interface-Segregation und Dependency-Inversion) ist ein (von [Robert
-C.
-Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
+Interface-Segregation und Dependency-Inversion) ist ein 
+(von [Robert C. Martin](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod))
 geprägtes Akronym für einige Prinzipien zur Verbesserung der
 objektorientierten Programmierung und des objektorientierten Entwurfs.
 Diese Prinzipien erhöhen die Wahrscheinlichkeit, dass ein Entwickler

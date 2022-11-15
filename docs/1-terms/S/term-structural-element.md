@@ -1,7 +1,7 @@
 // tag::EN[]
 ### Structural Element
 
-see [Building Block(#term-building-block) or [Component](#term-component)
+see [Building Block](#term-building-block) or [Component](#term-component)
 
 
 // end::EN[]
@@ -9,7 +9,7 @@ see [Building Block(#term-building-block) or [Component](#term-component)
 // tag::DE[]
 ### Strukturelement
 
-Siehe *Baustein* oder *Komponente*
+Siehe [Baustein](#term-building-block) oder [Komponente](#term-component)
 
 
 
