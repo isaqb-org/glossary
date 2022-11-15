@@ -25,6 +25,7 @@ public class Horse implements Animal {
    public void move() {
       System.out.println("Horse moves");
    }
+}
 ```
 
 // end::EN[]
@@ -56,6 +57,7 @@ public class Horse implements Animal {
    public void move() {
       System.out.println("Horse moves");
    }
+}
 ```
 
 
