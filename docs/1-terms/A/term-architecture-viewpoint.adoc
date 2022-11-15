@@ -1,3 +1,5 @@
+[#term-architecture-viewpoint]
+
 // tag::EN[]
 
 ==== Architecture Viewpoint

@@ -1,3 +1,5 @@
+[#term-authentication]
+
 // tag::EN[]
 
 ==== Authentication

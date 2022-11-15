@@ -1,3 +1,5 @@
+[#term-architecture-description]
+
 // tag::EN[]
 
 ==== Architecture Description

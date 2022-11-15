@@ -1,3 +1,5 @@
+[#term-architecture-view]
+
 // tag::EN[]
 
 ==== Architecture View

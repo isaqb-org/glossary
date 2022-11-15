@@ -1,3 +1,5 @@
+[#term-architecture-model]
+
 // tag::EN[]
 
 ==== Architecture Model

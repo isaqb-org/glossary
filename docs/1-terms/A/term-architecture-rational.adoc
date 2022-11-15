@@ -1,3 +1,5 @@
+[#term-architecture-rational]
+
 // tag::EN[]
 
 ==== Architecture Rationale
