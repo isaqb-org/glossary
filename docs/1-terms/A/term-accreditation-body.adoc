@@ -19,4 +19,4 @@ koordiniert das Akkreditierungsverfahren, führt die offizielle
 Bewertung der eingereichten Unterlagen durch und organisiert die
 technische Beurteilung in der <<term-audit-working-group,AUDIT-ARBEITSGRUPPE>>.
 
-// end:DE[]
+// end::DE[]

@@ -13,4 +13,4 @@
 <<term-trianing-provider,Schulungsanbieter>> mit gültiger <<term-accreditation,Akkreditierung>>
 des iSAQB(R).
 
-// end:DE[]
+// end::DE[]

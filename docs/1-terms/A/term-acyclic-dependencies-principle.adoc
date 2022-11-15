@@ -57,4 +57,4 @@ soll durch einen <<term-design-principle,_Prinzip_>>-Ansatz verhindert werden.
 
 Kategorie: Entwurfsprinzip
 
-// end:DE[]
+// end::DE[]
