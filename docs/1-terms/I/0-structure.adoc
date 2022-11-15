@@ -1,8 +1,19 @@
-
 === I
 
 // Template for newly added terms
 // include::term-XX.adoc[{include_configuration}]
 
+include::term-ieee-1471.adoc[{include_configuration}]
+include::term-incremental-development.adoc[{include_configuration}]
+include::term-information-hiding.adoc[{include_configuration}]
+include::term-installability-quality-attribute.adoc[{include_configuration}]
+include::term-integrity-quality-attribute.adoc[{include_configuration}]
+include::term-integrity.adoc[{include_configuration}]
+include::term-interface-segregation-principle.adoc[{include_configuration}]
+include::term-interface.adoc[{include_configuration}]
+include::term-interoperability-quality-attribute.adoc[{include_configuration}]
+include::term-isaqb.adoc[{include_configuration}]
+include::term-iso-25010.adoc[{include_configuration}]
+include::term-iso-9126.adoc[{include_configuration}]
+include::term-iterative-and-incremental-development.adoc[{include_configuration}]
 include::term-iterative-development.adoc[{include_configuration}]
-

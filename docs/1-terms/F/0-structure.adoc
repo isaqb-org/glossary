@@ -1,0 +1,16 @@
+=== F
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-facade.adoc[{include_configuration}]
+include::term-factory.adoc[{include_configuration}]
+include::term-fault-tolerance-quality-attribute.adoc[{include_configuration}]
+include::term-filter.adoc[{include_configuration}]
+include::term-fitness-function.adoc[{include_configuration}]
+include::term-fmc.adoc[{include_configuration}]
+include::term-function-signature.adoc[{include_configuration}]
+include::term-functional-appropriateness-quality-attribute.adoc[{include_configuration}]
+include::term-functional-completeness-quality-attribute.adoc[{include_configuration}]
+include::term-functional-correctness-quality-attribute.adoc[{include_configuration}]
+include::term-functional-suitability-quality-attribute.adoc[{include_configuration}]
