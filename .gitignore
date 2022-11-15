@@ -1,5 +1,6 @@
 # generated folders
 generated/gen-terms-*
+docs/2-translations/gen-terms-*
 # IDE files
 .idea
 .DS_Store
