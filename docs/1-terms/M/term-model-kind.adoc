@@ -1,5 +1,5 @@
 // tag::EN[]
-### Model Kind
+==== Model Kind
 
 Conventions for a type of modeling (as defined in ISO/IEC/IEEE 42010).
 
@@ -10,7 +10,7 @@ Category: ISO-IEC-IEEE-42010
 // end::EN[]
 
 // tag::DE[]
-### Modellart
+==== Modellart
 
 Konventionen für einen Modellierungstyp (gemäß Definition in
 ISO/IEC/IEEE 42010).

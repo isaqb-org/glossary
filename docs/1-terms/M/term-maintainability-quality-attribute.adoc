@@ -1,0 +1,29 @@
+// tag::EN[]
+==== Maintainability Quality Attribute
+Degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements.
+Is composed of the following sub-characteristics: <<term-modularity-quality-attribute,modularity>>, <<term-reusability-quality-attribute,reusability>>, <<term-analysability-quality-attribute,analysability>>, <<term-modifiability-quality-attribute,modifiability>>, <<term-testability-quality-attribute,testability>>.
+Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Category: Quality, ISO 25010
+
+// end::EN[]
+
+// tag::DE[]
+==== Qualitätsmerkmal Wartbarkeit
+
+Grad an Effektivität und Effizienz, mit dem ein Produkt modifiziert
+werden kann, um es zu verbessern, zu korrigieren oder an Veränderungen
+der Umgebung oder der Anforderungen anzupassen. Es besteht aus
+folgenden Teilmerkmalen: <<term-modularity-quality-attribute,Modularität>>,
+<<term-reusability-quality-attribute,Wiederverwendbarkeit>>,
+<<term-analysability-quality-attribute,Analysierbarkeit>>,
+<<qualitätsmerkmal-modifizierbarkeit,Modifizierbarkeit>>,
+<<term-testability-quality-attribute,Testbarkeit>>. 
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+
+Kategorie: Qualität, ISO 25010
+
+
+
+// end::DE[]
+

@@ -1,5 +1,5 @@
 // tag::EN[]
-### Kerckhoffs' Principle
+==== Kerckhoffs' Principle
 
 One of the six cryptographic axioms described 1883 in an article "La
 cryptographie militaire" by the dutch cryptographer and linguist Auguste
@@ -12,14 +12,14 @@ order to achive the security of the encrypted messages.
 "The enemy knows the system" is another expression coined by the mathematician
 Claude Shannon as Shannon's Maxim.
 
-See [Bruce Schneiers Crypto-Gram, May 15, 2002](https://www.schneier.com/crypto-gram/archives/2002/0515.html)
+See link:https://www.schneier.com/crypto-gram/archives/2002/0515.html[Bruce Schneiers Crypto-Gram, May 15, 2002]
 
 Category: Security
 
 // end::EN[]
 
 // tag::DE[]
-### Kerckhoffs\'sches Prinzip
+==== Kerckhoffs\'sches Prinzip
 
 Eines der sechs kryptographischen Axiome, die 1883 von dem
 niederländischen Kryptographen und Linguisten Auguste Kerckhoffs in
@@ -33,8 +33,7 @@ werden muss, um die verschlüsselte Botschaft zu schützen.
 „Der Feind kennt das System" ist ein weiterer Ausdruck, den der
 Mathematiker Claude Shannon als Shannons Maxime geprägt hat.
 
-Siehe [Bruce Schneiers Crypto-Gram, May 15,
-2002](https://www.schneier.com/crypto-gram/archives/2002/0515.html)
+Siehe link:https://www.schneier.com/crypto-gram/archives/2002/0515.html[Bruce Schneiers Crypto-Gram, May 15, 2002]
 
 Kategorie: Sicherheit
 

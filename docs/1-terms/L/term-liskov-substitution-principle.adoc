@@ -1,5 +1,5 @@
 // tag::EN[]
-### Liskov Substitution Principle
+==== Liskov Substitution Principle
 
 Refers to object oriented programming: If you use inheritance, do it right:
 Instances of derived types (subclasses)
@@ -10,7 +10,7 @@ without affecting the functionality of that code.
 // end::EN[]
 
 // tag::DE[]
-### Liskovsches Substitutionsprinzip
+==== Liskovsches Substitutionsprinzip
 
 Bezieht sich auf die objektorientierte Programmierung: Wenn Vererbung
 genutzt wird, dann richtig: Instanzen von abgeleiteten Typen
