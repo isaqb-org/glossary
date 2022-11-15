@@ -6,10 +6,14 @@ Description of element and relation types, together with constraints on how they
 Often called <<term-architecture-pattern,architecture pattern>>.
 Examples: Pipes-and-Filter, Model-View-Controller, Layers.
 
-D&gt; ###### Comment (Alexander Lorz)
-D&gt; Depending on who you ask, some might consider architecture styles a generalization of architecture patterns.
-D&gt; That is, "distributed system" is a style while "client-server, CQRS, broker and peer-to-peer" are more specific patterns that belong to this style.
-D&gt; However, from a practical point of view this distinction is not essential.
+[NOTE]
+====
+Comment (Alexander Lorz)
+
+Depending on who you ask, some might consider architecture styles a generalization of architecture patterns.
+That is, "distributed system" is a style while "client-server, CQRS, broker and peer-to-peer" are more specific patterns that belong to this style.
+However, from a practical point of view this distinction is not essential.
+====
 
 // end::EN[]
 
