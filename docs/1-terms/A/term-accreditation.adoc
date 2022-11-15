@@ -1,3 +1,5 @@
+[#term-accreditation]
+
 // tag::EN[]
 
 ==== Accreditation

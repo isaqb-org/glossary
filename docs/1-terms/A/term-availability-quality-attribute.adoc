@@ -1,3 +1,5 @@
+[#term-availability-quality-attribute]
+
 // tag::EN[]
 
 ==== Availability Quality Attribute

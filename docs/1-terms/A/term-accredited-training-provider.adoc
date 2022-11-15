@@ -1,3 +1,5 @@
+[#term-accredited-training-provider]
+
 // tag::EN[]
 
 ==== Accredited Training Provider

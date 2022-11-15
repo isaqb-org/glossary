@@ -1,3 +1,5 @@
+[#term-asset]
+
 // tag::EN[]
 
 ==== Asset

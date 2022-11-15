@@ -1,3 +1,5 @@
+[#term-architecture-framework]
+
 // tag::EN[]
 
 ==== Architecture Framework

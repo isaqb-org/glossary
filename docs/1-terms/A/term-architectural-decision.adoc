@@ -1,3 +1,5 @@
+[#term-architectural-decision]
+
 // tag::EN[]
 
 ==== Architectural Decision

@@ -1,3 +1,5 @@
+[#term-artifact]
+
 // tag::EN[]
 
 ==== Artifact

@@ -1,3 +1,5 @@
+[#term-authorization]
+
 // tag::EN[]
 
 ==== Authorization

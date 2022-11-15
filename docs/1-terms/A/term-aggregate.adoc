@@ -1,3 +1,5 @@
+[#term-aggregate]
+
 // tag::EN[]
 
 ==== Aggregate

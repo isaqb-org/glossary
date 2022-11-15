@@ -1,3 +1,5 @@
+[#term-architecture-objective]
+
 // tag::EN[]
 
 ==== Architecture Objective

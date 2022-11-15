@@ -1,3 +1,5 @@
+[#term-architecture-goal]
+
 // tag::EN[]
 
 ==== Architecture Goal

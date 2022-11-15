@@ -1,5 +1,6 @@
-// tag::EN[]
+[#term-abstraction]
 
+// tag::EN[]
 ==== Abstraction
 
 The process of removing details to focus attention on aspects of greater importance.

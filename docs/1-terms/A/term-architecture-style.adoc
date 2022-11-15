@@ -1,3 +1,5 @@
+[#term-architecture-style]
+
 // tag::EN[]
 
 ==== Architecture Style
