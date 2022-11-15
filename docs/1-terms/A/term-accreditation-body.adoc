@@ -1,3 +1,5 @@
+[#term-accreditation-body]
+
 // tag::EN[]
 
 ==== Accreditation Body

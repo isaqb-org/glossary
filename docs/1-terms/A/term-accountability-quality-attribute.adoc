@@ -1,3 +1,5 @@
+[#term-accountability-quality-attribute]
+
 // tag::EN[]
 
 ==== Accountability Quality Attribute

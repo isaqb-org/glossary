@@ -1,3 +1,5 @@
+[#term-adapter]
+
 // tag::EN[]
 
 ==== Adapter
