@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter
 class Translator {
 
     final static String SOURCE_FILEPATH = "translations/"
-    final static String TARGET_FILEPATH = "docs/2-translations"
+    final static String TARGET_FILEPATH = "docs/2-translations/"
 
     final static String EN_DE_FILENAME = "gen-tt-EN-DE.adoc"
     final static String DE_EN_FILENAME = "gen-tt-DE-EN.adoc"
