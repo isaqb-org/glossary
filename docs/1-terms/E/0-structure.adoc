@@ -1,0 +1,12 @@
+=== E
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-economicalness.adoc[{include_configuration}]
+include::term-embedded-systems.adoc[{include_configuration}]
+include::term-encapsulation.adoc[{include_configuration}]
+include::term-enterprise-it-architecture.adoc[{include_configuration}]
+include::term-entity.adoc[{include_configuration}]
+include::term-entropy.adoc[{include_configuration}]
+include::term-environment.adoc[{include_configuration}]

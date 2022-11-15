@@ -1,0 +1,28 @@
+// tag::EN[]
+==== Factory
+
+(Design pattern) In class-based or object-oriented programming, the factory method pattern is a creational design pattern that uses factory methods or factory components for creating objects, without having to specify the exact class of the object that will be created.
+
+In <<term-DDD,Domain-Driven Design>>: A factory encapsulates the creation of <<term-aggregate,aggregates>>, <<term-entity,entities>>, and <<term-value-object,value objects>>. Factories work exclusively in the domain and have no access to technical building blocks (e.g. a database).
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Fabrik
+
+(Entwurfsmuster) In der klassenbasierten oder objektorientierten
+Programmierung ist das Entwurfsmuster Fabrikmethode ein
+Erzeugungsmuster, das Fabrikmethoden oder Fabrikkomponenten zur
+Erzeugung von Objekten nutzt, ohne die exakte Klasse des zu
+erzeugenden Objekts spezifizieren zu müssen.
+
+Im <<term-DDD,Domain-Driven Design>>: Eine Fabrik kapselt die
+Erzeugung von <<term-aggregate,Aggregaten>>, <<term-entity,Entitäten>>
+und <<term-value-object,Wertobjekten>>. Fabriken arbeiten ausschließlich in
+der Domäne und haben keinen Zugriff auf technische
+Bausteine (z.B. eine Datenbank).
+
+
+// end::DE[]
+

@@ -1,0 +1,16 @@
+// tag::EN[]
+==== Heterogeneous Architectural Style
+
+see _hybrid architecture style_.
+
+// end::EN[]
+
+// tag::DE[]
+==== Heterogener Architekturstil
+
+Siehe *hybrider Architekturstil*.
+
+
+
+// end::DE[]
+

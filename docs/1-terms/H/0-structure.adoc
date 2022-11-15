@@ -1,0 +1,8 @@
+=== H
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-heterogeneous-architectural-style.adoc[{include_configuration}]
+include::term-heuristic.adoc[{include_configuration}]
+include::term-hybrid-architecture-style.adoc[{include_configuration}]
