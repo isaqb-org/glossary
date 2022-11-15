@@ -4,7 +4,7 @@
 
 &quot;Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business concepts.&quot;
 
-(quoted from https://dddcommunity.org/learning-ddd/what_is_ddd/[DDDCommunity]).
+(quoted from link:https://dddcommunity.org/learning-ddd/what_is_ddd/[DDDCommunity]).
 See <<ref-evans-2004,Evans-2004>>.
 
 See also:
@@ -21,27 +21,21 @@ See also:
 
 // tag::DE[]
 
-=== Domain-Driven Design (DDD)
+==== Domain-Driven Design (DDD)
 
 &quot;Domain-Driven Design (DDD) ist ein Ansatz zur Softwareentwicklung für komplexe Anforderungen durch tiefreichende Verbindung der Implementierung mit einem sich evolvierenden Modell der Kerngeschäftskonzepte.&quot;
-(Übersetztes englisches Zitat von https://dddcommunity.org/learning-ddd/what_is_ddd/[DDDCommunity]).
+(Übersetztes englisches Zitat von link:https://dddcommunity.org/learning-ddd/what_is_ddd/[DDDCommunity]).
 
 Siehe <<ref-evans-2004,Evans-2004>>.
 
 Siehe auch:
 
 * <<term-entity,Entität>>
-
 * <<term-value-object,Wertobjekt>>
-
 * <<term-aggregate,Aggregat>>
-
 * <<term-service-ddd,Service>>
-
 * <<term-factory,Fabrik>>
-
 * <<term-repository,Ablage>>
-
 * <<term-ubiquitous-language,Allgegenwärtige Sprache>>
 
 // end::DE[]

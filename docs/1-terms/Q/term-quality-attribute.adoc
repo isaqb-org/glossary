@@ -5,44 +5,44 @@ Software quality is the degree to which a system possesses the desired combinati
 
 The Standard <<term-iso-25010,ISO-25010>> defines the following quality attributes:
 
-- <<term-functional-suitability-quality-attribute,Functional suitability>>
-	- <<term-functional-completeness-quality-attribute,Functional completeness>>
-	- <<term-functional-correctness-quality-attribute,Functional correctness>>
-	- <<term-functional-appropriateness-quality-attribute,Functional appropriateness>>
-- <<term-performance-efficiency-quality-attribute,Performance efficiency>>
-	- <<term-time-behaviour-quality-attribute,Time behaviour>>
-	- <<term-resource-utilization-quality-attribute,Resource utilization>>
-	- <<term-capacity-quality-attribute,Capacity>>
-- <<term-compatibility-quality-attribute,Compatibility>>
-	- <<term-co-existence-quality-attribute,Co-existence>>
-	- <<term-interoperability-quality-attribute,Interoperability>>
-- <<term-usability-quality-attribute,Usability>>
-	- <<term-appropriateness-recognizability-quality-attribute,Appropriateness recognizability>>
-	- <<term-learnability-quality-attribute,Learnability>>
-	- <<term-operability-quality-attribute,Operability>>
-	- <<term-user-error-protection-quality-attribute,User error protection>>
-	- <<term-user-interface-aesthetics-quality-attribute,User interface aesthetics>>
-	- <<term-accessibility-quality-attribute,Accessibility>>
-- <<term-reliability-quality-attribute,Reliability>>
-	- <<term-availability-quality-attribute,Availability>>
-	- <<term-fault-tolerance-quality-attribute,Fault tolerance>>
-	- <<term-recoverability-quality-attribute,Recoverability>>
-- <<term-security-quality-attribute,Security>>
-	- <<term-confidentiality-quality-attribute,Confidentiality>>
-	- <<term-integrity-quality-attribute,Integrity>>
-	- <<term-non-repudiation-quality-attribute,Non-repudiation>>
-	- <<term-accountability-quality-attribute,Accountability>>
-	- <<term-authenticity-quality-attribute,Authenticity>>
-- <<term-maintainability-quality-attribute,Maintainability>>
-	- <<term-modularity-quality-attribute,Modularity>>
-	- <<term-reusability-quality-attribute,Reusability>>
-	- <<term-analysability-quality-attribute,Analysability>>
-	- <<term-modifiability-quality-attribute,Modifiability>>
-	- <<term-testability-quality-attribute,Testability>>
-- <<term-portability-quality-attribute,Portability>>
-	- <<term-adaptability-quality-attribute,Adaptability>>
-	- <<term-installability-quality-attribute,Installability>>
-	- <<term-replaceability-quality-attribute,Replaceability>>
+* <<term-functional-suitability-quality-attribute,Functional suitability>>
+** <<term-functional-completeness-quality-attribute,Functional completeness>>
+** <<term-functional-correctness-quality-attribute,Functional correctness>>
+** <<term-functional-appropriateness-quality-attribute,Functional appropriateness>>
+* <<term-performance-efficiency-quality-attribute,Performance efficiency>>
+** <<term-time-behaviour-quality-attribute,Time behaviour>>
+** <<term-resource-utilization-quality-attribute,Resource utilization>>
+** <<term-capacity-quality-attribute,Capacity>>
+* <<term-compatibility-quality-attribute,Compatibility>>
+** <<term-co-existence-quality-attribute,Co-existence>>
+** <<term-interoperability-quality-attribute,Interoperability>>
+* <<term-usability-quality-attribute,Usability>>
+** <<term-appropriateness-recognizability-quality-attribute,Appropriateness recognizability>>
+** <<term-learnability-quality-attribute,Learnability>>
+** <<term-operability-quality-attribute,Operability>>
+** <<term-user-error-protection-quality-attribute,User error protection>>
+** <<term-user-interface-aesthetics-quality-attribute,User interface aesthetics>>
+** <<term-accessibility-quality-attribute,Accessibility>>
+* <<term-reliability-quality-attribute,Reliability>>
+** <<term-availability-quality-attribute,Availability>>
+** <<term-fault-tolerance-quality-attribute,Fault tolerance>>
+** <<term-recoverability-quality-attribute,Recoverability>>
+* <<term-security-quality-attribute,Security>>
+** <<term-confidentiality-quality-attribute,Confidentiality>>
+** <<term-integrity-quality-attribute,Integrity>>
+** <<term-non-repudiation-quality-attribute,Non-repudiation>>
+** <<term-accountability-quality-attribute,Accountability>>
+** <<term-authenticity-quality-attribute,Authenticity>>
+* <<term-maintainability-quality-attribute,Maintainability>>
+** <<term-modularity-quality-attribute,Modularity>>
+** <<term-reusability-quality-attribute,Reusability>>
+** <<term-analysability-quality-attribute,Analysability>>
+** <<term-modifiability-quality-attribute,Modifiability>>
+** <<term-testability-quality-attribute,Testability>>
+* <<term-portability-quality-attribute,Portability>>
+** <<term-adaptability-quality-attribute,Adaptability>>
+** <<term-installability-quality-attribute,Installability>>
+** <<term-replaceability-quality-attribute,Replaceability>>
 
 
 It's helpful to distinguish between:
@@ -66,45 +66,46 @@ Kombination von *Merkmalen* besitzt.
 (Siehe: <<term-software-quality,Softwarequalität>>).
 
 In der <<term-iso-25010,ISO-25010>> Norm sind folgende Qualitätsmerkmale
-definiert: 
-- <<term-functional-suitability-quality-attribute,Funktionale Eignung>> 
-  - <<term-functional-completeness-quality-attribute,Funktionale Vollständigkeit,>> 
-  - <<term-functional-correctness-quality-attribute,Funktionale Korrektheit>> 
-  - <<term-functional-suitability-quality-attribute,Funktionale Angemessenheit>> 
-- <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>
-  - <<term-time-behaviour-quality-attribute,Zeitverhalten>> 
-  - <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>> 
-  - <<term-capacity-quality-attribute,Kapazität>> 
-- <<term-compatibility-quality-attribute,Kompatibilität>> 
-  - <<term-co-existence-quality-attribute,Koexistenz>> 
-  - <<term-interoperability-quality-attribute,Interoperabilität>> 
-- <<term-usability-quality-attribute,Benutzerfreundlichkeit>> 
-  - <<term-appropriateness-recognizability-quality-attribute,Erkennbarkeit der Brauchbarkeit>> 
-  - <<term-learnability-quality-attribute,Erlernbarkeit>> 
-  - <<term-operability-quality-attribute,Bedienbarkeit>> 
-  - <<term-user-error-protection-quality-attribute,Schutz vor Fehlbedienung>> 
-  - <<term-user-interface-aesthetics-quality-attribute,Ästhetik der Benutzeroberfläche>> 
-  - <<term-accessibility-quality-attribute,Zugänglichkeit>>
-- <<term-reliability-quality-attribute,Zuverlässigkeit>> 
-  - <<term-availability-quality-attribute,Verfügbarkeit>>
-  - <<term-fault-tolerance-quality-attribute,Fehlertoleranz>> 
-  - <<term-recoverability-quality-attribute,Wiederherstellbarkeit>> 
-- <<term-security-quality-attribute,Sicherheit>>
-  - <<term-confidentiality-quality-attribute,Vertraulichkeit>> 
-  - <<term-integrity-quality-attribute,Integrität>> 
-  - <<term-non-repudiation-quality-attribute,Nichtabstreitbarkeit>> 
-  - <<term-accountability-quality-attribute,Verantwortlichkeit>> 
-  - <<term-authenticity-quality-attribute,Authentifizierbarkeit>> 
-- <<term-maintainability-quality-attribute,Wartbarkeit>>
-  - <<term-modularity-quality-attribute,Modularität>> 
-  - <<term-reusability-quality-attribute,Wiederverwendbarkeit>> 
-  - <<term-analysability-quality-attribute,Analysierbarkeit>> 
-  - <<term-modifiability-quality-attribute,Modifizierbarkeit>> 
-  - <<term-testability-quality-attribute,Testbarkeit>> 
-- <<term-portability-quality-attribute,Portierbarkeit>> 
-  - <<term-adaptability-quality-attribute,Adaptierbarkeit>> 
-  - <<term-installability-quality-attribute,Installierbarkeit>>
-  - <<term-replaceability-quality-attribute,Austauschbarkeit>>
+definiert:
+
+* <<term-functional-suitability-quality-attribute,Funktionale Eignung>>
+** <<term-functional-completeness-quality-attribute,Funktionale Vollständigkeit,>>
+** <<term-functional-correctness-quality-attribute,Funktionale Korrektheit>>
+** <<term-functional-suitability-quality-attribute,Funktionale Angemessenheit>>
+* <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>
+** <<term-time-behaviour-quality-attribute,Zeitverhalten>>
+** <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>>
+** <<term-capacity-quality-attribute,Kapazität>>
+* <<term-compatibility-quality-attribute,Kompatibilität>>
+** <<term-co-existence-quality-attribute,Koexistenz>>
+** <<term-interoperability-quality-attribute,Interoperabilität>>
+* <<term-usability-quality-attribute,Benutzerfreundlichkeit>>
+** <<term-appropriateness-recognizability-quality-attribute,Erkennbarkeit der Brauchbarkeit>>
+** <<term-learnability-quality-attribute,Erlernbarkeit>>
+** <<term-operability-quality-attribute,Bedienbarkeit>>
+** <<term-user-error-protection-quality-attribute,Schutz vor Fehlbedienung>>
+** <<term-user-interface-aesthetics-quality-attribute,Ästhetik der Benutzeroberfläche>>
+** <<term-accessibility-quality-attribute,Zugänglichkeit>>
+* <<term-reliability-quality-attribute,Zuverlässigkeit>>
+** <<term-availability-quality-attribute,Verfügbarkeit>>
+** <<term-fault-tolerance-quality-attribute,Fehlertoleranz>>
+** <<term-recoverability-quality-attribute,Wiederherstellbarkeit>>
+* <<term-security-quality-attribute,Sicherheit>>
+** <<term-confidentiality-quality-attribute,Vertraulichkeit>>
+** <<term-integrity-quality-attribute,Integrität>>
+** <<term-non-repudiation-quality-attribute,Nichtabstreitbarkeit>>
+** <<term-accountability-quality-attribute,Verantwortlichkeit>>
+** <<term-authenticity-quality-attribute,Authentifizierbarkeit>>
+* <<term-maintainability-quality-attribute,Wartbarkeit>>
+** <<term-modularity-quality-attribute,Modularität>>
+** <<term-reusability-quality-attribute,Wiederverwendbarkeit>>
+** <<term-analysability-quality-attribute,Analysierbarkeit>>
+** <<term-modifiability-quality-attribute,Modifizierbarkeit>>
+** <<term-testability-quality-attribute,Testbarkeit>>
+* <<term-portability-quality-attribute,Portierbarkeit>>
+** <<term-adaptability-quality-attribute,Adaptierbarkeit>>
+** <<term-installability-quality-attribute,Installierbarkeit>>
+** <<term-replaceability-quality-attribute,Austauschbarkeit>>
 
 
 Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
