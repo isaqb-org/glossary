@@ -1,21 +1,21 @@
 // tag::EN[]
-### Time Behaviour Quality Attribute
+==== Time Behaviour Quality Attribute
 Degree to which the response and processing times and throughput rates of a product or system, when performing its functions, meet requirements.
-Is a sub-characteristic of: [performance efficiency](#term-performance-efficiency-quality-attribute).
-Refer to [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) website.
+Is a sub-characteristic of: <<term-performance-efficiency-quality-attribute,performance efficiency>>.
+Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
 Category: Quality, ISO 25010
 
 // end::EN[]
 
 // tag::DE[]
-### Qualitätsmerkmal Zeitverhalten
+==== Qualitätsmerkmal Zeitverhalten
 
 Maß, in dem die Antwort- und Verarbeitungszeiten und
 Durchsatzgeschwindigkeiten eines Produkts oder System bei der
 Erfüllung seiner Funktionen den Anforderungen entsprechen. Teilmerkmal
-von: [Leistungseffizienz](#term-performance-efficiency-quality-attribute). 
-Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+von: <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>. 
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 Kategorie: Qualität, ISO 25010
 

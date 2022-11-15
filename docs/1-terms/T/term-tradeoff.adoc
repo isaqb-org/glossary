@@ -1,5 +1,5 @@
 // tag::EN[]
-### Trade-Off
+==== Trade-Off
 
 (syn: compromise). A balance achieved or negotiated between two desired or
 required but usually incompatible or contradicting features. For example,
@@ -14,7 +14,7 @@ has a price among other quality attributes.
 // end::EN[]
 
 // tag::DE[]
-### Abwägung
+==== Abwägung
 
 (Syn.: Kompromiss). Erreichte oder ausgehandelte Balance zwischen zwei
 gewünschten oder vorgegebenen, aber üblicherweise unvereinbaren oder

@@ -1,0 +1,19 @@
+=== T
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-technical-context.adoc[{include_configuration}]
+include::term-template.adoc[{include_configuration}]
+include::term-temporal-coupling.adoc[{include_configuration}]
+include::term-testability-quality-attribute.adoc[{include_configuration}]
+include::term-time-behaviour-quality-attribute.adoc[{include_configuration}]
+include::term-tls.adoc[{include_configuration}]
+include::term-togaf.adoc[{include_configuration}]
+include::term-tools-and-material-approach.adoc[{include_configuration}]
+include::term-top-down.adoc[{include_configuration}]
+include::term-traceability.adoc[{include_configuration}]
+include::term-tradeoff.adoc[{include_configuration}]
+include::term-trainer.adoc[{include_configuration}]
+include::term-training-level.adoc[{include_configuration}]
+include::term-training-provider.adoc[{include_configuration}]

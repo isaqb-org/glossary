@@ -1,7 +1,12 @@
-
 === U
+
 // Template for newly added terms
 // include::term-XX.adoc[{include_configuration}]
 
-// include::term-abstraction.adoc[{include_configuration}]
-
+include::term-ubiquitous-language.adoc[{include_configuration}]
+include::term-uml.adoc[{include_configuration}]
+include::term-unit-test.adoc[{include_configuration}]
+include::term-usability-quality-attribute.adoc[{include_configuration}]
+include::term-user-error-protection-quality-attribute.adoc[{include_configuration}]
+include::term-user-interface-aesthetics-quality-attribute.adoc[{include_configuration}]
+include::term-uses-relationship.adoc[{include_configuration}]

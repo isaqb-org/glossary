@@ -1,7 +1,7 @@
 // tag::EN[]
-### Unified Modeling Language (UML)
+==== Unified Modeling Language (UML)
 
-[(UML)](http://uml.org) is a graphical language for visualizing, specifying and documenting the artifacts and structures of a software system.
+link:http://uml.org[Unified Modeling Language (UML)] is a graphical language for visualizing, specifying and documenting the artifacts and structures of a software system.
 
 * For building block views or the context view, use component diagrams, with either components, packages or classes to denote building blocks.
 * For runtime views, use sequence- or activity diagrams (with swimlanes). Object diagrams can theoretically be used, but are practically not adviced, as they become cluttered even for small scenarios.
@@ -10,9 +10,9 @@
 // end::EN[]
 
 // tag::DE[]
-### Unified Modeling Language (UML) 
+==== Unified Modeling Language (UML) 
 
-[Unified Modeling Language / Vereinheitlichte Modellierungssprache (UML)](http://uml.org/)
+link:http://uml.org/[Unified Modeling Language / Vereinheitlichte Modellierungssprache (UML)]
 
 Graphische Sprache zur Visualisierung, Spezifizierung und
 Dokumentation der Artefakte und Strukturen eines Softwaresystems.

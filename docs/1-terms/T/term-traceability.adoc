@@ -1,5 +1,5 @@
 // tag::EN[]
-### Traceability
+==== Traceability
 
 (more precisely: _requirements_ traceability): Document that
 
@@ -7,13 +7,13 @@
   2. all elements of the system are justified by at least one requirement
   (backward traceability)
 
-  My personal opinion: If you can, you should avoid traceabiltiy, as it creates
-  a lot of documentation overhead.
+My personal opinion: If you can, you should avoid traceabiltiy, as it creates
+a lot of documentation overhead.
 
 // end::EN[]
 
 // tag::DE[]
-### Verfolgbarkeit
+==== Verfolgbarkeit
 
 (Genauer gesagt: *Anforderungs*verfolgbarkeit): Dokumentation, dass
 
