@@ -1,13 +1,13 @@
 // tag::EN[]
-### Design Principle
+==== Design Principle
 
 Set of guidelines that helps software developers to design and implement better solutions,
 where "better" could, for example, mean one or more of the following:
 
-  * low [coupling](#term-coupling).
-  * high [cohesion](#term-cohesion).
-  * [separation of concerns](#term-separation-of-concern) or adherence to the [Single Responsibility Principle](#term-single-responsibility-principle).
-  * adherence to the [Information Hiding](#term-information-hiding) principle.
+  * low <<term-coupling,coupling>>.
+  * high <<term-cohesion,cohesion>>.
+  * <<term-separation-of-concern,separation of concerns>> or adherence to the <<term-single-responsibility-principle,Single Responsibility Principle>>.
+  * adherence to the <<term-information-hiding,Information Hiding>> principle.
   * avoid *Rigidity*: A system or element is difficult to change because every change potentially
    affects many other elements.
   * avoid *Fragility*: When elements are changed, unexpected results, defects or otherwise negative consequences
@@ -17,7 +17,7 @@ where "better" could, for example, mean one or more of the following:
 // end::EN[]
 
 // tag::DE[]
-### Entwurfsprinzip
+==== Entwurfsprinzip
 
 Eine Reihe von Richtlinien, die Softwareentwicklern hilft, bessere
 Lösungen zu entwerfen und zu implementieren, wobei „besser" bedeutet,
@@ -36,7 +36,7 @@ die folgenden *schlechten Eigenschaften* zu vermeiden:
 
 Diese Eigenschaften wurden von Robert Martin formuliert und stammen
 von
-[OODesign.com](http://www.oodesign.com/design-principles.html)
+link:https://www.oodesign.com/design-principles.html[OODesign.com]
 
 
 

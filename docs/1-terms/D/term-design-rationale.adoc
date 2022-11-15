@@ -1,11 +1,11 @@
 // tag::EN[]
-### Design Rationale
+==== Design Rationale
 An explicit documentation of the reasons behind decisions made when designing any architectural element. 
 
 // end::EN[]
 
 // tag::DE[]
-### Entwurfsbegründung
+==== Entwurfsbegründung
 Eine explizite Dokumentation der Gründe für Entscheidungen, die beim Entwurf eines Architekturelements getroffen wurden.
 
 // end::DE[]
