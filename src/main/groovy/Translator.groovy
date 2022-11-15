@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter
 class Translator {
 
     final static String SOURCE_FILEPATH = "translations/"
-    final static String TARGET_FILEPATH = "generated/"
+    final static String TARGET_FILEPATH = "docs/2-translations/"
 
     final static String EN_DE_FILENAME = "gen-tt-EN-DE.adoc"
     final static String DE_EN_FILENAME = "gen-tt-DE-EN.adoc"
@@ -222,34 +222,26 @@ class Translator {
     }
 
 
+    static final String createCommentHeader(int nrOfTerms) {
 
+        String date = DateTimeFormatter.ofPattern('MMMM dd, yyyy', Locale.US).format(LocalDateTime.now())
 
-    static final String createCommentHeader() {
         return """
 // This file has been generated. 
 //
 // DO NOT MODIFY, as changes will be overwritten. 
 //
-//------------------------------------------------- 
- 
- """
-    } // ttCommentHeader
+// The following tables have been automatically generated from JSON by Groovy and Gradle.
+// They contain $nrOfTerms terms, generated on $date.
+// -----------------------------
 
-
-    static final String creationDateAsAsciiDoc(int nrOfTerms) {
-        def generationStats = "They contain $nrOfTerms english terms, generated on " +
-                DateTimeFormatter.ofPattern("MMMM dd, yyyy", Locale.US).format(LocalDateTime.now()) + "\n\n"
-
-        return "The following tables have been automatically generated from JSON by Groovy and Gradle.\n" + generationStats
-
+"""
     }
 
     static void main(String... args) {
         println("\n\niSAQB Glossary Translation AsciiDoc Generator\n\n")
 
         def terms = parseFile(translationJSONSourceFile)
-
-
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
@@ -258,7 +250,7 @@ class Translator {
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
 
             // here we create the actual content of the generated file
-            generated_EN_DE_File.text = createCommentHeader()+ "\n" + creationDateAsAsciiDoc(nrOfTerms) + (en_de.translationTableToAsciiDoc())
+            generated_EN_DE_File.text = createCommentHeader(nrOfTerms) + (en_de.translationTableToAsciiDoc())
 
             println("with ${nrOfTerms} terms, file \"$EN_DE_FILENAME\".\n")
 
@@ -266,8 +258,7 @@ class Translator {
             nrOfTerms = de_en.terms.size()
 
             generated_DE_EN_File = clearFileForWriting(TARGET_FILEPATH + DE_EN_FILENAME)
-            generated_DE_EN_File.text = createCommentHeader()
-              << de_en.translationTableToAsciiDoc()
+            generated_DE_EN_File.text = createCommentHeader(nrOfTerms) + de_en.translationTableToAsciiDoc()
 
             println("with ${nrOfTerms} terms, file \"$DE_EN_FILENAME\".")
 

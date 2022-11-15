@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== Accreditation
+==== Accreditation
 
 Determination procedure and certification by an authorised accreditation body (here the iSAQB^(R)^) confirming that the applicant meets the organizational, technical and qualitative requirements as a <<term-training-provider,training provider>>.
 
@@ -8,11 +8,12 @@ Determination procedure and certification by an authorised accreditation body (h
 
 // tag::DE[]
 
-=== Akkreditierung
+==== Akkreditierung
 
 Prüfungsverfahren und Zertifizierung durch eine ermächtigte
 Akkreditierungsstelle (in diesem Fall das iSAQB^(R)^) zur Bestätigung,
 dass der Antragsteller die organisatorischen, technischen und
 qualitativen Anforderungen für
 <<term-training-provider,Schulungsanbieter>> erfüllt.
-// end:DE[]
+
+// end::DE[]

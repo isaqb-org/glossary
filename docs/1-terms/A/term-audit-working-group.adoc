@@ -1,0 +1,25 @@
+// tag::EN[]
+
+==== Audit Working Group:
+
+The _audit working group_ is responsible for the technical evaluation of training materials as well as for the monitoring and evaluation of training courses.
+The members of the audit working group, authorized by the iSAQB(R), are independent of the <<term-training-provider,training provider>>.
+The result of the assessments (the respective accreditation recommendation of the AUDIT WORKING GROUP) will be communicated to the <<term-training-provider,training provider>> by the <<term-accreditation-body,accreditation body>>.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Audit-Arbeitsgruppe:
+
+Die _Audit-Arbeitsgruppe_ ist für die technische Beurteilung der
+Schulungsunterlagen sowie für die Überwachung und Beurteilung der
+Schulungen zuständig. Die vom iSAQB(R) ermächtigten Mitglieder der
+Audit-Arbeitsgruppe sind von den <<term-training-provider,Schulungsanbietern>>
+unabhängig. Der
+<<term-training-provider,Schulungsanbieter>> wird von der
+<<term-accreditation-body,Akkreditierungsstelle>> über das Ergebnis der
+Beurteilungen (die jeweilige Akkreditierungsempfehlung der
+AUDIT-ARBEITSGRUPPE) informiert.
+
+// end::DE[]

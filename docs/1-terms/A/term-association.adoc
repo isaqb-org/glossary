@@ -1,0 +1,28 @@
+// tag::EN[]
+
+==== Association
+
+Defines a relationship between objects (in general: between components).
+Each association can be described in detail by cardinalities and (role-)names.
+
+See <<term-coupling,coupling>>, <<term-dependency,dependency>> and
+<<term-relationship,relationship>>
+
+Category: Foundation
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Assoziation
+
+Definiert eine Beziehung zwischen Objekten (im Allgemeinen zwischen
+Modulen). Jede Assoziation lässt sich durch Kardinalitäten und
+(Rollen-) Namen im Detail beschreiben.
+
+Siehe <<term-coupling,Kopplung>>, <<term-dependency,Abhängigkeit>> und
+<<term-relationship,Beziehung>>
+
+Kategorie: Foundation
+
+// end::DE[]

@@ -1,0 +1,40 @@
+// tag::EN[]
+
+==== Architecture Evaluation
+
+Quantitative or qualitative assessment of a (software or system) architecture.
+Determine if an architecture can achieve its target qualities or
+quality attributes
+
+See <<term-assessment,Assessment>>
+
+[NOTE]
+====
+###### Comment (Gernot Starke)
+In my opinion the terms _architecture analysis_ or _architecture assessment_ are more appropriate, as _evaluation_ contains _value_, implying numerical assessment or metrics, which is usually only _part_ of what you should do in architecture analysis.
+====
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Architekturbewertung
+
+Quantitative oder qualitative Beurteilung einer (Software- oder
+System-) Architektur. Ermittlung, ob eine Architektur ihre
+Zieleigenschaften oder Qualitätsmerkmale erreichen kann?
+
+Siehe <<term-assessment,Beurteilung>>
+
+[NOTE]
+====
+Anmerkung (Gernot Starke)
+
+Ich halte die Begriffe _Architekturanalyse_ oder
+*Architekturbeurteilung* für passender, da in _Bewertung Wert_
+mitschwingt und eine numerische Beurteilung oder Kennzahlen impliziert
+werden, was üblicherweise nur ein _Teil_ dessen ist, was im Rahmen
+einer Architekturanalyse gemacht werden sollte.
+====
+
+// end::DE[]

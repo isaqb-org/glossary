@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== Adaptability Quality Attribute
+==== Adaptability Quality Attribute
 
 Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.
 Is a sub-characteristic of: <<term-portability-quality-attribute,portability>>.
@@ -12,7 +12,7 @@ Category: Quality, ISO 25010
 
 // tag::DE[]
 
-=== Qualitätsmerkmal Adaptierbarkeit
+==== Qualitätsmerkmal Adaptierbarkeit
 
 Maß, in dem sich ein Produkt oder System effektiv und effizient an
 unterschiedliche oder sich weiterentwickelnde Hardware, Software oder
@@ -22,4 +22,5 @@ von: <<term-portability-quality-attribute,Portierbarkeit>>. Vgl. Website von htt
 .
 
 Kategorie: Qualität, ISO 25010
-// end:DE[]
+
+// end::DE[]

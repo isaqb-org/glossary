@@ -1,0 +1,15 @@
+// tag::EN[]
+
+==== Architecture Quality Requirement
+
+See <<term-architecture-goal,architecture goal>>.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Architektur-Qualitätsanforderung
+
+Siehe <<term-architecture-goal,Architekturziel>>.
+
+// end::DE[]
