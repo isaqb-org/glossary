@@ -13,9 +13,8 @@ Category: Quality, ISO 25010
 
 Maß, in dem nachgewiesen werden kann, dass Maßnahmen oder Ereignisse
 stattgefunden haben, so dass sie später nicht bestritten werden
-können. Teilmerkmal von: [Sicherheit](#term-security-quality-attribute). Vgl. Website von
-[ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+können. Teilmerkmal von: [Sicherheit](#term-security-quality-attribute). 
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

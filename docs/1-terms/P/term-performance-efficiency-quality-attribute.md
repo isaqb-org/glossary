@@ -24,8 +24,8 @@ Speichermedien) umfassen.
 
 Es besteht aus folgenden Teilmerkmalen:
 [Zeitverhalten](#term-time-behaviour-quality-attribute), [Ressourcenverbrauch](#term-resource-utilization-quality-attribute),
-[Kapazität](#term-capacity-quality-attribute). Vgl. Website von [ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+[Kapazität](#term-capacity-quality-attribute). 
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 

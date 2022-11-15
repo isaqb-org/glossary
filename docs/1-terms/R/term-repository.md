@@ -12,9 +12,9 @@ In [Domain-Driven Design](#term-DDD): Repository is a building block of [Domain-
 
 In der Architekturdokumentation: Ort, an dem Artefakte gespeichert
 werden, ehe sie durch einen automatischen Prozess zu einem
-konsistenten Dokument zusammengestellt werden. Im [Domain-Driven
-Design](#term-DDD): Die Ablage ist ein Baustein des [Domain-Driven
-Designs](#term-DDD). Eine Ablage verbirgt technische Details der
+konsistenten Dokument zusammengestellt werden. Im 
+[Domain-Driven Design](#term-DDD): 
+Die Ablage ist ein Baustein des [Domain-Driven Designs](#term-DDD). Eine Ablage verbirgt technische Details der
 Infrastrukturschicht vor der Domänenschicht. Ablagen geben
 [Entitäten](#term-entity) zurück, die in der
 Datenbank bestehen.

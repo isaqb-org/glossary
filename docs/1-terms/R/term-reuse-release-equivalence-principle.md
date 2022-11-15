@@ -26,10 +26,10 @@ Dependency Manager eine ordnungsgemäße Versionskontrolle erhalten.
 
 Das REP enthält zwei unterschiedliche Erkenntnisse:
 
-1.  Im großen Maßstab erfordern [Modularität](#term-modularity-quality-attribute) und [lose
-    Kopplung](#term-coupling) mehr als Typentrennung.
+1. Im großen Maßstab erfordern [Modularität](#term-modularity-quality-attribute) und
+   [lose Kopplung](#term-coupling) mehr als Typentrennung.
 
-2.  Die [Wiederverwendbarkeit](#term-reusability-quality-attribute) von Komponenten (auch wenn
+2. Die [Wiederverwendbarkeit](#term-reusability-quality-attribute) von Komponenten (auch wenn
     die gesamte „Wiederverwendung" intern erfolgt) führt zu allgemeiner
     [Wartbarkeit](#term-maintainability-quality-attribute).
 

@@ -14,9 +14,8 @@ Category: Quality, ISO 25010
 Maß, in dem die von einem Produkt oder einem System bei der Erfüllung
 seiner Funktionen verbrauchten Mengen und Arten von Ressourcen den
 Anforderungen entsprechen. Teilmerkmal von:
-[Leistungseffizienz](#term-performance-efficiency-quality-attribute). Vgl.
-Website von [ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+[Leistungseffizienz](#term-performance-efficiency-quality-attribute). 
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 Kategorie: Qualität, ISO 25010
 
 

@@ -66,33 +66,45 @@ Kombination von *Merkmalen* besitzt.
 (Siehe: [Softwarequalität](#term-software-quality)).
 
 In der [ISO-25010](#term-iso-25010) Norm sind folgende Qualitätsmerkmale
-definiert: -- [Funktionale Eignung](#term-functional-suitability-quality-attribute) -- [Funktionale
-Vollständigkeit,](#term-functional-completeness-quality-attribute) -- [Funktionale
-Korrektheit](#term-functional-correctness-quality-attribute) -- [Funktionale
-Angemessenheit](#term-functional-suitability-quality-attribute) -- [Leistungseffizienz](#term-performance-efficiency-quality-attribute)
--- [Zeitverhalten](#term-time-behaviour-quality-attribute) --
-[Ressourcenverbrauch](#term-resource-utilization-quality-attribute) -- [Kapazität](#term-capacity-quality-attribute) --
-[Kompatibilität](#term-compatibility-quality-attribute) -- [Koexistenz](#term-co-existence-quality-attribute) --
-[Interoperabilität](#term-interoperability-quality-attribute) --
-[Benutzerfreundlichkeit](#term-usability-quality-attribute) --
-[Erkennbarkeit der Brauchbarkeit](#term-appropriateness-recognizability-quality-attribute) --
-[Erlernbarkeit](#term-learnability-quality-attribute) -- [Bedienbarkeit](#term-operability-quality-attribute) --
-[Schutz vor Fehlbedienung](#term-user-error-protection-quality-attribute) -- [Ästhetik der
-Benutzeroberfläche](#term-user-interface-aesthetics-quality-attribute) -- [Zugänglichkeit](#term-accessibility-quality-attribute)
--- [Zuverlässigkeit](#term-reliability-quality-attribute) -- [Verfügbarkeit](#term-availability-quality-attribute)
--- [Fehlertoleranz](#term-fault-tolerance-quality-attribute) --
-[Wiederherstellbarkeit](#term-recoverability-quality-attribute) -- [Sicherheit](#term-security-quality-attribute)
--- [Vertraulichkeit](#term-confidentiality-quality-attribute) -- [Integrität](#term-integrity-quality-attribute) --
-[Nichtabstreitbarkeit](#term-non-repudiation-quality-attribute) --
-[Verantwortlichkeit](#term-accountability-quality-attribute) --
-[Authentifizierbarkeit](#term-authenticity-quality-attribute) -- [Wartbarkeit](#term-maintainability-quality-attribute)
--- [Modularität](#term-modularity-quality-attribute) --
-[Wiederverwendbarkeit](#term-reusability-quality-attribute) --
-[Analysierbarkeit](#term-analysability-quality-attribute) --
-[Modifizierbarkeit](#term-modifiability-quality-attribute) --
-[Testbarkeit](#term-testability-quality-attribute) -- [Portierbarkeit](#term-portability-quality-attribute) --
-[Adaptierbarkeit](#term-adaptability-quality-attribute) -- [Installierbarkeit](#term-installability-quality-attribute)
--- [Austauschbarkeit](#term-replaceability-quality-attribute)
+definiert: 
+- [Funktionale Eignung](#term-functional-suitability-quality-attribute) 
+  - [Funktionale Vollständigkeit,](#term-functional-completeness-quality-attribute) 
+  - [Funktionale Korrektheit](#term-functional-correctness-quality-attribute) 
+  - [Funktionale Angemessenheit](#term-functional-suitability-quality-attribute) 
+- [Leistungseffizienz](#term-performance-efficiency-quality-attribute)
+  - [Zeitverhalten](#term-time-behaviour-quality-attribute) 
+  - [Ressourcenverbrauch](#term-resource-utilization-quality-attribute) 
+  - [Kapazität](#term-capacity-quality-attribute) 
+- [Kompatibilität](#term-compatibility-quality-attribute) 
+  - [Koexistenz](#term-co-existence-quality-attribute) 
+  - [Interoperabilität](#term-interoperability-quality-attribute) 
+- [Benutzerfreundlichkeit](#term-usability-quality-attribute) 
+  - [Erkennbarkeit der Brauchbarkeit](#term-appropriateness-recognizability-quality-attribute) 
+  - [Erlernbarkeit](#term-learnability-quality-attribute) 
+  - [Bedienbarkeit](#term-operability-quality-attribute) 
+  - [Schutz vor Fehlbedienung](#term-user-error-protection-quality-attribute) 
+  - [Ästhetik der Benutzeroberfläche](#term-user-interface-aesthetics-quality-attribute) 
+  - [Zugänglichkeit](#term-accessibility-quality-attribute)
+- [Zuverlässigkeit](#term-reliability-quality-attribute) 
+  - [Verfügbarkeit](#term-availability-quality-attribute)
+  - [Fehlertoleranz](#term-fault-tolerance-quality-attribute) 
+  - [Wiederherstellbarkeit](#term-recoverability-quality-attribute) 
+- [Sicherheit](#term-security-quality-attribute)
+  - [Vertraulichkeit](#term-confidentiality-quality-attribute) 
+  - [Integrität](#term-integrity-quality-attribute) 
+  - [Nichtabstreitbarkeit](#term-non-repudiation-quality-attribute) 
+  - [Verantwortlichkeit](#term-accountability-quality-attribute) 
+  - [Authentifizierbarkeit](#term-authenticity-quality-attribute) 
+- [Wartbarkeit](#term-maintainability-quality-attribute)
+  - [Modularität](#term-modularity-quality-attribute) 
+  - [Wiederverwendbarkeit](#term-reusability-quality-attribute) 
+  - [Analysierbarkeit](#term-analysability-quality-attribute) 
+  - [Modifizierbarkeit](#term-modifiability-quality-attribute) 
+  - [Testbarkeit](#term-testability-quality-attribute) 
+- [Portierbarkeit](#term-portability-quality-attribute) 
+  - [Adaptierbarkeit](#term-adaptability-quality-attribute) 
+  - [Installierbarkeit](#term-installability-quality-attribute)
+  - [Austauschbarkeit](#term-replaceability-quality-attribute)
 
 
 Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:

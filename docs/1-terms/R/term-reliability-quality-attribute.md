@@ -17,8 +17,8 @@ spezifizierten Bedingungen für eine spezifizierte Zeitdauer
 spezifizierte Funktionen erfüllt. Es besteht aus folgenden
 Teilmerkmalen: [Reifegrad](#term-maturity-quality-attribute),
 [Verfügbarkeit](#term-availability-quality-attribute), [Fehlertoleranz](#term-fault-tolerance-quality-attribute),
-[Wiederherstellbarkeit](#term-recoverability-quality-attribute). Vgl. Website von [ISO
-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
+[Wiederherstellbarkeit](#term-recoverability-quality-attribute).
+Vgl. Website von [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010).
 
 Kategorie: Qualität, ISO 25010
 
