@@ -1,0 +1,17 @@
+// tag::EN[]
+==== Structural Element
+
+see <<term-building-block,Building Block>> or <<term-component,Component>>
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Strukturelement
+
+Siehe <<term-building-block,Baustein>> oder <<term-component,Komponente>>
+
+
+
+// end::DE[]
+

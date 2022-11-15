@@ -1,0 +1,21 @@
+// tag::EN[]
+==== Quantitative Evaluation
+
+(syn: quantative analysis): Measure or count values of software artifacts,
+e.g. <<term-coupling,coupling>>, cyclomatic complexity, size, test coverage. Metrics like these
+can help to identify critical parts or elements of systems.
+
+// end::EN[]
+
+// tag::DE[]
+==== Quantitative Bewertung
+
+(Syn.: quantitative Analyse): Messung oder Zählung von Werten von
+Softwareartefakten, z.B. <<term-coupling,Kopplung>>, zyklomatische
+Komplexität, Größe, Testabdeckung. Kennzahlen wie diese helfen bei der
+Identifizierung von kritischen Teilen oder Elementen von Systemen.
+
+
+
+// end::DE[]
+

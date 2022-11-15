@@ -1,0 +1,10 @@
+=== N
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-node-js.adoc[{include_configuration}]
+include::term-node-uml.adoc[{include_configuration}]
+include::term-non-functional-requirement.adoc[{include_configuration}]
+include::term-non-repudiation-quality-attribute.adoc[{include_configuration}]
+include::term-notation.adoc[{include_configuration}]

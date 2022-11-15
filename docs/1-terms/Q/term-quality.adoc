@@ -1,0 +1,18 @@
+// tag::EN[]
+==== Quality
+
+see <<term-software-quality,_software quality_>> and <<term-quality-attribute,quality attributes>>.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Qualität
+
+Siehe <<term-software-quality,*Softwarequalität*>> und
+<<term-quality-attribute,Qualitätsmerkmale>>.
+
+
+
+// end::DE[]
+

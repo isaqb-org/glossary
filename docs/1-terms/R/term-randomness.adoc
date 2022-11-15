@@ -1,0 +1,22 @@
+// tag::EN[]
+==== Randomness
+
+See <<term-entropy,Entropy>> or <<term-pseudo-randomness,Pseudo-Randomness>>.
+
+Category: Security
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Zufälligkeit
+
+Siehe <<term-entropy,Entropie>> oder
+<<term-pseudo-randomness,Pseudo-Zufälligkeit>>.
+
+Kategorie: Sicherheit
+
+
+
+// end::DE[]
+

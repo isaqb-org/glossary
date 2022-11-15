@@ -1,0 +1,23 @@
+// tag::EN[]
+==== Pikachu
+A yellowish mouse-like character from the
+(quite famous) link:https://simple.wikipedia.org/wiki/Pikachu[Pokémon world].
+Actually, you don't need to know that. But it does not hurt either - and you might impress your kids with this knowledge...
+
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Pikachu
+
+Eine gelbliche mausähnliche Figur aus der (recht berühmten)
+link:https://simple.wikipedia.org/wiki/Pikachu[Pokémon-Welt].
+Das brauchen Sie eigentlich nicht zu wissen. Aber es schadet auch
+nicht -- und vielleicht beeindrucken Sie Ihre Kinder mit diesem
+Wissen...
+
+
+
+// end::DE[]
+

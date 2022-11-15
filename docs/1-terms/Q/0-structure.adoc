@@ -1,0 +1,13 @@
+=== Q
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-qualitative-evaluation.adoc[{include_configuration}]
+include::term-quality-attribute.adoc[{include_configuration}]
+include::term-quality-characteristic.adoc[{include_configuration}]
+include::term-quality-model.adoc[{include_configuration}]
+include::term-quality-requirement.adoc[{include_configuration}]
+include::term-quality-tree.adoc[{include_configuration}]
+include::term-quality.adoc[{include_configuration}]
+include::term-quantative-evaluation.adoc[{include_configuration}]

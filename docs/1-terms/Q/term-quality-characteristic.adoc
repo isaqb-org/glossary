@@ -1,0 +1,14 @@
+// tag::EN[]
+==== Quality Characteristic
+
+synonym: _quality attribute_.
+
+
+//end:EN[] // tag::D[]
+==== Qualitätseigenschaft
+
+Synonym: *Qualitätsmerkmal*.
+
+
+// end::DE[]
+
