@@ -1,5 +1,5 @@
 // tag::EN[]
-### Document
+==== Document
 
 A (usually written) artifact conveying information.
 
@@ -8,10 +8,9 @@ A (usually written) artifact conveying information.
 // end::EN[]
 
 // tag::DE[]
-### Dokument
+==== Dokument
 
-Ein (üblicherweise schriftliches) Artefakt zur
-Informationsvermittlung.
+Ein (üblicherweise schriftliches) Artefakt zur Informationsvermittlung.
 
 
 // end::DE[]

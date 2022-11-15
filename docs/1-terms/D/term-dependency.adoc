@@ -1,7 +1,7 @@
 // tag::EN[]
 ### Dependency
 
-See [coupling](#term-coupling).
+See <<term-coupling,coupling>>.
 
 
 // end::EN[]
@@ -9,7 +9,7 @@ See [coupling](#term-coupling).
 // tag::DE[]
 ### Abhängigkeit
 
-Siehe [Kopplung](#term-coupling).
+Siehe <<term-coupling,Kopplung>>.
 
 
 

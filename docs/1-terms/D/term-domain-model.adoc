@@ -1,0 +1,19 @@
+// tag::EN[]
+==== Domain Model
+The domain model is a concept of <<term-DDD,Domain-Driven Design>>. I provides a system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Domänenmodell
+
+Das Domänenmodell ist ein Konzept von <<term-DDD,Domain-Driven Design>>. Das Domänenmodell ist ein System aus
+Abstraktionen zur Beschreibung ausgewählter Aspekte einer Fachdomäne
+und kann zur Lösung von Problemen in Zusammenhang mit
+dieser Domäne verwendet werden.
+
+
+
+// end::DE[]
+
