@@ -248,12 +248,12 @@ class Translator {
         println("\n\niSAQB Glossary Translation AsciiDoc Generator\n\n")
 
         def terms = parseFile(translationJSONSourceFile)
-
-
         if (isItCompliantToRules(terms)) {
 
             en_de = build_EN_TranslationTable(terms)
             int nrOfTerms = en_de.terms.size()
+
+            createOutputFolder()
 
             generated_EN_DE_File = clearFileForWriting(TARGET_FILEPATH + EN_DE_FILENAME)
 
@@ -274,5 +274,9 @@ class Translator {
         } else {
             println("Error in JSON file - cannot proceed")
         }
+    }
+
+    private static boolean createOutputFolder() {
+        new File(TARGET_FILEPATH).mkdirs()
     }
 }
