@@ -5,4 +5,17 @@
 // include::term-XX.adoc[{include_configuration}]
 
 include::term-DDD.adoc[{include_configuration}]
-
+include::term-decomposition.adoc[{include_configuration}]
+include::term-dependency-injection.adoc[{include_configuration}]
+include::term-dependency-inversion.adoc[{include_configuration}]
+include::term-dependency.adoc[{include_configuration}]
+include::term-deployment-view.adoc[{include_configuration}]
+include::term-deployment.adoc[{include_configuration}]
+include::term-design-pattern.adoc[{include_configuration}]
+include::term-design-principle.adoc[{include_configuration}]
+include::term-design-rationale.adoc[{include_configuration}]
+include::term-document.adoc[{include_configuration}]
+include::term-documentation-build.adoc[{include_configuration}]
+include::term-documentation.adoc[{include_configuration}]
+include::term-domain-model.adoc[{include_configuration}]
+include::term-drawing-tool.adoc[{include_configuration}]
