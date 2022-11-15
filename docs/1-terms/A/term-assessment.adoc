@@ -1,0 +1,25 @@
+// tag::EN[]
+
+==== Assessment
+
+See also <<term-architecture-evaluation,Evaluation>>.
+
+Gathering information about status, risks or vulnerabilities of a system.
+Assessment might concerning potentially all aspects
+(development, organization, architecture, code etc.)
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Beurteilung
+
+Siehe auch <<term-assessment,Bewertung>>.
+
+Zusammenstellung von Informationen über Status, Risiken oder Schwächen
+eines Systems. Die Beurteilung kann potenziell alle Aspekte
+(Entwicklung, Organisation, Architektur, Code usw.) betreffen.
+
+¹⁵https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042
+
+// end::DE[]

@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== Acyclic Dependencies Principle
+==== Acyclic Dependencies Principle
 
 A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). It demands that there be no cycles in the dependence graph of a system, which is also a https://en.wikipedia.org/wiki/Directed_acyclic_graph[necessity] for https://en.wikipedia.org/wiki/Functional_decomposition[_hierarchical_ decomposition].
 
@@ -16,7 +16,7 @@ Category: Design-Principle
 
 // tag::DE[]
 
-=== Azyklischer Abhängigkeitsgrundsatz (ADP)
+==== Azyklischer Abhängigkeitsgrundsatz (ADP)
 
 Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
 (siehe auch <<term-package-principles,Packaging-Prinzipien>>). Er besagt, dass

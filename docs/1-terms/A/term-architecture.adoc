@@ -1,0 +1,18 @@
+// tag::EN[]
+
+==== Architecture
+
+See <<term-software-architecture,Software Architecture>>
+
+Category: ISO-IEC-IEEE-42010
+
+// end::EN[]
+
+// tag:DE[]
+==== Architektur
+
+Siehe <<term-software-architecture,Softwarearchitektur>>.
+
+Kategorie: ISO-IEC-IEEE-42010
+
+// end::DE[]

@@ -1,0 +1,14 @@
+// tag::EN[]
+
+==== Architecture Objective
+
+See <<term-architecture-goal,architecture goal>>.
+
+// end::EN[]
+
+// tag:DE[]
+
+==== Architecture Objective
+TODO
+
+// end::DE[]

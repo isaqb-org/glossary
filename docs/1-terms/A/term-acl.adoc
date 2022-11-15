@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== ACL
+==== ACL
 
 Access Control Lists control authorization of
 a <<term-principal,principal>> to access a specific
@@ -18,7 +18,7 @@ Category: Security
 
 // tag::DE[]
 
-=== ACL
+==== ACL
 
 Zugriffskontrolllisten (Access Control Lists, ACL) repräsentieren
 die Autorisierung eines

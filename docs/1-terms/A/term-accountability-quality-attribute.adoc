@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== Accountability Quality Attribute
+==== Accountability Quality Attribute
 
 Degree to which the actions of an entity can be traced uniquely to the entity.
 Is a sub-characteristic of: <<term-security-quality-attribute,security>>.
@@ -12,7 +12,7 @@ Category: Quality, ISO 25010
 
 // tag::DE[]
 
-=== Qualitätsmerkmal Verantwortlichkeit
+==== Qualitätsmerkmal Verantwortlichkeit
 
 Maß, in dem Aktionen einer Entität eindeutig zu der Entität
 zurückverfolgt werden können. Teilmerkmal von:
