@@ -15,4 +15,5 @@ Akkreditierungsstelle (in diesem Fall das iSAQB^(R)^) zur Bestätigung,
 dass der Antragsteller die organisatorischen, technischen und
 qualitativen Anforderungen für
 <<term-training-provider,Schulungsanbieter>> erfüllt.
+
 // end:DE[]

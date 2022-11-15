@@ -22,4 +22,5 @@ von: <<term-portability-quality-attribute,Portierbarkeit>>. Vgl. Website von htt
 .
 
 Kategorie: Qualität, ISO 25010
+
 // end:DE[]

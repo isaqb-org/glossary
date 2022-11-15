@@ -18,4 +18,5 @@ abstrakten Typen (Schnittstellen und abstrakte Klassen), geteilt durch
 die Gesamtzahl der Typen.
 
 Kategorie: Kennzahl
+
 // end::DE[]
