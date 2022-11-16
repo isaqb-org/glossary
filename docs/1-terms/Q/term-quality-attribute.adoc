@@ -47,7 +47,7 @@ The Standard <<term-iso-25010,ISO-25010>> defines the following quality attribut
 ** <<term-installability-quality-attribute,Installability>>
 ** <<term-replaceability-quality-attribute,Replaceability>>
 
-It's helpful to distinguish between:
+It might be helpful to distinguish between the following types of quality attributes:
 
 * _runtime quality attributes_ (which can be observed at execution time of the system),
 * non-runtime quality attributes_ (which cannot be observed as the system executes) and
@@ -111,7 +111,7 @@ definiert:
 ** <<term-replaceability-quality-attribute,Austauschbarkeit>>
 
 
-Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
+Es kann hilfreich sein, zwischen folgenden Typen von Merkmalen zu unterscheiden:
 
 -   *Laufzeit-Qualitätsmerkmalen* (die während der Ausführungszeit des
     Systems beobachtet werden können),
@@ -122,12 +122,8 @@ Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
 -   Geschäftsqualitätsmerkmalen (Kosten, Zeitplan, Marktfähigkeit,
     Eignung für Unternehmen)
 
-Beispiele für Laufzeit-Qualitätsmerkmale sind funktionale Eignung,
-Leistungseffizienz, Sicherheit, Zuverlässigkeit,
-Benutzerfreundlichkeit und Interoperabilität.
+Beispiele für Laufzeit-Qualitätsmerkmale sind Leistungseffizienz, Sicherheit, Zuverlässigkeit, Benutzungsfreundlichkeit und Robustheit.
 
-Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit,
-Portierbarkeit, Wiederverwendbarkeit, Integrierbarkeit und
-Testbarkeit.
+Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit, Portierbarkeit, Wiederverwendbarkeit und Testbarkeit.
 
 // end::DE[] 
