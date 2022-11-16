@@ -44,16 +44,22 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
+- [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
+
 **K**
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 **R**
 
-- [[[rozanski, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley.
+- [[[rozanski, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley. Presents a set of architectural viewpoints and perspectives.
 
 
 **S**
+
+- [[[posa2, Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.]]] Pattern-Oriented Software Architecture, volume 2: _Patterns for Concurrent and Networked Objects_, Wiley & Sons, 2000
+
+- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons.  Comprehensive suervey of modern cryptography.
 
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 
