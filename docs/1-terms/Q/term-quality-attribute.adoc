@@ -55,7 +55,7 @@ It's helpful to distinguish between:
 
 Examples of runtime quality attributes are functional suitability, performance efficiency, security, reliability, usability and interoperability.
 
-Examples of non-runtime quality attributes are modifiability, portability, reusability, integratability, and testability.
+Examples of non-runtime quality attributes are modifiability, portability, understandability and testability.
 
 // end::EN[]
 
