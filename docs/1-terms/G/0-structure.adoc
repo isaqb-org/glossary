@@ -1,4 +1,4 @@
-=== E
+=== G
 
 // Template for newly added terms
 // include::term-XX.adoc[{include_configuration}]
