@@ -1,3 +1,5 @@
+[#term-economicalness]
+
 // tag::EN[]
 ==== Economicalness
 
@@ -12,5 +14,4 @@ Being economical, simple, lean or achievable with relatively low effort.
 Wirtschaftlich, einfach, schlank oder mit relativ geringem Aufwand machbar sein.
 
 
-// end::DE[]
-
+// end::DE[] 

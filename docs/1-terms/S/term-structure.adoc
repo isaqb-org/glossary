@@ -1,3 +1,5 @@
+[#term-structure]
+
 // tag::EN[]
 ==== Structure
 
@@ -27,5 +29,4 @@ In der Softwarearchitektur werden Strukturen häufig in
 
 
 
-// end::DE[]
-
+// end::DE[] 

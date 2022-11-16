@@ -1,3 +1,5 @@
+[#term-template]
+
 // tag::EN[]
 ==== Template (for Documentation)
 
@@ -21,5 +23,4 @@ Ein sehr bekanntes Template ist link:https://arc42.de/[arc42]
 
 
 
-// end::DE[]
-
+// end::DE[] 

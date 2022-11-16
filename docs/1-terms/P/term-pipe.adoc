@@ -1,3 +1,5 @@
+[#term-pipe]
+
 // tag::EN[]
 ==== Pipe
 
@@ -18,5 +20,4 @@ Datenreihenfolge zu verändern.
 
 
 
-// end::DE[]
-
+// end::DE[] 

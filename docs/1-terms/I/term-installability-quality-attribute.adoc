@@ -1,3 +1,5 @@
+[#term-installability-quality-attribute]
+
 // tag::EN[]
 ==== Installability Quality Attribute
 Degree of effectiveness and efficiency with which a product or system can be successfully installed and/or uninstalled in a specified environment.
@@ -21,5 +23,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

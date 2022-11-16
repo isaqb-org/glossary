@@ -1,3 +1,5 @@
+[#term-training-level]
+
 // tag::EN[]
 ==== Training Level
 The iSAQB® CPSA education programme is divided into (currently) two Training Levels: *Foundation Level* and
@@ -16,5 +18,4 @@ Schulungslevel sind in den jeweiligen Lehrplänen festgelegt.
 
 
 
-// end::DE[]
-
+// end::DE[] 

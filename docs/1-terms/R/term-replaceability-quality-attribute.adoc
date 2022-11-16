@@ -1,3 +1,5 @@
+[#term-replaceability-quality-attribute]
+
 // tag::EN[]
 ==== Replaceability Quality Attribute
 Degree to which a product can replace another specified software product for the same purpose in the same environment.
@@ -19,5 +21,4 @@ Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-
 Kategorie: Qualität, ISO 25010
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-building-block-view]
+
 // tag::EN[]
 ====  Building Block View
 

@@ -1,3 +1,5 @@
+[#term-correspondence-rule]
+
 // tag::EN[]
 ==== Correspondence Rule
 
@@ -24,5 +26,4 @@ Synonym: <<term-integrity,Integrität>>,
 Homogenität, konzeptionelle Integrität.
 
 
-// end::DE[]
-
+// end::DE[] 

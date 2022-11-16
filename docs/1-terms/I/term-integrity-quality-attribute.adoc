@@ -1,3 +1,5 @@
+[#term-integrity-quality-attribute]
+
 // tag::EN[]
 ==== Integrity Quality Attribute
 Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
@@ -20,5 +22,4 @@ Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-
 Kategorie: Qualität, ISO 25010, Sicherheit
 
 
-// end::DE[]
-
+// end::DE[] 

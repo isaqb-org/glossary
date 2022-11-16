@@ -1,3 +1,5 @@
+[#term-notation]
+
 // tag::EN[]
 ==== Notation
 
@@ -15,5 +17,4 @@ Stichpunktlisten, nummeriere Listen, UML, BPMN.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-view]
+
 // tag::EN[]
 
 ==== View
@@ -12,4 +14,4 @@ see: <<term-architecture-view,architecture view>>
 
 Siehe: <<term-architecture-view,Architektursicht>>
 
-// end::DE[]
+// end::DE[] 

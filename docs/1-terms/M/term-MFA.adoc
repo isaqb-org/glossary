@@ -1,3 +1,5 @@
+[#term-MFA]
+
 // tag::EN[]
 ==== MFA
 
@@ -14,5 +16,4 @@ Für Multi-Faktor-Authentifizierung siehe <<term-authentication,Authentifizierun
 
 Kategorie: Sicherheit
 
-// end::DE[]
-
+// end::DE[] 

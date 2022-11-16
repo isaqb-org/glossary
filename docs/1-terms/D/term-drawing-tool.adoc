@@ -1,3 +1,5 @@
+[#term-drawing-tool]
+
 // tag::EN[]
 ==== Drawing Tool
 
@@ -18,5 +20,4 @@ höheren Wartungskosten führt (anders als ein
 
 
 
-// end::DE[]
-
+// end::DE[] 

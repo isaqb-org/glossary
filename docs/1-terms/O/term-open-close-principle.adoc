@@ -1,3 +1,5 @@
+[#term-open-close-principle]
+
 // tag::EN[]
 ==== Open-Close-Principle (OCP)
 
@@ -24,5 +26,4 @@ Schnittstellenvererbung, allgemeiner als
 *Plugins*, implementiert werden.
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-tradeoff]
+
 // tag::EN[]
 ==== Trade-Off
 
@@ -31,5 +33,4 @@ zahlen.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-coupling]
+
 // tag::EN[]
 ==== Coupling
 
@@ -25,5 +27,4 @@ Verständlichkeit und Wartbarkeit.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-common-closure-principle]
+
 // tag::EN[]
 ==== Common Closure Principle
 
@@ -60,5 +62,4 @@ wird, gibt es keine unnötigen Kopplungen zwischen Komponenten.
 Kategorie: Entwurfsprinzip
 
 
-// end::DE[]
-
+// end::DE[] 

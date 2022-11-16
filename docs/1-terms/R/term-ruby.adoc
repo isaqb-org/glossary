@@ -1,3 +1,5 @@
+[#term-ruby]
+
 // tag::EN[]
 ==== Ruby
 
@@ -15,5 +17,4 @@ Eine großartige Programmiersprache.
 Kategorie: Programmierung
 
 
-// end::DE[]
-
+// end::DE[] 

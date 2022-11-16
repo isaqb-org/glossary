@@ -1,3 +1,5 @@
+[#term-pattern]
+
 // tag::EN[]
 ==== Pattern
 
@@ -18,5 +20,4 @@ Siehe <<term-architecture-pattern,Architekturmuster>> oder
 
 
 
-// end::DE[]
-
+// end::DE[] 

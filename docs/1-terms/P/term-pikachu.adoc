@@ -1,3 +1,5 @@
+[#term-pikachu]
+
 // tag::EN[]
 ==== Pikachu
 A yellowish mouse-like character from the
@@ -19,5 +21,4 @@ Wissen...
 
 
 
-// end::DE[]
-
+// end::DE[] 

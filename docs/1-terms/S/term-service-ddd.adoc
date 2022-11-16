@@ -1,3 +1,5 @@
+[#term-service-ddd]
+
 // tag::EN[]
 ==== Service (DDD)
 
@@ -17,5 +19,4 @@ Rückgabewerte seiner Operationen sind <<term-entity,Entitäten>>,
 
 
 
-// end::DE[]
-
+// end::DE[] 

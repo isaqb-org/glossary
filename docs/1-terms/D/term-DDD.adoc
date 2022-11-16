@@ -1,3 +1,5 @@
+[#term-DDD]
+
 // tag::EN[]
 
 ==== Domain-Driven Design (DDD)
@@ -38,4 +40,4 @@ Siehe auch:
 * <<term-repository,Ablage>>
 * <<term-ubiquitous-language,Allgegenwärtige Sprache>>
 
-// end::DE[]
+// end::DE[] 

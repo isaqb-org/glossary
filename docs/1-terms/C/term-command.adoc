@@ -1,3 +1,5 @@
+[#term-command]
+
 // tag::EN[]
 ==== Command
 
@@ -15,5 +17,4 @@ ausgeführt werden.
 
 
 
-// end::DE[]
-
+// end::DE[] 

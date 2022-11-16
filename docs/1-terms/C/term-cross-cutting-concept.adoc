@@ -1,3 +1,5 @@
+[#term-cross-cutting-concept]
+
 // tag::EN[]
 ==== Cross-Cutting Concept
 
@@ -16,5 +18,4 @@ Siehe <<term-concept,Konzept>>
 Synonym: Prinzip, Regel.
 
 
-// end::DE[]
-
+// end::DE[] 

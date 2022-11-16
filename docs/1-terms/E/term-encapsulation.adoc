@@ -1,3 +1,5 @@
+[#term-encapsulation]
+
 // tag::EN[]
 ==== Encapsulation
 
@@ -26,5 +28,4 @@ Kapselung ist ein Mechanismus zum <<term-information-hiding,Verbergen von Inform
 
 
 
-// end::DE[]
-
+// end::DE[] 

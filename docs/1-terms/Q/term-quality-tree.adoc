@@ -1,3 +1,5 @@
+[#term-quality-tree]
+
 // tag::EN[]
 ==== Quality Tree
 
@@ -9,7 +11,7 @@ The root "quality" is hierarchically refined in _areas_ or topics, which itself 
   * The quality of a specific system can be described by a _specific_ quality tree (see the example below).
 
 .[Sample Quality Tree]
-image::images/QualityTree.png[width=60%]
+image::QualityTree.png[width=60%]
 
 // end::EN[]
 
@@ -29,8 +31,7 @@ verfeinert werden. Qualitätsszenarien bilden die Blätter dieses Baums.
     Beispiel).
 
 .[Beispiel eines Qualitätsbaums]
-image::media/image13.png[width="3.5522911198600173in",height="2.0834372265966756in"]
+image::QualityTree.png[width="3.5522911198600173in",height="2.0834372265966756in"]
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-rm-odp]
+
 // tag::EN[]
 ==== RM/ODP
 
@@ -16,5 +18,4 @@ link:https://en.wikipedia.org/wiki/RM-ODP[_Reference Model for Open Distributed 
 ISO/IEC 10746.
 
 
-// end::DE[]
-
+// end::DE[] 

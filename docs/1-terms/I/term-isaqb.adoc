@@ -1,3 +1,5 @@
+[#term-isaqb]
+
 // tag::EN[]
 ==== iSAQB
 international Software Architecture Qualification Board – an internationally active organization fostering the development of software architecture education. See also the discussion in the <<section-about-isaqb,appendix>>.
@@ -16,5 +18,4 @@ Softwarearchitektur-Ausbildung. Siehe auch die Diskussion im
 
 
 
-// end::DE[]
-
+// end::DE[] 

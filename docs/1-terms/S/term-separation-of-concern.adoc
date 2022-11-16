@@ -1,3 +1,5 @@
+[#term-separation-of-concern]
+
 // tag::EN[]
 ==== Separation of Concerns (SoC)
 
@@ -32,5 +34,4 @@ Technik zur effektiven Ordnung der eigenen Gedanken."
 
 
 
-// end::DE[]
-
+// end::DE[] 

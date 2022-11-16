@@ -1,3 +1,5 @@
+[#term-stable-abstractions-principle]
+
 // tag::EN[]
 ==== Stable Abstractions Principle
 
@@ -50,5 +52,4 @@ Abhängigkeiten definiert sind (vorausgesetzt es gibt
 Kategorie: Entwurfsprinzip
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-time-behaviour-quality-attribute]
+
 // tag::EN[]
 ==== Time Behaviour Quality Attribute
 Degree to which the response and processing times and throughput rates of a product or system, when performing its functions, meet requirements.
@@ -21,5 +23,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-scenario]
+
 // tag::EN[]
 ==== Scenario
 
@@ -6,7 +8,7 @@ They "... are brief narratives of expected or anticipated use of a system from b
 Thus, they help to describe required or desired qualities of a system in pragmatic and informal manner, yet making the abstract notion of “quality” concrete and tangible.
 
 .[Generic form of (Quality) scenario]
-image::images/schematic-Q-scenario.png[width=50%]
+image::schematic-Q-scenario.png[width=50%]
 
   * Event/stimulus: Any condition or event arriving at the system
   * System (or part of the system) is stimulated by the event.
@@ -30,7 +32,7 @@ Eigenschaften eines Systems auf pragmatische und informelle Weise und
 machen dennoch das abstrakte Konzept „Qualität" konkret und greifbar.
 
 .[Allgemeine Form eines (Qualitäts-) Szenarios]
-image::media/image14.jpeg[width="3.0416666666666665in,height="1.9483333333333333in"]
+image::schematic-Q-scenario.png[width="3.0416666666666665in,height="1.9483333333333333in"]
 
 -   Ereignis/Stimulus: Jegliche Bedingungen oder Ereignisse, die das
     System erreichen
@@ -43,5 +45,4 @@ image::media/image14.jpeg[width="3.0416666666666665in,height="1.9483333333333333
     gemessen werden.
 
 
-// end::DE[]
-
+// end::DE[] 

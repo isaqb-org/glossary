@@ -1,3 +1,5 @@
+[#term-conceptual-integrity]
+
 // tag::EN[]
 ==== Conceptual Integrity
 Concepts, rules, patterns and similar solution approaches are applied in a consistent (homogeneous, similar) way throughout the system.
@@ -10,5 +12,4 @@ Similar problems are solved in similar or identical ways.
 Konzepte, Regeln, Muster und ähnliche Lösungsansätze werden im gesamten System auf einheitliche (homogene, ähnliche) Weise angewendet.
 Ähnliche Probleme werden auf ähnliche oder identische Weise gelöst.
 
-// end::DE[]
-
+// end::DE[] 

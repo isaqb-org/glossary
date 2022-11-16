@@ -1,3 +1,5 @@
+[#term-risk]
+
 // tag::EN[]
 ==== Risk
 Simply said, a risk is the possibility that a problem occurs.
@@ -16,5 +18,4 @@ Ein Risiko beinhaltet _Ungewissheit_ über die Auswirkungen, Folgen oder Implika
 Um ein Risiko zu quantifizieren, wird die Eintrittswahrscheinlichkeit mit dem potenziellen Wert multipliziert (der normalerweise ein Verlust ist – andernfalls wäre das Risiko eine Chance, die angesichts der Ungewissheit bei einigen Risiken ein mögliches Ergebnis sein könnte).
 
 
-// end::DE[]
-
+// end::DE[] 

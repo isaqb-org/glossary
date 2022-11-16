@@ -1,3 +1,5 @@
+[#term-pseudo-randomness]
+
  // tag::EN[]
 ==== Pseudo-Randomness
 
@@ -30,5 +32,4 @@ Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
 Kategorie: Sicherheit
 
 
-// end::DE[]
-
+// end::DE[] 

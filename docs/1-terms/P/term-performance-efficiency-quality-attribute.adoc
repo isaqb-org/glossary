@@ -1,3 +1,5 @@
+[#term-performance-efficiency-quality-attribute]
+
 // tag::EN[]
 ==== Performance Efficiency Quality Attribute
 Performance relative to the amount of resources used under stated conditions.
@@ -31,5 +33,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

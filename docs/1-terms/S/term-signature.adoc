@@ -1,3 +1,5 @@
+[#term-signature]
+
 // tag::EN[]
 ==== Signature
 
@@ -15,5 +17,4 @@ Signatur einer Funktion oder Methode: Siehe <<term-function-signature,Funktionss
 Digitale Signatur: Methode zur Überprüfung der Authentizität von Daten oder Dokumenten.
 
 
-// end::DE[]
-
+// end::DE[] 

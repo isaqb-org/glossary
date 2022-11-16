@@ -1,3 +1,5 @@
+[#term-package-principles]
+
 // tag::EN[]
 ==== Package Principles
 
@@ -63,5 +65,4 @@ Kategorie: Entwurfsprinzip
 
 
 
-// end::DE[]
-
+// end::DE[] 

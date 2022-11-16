@@ -1,3 +1,5 @@
+[#term-interface]
+
 // tag::EN[]
 ==== Interface
 
@@ -61,5 +63,4 @@ public class Horse implements Animal {
 ```
 
 
-// end::DE[]
-
+// end::DE[] 

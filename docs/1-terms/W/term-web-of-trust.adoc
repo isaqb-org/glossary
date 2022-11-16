@@ -1,3 +1,5 @@
+[#term-web-of-trust]
+
 // tag::EN[]
 
 ==== Web of Trust
@@ -30,4 +32,4 @@ kann, ausgedrückt. Ein dritter Benutzer kann dann diese Signatur
 Die E-Mail-Verschlüsselung PGP ist ein Beispiel für eine auf einem
 Netz des Vertrauens basierende <<term-pki,PKI>>.
 
-// end::DE[]
+// end::DE[] 

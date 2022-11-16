@@ -1,3 +1,5 @@
+[#term-kerckhoffs-principle]
+
 // tag::EN[]
 ==== Kerckhoffs' Principle
 
@@ -38,5 +40,4 @@ Siehe link:https://www.schneier.com/crypto-gram/archives/2002/0515.html[Bruce Sc
 Kategorie: Sicherheit
 
 
-// end::DE[]
-
+// end::DE[] 

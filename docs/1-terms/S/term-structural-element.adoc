@@ -1,3 +1,5 @@
+[#term-structural-element]
+
 // tag::EN[]
 ==== Structural Element
 
@@ -13,5 +15,4 @@ Siehe <<term-building-block,Baustein>> oder <<term-component,Komponente>>
 
 
 
-// end::DE[]
-
+// end::DE[] 

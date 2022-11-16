@@ -1,3 +1,5 @@
+[#term-maintainability-quality-attribute]
+
 // tag::EN[]
 ==== Maintainability Quality Attribute
 Degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements.
@@ -25,5 +27,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

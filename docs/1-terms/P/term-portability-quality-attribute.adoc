@@ -1,3 +1,5 @@
+[#term-portability-quality-attribute]
+
 // tag::EN[]
 ==== Portability Quality Attribute
 Degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another.
@@ -23,5 +25,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

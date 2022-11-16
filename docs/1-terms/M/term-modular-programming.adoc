@@ -1,3 +1,5 @@
+[#term-modular-programming]
+
 // tag::EN[]
 ==== Modular Programming
 
@@ -29,5 +31,4 @@ link:https://en.wikipedia.org/wiki/Modular_programming[Wikipedia])
 
 
 
-// end::DE[]
-
+// end::DE[] 

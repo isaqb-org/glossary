@@ -1,3 +1,5 @@
+[#term-observer]
+
 // tag::EN[]
 ==== Observer
 
@@ -20,5 +22,4 @@ link:https://en.wikipedia.org/wiki/Observer_pattern[Wikipedia])
 
 
 
-// end::DE[]
-
+// end::DE[] 

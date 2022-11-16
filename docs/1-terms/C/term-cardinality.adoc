@@ -1,3 +1,5 @@
+[#term-cardinality]
+
 // tag::EN[]
 ====  Cardinality
 Describes the quantitative rating of an association or relationship.
@@ -15,5 +17,4 @@ Module usw.) der Assoziation an.
 
 
 
-// end::DE[]
-
+// end::DE[] 

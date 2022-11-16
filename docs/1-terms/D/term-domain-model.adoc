@@ -1,3 +1,5 @@
+[#term-domain-model]
+
 // tag::EN[]
 ==== Domain Model
 The domain model is a concept of <<term-DDD,Domain-Driven Design>>. I provides a system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
@@ -15,5 +17,4 @@ dieser Domäne verwendet werden.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-reliability-quality-attribute]
+
 // tag::EN[]
 ==== Reliability Quality Attribute
 Degree to which a system, product or component performs specified functions under specified conditions for a specified period of time.
@@ -24,5 +26,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

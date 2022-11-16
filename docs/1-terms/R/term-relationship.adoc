@@ -1,3 +1,5 @@
+[#term-relationship]
+
 // tag::EN[]
 ==== Relationship
 
@@ -21,5 +23,4 @@ Erzeugung oder Vererbung.
 
 
 
-// end::DE[]
-
+// end::DE[] 

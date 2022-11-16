@@ -1,3 +1,5 @@
+[#term-sequence-diagram]
+
 // tag::EN[]
 ==== Sequence Diagram
 
@@ -8,7 +10,7 @@ the lifespan of objects or components, horizontal lines
 depict interactions between these components. See the following example.
 
 .[Example of Sequence Diagram]
-image::images/sequence-diagram-sample.png
+image::sequence-diagram-sample.png
 
 // end::EN[]
 
@@ -23,8 +25,7 @@ Komponenten dar, und die horizontalen Linien zeigen die Interaktionen
 zwischen diesen Komponenten. Siehe folgendes Beispiel.
 
 .[Beispiel eines Sequenzdiagramms]
-image::images/sequence-diagram-sample.png
+image::sequence-diagram-sample.png
 
 
-// end::DE[]
-
+// end::DE[] 

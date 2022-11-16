@@ -1,3 +1,5 @@
+[#term-principal]
+
 // tag::EN[]
 ==== Principal
 
@@ -29,5 +31,4 @@ link:https://tools.ietf.org/html/rfc4121[Kerberos RFC4121]).
 Kategorie: Sicherheit
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-cyclomatic-complexity]
+
 // tag::EN[]
 ==== Cyclomatic Complexity
 
@@ -24,5 +26,4 @@ Kategorie: Kennzahl.
 
 
 
-// end::DE[]
-
+// end::DE[] 

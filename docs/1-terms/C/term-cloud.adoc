@@ -1,3 +1,5 @@
+[#term-cloud]
+
 // tag::EN[]
 ==== Cloud
 "Cloud computing is a model for enabling ubiquitous, convenient, on-demand network
@@ -95,5 +97,4 @@ und Netzwerkbandbreite.
 
 
 
-// end::DE[]
-
+// end::DE[] 

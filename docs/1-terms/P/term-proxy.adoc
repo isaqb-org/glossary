@@ -1,3 +1,5 @@
+[#term-proxy]
+
 // tag::EN[]
 ==== Proxy
 
@@ -26,5 +28,4 @@ Schnittstelle implementieren." (Übersetztes englisches Zitat aus
 link:https://de.wikipedia.org/wiki/Stellvertreter_(Entwurfsmuster)[Wikipedia])
 
 
-// end::DE[]
-
+// end::DE[] 

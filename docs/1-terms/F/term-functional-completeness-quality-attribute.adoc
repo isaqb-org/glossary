@@ -1,3 +1,5 @@
+[#term-functional-completeness-quality-attribute]
+
 // tag::EN[]
 ==== Functional Completeness Quality Attribute
 Degree to which the set of functions covers all the specified tasks and user objectives.
@@ -16,5 +18,4 @@ Benutzerziele abdeckt. Teilmerkmal von: <<term-functional-suitability-quality-at
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
-// end::DE[]
-
+// end::DE[] 

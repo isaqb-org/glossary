@@ -1,3 +1,5 @@
+[#term-refactoring]
+
 // tag::EN[]
 ==== Refactoring
 A term denoting the improvement of software units by changing their internal structure without changing the behavior. (see
@@ -21,5 +23,4 @@ Nicht mit Re*design* zu verwechseln.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-randomness]
+
 // tag::EN[]
 ==== Randomness
 
@@ -18,5 +20,4 @@ Kategorie: Sicherheit
 
 
 
-// end::DE[]
-
+// end::DE[] 

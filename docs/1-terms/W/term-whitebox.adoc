@@ -1,3 +1,5 @@
+[#term-whitebox]
+
 // tag::EN[]
 
 ==== White Box
@@ -17,4 +19,4 @@ Zeigt die interne Struktur eines aus Blackboxes bestehenden Systems oder Baustei
 
 Siehe auch <<term-blackbox,Black Box>>.
 
-// end::DE[]
+// end::DE[] 

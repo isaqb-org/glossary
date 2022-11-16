@@ -1,3 +1,5 @@
+[#term-solid-principles]
+
 // tag::EN[]
 ==== S.O.L.I.D. principles
 
@@ -24,5 +26,4 @@ Weitere Quellen: siehe <<ref-martin-solid,Martin-SOLID>>.
 
 
 
-// end::DE[]
-
+// end::DE[] 

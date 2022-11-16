@@ -1,3 +1,5 @@
+[#term-perspective]
+
 // tag::EN[]
 ==== Perspective
 
@@ -58,5 +60,4 @@ Perspektiven vor:
 -   Benutzerfreundlichkeit
 
 
-// end::DE[]
-
+// end::DE[] 

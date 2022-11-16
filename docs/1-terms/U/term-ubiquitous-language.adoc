@@ -1,3 +1,5 @@
+[#term-ubiquitous-language]
+
 // tag::EN[]
 ==== Ubiquitous Language
 A concept of <<term-DDD,Domain-Driven Design>>: The ubiquitous language is a language that is structured around the <<term-domain-model,domain model>>. It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
@@ -16,5 +18,4 @@ Software genutzt. Die allgegenwärtige Sprache ist lebendig, entwickelt
 sich während eines Projekts weiter und verändert sich während des
 gesamten Lebenszyklus der Software.
 
-// end::DE[]
-
+// end::DE[] 

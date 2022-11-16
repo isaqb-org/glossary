@@ -1,3 +1,5 @@
+[#term-business-architecture]
+
 // tag::EN[]
 ====  Business Architecture
 A blueprint of the enterprise that provides a common understanding

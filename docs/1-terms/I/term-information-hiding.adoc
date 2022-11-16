@@ -1,3 +1,5 @@
+[#term-information-hiding]
+
 // tag::EN[]
 ==== Information Hiding
 
@@ -25,5 +27,4 @@ häufig austauschbar mit Verbergen von Informationen verwendet.
 
 
 
-// end::DE[]
-
+// end::DE[] 

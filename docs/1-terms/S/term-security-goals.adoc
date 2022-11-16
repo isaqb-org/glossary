@@ -1,3 +1,5 @@
+[#term-security-goals]
+
 // tag::EN[]
 ==== Security Goals
 
@@ -54,5 +56,4 @@ Siehe <<ref-anderson-2008,„What is Security Engineering - Definitions", Seite 
 Kategorie: Sicherheit
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-non-repudiation-quality-attribute]
+
 // tag::EN[]
 ==== Non-repudiation Quality Attribute
 Degree to which actions or events can be proven to have taken place, so that the events or actions cannot be repudiated later.
@@ -20,5 +22,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

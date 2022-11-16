@@ -1,3 +1,5 @@
+[#term-usability-quality-attribute]
+
 // tag::EN[]
 ==== Usability Quality Attribute
 Degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
@@ -25,4 +27,4 @@ Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-
 Kategorie: Qualität, ISO 25010
 
 
-// end::DE[]
+// end::DE[] 

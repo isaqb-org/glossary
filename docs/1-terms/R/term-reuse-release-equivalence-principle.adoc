@@ -1,3 +1,5 @@
+[#term-reuse-release-equivalence-principle]
+
 // tag::EN[]
 ==== Reuse/Release Equivalence Principle
 
@@ -37,5 +39,4 @@ Kategorie: Entwurfsprinzip
 
 
 
-// end::DE[]
-
+// end::DE[] 

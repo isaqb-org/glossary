@@ -1,3 +1,5 @@
+[#term-togaf]
+
 // tag::EN[]
 ==== TOGAF
 
@@ -14,5 +16,4 @@ Konzeptioneller Rahmen für die Planung und Wartung von Unternehmens-IT-Architek
 
 
 
-// end::DE[]
-
+// end::DE[] 

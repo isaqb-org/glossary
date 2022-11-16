@@ -1,3 +1,5 @@
+[#term-interface-segregation-principle]
+
 // tag::EN[]
 ==== Interface Segregation Principle (ISP)
 
@@ -17,5 +19,4 @@ aufgeteilt, so dass Clients nur Methoden
 kennen müssen, die sie tatsächlich nutzen.
 
 
-// end::DE[]
-
+// end::DE[] 

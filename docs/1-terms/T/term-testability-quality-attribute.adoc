@@ -1,3 +1,5 @@
+[#term-testability-quality-attribute]
+
 // tag::EN[]
 ==== Testability Quality Attribute
 Degree of effectiveness and efficiency with which test criteria can be established for a system, product or component and tests can be performed to determine whether those criteria have been met.
@@ -20,5 +22,4 @@ Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-
 Kategorie: Qualität, ISO 25010
 
 
-// end::DE[]
-
+// end::DE[] 

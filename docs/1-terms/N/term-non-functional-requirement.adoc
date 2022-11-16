@@ -1,3 +1,5 @@
+[#term-non-functional-requirement]
+
 // tag::EN[]
 ==== Non Functional Requirement (NFR)
 
@@ -24,5 +26,4 @@ Anforderungsmanagements gerne als
 
 
 
-// end::DE[]
-
+// end::DE[] 

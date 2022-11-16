@@ -1,3 +1,5 @@
+[#term-module]
+
 // tag::EN[]
 ==== Module
 
@@ -39,5 +41,4 @@
     die Inhalte dieser Module sind in den jeweiligen Lehrplänen
     festgelegt.
 
-// end::DE[]
-
+// end::DE[] 

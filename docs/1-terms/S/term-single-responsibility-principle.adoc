@@ -1,3 +1,5 @@
+[#term-single-responsibility-principle]
+
 // tag::EN[]
 ==== Single Responsibility Principle (SRP)
 
@@ -23,5 +25,4 @@ mit SRP angesehen.
 
 
 
-// end::DE[]
-
+// end::DE[] 

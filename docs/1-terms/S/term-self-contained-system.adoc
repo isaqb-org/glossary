@@ -1,3 +1,5 @@
+[#term-self-contained-system]
+
 // tag::EN[]
 ==== Self Contained System (SCS)
 
@@ -25,5 +27,4 @@ wartbar sind."
 
 
 
-// end::DE[]
-
+// end::DE[] 

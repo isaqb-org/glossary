@@ -1,3 +1,5 @@
+[#term-runtime-view]
+
 // tag::EN[]
 ==== Runtime View
 
@@ -19,5 +21,4 @@ aber nicht) als UML-Sequenz oder Aktivitätsdiagramm ausgedrückt
 werden.
 
 
-// end::DE[]
-
+// end::DE[] 

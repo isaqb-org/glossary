@@ -1,3 +1,5 @@
+[#term-gateway]
+
 // tag::EN[]
 ==== Gateway
 
@@ -17,5 +19,4 @@ auch <<term-wrapper,Wrapper>>, <<term-adaptability-quality-attribute,Adapter>>.
 
 
 
-// end::DE[]
-
+// end::DE[] 

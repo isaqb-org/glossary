@@ -1,3 +1,5 @@
+[#term-dependency-injection]
+
 // tag::EN[]
 ==== Dependency Injection (DI)
 
@@ -18,5 +20,4 @@ anderer Leute*.
 
 
 
-// end::DE[]
-
+// end::DE[] 

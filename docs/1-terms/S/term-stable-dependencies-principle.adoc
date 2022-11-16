@@ -1,3 +1,5 @@
+[#term-stable-dependencies-principle]
+
 // tag::EN[]
 ==== Stable Dependencies Principle
 
@@ -56,5 +58,4 @@ Kombination ergibt eine allgemeinere Version des <<term-dependency-inversion,DIP
 Kategorie: Entwurfsprinzip
 
 
-// end::DE[]
-
+// end::DE[] 

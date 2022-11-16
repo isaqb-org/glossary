@@ -1,3 +1,5 @@
+[#term-design-pattern]
+
 // tag::EN[]
 ==== Design Pattern
 
@@ -31,5 +33,4 @@ Verbündeten kennen.
 
 
 
-// end::DE[]
-
+// end::DE[] 

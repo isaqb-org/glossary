@@ -1,3 +1,5 @@
+[#term-quality-requirement]
+
 // tag::EN[]
 ==== Quality Requirement
 
@@ -17,5 +19,4 @@ Wartbarkeit. Siehe auch *Softwarequalität*.
 
 
 
-// end::DE[]
-
+// end::DE[] 

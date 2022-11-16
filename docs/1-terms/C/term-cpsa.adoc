@@ -1,3 +1,5 @@
+[#term-cpsa]
+
 // tag::EN[]
 ==== CPSA(R)
 Certified Professional for Software Architecture(R) – the common name for different levels of certification issued by the <<term-isaqb,iSAQB>>. The most common known certifications are the foundation level (CPSA-F) and the advanced level (CPSA-A).
@@ -14,5 +16,4 @@ Foundation Level (CPSA-F) und das Advanced
 Level (CPSA-A).
 
 
-// end::DE[]
-
+// end::DE[] 

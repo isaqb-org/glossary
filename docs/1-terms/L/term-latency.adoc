@@ -1,3 +1,5 @@
+[#term-latency]
+
 // tag::EN[]
 ==== Latency
 Latency is the time delay between the cause and the effect of some change in a system.
@@ -18,5 +20,4 @@ In Computernetzwerken beschreibt die Latenz die Zeit, die eine Datenmenge (_Pake
 In interaktiven Systemen ist die Latenz die Zeitspanne zwischen einer Eingabe in das System und der audiovisuellen Reaktion.
 Oft gibt es eine Verzögerung, die oft durch Netzwerkverzögerungen verursacht wird.
 
-// end::DE[]
-
+// end::DE[] 

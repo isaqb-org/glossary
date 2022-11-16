@@ -1,3 +1,5 @@
+[#term-operability-quality-attribute]
+
 // tag::EN[]
 ==== Operability Quality Attribute
 Degree to which a product or system has attributes that make it easy to operate and control.
@@ -20,5 +22,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

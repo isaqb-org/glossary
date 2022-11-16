@@ -1,3 +1,5 @@
+[#term-heuristic]
+
 // tag::EN[]
 ==== Heuristic
 
@@ -18,5 +20,4 @@ link:https://www.nngroup.com/articles/ten-usability-heuristics/[Benutzeroberflä
 
 
 
-// end::DE[]
-
+// end::DE[] 

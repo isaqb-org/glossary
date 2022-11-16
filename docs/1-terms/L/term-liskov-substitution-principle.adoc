@@ -1,3 +1,5 @@
+[#term-liskov-substitution-principle]
+
 // tag::EN[]
 ==== Liskov Substitution Principle
 
@@ -22,5 +24,4 @@ Funktionalität des Codes beeinträchtigt.
 
 
 
-// end::DE[]
-
+// end::DE[] 

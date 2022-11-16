@@ -1,3 +1,5 @@
+[#term-posa]
+
 // tag::EN[]
 ==== POSA
 
@@ -16,5 +18,4 @@ Buchreihe zu Softwarearchitekturmustern.
 
 
 
-// end::DE[]
-
+// end::DE[] 

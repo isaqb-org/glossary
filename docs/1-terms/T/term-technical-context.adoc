@@ -1,3 +1,5 @@
+[#term-technical-context]
+
 // tag::EN[]
 ==== Technical Context
 
@@ -20,5 +22,4 @@ Damit ergänzt der technische Kontext den (fachlicher Kontext)(#term-business-co
 Siehe <<term-context-view,Kontextabgrenzung>>.
 
 
-// end::DE[]
-
+// end::DE[] 

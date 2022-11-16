@@ -1,3 +1,5 @@
+[#term-confidentiality-quality-attribute]
+
 // tag::EN[]
 ==== Confidentiality Quality Attribute
 Degree to which a product or system ensures that data are accessible only to those authorized to have access.
@@ -21,5 +23,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

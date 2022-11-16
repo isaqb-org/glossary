@@ -1,3 +1,5 @@
+[#term-sensitivity-point]
+
 // tag::EN[]
 ==== Sensitivity Point
 
@@ -24,5 +26,4 @@ hat man zumeist mehr als ein Problem.
 
 
 
-// end::DE[]
-
+// end::DE[] 
