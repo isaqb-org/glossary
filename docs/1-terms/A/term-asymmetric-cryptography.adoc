@@ -9,7 +9,7 @@ encryption is different from the key used for decryption. The key for
 encryption is called "public-key" the key for decryption is called
 "private-key". The public key can be published and used by anyone to encrypt
 information only readable by the party owning the private-key for decryption.
-See <<ref-schneier-1996,Schneier, Public-Key Algorithms, page 17>>.
+See <<schneier-1996, page 17>>.
 
 Asymmetric cryptography is fundamental for <<term-pki,PKI>> and digital
 signatures.
