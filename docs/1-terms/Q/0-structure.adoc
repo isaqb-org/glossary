@@ -1,0 +1,7 @@
+=== !
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-quality.adoc[{include_configuration}]
+include::term-quality-attribute.adoc[{include_configuration}]
