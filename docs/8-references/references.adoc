@@ -33,7 +33,8 @@ ATTENTION: labels have to be non-numeric.
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+
+- [[[bass,Bass et al. 2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
 
 **C**
 
@@ -47,7 +48,12 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
+**R**
+
+- [[[rozanski, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley.
+
+
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 

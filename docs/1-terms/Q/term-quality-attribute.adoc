@@ -1,3 +1,4 @@
+
 [#term-quality-attribute]
 
 // tag::EN[]
@@ -46,7 +47,6 @@ The Standard <<term-iso-25010,ISO-25010>> defines the following quality attribut
 ** <<term-installability-quality-attribute,Installability>>
 ** <<term-replaceability-quality-attribute,Replaceability>>
 
-
 It's helpful to distinguish between:
 
 * _runtime quality attributes_ (which can be observed at execution time of the system),
@@ -60,10 +60,11 @@ Examples of non-runtime quality attributes are modifiability, portability, reusa
 // end::EN[]
 
 // tag::DE[]
-==== Qualitätsmerkmal
+
+=== Qualitätsmerkmal
 
 Die Softwarequalität ist das Maß, in dem ein System die gewünschte
-Kombination von *Merkmalen* besitzt.
+Kombination von _Merkmalen_ besitzt.
 
 (Siehe: <<term-software-quality,Softwarequalität>>).
 
@@ -128,7 +129,5 @@ Benutzerfreundlichkeit und Interoperabilität.
 Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit,
 Portierbarkeit, Wiederverwendbarkeit, Integrierbarkeit und
 Testbarkeit.
-
-
 
 // end::DE[] 
