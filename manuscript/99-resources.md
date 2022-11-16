@@ -6,9 +6,7 @@
 {#ref-anderson-2008}
 ##### Anderson-2008
 
-Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
-
-One of the most comprehensive books about information security available.
+Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons. One of the most comprehensive books about information security available.
 
 {#ref-bachmann-2000}
 ##### Bachmann+2000
@@ -114,23 +112,6 @@ Gorton, I. _Essential Software Architecture_,
 2nd edition, Springer, 2011
 
 
-{#ref-hargis+2004}
-##### Hargis+2004
-
-Hargis, Gretchen/Carey, Michelle/Hernandez, Ann:
-_Developing Quality Technical Information: A Handbook for Writers and Editors,_
-IBM Press, 2nd edition, Prentice Hall, 2004.
-
-If you need to write lots of documentation,
-you should have a look at this book.
-
-{#ref-hofmeister+2000}
-##### Hofmeister+2000
-
-Hofmeister, Christine/Nord, Robert/Soni, Dilip:
-_Applied Software Architecture,_
-1st edition, Addison-Wesley, 1999
-
 {#ref-hohpe+2003}
 ##### Hohpe+2003
 
@@ -142,20 +123,6 @@ A very important book and timeless book for people creating integrated systems.
 ##### Kazman+1996
 Kazman, R., Abowd, G., Bass, L., & Clements, P.: _Scenario-based analysis of software architecture_, IEEE software, 13(6), 47-55, 1996.
 
-{#ref-kelly+2009}
-##### Kelly+2009
-Steven Kelly and Risto Pohjonen: _Worst Practices for Domain-Specific Modeling_
-IEEE Software, volume 26, No. 4 July/August 2009, p22-30.
-
-Authors explain several _bad practices_ of domain modeling and give advice how and
-why to avoid those.
-
-{#ref-kruchten-1995}
-##### Kruchten-1995
-
-Kruchten, Philippe.
-_The 4+1 View Model of Architecture_,
-IEEE Software, volume 12 (6), pp 45-50, 1995.
 
 {#ref-lilienthal-2019}
 ##### Lilienthal-2019
@@ -218,24 +185,6 @@ Pattern-Oriented Software Architecture, Volume 5.
 See [Buschmann+2007b](#ref-buschmann-2007b).
 
 
-{#ref-quian-2010}
-##### Quian+2010
-
-Qian, K/Fu, X/Tao, L/Xu, C/Herrera, J:
-_Software Architecture and Design Illuminated,_
-1st edition, Jones and Bartlett, 2010.
-
-Well-structure and readable collection of architecture styles and patterns.
-
-
-{#ref-rozanski-2011}
-##### Rozanski+2011
-
-Rozanski, Nick/Woods, Eoin: _Software Systems Architecture - Working with
-Stakeholders Using Viewpoints and Perspectives_, 2nd Edition, Addison Wesley 2011.
-
-Presents a set of architectural viewpoints and perspectives.
-
 
 {#ref-rmias-2013}
 ##### RMIAS-2013
@@ -246,37 +195,7 @@ Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & 
 Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
 
-{#ref-schmidt-2000}
-##### Schmidt+2000
-Also known as POSA-2.
 
-Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.
-Pattern-Oriented Software Architecture, volume 2:
-_Patterns for Concurrent and Networked Objects,_
-Wiley & Sons, 2000
-
-{#ref-schneier-1996}
-##### Schneier-1996
-
-Bruce Schneier, Applied Cryptography, 2nd Edition 1996, John Wiley & Sons
-
-Comprehensive suervey of modern cryptography.
-
-{#ref-shaw-1996}
-##### Shaw+1996
-
-Shaw, Mary/Garlan, David:
-_Software Architecture: Perspectives on an Emerging Discipline_,
-Prentice Hall, 1996
-
-{#ref-starke-esa-en}
-##### Starke-2018
-
-Starke, Gernot:
-_Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Study Guide_
-Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
-
-A study guide for the CPSA-Foundation examination.
 
 {#ref-tanenbaum-steen}
 ##### Tanenbaum+2016
