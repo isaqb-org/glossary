@@ -1,0 +1,19 @@
+[#term-concurrency]
+
+// tag::EN[]
+==== Concurrency
+
+Concurrency is the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome.
+Concurrency does not necessarily mean parallelism.
+(nach link:https://en.wikipedia.org/wiki/Concurrency_(computer_science)[Wikipedia])
+
+// end::EN[]
+
+// tag::DE[]
+==== Nebenläufigkeit
+
+Nebenläufigkeit ist die Möglichkeit, verschiedene Teile oder Einheiten eines Programms, Algorithmus oder Problems in beliebiger Reihenfolge oder in Teilreihenfolge auszuführen, ohne das Endergebnis zu beeinflussen.
+Aus Nebenläufigkeit folgt dabei nicht zwangsläufig Parallelität.
+(Übersetzung nach link:https://en.wikipedia.org/wiki/Concurrency_(computer_science)[Wikipedia])
+
+// end::DE[]
