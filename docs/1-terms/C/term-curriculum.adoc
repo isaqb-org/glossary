@@ -1,3 +1,5 @@
+[#term-curriculum]
+
 // tag::EN[]
 ==== Curriculum
 
@@ -11,5 +13,4 @@ The learning process provided by a school (here: iSAQB as the institution govern
 Der Lernprozess, der von einer Schule angeboten wird (hier: iSAQB als Institution, die für die Softwarearchitekturausbildung).
 Er umfasst den Inhalt der Kurse (den Lehrplan), die angewandten Methoden und andere Aspekte wie Normen und Werte, die sich auf die Art und Weise beziehen, wie die Ausbildung einschließlich Zertifizierung und Prüfung organisiert ist.
 
-// end::DE[]
-
+// end::DE[] 

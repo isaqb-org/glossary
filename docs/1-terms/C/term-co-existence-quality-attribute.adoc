@@ -1,3 +1,5 @@
+[#term-co-existence-quality-attribute]
+
 // tag::EN[]
 ==== Co-Existence Quality Attribute
 Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
@@ -20,5 +22,4 @@ von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010,[ISO 25
 Kategorie: Qualität, ISO 25010
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-interoperability-quality-attribute]
+
 // tag::EN[]
 ==== Interoperability Quality Attribute
 Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
@@ -21,5 +23,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

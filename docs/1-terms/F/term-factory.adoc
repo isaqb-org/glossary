@@ -1,3 +1,5 @@
+[#term-factory]
+
 // tag::EN[]
 ==== Factory
 
@@ -24,5 +26,4 @@ der Domäne und haben keinen Zugriff auf technische
 Bausteine (z.B. eine Datenbank).
 
 
-// end::DE[]
-
+// end::DE[] 

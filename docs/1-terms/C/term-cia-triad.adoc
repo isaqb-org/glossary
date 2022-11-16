@@ -1,3 +1,5 @@
+[#term-cia-triad]
+
 // tag::EN[]
 ==== CIA Triad
 
@@ -17,5 +19,4 @@ Kategorie: Sicherheit
 
 
 
-// end::DE[]
-
+// end::DE[] 

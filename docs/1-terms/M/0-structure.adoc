@@ -1,0 +1,18 @@
+=== M
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-MFA.adoc[{include_configuration}]
+include::term-maintainability-quality-attribute.adoc[{include_configuration}]
+include::term-maturity-quality-attribute.adoc[{include_configuration}]
+include::term-microservice.adoc[{include_configuration}]
+include::term-model-driven-architecture.adoc[{include_configuration}]
+include::term-model-driven-software-development.adoc[{include_configuration}]
+include::term-model-kind.adoc[{include_configuration}]
+include::term-model-view-controller.adoc[{include_configuration}]
+include::term-modeling-tool.adoc[{include_configuration}]
+include::term-modifiability-quality-attribute.adoc[{include_configuration}]
+include::term-modular-programming.adoc[{include_configuration}]
+include::term-modularity-quality-attribute.adoc[{include_configuration}]
+include::term-module.adoc[{include_configuration}]

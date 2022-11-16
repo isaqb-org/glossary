@@ -1,3 +1,5 @@
+[#term-information-hiding]
+
 // tag::EN[]
 ==== Information Hiding
 
@@ -5,7 +7,7 @@ A fundamental principle in software design: Keep those design or implementation 
 _hidden_ that are likely to change, thus protecting other parts of the system from  modification if these decisions or implementations are changed. Is one important
 attributes of <<term-blackbox,blackboxes>>. Separates interface from implementation.
 
-  The term <<term-encapsulation,encapsulation>> is often used interchangeably with information hiding.
+The term <<term-encapsulation,encapsulation>> is often used interchangeably with information hiding.
 
 // end::EN[]
 
@@ -25,5 +27,4 @@ häufig austauschbar mit Verbergen von Informationen verwendet.
 
 
 
-// end::DE[]
-
+// end::DE[] 

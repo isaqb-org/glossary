@@ -1,6 +1,8 @@
-// tag::EN[]
 
-=== Quality Attribute
+[#term-quality-attribute]
+
+// tag::EN[]
+==== Quality Attribute
 
 Software quality is the degree to which a system possesses the desired combination of _attributes_ (see: <<term-software-quality,software quality>>).
 
@@ -67,55 +69,58 @@ Kombination von _Merkmalen_ besitzt.
 (Siehe: <<term-software-quality,Softwarequalität>>).
 
 In der <<term-iso-25010,ISO-25010>> Norm sind folgende Qualitätsmerkmale
-definiert: – <<term-functional-suitability-quality-attribute,Funktionale Eignung>>
-– <<term-functional-completeness-quality-attribute,Funktionale Vollständigkeit,>>
-– <<term-functional-correctness-quality-attribute,Funktionale Korrektheit>>
-– <<term-functional-suitability-quality-attribute,Funktionale Angemessenheit>>
-– <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>
-– <<term-time-behaviour-quality-attribute,Zeitverhalten>>
-– <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>>
-– <<term-capacity-quality-attribute,Kapazität>>
-– <<term-compatibility-quality-attribute,Kompatibilität>>
-– <<term-co-existence-quality-attribute,Koexistenz>>
-– <<term-interoperability-quality-attribute,Interoperabilität>>
-– <<term-usability-quality-attribute,Benutzerfreundlichkeit>>
-– <<term-appropriateness-recognizability-quality-attribute,Erkennbarkeit der Brauchbarkeit>>
-– <<term-learnability-quality-attribute,Erlernbarkeit>>
-– <<term-operability-quality-attribute,Bedienbarkeit>>
-– <<term-user-error-protection-quality-attribute,Schutz vor Fehlbedienung>>
-– <<term-user-interface-aesthetics-quality-attribute,Ästhetik der Benutzeroberfläche>>
-– <<term-accessibility-quality-attribute,Zugänglichkeit>>
-– <<term-reliability-quality-attribute,Zuverlässigkeit>>
-– <<term-availability-quality-attribute,Verfügbarkeit>>
-– <<term-fault-tolerance-quality-attribute,Fehlertoleranz>>
-– <<term-recoverability-quality-attribute,Wiederherstellbarkeit>>
-– <<term-security-quality-attribute,Sicherheit>>
-– <<term-confidentiality-quality-attribute,Vertraulichkeit>>
-– <<term-integrity-quality-attribute,Integrität>>
-– <<term-non-repudiation-quality-attribute,Nichtabstreitbarkeit>>
-– <<term-accountability-quality-attribute,Verantwortlichkeit>>
-– <<term-authenticity-quality-attribute,Authentifizierbarkeit>>
-– <<term-maintainability-quality-attribute,Wartbarkeit>>
-– <<term-modularity-quality-attribute,Modularität>>
-– <<term-reusability-quality-attribute,Wiederverwendbarkeit>>
-– <<term-analysability-quality-attribute,Analysierbarkeit>>
-– <<term-modifiability-quality-attribute,Modifizierbarkeit>>
-– <<term-testability-quality-attribute,Testbarkeit>>
-– <<term-portability-quality-attribute,Portierbarkeit>>
-– <<term-adaptability-quality-attribute,Adaptierbarkeit>>
-– <<term-installability-quality-attribute,Installierbarkeit>>
-– <<term-replaceability-quality-attribute,Austauschbarkeit>>
+definiert:
+
+* <<term-functional-suitability-quality-attribute,Funktionale Eignung>>
+** <<term-functional-completeness-quality-attribute,Funktionale Vollständigkeit,>>
+** <<term-functional-correctness-quality-attribute,Funktionale Korrektheit>>
+** <<term-functional-suitability-quality-attribute,Funktionale Angemessenheit>>
+* <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>
+** <<term-time-behaviour-quality-attribute,Zeitverhalten>>
+** <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>>
+** <<term-capacity-quality-attribute,Kapazität>>
+* <<term-compatibility-quality-attribute,Kompatibilität>>
+** <<term-co-existence-quality-attribute,Koexistenz>>
+** <<term-interoperability-quality-attribute,Interoperabilität>>
+* <<term-usability-quality-attribute,Benutzerfreundlichkeit>>
+** <<term-appropriateness-recognizability-quality-attribute,Erkennbarkeit der Brauchbarkeit>>
+** <<term-learnability-quality-attribute,Erlernbarkeit>>
+** <<term-operability-quality-attribute,Bedienbarkeit>>
+** <<term-user-error-protection-quality-attribute,Schutz vor Fehlbedienung>>
+** <<term-user-interface-aesthetics-quality-attribute,Ästhetik der Benutzeroberfläche>>
+** <<term-accessibility-quality-attribute,Zugänglichkeit>>
+* <<term-reliability-quality-attribute,Zuverlässigkeit>>
+** <<term-availability-quality-attribute,Verfügbarkeit>>
+** <<term-fault-tolerance-quality-attribute,Fehlertoleranz>>
+** <<term-recoverability-quality-attribute,Wiederherstellbarkeit>>
+* <<term-security-quality-attribute,Sicherheit>>
+** <<term-confidentiality-quality-attribute,Vertraulichkeit>>
+** <<term-integrity-quality-attribute,Integrität>>
+** <<term-non-repudiation-quality-attribute,Nichtabstreitbarkeit>>
+** <<term-accountability-quality-attribute,Verantwortlichkeit>>
+** <<term-authenticity-quality-attribute,Authentifizierbarkeit>>
+* <<term-maintainability-quality-attribute,Wartbarkeit>>
+** <<term-modularity-quality-attribute,Modularität>>
+** <<term-reusability-quality-attribute,Wiederverwendbarkeit>>
+** <<term-analysability-quality-attribute,Analysierbarkeit>>
+** <<term-modifiability-quality-attribute,Modifizierbarkeit>>
+** <<term-testability-quality-attribute,Testbarkeit>>
+* <<term-portability-quality-attribute,Portierbarkeit>>
+** <<term-adaptability-quality-attribute,Adaptierbarkeit>>
+** <<term-installability-quality-attribute,Installierbarkeit>>
+** <<term-replaceability-quality-attribute,Austauschbarkeit>>
+
 
 Es ist hilfreich, zwischen folgenden Merkmalen zu unterscheiden:
 
-* _Laufzeit-Qualitätsmerkmalen_ (die während der Ausführungszeit des
-Systems beobachtet werden können),
+-   *Laufzeit-Qualitätsmerkmalen* (die während der Ausführungszeit des
+    Systems beobachtet werden können),
 
-* Nicht-Laufzeit-Qualitätsmerkmalen (die während der Ausführung des
-Systems nicht beobachtet werden können) und
+-   Nicht-Laufzeit-Qualitätsmerkmalen (die während der Ausführung des
+    Systems nicht beobachtet werden können) und
 
-* Geschäftsqualitätsmerkmalen (Kosten, Zeitplan, Marktfähigkeit,
-Eignung für Unternehmen)
+-   Geschäftsqualitätsmerkmalen (Kosten, Zeitplan, Marktfähigkeit,
+    Eignung für Unternehmen)
 
 Beispiele für Laufzeit-Qualitätsmerkmale sind funktionale Eignung,
 Leistungseffizienz, Sicherheit, Zuverlässigkeit,
@@ -125,4 +130,4 @@ Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit,
 Portierbarkeit, Wiederverwendbarkeit, Integrierbarkeit und
 Testbarkeit.
 
-// end::DE[]
+// end::DE[] 

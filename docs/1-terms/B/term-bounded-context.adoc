@@ -1,3 +1,5 @@
+[#term-bounded-context]
+
 // tag::EN[]
 ====  Bounded Context
 

@@ -1,3 +1,5 @@
+[#term-concept]
+
 // tag::EN[]
 ==== Concept
 
@@ -28,5 +30,4 @@ Konzepte bilden die Basis für *konzeptionelle Integrität*.
 
 
 
-// end::DE[]
-
+// end::DE[] 

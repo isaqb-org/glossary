@@ -1,0 +1,22 @@
+[#term-service-ddd]
+
+// tag::EN[]
+==== Service (DDD)
+
+Service is a building block of <<term-DDD,Domain-Driven Design>>. Services implement logic or processes of the business domain that are not executed by entities alone. A service is stateless and the parameters and return values of its operations are <<term-entity,entities>>, <<term-aggregate,aggregates>> and <<term-value-object,value objects>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Service (DDD)
+
+Ein Service ist ein Baustein des [Domain-Driven
+Designs](#term-DDD). Services implementieren eine Logik oder
+Prozesse der Geschäftsdomäne, die nicht von Entitäten alleine
+ausgeführt werden. Ein Service ist zustandslos, und die Parameter und
+Rückgabewerte seiner Operationen sind <<term-entity,Entitäten>>,
+<<term-aggregate,Aggregate>> und <<term-value-object,Wertobjekte>>.
+
+
+
+// end::DE[] 

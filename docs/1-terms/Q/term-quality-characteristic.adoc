@@ -1,0 +1,16 @@
+[#term-quality-characteristic]
+
+// tag::EN[]
+==== Quality Characteristic
+
+synonym: _quality attribute_.
+
+
+//end:EN[]
+
+//tag::DE[]
+==== Qualitätseigenschaft
+
+Synonym: *Qualitätsmerkmal*.
+
+// end::DE[]

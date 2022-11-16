@@ -1,3 +1,5 @@
+[#term-documentation-build]
+
 // tag::EN[]
 ==== Documentation Build
 
@@ -13,5 +15,4 @@ Automatischer Prozess, mit dem Artefakte zu einer konsistenten Dokumentation zus
 
 
 
-// end::DE[]
-
+// end::DE[] 

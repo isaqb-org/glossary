@@ -1,0 +1,24 @@
+[#term-runtime-view]
+
+// tag::EN[]
+==== Runtime View
+
+Shows the cooperation or collaboration of building blocks
+(respectively their instances) at runtime in concrete scenarios.
+Should refer to elements of the <<term-building-block-view,Building Block View>>.
+Could for example (but doesn't need to) be expressed in UML sequence or activity diagrams.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Laufzeitsicht
+
+Zeigt die Zusammenarbeit von Bausteinen (beziehungsweise ihrer
+Instanzen) zur Laufzeit in konkreten Szenarien. Sollte auf Elemente
+der <<term-building-block-view,Bausteinsicht>> verweisen. Kann beispielsweise (muss
+aber nicht) als UML-Sequenz oder Aktivitätsdiagramm ausgedrückt
+werden.
+
+
+// end::DE[] 

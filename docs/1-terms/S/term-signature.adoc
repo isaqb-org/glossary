@@ -1,0 +1,20 @@
+[#term-signature]
+
+// tag::EN[]
+==== Signature
+
+Signature of function or method: See <<term-function-signature,function signature>>
+
+Digital signature: Method for verifying the authenticity of data or documents.
+
+// end::EN[]
+
+// tag::DE[]
+==== Signatur
+
+Signatur einer Funktion oder Methode: Siehe <<term-function-signature,Funktionssignatur>>
+
+Digitale Signatur: Methode zur Überprüfung der Authentizität von Daten oder Dokumenten.
+
+
+// end::DE[] 

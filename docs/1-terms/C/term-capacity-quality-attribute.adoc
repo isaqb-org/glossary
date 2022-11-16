@@ -1,3 +1,5 @@
+[#term-capacity-quality-attribute]
+
 // tag::EN[]
 ====  Capacity Quality Attribute
 
@@ -21,5 +23,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-functional-appropriateness-quality-attribute]
+
 // tag::EN[]
 ==== Functional Appropriateness Quality Attribute
 Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
@@ -19,5 +21,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

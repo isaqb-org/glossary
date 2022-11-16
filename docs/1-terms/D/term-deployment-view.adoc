@@ -1,3 +1,5 @@
+[#term-deployment-view]
+
 // tag::EN[]
 ==== Deployment View
 
@@ -26,5 +28,4 @@ link:http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Roz
 
 
 
-// end::DE[]
-
+// end::DE[] 

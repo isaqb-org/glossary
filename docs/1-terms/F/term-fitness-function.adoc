@@ -1,3 +1,5 @@
+[#term-fitness-function]
+
 // tag::EN[]
 ==== Fitness Function
 "An architectural fitness function provides an objective integrity assessment of some architectural characteristics." (<<ref-ford-2017,Ford+2017>>).
@@ -12,5 +14,4 @@ A fitness function is derived from manual evaluations and automated tests and sh
 
 Eine Fitnessfunktion wird aus manuellen Bewertungen und automatisierten Tests abgeleitet und zeigt, inwieweit die Architektur- oder Qualitätsanforderungen erfüllt werden.
 
-// end::DE[]
-
+// end::DE[] 

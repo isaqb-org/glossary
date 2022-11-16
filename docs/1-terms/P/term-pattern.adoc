@@ -1,0 +1,23 @@
+[#term-pattern]
+
+// tag::EN[]
+==== Pattern
+
+ A reusable or repeatable solution to a common problem in software design or architecture.
+
+See <<term-architecture-pattern,architecture pattern>> or <<term-design-pattern,design pattern>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Muster
+
+Wiederverwendbare oder wiederholbare Lösung für ein gängiges Problem
+beim Softwareentwurf oder in der Softwarearchitektur.
+
+Siehe <<term-architecture-pattern,Architekturmuster>> oder
+<<term-design-pattern,Entwurfsmuster>>.
+
+
+
+// end::DE[] 

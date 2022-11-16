@@ -1,3 +1,5 @@
+[#term-value-object]
+
 // tag::EN[]
 
 ==== Value Object
@@ -16,4 +18,4 @@ Ein Wertobjekt ist ein Baustein des <<term-DDD,Domain-Driven  Designs>>.
 Wertobjekte haben keine eigene konzeptionelle Identität und sollten als unveränderlich behandelt werden.
 Sie werden zur Beschreibung des Zustands von <<term-entity,Entitäten>> genutzt und können aus anderen Wertobjekten, aber niemals aus <<term-entity,Entitäten>> bestehen.
 
-// end::DE[]
+// end::DE[] 

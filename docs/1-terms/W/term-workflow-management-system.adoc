@@ -1,3 +1,5 @@
+[#term-workflow-management-system]
+
 // tag::EN[]
 
 ==== Workflow Management System (WFMS)
@@ -15,4 +17,4 @@
 &quot; (Übersetztes englisches Zitat aus
 Wikipedia)
 
-// end::DE[]
+// end::DE[] 

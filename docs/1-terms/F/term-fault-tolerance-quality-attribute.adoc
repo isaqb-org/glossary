@@ -1,3 +1,5 @@
+[#term-fault-tolerance-quality-attribute]
+
 // tag::EN[]
 ==== Fault Tolerance Quality Attribute
 Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
@@ -19,5 +21,4 @@ link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 Kategorie: Qualität, ISO 25010
 
 
-// end::DE[]
-
+// end::DE[] 

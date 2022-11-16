@@ -1,0 +1,6 @@
+=== K
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-kerckhoffs-principle.adoc[{include_configuration}]

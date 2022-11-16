@@ -1,0 +1,20 @@
+[#term-node-uml]
+
+// tag::EN[]
+==== Node (in UML)
+
+A processing resource (execution environment, processor, machine, virtual machine,
+  application server) where artifacts can be deployed and executed.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Knoten (in UML)
+
+Eine Verarbeitungsressource (Ausführungsumgebung, Prozessor, Maschine,
+virtuelle Maschine, Anwendungsserver) zur Verteilung und Ausführung
+von Artefakten.
+
+
+// end::DE[] 

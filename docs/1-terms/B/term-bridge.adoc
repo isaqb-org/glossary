@@ -1,3 +1,5 @@
+[#term-bridge]
+
 // tag::EN[]
 ====  Bridge
 

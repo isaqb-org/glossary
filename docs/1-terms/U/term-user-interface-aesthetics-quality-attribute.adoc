@@ -1,0 +1,24 @@
+[#term-user-interface-aesthetics-quality-attribute]
+
+// tag::EN[]
+==== User Interface Aesthetics Quality Attribute
+Degree to which a user interface enables pleasing and satisfying interaction for the user.
+Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
+Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Category: Quality, ISO 25010
+
+// end::EN[]
+
+// tag::DE[]
+==== Qualitätsmerkmal Ästhetik der Benutzeroberfläche
+
+Maß, in dem eine Benutzeroberfläche dem Benutzer eine angenehme und
+zufriedenstellende Interaktion ermöglicht. Teilmerkmal von:
+<<qualitätsmerkmal-benutzerfreundlichkeit,Benutzerfreundlichkeit>>.
+
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+
+Kategorie: Qualität, ISO 25010
+
+// end::DE[] 

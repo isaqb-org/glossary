@@ -1,3 +1,5 @@
+[#term-constraint]
+
 // tag::EN[]
 ==== Constraint
 A restriction on the degree of freedom you have in creating, designing, implementing or otherwise providing a solution.
@@ -23,5 +25,4 @@ Gestützt auf eine link:https://agilemodeling.com/artifacts/constraint.htm[Defin
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-function-signature]
+
 // tag::EN[]
 ==== Function Signature
 (Synonym: type or method signature) defines input and output of functions or methods.
@@ -21,5 +23,4 @@ Eine Signatur kann enthalten:
 * Rückgabewert und Typ
 * geworfene Ausnahmen oder ausgelöste Fehler
 
-// end::DE[]
-
+// end::DE[] 

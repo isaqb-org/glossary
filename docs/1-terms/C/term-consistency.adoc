@@ -1,3 +1,5 @@
+[#term-consistency]
+
 // tag::EN[]
 ==== Consistency
 
@@ -31,5 +33,4 @@ Ein konsistentes System enthält keine Widersprüche.
     reproduzierbar und vernünftig verhält.
 
 
-// end::DE[]
-
+// end::DE[] 

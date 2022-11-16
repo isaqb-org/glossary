@@ -1,3 +1,5 @@
+[#term-integrity]
+
 // tag::EN[]
 ==== Integrity 
 
@@ -48,5 +50,4 @@ Siehe auch <<term-consistency,Konsistenz>>.
 
 
 
-// end::DE[]
-
+// end::DE[] 

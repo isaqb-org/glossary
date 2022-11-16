@@ -1,0 +1,21 @@
+[#term-training-provider]
+
+// tag::EN[]
+==== Training Provider
+An organisation or person who holds the rights of use to accredited training materials or who has purchased <<term-accreditation,accreditation>> for training materials, provides trainers and infrastructure and conducts training courses.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Schulungsanbieter
+
+Eine Organisation oder Person, die über die Rechte zur Nutzung von
+akkreditierten Schulungsunterlagen verfügt oder die eine
+<<term-accreditation,Akkreditierung>> für Schulungsunterlagen erworben hat,
+Schulungsleiter und Infrastruktur zur Verfügung stellt
+und Schulungen durchführt.
+
+
+
+// end::DE[] 

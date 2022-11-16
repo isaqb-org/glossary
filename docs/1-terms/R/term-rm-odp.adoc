@@ -1,0 +1,21 @@
+[#term-rm-odp]
+
+// tag::EN[]
+==== RM/ODP
+
+The link:https://en.wikipedia.org/wiki/RM-ODP[_Reference Model for Open Distributed Processing_] is an (abstract) metamodel
+for documentation of information systems. Defined in ISO/IEC 10746.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== RM/ODP
+
+link:https://en.wikipedia.org/wiki/RM-ODP[_Reference Model for Open Distributed Processing_]
+
+(Abstraktes) Metamodell zur Dokumentation von Informationssystemen. Definiert in
+ISO/IEC 10746.
+
+
+// end::DE[] 

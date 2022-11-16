@@ -1,0 +1,30 @@
+[#term-security-quality-attribute]
+
+// tag::EN[]
+==== Security Quality Attribute
+Degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.
+Is composed of the following sub-characteristics: <<term-confidentiality-quality-attribute,confidentiality>>, <<term-integrity-quality-attribute,integrity>>, <<term-non-repudiation-quality-attribute,non-repudiation>>, <<term-accountability-quality-attribute,accountability>>, <<term-authenticity-quality-attribute,authenticity>>.
+Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Category: Quality, ISO 25010
+
+// end::EN[]
+
+// tag::DE[]
+==== Qualitätsmerkmal Sicherheit
+
+Maß, in dem ein Produkt oder System Informationen und Daten schützt,
+so dass Personen oder andere Produkte oder Systeme den ihren
+Berechtigungsarten oder -stufen entsprechenden Datenzugriffsgrad
+haben. Es besteht aus folgenden Teilmerkmalen:
+<<term-confidentiality,Vertraulichkeit>>, <<term-integrity-quality-attribute,Integrität>>,
+<<term-non-repudiation-quality-attribute,Nichtabstreitbarkeit>>,
+<<term-accountability-quality-attribute,Verantwortlichkeit>>,
+<<term-authorization,Authentifizierbarkeit>>. 
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+
+Kategorie: Qualität, ISO 25010
+
+
+
+// end::DE[] 

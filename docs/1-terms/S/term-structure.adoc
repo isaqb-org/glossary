@@ -1,0 +1,32 @@
+[#term-structure]
+
+// tag::EN[]
+==== Structure
+
+An arrangement, order or organization of interrelated elements in a system.
+Structures consist of building blocks (structural elements)
+and their relationships (dependencies).
+
+Structures in software architecture are often used in <<term-architecture-view,architecture views>>,
+e.g. the <<term-building-block-view,building block view>>.
+A documentation template (e.g. <<term-arc42,arc42>>) is
+a kind of structure too.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Struktur
+
+Anordnung, Ordnung oder Organisation von zusammenhängenden Elementen
+in einem System. Strukturen bestehen aus Bausteinen
+(Strukturelementen) und ihren Beziehungen (Abhängigkeiten).
+
+In der Softwarearchitektur werden Strukturen häufig in
+<<term-architecture-view,Architektursichten>>, z.B. der
+<<term-building-block-view,Bausteinsicht>> verwendet. Ein Dokumentationstemplate
+(z.B. <<arc42,arc42>>) ist auch eine Art Struktur.
+
+
+
+// end::DE[] 

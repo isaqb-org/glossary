@@ -1,3 +1,5 @@
+[#term-compatibility-quality-attribute]
+
 // tag::EN[]
 ==== Compatibility Quality Attribute
 Degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment.
@@ -23,5 +25,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

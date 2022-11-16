@@ -1,3 +1,5 @@
+[#term-entity]
+
 // tag::EN[]
 ==== Entity
 Category: DDD
@@ -20,5 +22,4 @@ immer persistent.
 
 
 
-// end::DE[]
-
+// end::DE[] 

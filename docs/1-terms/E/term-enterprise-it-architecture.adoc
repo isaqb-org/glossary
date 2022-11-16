@@ -1,3 +1,5 @@
+[#term-enterprise-it-architecture]
+
 // tag::EN[]
 ==== Enterprise IT Architecture
 
@@ -19,5 +21,4 @@ Unternehmensarchitektur sind einzelne Softwaresysteme, auch
 „Anwendungen" genannt.
 
 
-// end::DE[]
-
+// end::DE[] 

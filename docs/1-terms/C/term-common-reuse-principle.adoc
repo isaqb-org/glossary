@@ -1,3 +1,5 @@
+[#term-common-reuse-principle]
+
 // tag::EN[]
 ==== Common Reuse Principle
 
@@ -38,5 +40,4 @@ Kategorie: Entwurfsprinzip
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,0 +1,29 @@
+[#term-solid-principles]
+
+// tag::EN[]
+==== S.O.L.I.D. principles
+
+SOLID (single responsibility, open-closed, Liskov substitution, interface segregation and dependency inversion) is an acronym for some principles
+(named by link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Robert C. Martin])
+to improve object-oriented programming and design. The principles make it more likely that a developer will write code that is easy to maintain and extend over time.
+
+For some additional sources, see <<ref-martin-solid,Martin-SOLID>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== S.O.L.I.D.-Prinzipien
+
+SOLID (Single-Responsibility, Open-Closed, Liskovsche Substitution,
+Interface-Segregation und Dependency-Inversion) ist ein 
+(von link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Robert C. Martin])
+geprägtes Akronym für einige Prinzipien zur Verbesserung der
+objektorientierten Programmierung und des objektorientierten Entwurfs.
+Diese Prinzipien erhöhen die Wahrscheinlichkeit, dass ein Entwickler
+leicht zu wartenden und im Laufe der Zeit erweiterbaren Code schreibt.
+
+Weitere Quellen: siehe <<ref-martin-solid,Martin-SOLID>>.
+
+
+
+// end::DE[] 

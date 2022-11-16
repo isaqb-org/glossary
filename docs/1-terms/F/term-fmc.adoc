@@ -1,3 +1,5 @@
+[#term-fmc]
+
 // tag::EN[]
 ==== Fundamental Modeling Concepts (FMC)
 
@@ -10,7 +12,7 @@ link:http://fmc-modeling.org/[Fundamental Modeling Concepts] is a graphical nota
 // tag::DE[]
 ==== Fundamental Modeling Concepts (FMC)
 
-[Fundamental Modeling Concepts (FMC)](http://fmc-modeling.org/)
+link:http://fmc-modeling.org/[Fundamental Modeling Concepts (FMC)]
 
 Grafische Notation für die Modellierung und Dokumentation von
 Softwaresystemen. Von ihrer Website: FMC bietet einen Rahmen für die
@@ -19,5 +21,4 @@ basiert auf einer präzisen Terminologie und
 wird durch eine leicht verständliche grafische Notation unterstützt.
 
 
-// end::DE[]
-
+// end::DE[] 

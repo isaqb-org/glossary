@@ -1,0 +1,61 @@
+[#term-stable-dependencies-principle]
+
+// tag::EN[]
+==== Stable Dependencies Principle
+
+A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). It demands that frequently changing components depend on more stable ones.
+
+Part of the volatility of a component is <<term-common-closure-principle,expected>> and naturally implied by its particular responsibility.
+
+But stability in this context is also a function of incoming and outgoing dependencies. A component that is heavily depended on by others is harder to change and condsidered to be more stable. A component that heavily depends on others has more reasons to change and is considered to be less stable.
+
+So in regards to dependence, a component with many clients should not depend on one with many dependencies. A single component with both of these properties is also a red flag. Such a component has many reasons to change but is at the same time hard to change.
+
+Original definitions of the SDP (like <<ref-martin-2003,Martin-2003>>) involve a link:https://en.wikipedia.org/wiki/Software_package_metrics[metric *I* of instability]. Unfortunately, that metric doesn't capture intended/inherent volatility, transitive dependence or cases like the red flag mentioned above. But we value the idea of the SDP regardless of how it can be measured.
+
+The SDP is closely related to the <<term-stable-abstractions-principle,SAP>>. Their combination amounts to a version of the <<term-dependency-inversion,DIP>> (more on this under <<term-stable-abstractions-principle,SAP>>).
+
+Category: Design-Principle
+
+// end::EN[]
+
+// tag::DE[]
+==== Stable-Dependencies-Prinzip
+
+Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
+(siehe auch <<term-package-principles,Packaging-Prinzipien>>). Er fordert, dass
+sich häufig ändernde Komponenten von stabileren abhängen.
+
+Ein Teil der Volatilität einer Komponente wird
+<<term-common-closure-principle,erwartet>> und von ihrer speziellen Verantwortlichkeit
+logischerweise impliziert.
+
+Aber in diesem Kontext hängt Stabilität auch von ein- und ausgehenden
+Abhängigkeiten ab. Eine Komponente, von der andere stark abhängen, ist
+schwieriger zu ändern und gilt als stabiler. Eine Komponente, die
+stark von anderen abhängt, hat mehr Änderungsgründe und gilt als
+weniger stabil.
+
+In Bezug auf Abhängigkeit sollte also eine Komponente mit vielen
+Clients nicht von einer Komponente mit vielen Abhängigkeiten abhängen.
+Eine einzelne Komponente, die diese beiden Eigenschaften auf sich
+vereint, ist ebenfalls eine Red Flag. Eine solche Komponente hat viele
+Gründe für eine Änderung, ist aber gleichzeitig schwer zu ändern.
+
+Ursprüngliche Definitionen des SDP (wie <<ref-martin-2003,Martin-2003>>)
+beinhalten eine link:https://en.wikipedia.org/wiki/Software_package_metrics[Kennzahl *I* der Instabilität].
+Leider erfasst diese Kennzahl beabsichtigte/inhärente Volatilität,
+transitive Abhängigkeit oder Fälle, wie die oben genannte Red Flag,
+nicht. Aber wir wissen das Konzept des SDP zu schätzen, unabhängig
+davon, wie es sich messen lässt.
+
+
+
+Das SDP ist eng mit dem <<term-stable-abstractions-principle,SAP>> verbunden. Ihre
+Kombination ergibt eine allgemeinere Version des <<term-dependency-inversion,DIP>>
+(mehr dazu unter <<term-stable-abstractions-principle,SAP>>).
+
+Kategorie: Entwurfsprinzip
+
+
+// end::DE[] 

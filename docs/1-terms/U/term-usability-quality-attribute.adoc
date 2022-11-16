@@ -1,0 +1,30 @@
+[#term-usability-quality-attribute]
+
+// tag::EN[]
+==== Usability Quality Attribute
+Degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.
+Is composed of the following sub-characteristics: <<term-appropriateness-recognizability-quality-attribute,appropriateness recognizability>>, <<term-learnability-quality-attribute,learnability>>, <<term-operability-quality-attribute,operability>>, <<term-user-error-protection-quality-attribute,user error protection>>, <<term-user-interface-aesthetics-quality-attribute,user interface aesthetics>>, <<term-accessibility-quality-attribute,accessibility>>.
+Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+Category: Quality, ISO 25010
+
+// end::EN[]
+
+// tag::DE[]
+==== Qualitätsmerkmal Benutzerfreundlichkeit
+
+Maß, in dem ein Produkt oder System von spezifizierten Benutzern
+effektiv, effizient, und zufriedenstellend zur Erreichung von
+spezifizierten Zielen in einem spezifizierten Nutzungskontext genutzt
+werden kann. Es besteht aus folgenden Teilmerkmalen: 
+<<term-appropriateness-recognizability-quality-attribute,Erkennbarkeit der Brauchbarkeit>>, 
+<<term-learnability-quality-attribute,Erlernbarkeit>>,
+<<term-usability-quality-attribute,Bedienbarkeit>>, 
+<<term-user-error-protection-quality-attribute,Schutz vor Fehlbedienung>>, 
+<<term-user-interface-aesthetics-quality-attribute,Ästhetik der Benutzeroberfläche>>, 
+<<term-accessibility-quality-attribute,Zugänglichkeit>>.
+
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Kategorie: Qualität, ISO 25010
+
+
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-cohesion]
+
 // tag::EN[]
 ==== Cohesion
 
@@ -23,5 +25,4 @@ Wiederverwendbarkeit, loser Kopplung und Verständlichkeit einhergeht.
 
 
 
-// end::DE[]
-
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-embedded-systems]
+
 // tag::EN[]
 ==== Embedded System
 
@@ -18,5 +20,4 @@ Stromverbrauch, begrenzter Speicher und begrenzte
 Verarbeitungsressourcen sowie geringe Größe.
 
 
-// end::DE[]
-
+// end::DE[] 

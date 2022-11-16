@@ -1,0 +1,25 @@
+[#term-observer]
+
+// tag::EN[]
+==== Observer
+
+(Design pattern) "...  in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods." (quoted from link:https://en.wikipedia.org/wiki/Observer_pattern[Wikipedia])
+The Observer pattern is a key pattern to complement the <<term-model-view-controller,model-view-controller (MVC)>> architectural pattern.
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Beobachter / Observer
+
+(Entwurfsmuster) „... in dem ein Objekt eine Liste seiner abhängigen
+Strukturen, Observer genannt, führt und sie automatisch, in der Regel
+durch Aufruf einer ihrer Methoden, über Zustandsänderungen
+benachrichtigt. Das Beobachtermuster ist ein wesentlicher Bestandteil
+des MVC-Architekturmusters (model-view-controller)." 
+(Übersetztes englisches Zitat aus
+link:https://en.wikipedia.org/wiki/Observer_pattern[Wikipedia])
+
+
+
+// end::DE[] 

@@ -1,3 +1,5 @@
+[#term-functional-suitability-quality-attribute]
+
 // tag::EN[]
 ==== Functional Suitability Quality Attribute
 Degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions. 
@@ -25,5 +27,4 @@ Kategorie: Qualität, ISO 25010
 
 
 
-// end::DE[]
-
+// end::DE[] 

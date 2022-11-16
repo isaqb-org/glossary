@@ -1,3 +1,5 @@
+[#term-global-analysis]
+
 // tag::EN[]
 ==== Global Analysis
 
@@ -19,5 +21,4 @@ Hofmeister (Siemens Corporate Research). Die globale Analyse wird in
 
 
 
-// end::DE[]
-
+// end::DE[] 

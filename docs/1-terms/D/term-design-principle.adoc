@@ -1,3 +1,5 @@
+[#term-design-principle]
+
 // tag::EN[]
 ==== Design Principle
 
@@ -40,5 +42,4 @@ link:https://www.oodesign.com/design-principles.html[OODesign.com]
 
 
 
-// end::DE[]
-
+// end::DE[] 

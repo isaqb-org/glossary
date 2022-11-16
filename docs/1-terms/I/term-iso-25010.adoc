@@ -1,3 +1,5 @@
+[#term-iso-25010]
+
 // tag::EN[]
 ==== ISO 25010
 
@@ -22,5 +24,4 @@ findet sich unter <<term-iso-25010,ISO 25010>>.
 
 
 
-// end::DE[]
-
+// end::DE[] 
