@@ -33,7 +33,6 @@ ATTENTION: labels have to be non-numeric.
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-
 - [[[bass,Bass et al. 2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
 
 **C**
@@ -43,7 +42,6 @@ ATTENTION: labels have to be non-numeric.
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
-
 - [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
 
 **K**
@@ -58,8 +56,5 @@ ATTENTION: labels have to be non-numeric.
 **S**
 
 - [[[posa2, Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.]]] Pattern-Oriented Software Architecture, volume 2: _Patterns for Concurrent and Networked Objects_, Wiley & Sons, 2000
-
 - [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons.  Comprehensive suervey of modern cryptography.
-
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
-
