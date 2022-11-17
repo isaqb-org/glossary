@@ -31,26 +31,66 @@ Structure of an anchor:
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-
 - [[[bass,Bass et al. 2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
+Although the title suggests otherwise, a quite  fundamental (and sometimes abstract) book.
+The authors have a strong background in ultra-large scale (often military) systems - so their advice might sometimes conflict with small or lean kinds of projects.
 
 **C**
 
 - [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
+**E**
+
+- [[[ref-evans-2004, Evans-2004]]] Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ 1st edition, Addison-Wesley, 2004.
+
+**F**
+
+- [[[ref-ford-2017, Ford+2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
+
+
+**G**
+
+- [[[ref-gamma-1994, GoF: Design-Patterns]]] Gamma, Erich/Helm, Richard/Johnson, Ralph/Vlissides, John M.
+_Design Patterns: Elements of Reusable Object-Oriented Software,_ 1st edition, 1994, Addison-Wesley, 1994.
+
+A classic on design patterns.
+
+- [[[gof, Gang-of-Four, short: GoF]]] See <<ref-gamma-1994>>
+
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
-
 - [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
 
 **K**
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
+**M**
+
+- [[[martin-2003, Martin-2003]]] Martin, Robert C.: _Agile Software Development: Principles, Patterns and Practices_,
+Prentice Hall, 2003
+
+- [[[martin-solid, SOLID-principles]]] Martin, Robert: SOLID-principles.
+S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin.
+Some of the original papers have been moved around onto various locations - see https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+
+- [[[ref-mcgraw-2006, McGraw-2006]]] Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
+Covering the whole process of software design from a security perspective by the means of risk management, code reviews, risk analysis, penetration testing, security testing abuse case development.
+
+**P**
+
+- [[[ref-parnas-1972, Parnas-1972]]] Parnas, David:
+_On the criteria to be used in decomposing systems into modules"_, Communications of the ACM, volume 15, issue 12, Dec 1972.
+One of the most influential articles ever written in software engineering, introducing encapsulation and modularity. Thank you, David!
+
+
 **R**
 
-- [[[rozanski, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley. Presents a set of architectural viewpoints and perspectives.
+- [[[ref-rmias-2013, RMIAS-2013]]] Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & Security, 2013 Eight International Conference on Availability, Reliability and Security (ARES), DOI: 10.1109/ARES.2013.72, <http://users.cs.cf.ac.uk/Y.V.Cherdantseva/RMIAS.pdf>
+Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
+
+- [[[rozanski-11, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley. Presents a set of architectural viewpoints and perspectives.
 
 
 **S**

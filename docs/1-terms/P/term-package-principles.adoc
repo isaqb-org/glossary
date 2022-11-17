@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Package Principles
 
-Fundamental principles for designing the structure of software systems (<<ref-martin-2003,Martin-2003>>):
+Fundamental principles for designing the structure of software systems (<<martin-2003,Martin-2003>>):
 
 * <<term-reuse-release-equivalence-principle,Reuse/Release Equivalence Principle (REP)>>
 * <<term-common-reuse-principle,Common Reuse Principle (CRP)>>
@@ -27,7 +27,7 @@ Category: Design-Principle
 ==== Packaging-Prinzipien
 
 Grundsätze für die Gestaltung der Struktur von Softwaresystemen
-(<<ref-martin-2003,Martin-2003>>):
+(<<martin-2003,Martin-2003>>):
 
 -   <<term-reuse-release-equivalence-principle,Reuse-Release-Equivalence-Prinzip (REP)>>
 

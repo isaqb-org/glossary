@@ -7,7 +7,7 @@ A perspective is used to consider a set of related quality properties and concer
 
 Architects apply perspectives iteratively to the system's _architectural views_ in order to assess the effects of _architectural design decisions_ across multiple _viewpoints_ and _architectural views_.
 
-<<ref-rozanski-2011,Rozanski+11>> associates with the term _perspective_ also activities, tactics, and guidelines that must be considered if a system should provide a set of related quality properties and suggests the following perspectives:
+<<rozanski-11>> associates with the term _perspective_ also activities, tactics, and guidelines that must be considered if a system should provide a set of related quality properties and suggests the following perspectives:
 
  * Accessibility
  * Availability and Resilience
@@ -33,7 +33,7 @@ eines Systems an, um die Auswirkungen von
 *Architekturentwurfsentscheidungen* über mehrere *Blickwinkel* und
 *Architektursichten* hinweg zu beurteilen.
 
-<<ref-rozanski-2011,Rozanski+11>> verbindet mit dem Begriff *Perspektive* auch
+<<rozanski-11>> verbindet mit dem Begriff *Perspektive* auch
 Aktivitäten, Taktiken und Richtlinien, die zu berücksichtigen sind,
 wenn ein System eine Reihe von zusammenhängenden
 Qualitätseigenschaften erfüllen soll, und schlägt folgende

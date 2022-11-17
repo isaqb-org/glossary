@@ -11,7 +11,7 @@ But stability in this context is also a function of incoming and outgoing depend
 
 So in regards to dependence, a component with many clients should not depend on one with many dependencies. A single component with both of these properties is also a red flag. Such a component has many reasons to change but is at the same time hard to change.
 
-Original definitions of the SDP (like <<ref-martin-2003,Martin-2003>>) involve a link:https://en.wikipedia.org/wiki/Software_package_metrics[metric *I* of instability]. Unfortunately, that metric doesn't capture intended/inherent volatility, transitive dependence or cases like the red flag mentioned above. But we value the idea of the SDP regardless of how it can be measured.
+Original definitions of the SDP (like <<martin-2003,Martin-2003>>) involve a link:https://en.wikipedia.org/wiki/Software_package_metrics[metric *I* of instability]. Unfortunately, that metric doesn't capture intended/inherent volatility, transitive dependence or cases like the red flag mentioned above. But we value the idea of the SDP regardless of how it can be measured.
 
 The SDP is closely related to the <<term-stable-abstractions-principle,SAP>>. Their combination amounts to a version of the <<term-dependency-inversion,DIP>> (more on this under <<term-stable-abstractions-principle,SAP>>).
 
@@ -42,7 +42,7 @@ Eine einzelne Komponente, die diese beiden Eigenschaften auf sich
 vereint, ist ebenfalls eine Red Flag. Eine solche Komponente hat viele
 Gründe für eine Änderung, ist aber gleichzeitig schwer zu ändern.
 
-Ursprüngliche Definitionen des SDP (wie <<ref-martin-2003,Martin-2003>>)
+Ursprüngliche Definitionen des SDP (wie <<martin-2003,Martin-2003>>)
 beinhalten eine link:https://en.wikipedia.org/wiki/Software_package_metrics[Kennzahl *I* der Instabilität].
 Leider erfasst diese Kennzahl beabsichtigte/inhärente Volatilität,
 transitive Abhängigkeit oder Fälle, wie die oben genannte Red Flag,

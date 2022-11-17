@@ -3,20 +3,15 @@
 // tag::EN[]
 ==== Entropy
 
-In information theory defined as "amount of information" a message has or
-"unpredictability of information content". The entropy of a cryptosystem is
-measured by the size of the keyspace. Larger keyspaces have an increased
-entropy and if not flawed by the algorithm itself, harder to break than smaller
+In information theory defined as "amount of information" a message has or "unpredictability of information content".
+The entropy of a cryptosystem is measured by the size of the keyspace.
+Larger keyspaces have an increased  entropy and if not flawed by the algorithm itself, harder to break than smaller
 ones.
-For secure cryptographic operations it is mandatory to not only use random
-values as input, they should have also a high entropy. The creation of high
-entropy on a computer system is non-trivial and can affect the performance of a
+For secure cryptographic operations it is mandatory to not only use random values as input, they should have also a high entropy.
+The creation of high entropy on a computer system is non-trivial and can affect the performance of a
 system.
 
-See <<ref-schneier-1996,11.1 Information Theory of Schneier-1996>> and Whitewood Inc. on link:https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf["Understanding and Managing Entropy"] or link:https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874[SANS "Randomness and Entropy - An Introduction"].
-
-Category: Security
-
+See <<schneier-96>> and Whitewood Inc. on link:https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf["Understanding and Managing Entropy"] or link:https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874[SANS "Randomness and Entropy - An Introduction"].
 
 // end::EN[]
 
@@ -34,11 +29,9 @@ sollten auch eine hohe Entropie aufweisen. Die Schaffung von hoher
 Entropie in einem Computersystem ist nicht trivial und kann die
 Systemleistung beeinträchtigen.
 
-Siehe <<ref-schneier-1996,11.1 Information Theory of Schneier-1996>> und
-Whitewood Inc. zu link:https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf[„Understanding and Managing Entropy"]
+Siehe <<schneier-96>> und Whitewood Inc. zu link:https://www.blackhat.com/docs/us-15/materials/us-15-Potter-Understanding-And-Managing-Entropy-Usage-wp.pdf[„Understanding and Managing Entropy"]
 oder link:https://www.sans.org/reading-room/whitepapers/vpns/randomness-entropy-introduction-874[SANS „Randomness and Entropy - An Introduction"].
 
-Kategorie: Sicherheit
 
 
 

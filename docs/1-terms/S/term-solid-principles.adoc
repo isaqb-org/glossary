@@ -7,7 +7,7 @@ SOLID (single responsibility, open-closed, Liskov substitution, interface segreg
 (named by link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Robert C. Martin])
 to improve object-oriented programming and design. The principles make it more likely that a developer will write code that is easy to maintain and extend over time.
 
-For some additional sources, see <<ref-martin-solid,Martin-SOLID>>.
+For some additional sources, see <<martin-solid>>.
 
 // end::EN[]
 
@@ -22,7 +22,7 @@ objektorientierten Programmierung und des objektorientierten Entwurfs.
 Diese Prinzipien erhöhen die Wahrscheinlichkeit, dass ein Entwickler
 leicht zu wartenden und im Laufe der Zeit erweiterbaren Code schreibt.
 
-Weitere Quellen: siehe <<ref-martin-solid,Martin-SOLID>>.
+Weitere Quellen: siehe <<martin-solid>>.
 
 
 

@@ -5,7 +5,7 @@
 
 Symmetric cryptography is based on an identical key for encryption and decryption of data.
 Sender and receiver have to agree on a key for communication.
-See <<schneier-1996,page 17>>.
+See <<schneier-96,page 17>>.
 
 
 // end::EN[]
@@ -15,7 +15,7 @@ See <<schneier-1996,page 17>>.
 
 Symmetrische Kryptographie basiert auf einem identischen Schlüssel für die Verschlüsselung und Entschlüsselung von Daten.
 Sender und Empfänger vereinbaren einen Schlüssel für die Kommunikation.
-Siehe <<schneier-1996, Seite 17>>.
+Siehe <<schneier-96, Seite 17>>.
 
 Kategorie: Sicherheit
 

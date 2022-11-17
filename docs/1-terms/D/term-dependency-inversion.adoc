@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Dependency Inversion Principle
 
-High level (abstract) elements should not depend upon low level (specific) elements. "Details should depend upon abstractions" (<<ref-martin-2003,Martin-2003>>). One of the <<term-solid-principles,SOLID  principles>>, nicely explained by link:http://martinfowler.com/articles/dipInTheWild.html[Brett Schuchert], and closely related to the <<term-stable-dependencies-principle,SDP>> and <<term-stable-abstractions-principle,SAP>>.
+High level (abstract) elements should not depend upon low level (specific) elements. "Details should depend upon abstractions" (<<martin-2003,Martin-2003>>). One of the <<term-solid-principles,SOLID  principles>>, nicely explained by link:http://martinfowler.com/articles/dipInTheWild.html[Brett Schuchert], and closely related to the <<term-stable-dependencies-principle,SDP>> and <<term-stable-abstractions-principle,SAP>>.
 
 // end::EN[]
 
@@ -12,7 +12,7 @@ High level (abstract) elements should not depend upon low level (specific) eleme
 
 (Abstrakte) Elemente höherer Ebenen sollten nicht von (spezifischen)
 Elementen niedrigerer Ebenen abhängen. Details sollten von
-Abstraktionen abhängen (<<ref-martin-2003,Martin-2003>>). Eines der
+Abstraktionen abhängen (<<martin-2003,Martin-2003>>). Eines der
 <<term-solid-principles,SOLID-Prinzipien>>, das link:https://martinfowler.com/articles/dipInTheWild.html[Brett
 Schuchert]
 anschaulich erläutert, und das eng mit dem <<term-stable-dependencies-principle,SDP>> und
