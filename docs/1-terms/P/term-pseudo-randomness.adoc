@@ -12,7 +12,7 @@ by random, but will always be the same if the generator is initialized with an
 identical seed. This is called pseudo-randomness and is less performance
 intensive.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -29,7 +29,7 @@ werden zufällig erzeugt, aber sind immer gleich, wenn der Generator
 mit dem gleichen Startwert initialisiert wird. Dies wird als
 Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

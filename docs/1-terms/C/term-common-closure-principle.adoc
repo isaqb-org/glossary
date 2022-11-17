@@ -15,7 +15,7 @@ Thereby, each expected change request would effect a minimal number of component
 
 This principle leads to <<term-cohesion,highly cohesive>> components. It also implies <<term-coupling,loosely coupled>> components because related concepts that *do* change together *do* get bundled up in the same component. When each single concept is expressed by a single component, there are no unnecessary couplings between components.
 
-Category: Design-Principle
+
 
 // end::EN[]
 
@@ -59,7 +59,7 @@ die sich zusammen *ändern*, in dieselbe Komponente *gebündelt* werden.
 Wenn jedes einzelne Konzept von einer einzigen Komponente ausgedrückt
 wird, gibt es keine unnötigen Kopplungen zwischen Komponenten.
 
-Kategorie: Entwurfsprinzip
+
 
 
 // end::DE[] 

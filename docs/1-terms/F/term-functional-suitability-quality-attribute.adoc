@@ -6,7 +6,7 @@ Degree to which a product or system provides functions that meet stated and impl
 Is composed of the following sub-characteristics: <<term-functional-completeness-quality-attribute,functional completeness>>, <<term-functional-correctness-quality-attribute,functional correctness>>, <<term-functional-appropriateness-quality-attribute,functional appropriateness>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
+
 
 
 // end::EN[]
@@ -23,7 +23,7 @@ Erfordernisse erfüllen. Es besteht aus folgenden Teilmerkmalen:
 
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-Kategorie: Qualität, ISO 25010
+
 
 
 

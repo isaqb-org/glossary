@@ -5,11 +5,11 @@
 
 Various meanings:
 
-Category: Security
+
 
 One of the basic <<term-security-goals,Security Goals>> which means maintaining and assuring accuracy and completeness of data. Usually this is achieved by the usage of cryptographic algorithms to create a digital signature.
 
-Category: Foundation
+
 
 Data or behavioral integrity:
 
@@ -26,7 +26,7 @@ See also <<term-consistency,consistency>>.
 
 Verschiedene Bedeutungen:
 
-Kategorie: Sicherheit
+
 
 Eines der grundlegenden <<term-security-goals,Schutzziele>>, das die
 Aufrechterhaltung und Gewährleistung der Richtigkeit und
@@ -34,7 +34,7 @@ Vollständigkeit der Daten bezeichnet. Dies wird üblicherweise durch
 den Einsatz von kryptographischen Algorithmen zur Erstellung einer
 digitalen Signatur erreicht.
 
-Kategorie: Grundlegend
+
 
 Daten- oder Verhaltensintegrität: 
 

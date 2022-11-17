@@ -10,7 +10,7 @@ Each association can be described in detail by cardinalities and (role-)names.
 See <<term-coupling,coupling>>, <<term-dependency,dependency>> and
 <<term-relationship,relationship>>
 
-Category: Foundation
+
 
 // end::EN[]
 
@@ -25,6 +25,6 @@ Modulen). Jede Assoziation lässt sich durch Kardinalitäten und
 Siehe <<term-coupling,Kopplung>>, <<term-dependency,Abhängigkeit>> und
 <<term-relationship,Beziehung>>
 
-Kategorie: Foundation
+
 
 // end::DE[]

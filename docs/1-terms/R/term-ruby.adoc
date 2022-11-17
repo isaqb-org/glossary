@@ -5,7 +5,7 @@
 
 A wonderful programming language.
 
-Category: Programming
+
 
 // end::EN[]
 
@@ -14,7 +14,7 @@ Category: Programming
 
 Eine großartige Programmiersprache.
 
-Kategorie: Programmierung
+
 
 
 // end::DE[] 

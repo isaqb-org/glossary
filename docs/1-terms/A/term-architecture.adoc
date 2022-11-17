@@ -6,7 +6,7 @@
 
 See <<term-software-architecture,Software Architecture>>
 
-Category: ISO-IEC-IEEE-42010
+
 
 // end::EN[]
 
@@ -15,6 +15,6 @@ Category: ISO-IEC-IEEE-42010
 
 Siehe <<term-software-architecture,Softwarearchitektur>>.
 
-Kategorie: ISO-IEC-IEEE-42010
+
 
 // end::DE[]

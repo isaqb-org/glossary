@@ -12,7 +12,7 @@ semantic confusion the terms "open PKI" or "closed PKI" can be used, see
 
 PKI is usually based on a <<term-ca,CA>> or a <<term-web-of-trust,Web-of-Trust>>.
 
-Category: Security
+
 
 
 // end::EN[]
@@ -32,7 +32,7 @@ kann „offene PKI" oder „geschlossene PKI" verwendet werden, vgl.
 Eine PKI basiert in der Regel auf einer <<term-ca,CA>> oder einem
 <<term-web-of-trust,Netz des Vertrauens>>.
 
-Kategorie: Sicherheit
+
 
 
 

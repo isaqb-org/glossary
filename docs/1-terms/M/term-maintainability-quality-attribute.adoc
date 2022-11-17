@@ -6,7 +6,7 @@ Degree of effectiveness and efficiency with which a product or system can be mod
 Is composed of the following sub-characteristics: <<term-modularity-quality-attribute,modularity>>, <<term-reusability-quality-attribute,reusability>>, <<term-analysability-quality-attribute,analysability>>, <<term-modifiability-quality-attribute,modifiability>>, <<term-testability-quality-attribute,testability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
+
 
 // end::EN[]
 
@@ -23,7 +23,7 @@ folgenden Teilmerkmalen: <<term-modularity-quality-attribute,Modularität>>,
 <<term-testability-quality-attribute,Testbarkeit>>. 
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-Kategorie: Qualität, ISO 25010
+
 
 
 

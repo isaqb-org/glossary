@@ -5,7 +5,7 @@
 
 See <<term-entropy,Entropy>> or <<term-pseudo-randomness,Pseudo-Randomness>>.
 
-Category: Security
+
 
 
 // end::EN[]
@@ -16,7 +16,7 @@ Category: Security
 Siehe <<term-entropy,Entropie>> oder
 <<term-pseudo-randomness,Pseudo-Zufälligkeit>>.
 
-Kategorie: Sicherheit
+
 
 
 

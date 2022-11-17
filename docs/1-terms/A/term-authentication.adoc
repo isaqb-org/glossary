@@ -15,7 +15,7 @@ factors which is known by the system:
 For a stronger authentication multiple factors can be requested or at least
 factors of two categories.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -36,6 +36,6 @@ Für eine stärkere Authentifizierung können mehrere Faktoren oder
 mindestens Faktoren aus zwei Kategorien verlangt
 werden.
 
-Kategorie: Sicherheit
+
 
 // end::DE[]

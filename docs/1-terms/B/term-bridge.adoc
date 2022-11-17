@@ -8,7 +8,7 @@ so that the two can vary independently. In case you find that incomprehensible
 (as most people) - have a look
 link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[here]
 
-Category: Design-Pattern
+
 
 
 // end::EN[]
@@ -23,7 +23,7 @@ sehen
 link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[hier]
 nach.
 
-Kategorie: Entwurfsmuster
+
 
 
 // end::DE[]

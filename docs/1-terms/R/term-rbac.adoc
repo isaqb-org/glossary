@@ -9,7 +9,7 @@ A role is a fixed set of permissions usually assigned to a group of
 efficient than an <<term-acl,ACL>> based system and makes for example deputy
 arrangements possible.
 
-Category: Security
+
 
 
 // end::EN[]
@@ -23,7 +23,7 @@ eine rollenbasierte Zugriffskontrolle zumeist effizienter
 umgesetzt werden als ein <<term-acl,ACL>>-basiertes System und
 ermöglicht beispielsweise Vertreterreglungen.
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

@@ -15,7 +15,7 @@ Original definitions of the SDP (like <<martin-2003,Martin-2003>>) involve a lin
 
 The SDP is closely related to the <<term-stable-abstractions-principle,SAP>>. Their combination amounts to a version of the <<term-dependency-inversion,DIP>> (more on this under <<term-stable-abstractions-principle,SAP>>).
 
-Category: Design-Principle
+
 
 // end::EN[]
 
@@ -55,7 +55,7 @@ Das SDP ist eng mit dem <<term-stable-abstractions-principle,SAP>> verbunden. Ih
 Kombination ergibt eine allgemeinere Version des <<term-dependency-inversion,DIP>>
 (mehr dazu unter <<term-stable-abstractions-principle,SAP>>).
 
-Kategorie: Entwurfsprinzip
+
 
 
 // end::DE[] 

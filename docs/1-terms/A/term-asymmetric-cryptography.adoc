@@ -14,7 +14,7 @@ See <<schneier-96, page 17>>.
 Asymmetric cryptography is fundamental for <<term-pki,PKI>> and digital
 signatures.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -35,6 +35,6 @@ werden. Siehe <<schneier-96>>.
 Asymmetrische Kryptographie ist die Grundlage für <<term-pki,PKI>>
 und digitale Signaturen.
 
-Kategorie: Sicherheit
+
 
 // end::DE[]

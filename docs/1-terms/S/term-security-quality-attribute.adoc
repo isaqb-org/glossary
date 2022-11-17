@@ -6,7 +6,7 @@ Degree to which a product or system protects information and data so that person
 Is composed of the following sub-characteristics: <<term-confidentiality-quality-attribute,confidentiality>>, <<term-integrity-quality-attribute,integrity>>, <<term-non-repudiation-quality-attribute,non-repudiation>>, <<term-accountability-quality-attribute,accountability>>, <<term-authenticity-quality-attribute,authenticity>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
+
 
 // end::EN[]
 
@@ -23,7 +23,7 @@ haben. Es besteht aus folgenden Teilmerkmalen:
 <<term-authorization,Authentifizierbarkeit>>. 
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-Kategorie: Qualität, ISO 25010
+
 
 
 

@@ -13,7 +13,7 @@ operating the released software by fixing security issues.
 
 See <<ref-mcgraw-2006,McGraw "An Enterprise Software Security Program", page 239>>.
 
-Category: Security
+
 
 
 // end::EN[]
@@ -33,7 +33,7 @@ Sicherheitsproblemen, abdecken.
 
 Siehe <<ref-mcgraw-2006,McGraw „An Enterprise Software Security Program", Seite 239>>.
 
-Kategorie: Sicherheit
+
 
 
 

@@ -7,7 +7,7 @@
 A technique, strategy, approach or decision helping to achieve one or several quality requirements.
 The term was coined by <<bass>>.
 
-Category: Foundation
+
 // end::EN[]
 
 // tag::DE[]

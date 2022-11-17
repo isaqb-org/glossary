@@ -10,7 +10,7 @@ The REP contains two different insights:
 1. On the large scale, <<term-modularity-quality-attribute,modularity>> and <<term-coupling,low coupling>> require more than type separation.
 2. <<term-reusability-quality-attribute,Reusability>> of components (even if all "reuse" is internal) translates to overall <<term-maintainability-quality-attribute,maintainability>>.
 
-Category: Design-Principle
+
 
 
 // end::EN[]
@@ -35,7 +35,7 @@ Das REP enthält zwei unterschiedliche Erkenntnisse:
     die gesamte „Wiederverwendung" intern erfolgt) führt zu allgemeiner
     <<term-maintainability-quality-attribute,Wartbarkeit>>.
 
-Kategorie: Entwurfsprinzip
+
 
 
 

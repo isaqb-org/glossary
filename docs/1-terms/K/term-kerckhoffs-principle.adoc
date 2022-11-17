@@ -16,7 +16,7 @@ Claude Shannon as Shannon's Maxim.
 
 See link:https://www.schneier.com/crypto-gram/archives/2002/0515.html[Bruce Schneiers Crypto-Gram, May 15, 2002]
 
-Category: Security
+
 
 // end::EN[]
 
@@ -37,7 +37,7 @@ Mathematiker Claude Shannon als Shannons Maxime geprägt hat.
 
 Siehe link:https://www.schneier.com/crypto-gram/archives/2002/0515.html[Bruce Schneiers Crypto-Gram, May 15, 2002]
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

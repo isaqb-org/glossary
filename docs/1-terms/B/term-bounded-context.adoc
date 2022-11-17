@@ -7,7 +7,7 @@ Bounded Context is principle of the strategy design of <<term-DDD,Domain-Driven 
 
 "Multiple domain models are in play on any large project. Yet when code based on distinct models is combined, software becomes buggy, unreliable, and difficult to understand. Communication among team members becomes confusing. It is often unclear in what context a model should not be applied. Therefore: Explicitly set boundaries in terms of team organization, usage within specific parts of the application, and physical manifestations such as code bases and database schemas. Keep the model strictly consistent within these bounds, but don’t be distracted or confused by issues outside." (quote from Wikipedia)
 
-Category: DDD
+
 
 
 // end::EN[]
@@ -37,7 +37,7 @@ diesen Grenzen konsistent ist, aber lassen Sie sich nicht von Themen
 außerhalb ablenken oder verwirren." (Übersetztes englisches Zitat aus
 Wikipedia)
 
-Kategorie: DDD
+
 
 
 // end::DE[]

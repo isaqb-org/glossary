@@ -5,7 +5,7 @@
 
 For Multi-Factor-Authentication see <<term-authentication,Authentication>>.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -14,6 +14,6 @@ Category: Security
 
 Für Multi-Faktor-Authentifizierung siehe <<term-authentication,Authentifizierung>>.
 
-Kategorie: Sicherheit
+
 
 // end::DE[] 

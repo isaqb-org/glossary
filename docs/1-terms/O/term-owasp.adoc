@@ -11,7 +11,7 @@ of web security. See [https://www.owasp.org/](https://www.owasp.org/).
 The OWASP-Top-10 is a frequently referenced list of attack categories based on
 the projects data survey.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -27,7 +27,7 @@ für Informationen und beste Praktiken im Bereich Websicherheit. Siehe
 Die OWASP-Top-10 ist eine häufig angeführte Liste von
 Angriffskategorien basierend auf der Datenerhebung des Projekts.
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 
