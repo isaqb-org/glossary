@@ -90,13 +90,6 @@ A very important book and timeless book for people creating integrated systems.
 
 
 
-{#ref-lilienthal-2019}
-##### Lilienthal-2019
-
-Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
-3rd edition, dpunkt.verlag, 2019
-
-
 
 
 
