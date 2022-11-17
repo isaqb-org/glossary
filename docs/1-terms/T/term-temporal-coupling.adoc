@@ -4,8 +4,8 @@
 ==== Temporal Coupling
 Different interpretations exist from various sources. Temporal coupling:
 
-* means that processes that are communicating will both have to be up and running. See <<ref-tanenbaum-steen,Tanenbaum+2016>>.
-* when you often commit (_modify_) different components at the same time. See <<ref-tornhill-crime-scene,Tornhill-2015>>.
+* means that processes that are communicating will both have to be up and running. See <<tanenbaum-2016>>.
+* when you often commit (_modify_) different components at the same time. See <<tornhill-2015>>.
 * when there's an implicit relationship between two, or more, members of a class requiring clients to invoke one member before the other. Mark Seemann, see link:https://blog.ploeh.dk/2011/05/24/DesignSmellTemporalCoupling/[]
 * means that one system needs to wait for the response of another system before it can continue processing. See link:https://www.beeworks.be/blog/2017/rest-antipattern.html[]
 
@@ -16,8 +16,8 @@ Different interpretations exist from various sources. Temporal coupling:
 
 Es gibt unterschiedliche Interpretationen aus verschiedenen Quellen. Zeitliche Kopplung:
 
-* bedeutet, dass Prozesse, die miteinander kommunizieren, beide aktiv sein müssen. Siehe <<ref-tanenbaum-steen,Tanenbaum+2016>>.
-* wenn du oft verschiedene Komponenten gleichzeitig festlegst (_modifizierst_). Siehe <<ref-tornhill-crime-scene,Tornhill-2015>>.
+* bedeutet, dass Prozesse, die miteinander kommunizieren, beide aktiv sein müssen. Siehe <<tanenbaum-2016>>.
+* wenn du oft verschiedene Komponenten gleichzeitig festlegst (_modifizierst_). Siehe <<tornhill-2015>>.
 * wenn es eine implizite Beziehung zwischen zwei oder mehr Mitgliedern einer Klasse gibt, die es erforderlich macht, dass die Clients das eine Mitglied vor dem anderen aufrufen. Mark Seemann, siehe link:https://blog.ploeh.dk/2011/05/24/DesignSmellTemporalCoupling/[]
 * bedeutet, dass ein System auf die Antwort eines anderen Systems warten muss, bevor es mit der Bearbeitung fortfahren kann. Siehe link:https://www.beeworks.be/blog/2017/rest-antipattern.html[]
 

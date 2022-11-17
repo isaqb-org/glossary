@@ -4,11 +4,11 @@
 == {references}
 
 // tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Glossar oder einem Curriculum referenziert werden.
 // end::DE[]
 
 // tag::EN[]
-This section contains references that are cited in the curriculum.
+This section contains references that are cited in the glossary or one of the curriculuae.
 // end::EN[]
 
 // tag::REMARK[]
@@ -18,7 +18,6 @@ Aufbau eines Eintrags-Ankers:
 ```
 - [[[label,Text der erscheint]]]
 ```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
 
 = = =
 
@@ -26,7 +25,6 @@ Structure of an anchor:
 ```
 - [[[label,text that will be shown]]]
 ```
-ATTENTION: labels have to be non-numeric.
 ====
 // end::REMARK[]
 
@@ -63,3 +61,10 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 
+**T**
+
+- [[[tanenbaum-2016, Tanenbaum+2016]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms, 2016. <https://www.distributed-systems.net/>
+
+- [[[tornhill-2015, Tornhill-2015]]] Adam Tornhill: Your Code as a Crime Scene.
+Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs. Pragmatic Programmers, 2015.
+<https://www.adamtornhill.com>

@@ -197,13 +197,4 @@ Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
 
 
-{#ref-tanenbaum-steen}
-##### Tanenbaum+2016
-Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>
 
-{#ref-tornhill-crime-scene}
-##### Tornhill-2015
-Adam Tornhill: Your Code as a Crime Scene. 
-Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs. 
-Pragmatic Programmers, 2015.
-<https://www.adamtornhill.com>
