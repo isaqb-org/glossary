@@ -43,8 +43,7 @@ dependencies {
     testImplementation "org.spockframework:spock-core"
     testImplementation "org.apache.groovy:groovy-json:4.0.3"
 
-    // We use the awesome Spock testing and specification framework
-    //testImplementation 'org.spockframework:spock-core:2.3-groovy-4.0'
+
 }
 
 task generateTranslationTables(dependsOn: compileGroovy, type: JavaExec) {
