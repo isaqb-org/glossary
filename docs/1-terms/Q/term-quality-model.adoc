@@ -2,28 +2,39 @@
 
 // tag::EN[]
 ==== Quality Model
-(from ISO 25010) A model that defines quality characteristics that relate to static properties of software and dynamic properties of the computer system and software products. The quality model provides consistent terminology for specifying, measuring and evaluating system and software product quality.
+(from ISO 25010) A model that defines quality characteristics that relate to static properties of software and dynamic properties of the computer system and software products.
+The quality model provides consistent terminology for specifying, measuring and evaluating system and software product quality.
 
 The scope of application of the quality models includes supporting specification and evaluation of software and software-intensive computer systems from different perspectives by those associated with their acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and control, and audit.
+
+[NOTE]
+====
+Comment (Gernot Starke)
+
+A quality model (like ISO-25010) **only** provides a taxonomy of terms, but does **not** provide any means to specify or evaluate quality. I consent to the phrase above "consistent terminology", but strongly object to "measuring and evaluating".
+For measuring and evaluating you definitely need additional tools and/or methods, the pure model does not help.
+====
 
 // end::EN[]
 
 // tag::DE[]
 ==== Qualitätsmodell
 
-(Aus ISO 25010) Ein Modell, das sich auf die statischen Eigenschaften
-von Software und die dynamischen Eigenschaften von Computersystemen
-und Softwareprodukten beziehende Qualitätseigenschaften definiert. Das
-Qualitätsmodell liefert eine konsistente Terminologie zur
-Spezifikation, Messung und Bewertung der System- und
+(Aus ISO 25010) Ein Modell, das sich auf die statischen Eigenschaften von Software und die dynamischen Eigenschaften von Computersystemen und Softwareprodukten beziehende Qualitätseigenschaften definiert.
+Das Qualitätsmodell liefert eine konsistente Terminologie zur Spezifikation, Messung und Bewertung der System- und
 Softwareproduktqualität.
 
-Der Anwendungsumfang von Qualitätsmodellen umfasst die Unterstützung
-der Spezifikation und Bewertung von Software und softwareintensiven
-Computersystemen aus unterschiedlichen Perspektiven durch an ihrem
-Erwerb, ihren Anforderungen, ihrer Entwicklung, ihrer Nutzung, ihrer
-Bewertung, ihrem Support, ihrer Wartung, ihrer Qualitätssicherung und
--kontrolle sowie ihrem Audit beteiligte Personen.
+Der Anwendungsumfang von Qualitätsmodellen umfasst die Unterstützung  der Spezifikation und Bewertung von Software und softwareintensiven Computersystemen aus unterschiedlichen Perspektiven durch an ihrem Erwerb, ihren Anforderungen, ihrer Entwicklung, ihrer Nutzung, ihrer Bewertung, ihrem Support, ihrer Wartung, ihrer Qualitätssicherung und -kontrolle sowie ihrem Audit beteiligte Personen.
+
+
+[NOTE]
+====
+Kommentar (Gernot Starke)
+
+
+Ein Qualitätsmodell (wie ISO-25010) liefert **nur** eine Taxonomie von Begriffen, aber **keine** Mittel zur Spezifikation oder Bewertung von Qualität. Ich stimme der obigen Formulierung "einheitliche Terminologie" zu, lehne aber "Messung und Bewertung" entschieden ab.
+Zum Messen und Bewerten braucht man definitiv zusätzliche Werkzeuge und/oder Methoden, das reine Qualitätsmodell hilft da nicht weiter.
+====
 
 
 
