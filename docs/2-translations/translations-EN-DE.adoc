@@ -1,3 +1,4 @@
+// tag::EN[]
 
 Here you find translations of the terms  between English and German (see below) and <<section-translations-DE-EN,German-to-English>> (next section).
 
@@ -15,3 +16,9 @@ The following translations are maintained[^generateTranslation] in a simple JSON
 ====
 Please note: This translation table is not supposed to be complete, several English terms will not be translated but preferably used in their original language (e.g. several pattern names).
 ====
+// end::EN[]
+
+// tag::DE[]
+
+TODO
+// end::DE[]

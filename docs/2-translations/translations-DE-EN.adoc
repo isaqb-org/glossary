@@ -1,4 +1,4 @@
-
+// tag::EN[]
 [#section-translations-DE-EN]
 === German to English
 
@@ -12,3 +12,9 @@ Please note: This translation table is not supposed to be complete, several Engl
 
 
 The actual translation tables are generated from a JSON file in the `/translations` directory.
+// end::EN[]
+
+// tag::DE[]
+
+TODO
+// end::DE[]
