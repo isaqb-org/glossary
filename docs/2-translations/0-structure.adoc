@@ -1,15 +1,18 @@
 
 // tag::DE[]
+[#section-translations]
 == Übersetzungstabellen
 // end::DE[]
 
 // tag::EN[]
+[#section-translations]
 == Translation Tables
 // end::EN[]
 
 
 include::translations-EN-DE.adoc[{include_configuration}]
-// these are included without configuration
+
+// generated tables are included without configuration
 include::gen-tt-EN-DE.adoc[]
 
 <<<
