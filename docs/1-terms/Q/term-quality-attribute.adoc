@@ -1,7 +1,7 @@
 
-[#term-quality-attribute]
-
 // tag::EN[]
+
+[#term-quality-attribute]
 ==== Quality Attribute
 
 Software quality is the degree to which a system possesses the desired combination of _attributes_ (see: <<term-software-quality,software quality>>).
@@ -61,7 +61,8 @@ Examples of non-runtime quality attributes are modifiability, portability, under
 
 // tag::DE[]
 
-=== Qualitätsmerkmal
+[#term-quality-attribute]
+==== Qualitätsmerkmal
 
 Die Softwarequalität ist das Maß, in dem ein System die gewünschte
 Kombination von _Merkmalen_ besitzt.
