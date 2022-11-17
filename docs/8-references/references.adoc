@@ -70,9 +70,13 @@ A classic on design patterns.
 **K**
 
 - [[[ref-kazman-1996, Kazman+1996]]] Kazman, R., Abowd, G., Bass, L., & Clements, P.: _Scenario-based analysis of software architecture_, IEEE software, 13(6), 47-55, 1996.
-
-
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+
+**L**
+
+- [[[ref-lilienthal-2019, Lilienthal-2019]]] Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
+3rd edition, dpunkt.verlag, 2019
+
 
 **M**
 
