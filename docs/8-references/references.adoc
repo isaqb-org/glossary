@@ -4,31 +4,12 @@
 == {references}
 
 // tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+Dieser Abschnitt enthält Quellenangaben, die im Glossar referenziert werden.
 // end::DE[]
 
 // tag::EN[]
-This section contains references that are cited in the curriculum.
+This section contains references that are cited in the glossary.
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
-// end::REMARK[]
 
 **B**
 

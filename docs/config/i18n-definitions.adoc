@@ -2,7 +2,7 @@
 :lang: DE
 :basics: Grundlegendes
 :learning-goals: Lernziele
-:references: Referenzen
+:references: Referenzen und Quellen
 :examples: Beispiele
 // end::DE[]
 
@@ -10,6 +10,6 @@
 :lang: EN
 :basics: Essentials
 :learning-goals: Learning Goals
-:references: References
+:references: References and Resources
 :examples: Examples
 // end::EN[]
