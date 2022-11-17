@@ -11,7 +11,7 @@ A representation of a system from a specific perspective. Important and well-kno
 * Runtime view
 * Deployment view
 
-<<bass>> and <<rozanski>> extensively discuss this concept.
+<<bass>> and <<rozanski-11>> extensively discuss this concept.
 
 Following ISO/IEC/IEEE 42010, an architecture view is a work product expressing the architecture of a system from the perspective of specific system concerns (as defined in ISO/IEC/IEEE 42010).
 
@@ -33,7 +33,7 @@ Wichtige und bekannte Sichten:
 
 * Verteilungssicht
 
-<<bass>>und <<rozanski>> erörtern dieses Konzept ausführlich.
+<<bass>>und <<rozanski-11>> erörtern dieses Konzept ausführlich.
 
 Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis, das die Architektur eines Systems aus der Perspektive spezifischer Systembelange darstellt (gemäß Definition in ISO/IEC/IEEE 42010).
 

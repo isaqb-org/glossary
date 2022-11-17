@@ -28,6 +28,11 @@ Structure of an anchor:
 ====
 // end::REMARK[]
 
+**A**
+
+- [[[ref-anderson-2008, Anderson-2008]]] Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
+One of the most comprehensive books about information security available.
+
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
@@ -63,6 +68,9 @@ A classic on design patterns.
 - [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
 
 **K**
+
+- [[[ref-kazman-1996, Kazman+1996]]] Kazman, R., Abowd, G., Bass, L., & Clements, P.: _Scenario-based analysis of software architecture_, IEEE software, 13(6), 47-55, 1996.
+
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
