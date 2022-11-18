@@ -10,7 +10,7 @@ See <<term-software-architecture,Software Architecture>>
 
 // end::EN[]
 
-// tag:DE[]
+// tag::DE[]
 ==== Architektur
 
 Siehe <<term-software-architecture,Softwarearchitektur>>.
