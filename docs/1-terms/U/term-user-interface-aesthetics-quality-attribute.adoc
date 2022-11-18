@@ -15,10 +15,10 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 
 Maß, in dem eine Benutzeroberfläche dem Benutzer eine angenehme und
 zufriedenstellende Interaktion ermöglicht. Teilmerkmal von:
-<<qualitätsmerkmal-benutzerfreundlichkeit,Benutzerfreundlichkeit>>.
+<<term-usability-quality-attribute,Benutzerfreundlichkeit>>.
 
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
 
-// end::DE[] 
+// end::DE[]

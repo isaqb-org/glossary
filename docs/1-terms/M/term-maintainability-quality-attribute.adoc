@@ -19,12 +19,12 @@ der Umgebung oder der Anforderungen anzupassen. Es besteht aus
 folgenden Teilmerkmalen: <<term-modularity-quality-attribute,Modularität>>,
 <<term-reusability-quality-attribute,Wiederverwendbarkeit>>,
 <<term-analysability-quality-attribute,Analysierbarkeit>>,
-<<qualitätsmerkmal-modifizierbarkeit,Modifizierbarkeit>>,
-<<term-testability-quality-attribute,Testbarkeit>>. 
+<<term-modifiability-quality-attribute,Modifizierbarkeit>>,
+<<term-testability-quality-attribute,Testbarkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
 
 
 
-// end::DE[] 
+// end::DE[]

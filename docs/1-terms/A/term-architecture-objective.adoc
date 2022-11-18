@@ -8,7 +8,7 @@ See <<term-architecture-goal,architecture goal>>.
 
 // end::EN[]
 
-// tag:DE[]
+// tag::DE[]
 
 ==== Architecture Objective
 TODO
