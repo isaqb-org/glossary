@@ -12,7 +12,7 @@
 
 ==== Akkreditierter Schulungsanbieter
 
-<<term-trianing-provider,Schulungsanbieter>> mit gültiger <<term-accreditation,Akkreditierung>>
+<<term-training-provider,Schulungsanbieter>> mit gültiger <<term-accreditation,Akkreditierung>>
 des iSAQB(R).
 
 // end::DE[]

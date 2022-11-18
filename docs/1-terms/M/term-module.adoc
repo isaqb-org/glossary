@@ -22,7 +22,7 @@
 // tag::DE[]
 ==== Modul
 
-(Siehe auch <<modulare-programmierung,Modulare Programmierung>>)
+(Siehe auch <<term-modular-programming,Modulare Programmierung>>)
 
 1.  Strukturelement oder Baustein, üblicherweise als *Blackbox*
     angesehen, mit einer klar definierten Verantwortlichkeit. Kapselt
@@ -41,4 +41,4 @@
     die Inhalte dieser Module sind in den jeweiligen Lehrplänen
     festgelegt.
 
-// end::DE[] 
+// end::DE[]
