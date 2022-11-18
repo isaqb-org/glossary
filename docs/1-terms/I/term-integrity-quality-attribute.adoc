@@ -6,7 +6,6 @@ Degree to which a system, product or component prevents unauthorized access to, 
 Is a sub-characteristic of: <<term-security-quality-attribute,security>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-, Security
 
 // end::EN[]
 
@@ -16,10 +15,8 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 Maß, in dem ein System, ein Produkt oder eine Komponente den
 unbefugten Zugriff auf Computerprogramme oder Daten oder deren
 unbefugte Abänderung verhindert. Teilmerkmal von:
-<<term-security-quality-attribute,Sicherheit>>. 
+<<term-security-quality-attribute,Sicherheit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-, Sicherheit
 
-
-// end::DE[] 
+// end::DE[]
