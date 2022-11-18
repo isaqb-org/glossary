@@ -9,7 +9,6 @@ It differs from composition, as aggregation does not imply ownership.
 When the element is destroyed, the contained elements
 remain intact.
 
-Category: Foundation
 
 // end::EN[]
 
@@ -22,6 +21,5 @@ Programmierung. Sie unterscheidet sich von der Komposition dadurch,
 dass sie keinen Besitz impliziert. Wenn das Element vernichtet wird,
 bleiben die enthaltenen Elemente intakt.
 
-Kategorie: Foundation
 
 // end::DE[]

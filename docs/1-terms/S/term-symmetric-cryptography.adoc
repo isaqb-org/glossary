@@ -17,7 +17,7 @@ Symmetrische Kryptographie basiert auf einem identischen Schlüssel für die Ver
 Sender und Empfänger vereinbaren einen Schlüssel für die Kommunikation.
 Siehe <<schneier-96, Seite 17>>.
 
-Kategorie: Sicherheit
+
 
 
 

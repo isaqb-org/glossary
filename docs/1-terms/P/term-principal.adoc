@@ -11,7 +11,7 @@ and throughout different authentication protocols (see
 link:https://tools.ietf.org/html/rfc2744[GSSAPI RFC2744] or 
 link:https://tools.ietf.org/html/rfc4121[Kerberos RFC4121]).
 
-Category: Security
+
 
 
 // end::EN[]
@@ -28,7 +28,7 @@ und in verschiedenen Authentifizierungsprotokollen verwendet (siehe
 link:https://tools.ietf.org/html/rfc2744[GSSAPI RFC2744] oder
 link:https://tools.ietf.org/html/rfc4121[Kerberos RFC4121]).
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

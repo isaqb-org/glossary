@@ -14,7 +14,6 @@ support ACLs to control access.
 Since ACLs don't scale well on a large base it is common to model access
 control based on roles (<<term-rbac,RBAC>>).
 
-Category: Security
 
 // end::EN[]
 
@@ -34,6 +33,5 @@ Da ACL sich nicht gut im großen Maßstab skalieren lassen, ist eine
 rollenbasierte Modellierung der Zugriffskontrolle
 (<<term-rbac,RBAC>>) gängig.
 
-Kategorie: Sicherheit
 
 // end::DE[]

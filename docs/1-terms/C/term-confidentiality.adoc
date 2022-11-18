@@ -6,7 +6,7 @@
 One of the basic <<term-security-goals,[Security Goals>> describing a system to
 disclose and make information only available to authorized parties.
 
-Category: Security
+
 
 
 
@@ -19,7 +19,7 @@ Eines der grundlegenden <<term-security-goals,Schutzziele>>, das ein System
 beschreibt, welches Informationen nur Befugten offenlegt und
 bereitstellt.
 
-Kategorie: Sicherheit
+
 
 
 

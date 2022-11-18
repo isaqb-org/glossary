@@ -12,7 +12,7 @@ systems) and confidential information"
 
 (quoted from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042))
 
-Category: Security
+
 
 // end::EN[]
 
@@ -30,6 +30,6 @@ Anwendungen und Supportsysteme) und vertrauliche Informationen.&quot;
 (Übersetztes englisches Zitat aus
 [Wikipedia](https://en.wikipedia.org/w/index.php?title=Asset_(computer_security)&oldid=694606042))
 
-Kategorie: Sicherheit
+
 
 // end::DE[]

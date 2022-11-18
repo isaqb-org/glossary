@@ -4,10 +4,9 @@
 
 ==== arc42
 
-Free https://arc42.org[template] for communication and documentation of software architectures.
+Free and open source https://arc42.org[template] for communication and documentation of software architectures.
 arc42 consists of 12 (optional) parts or sections.
 
-Category: Communication, Documentation
 
 // end::EN[]
 
@@ -15,10 +14,10 @@ Category: Communication, Documentation
 
 ==== arc42
 
-Kostenloses https://arc42.org/[Template] zur
+Kostenfreies Open-Source https://arc42.org/[Template] zur
 Kommunikation und Dokumentation von Softwarearchitekturen. arc42
 besteht aus 12 (optionalen) Teilen oder Abschnitten.
 
-Kategorie: Kommunikation, Dokumentation
+
 
 // end::DE[]

@@ -11,7 +11,7 @@ access policy."
 
 (quoted from https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234[Wikipedia])
 
-Category: Security
+
 
 // end::EN[]
 
@@ -27,6 +27,6 @@ Zugrissrichtlinie."
 
 (Übersetztes englisches Zitat aus
 https://en.wikipedia.org/w/index.php?title=Authorization&oldid=739777234[Wikipedia])
-Kategorie: Sicherheit
+
 
 // end::DE[]

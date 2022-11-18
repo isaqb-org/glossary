@@ -15,7 +15,7 @@ countermeasures.
 
 See https://www.schneier.com/academic/archives/1999/12/attack_trees.html[Bruce Schneier on "Modeling security threats"].
 
-Category: Security
+
 
 // end::EN[]
 
@@ -36,6 +36,6 @@ Angriffsansatzes mittels Einbeziehung von Gegenmaßnahmen.
 
 Siehe https://www.schneier.com/academic/archives/1999/12/attack_trees.html[Bruce Schneier zu „Modeling security threats&quot;].
 
-Kategorie: Sicherheit
+
 
 // end::DE[]

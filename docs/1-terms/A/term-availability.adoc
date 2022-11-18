@@ -8,7 +8,7 @@ One of the basic <<term-security-goals,Security Goals>> describing a system
 that can provide desired information when its needed. From a security
 perspective for example denial-of-service-attacks may prevent availability.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -21,6 +21,6 @@ beschreibt, das die gewünschten Informationen bei Bedarf bereitstellen
 kann. Aus einer Sicherheitsperspektive können beispielsweise
 Denial-of-Service-Angriffe die Verfügbarkeit verhindern.
 
-Kategorie: Sicherheit
+
 
 // end::DE[]

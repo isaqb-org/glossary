@@ -10,7 +10,6 @@ A view of an element that focuses on the information relevant to a particular pu
 
 A design construct as in "Building blocks should depend on abstractions rather than on implementations."
 
-Category: Design-Principle
 
 // end::EN[]
 
@@ -22,6 +21,5 @@ Betrachtung eines Elements, die sich auf die für einen bestimmten
 Zweck maßgeblichen Informationen konzentriert und die übrigen
 Informationen ignoriert.
 
-Kategorie: Entwurfsprinzip
 
 // end::DE[]

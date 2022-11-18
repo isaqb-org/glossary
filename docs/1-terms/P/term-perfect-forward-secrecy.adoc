@@ -10,7 +10,7 @@ Examples for protocols with perfect forward secrecy are TLS and OTR. If this
 feature is enabled for <<term-tls,TLS>> and an attacker gains access to a servers private
 key, previously recorded communication sessions can still not be decrypted.
 
-Category: Security
+
 
 // end::EN[]
 
@@ -27,7 +27,7 @@ Geheimhaltung sind TLS und OTR. Wenn diese Funktion für
 privaten Schlüssel erhält, können früher aufgezeichnete
 Kommunikationssitzungen dennoch nicht entschlüsselt werden.
 
-Kategorie: Sicherheit
+
 
 
 

@@ -6,7 +6,7 @@ Degree to which a product or system provides the correct results with the needed
 Is a sub-characteristic of: <<term-functional-suitability-quality-attribute,functional suitability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
+
 
 // end::EN[]
 
@@ -17,7 +17,7 @@ Maß, in dem ein Produkt oder System die korrekten Ergebnisse mit dem
 benötigten Grad an Präzision liefert. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>. 
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-Kategorie: Qualität, ISO 25010
+
 
 
 

@@ -12,7 +12,7 @@ TLS started as an update to its predecessor SSL (Secure Socket Layer) Version
 3.0 and should be used now instead of SSL 
 link:https://tools.ietf.org/html/rfc7568[see RFC7568 "Deprecating Secure Sockets Layer Version 3.0"].
 
-Category: Security
+
 
 
 // end::EN[]
@@ -30,7 +30,7 @@ TLS begann als Update seines Vorgängers SSL (Secure Socket Layer)
 Version 3.0 und sollte nun statt SSL verwendet werden 
 link:https://tools.ietf.org/html/rfc7568[siehe RFC7568 „Deprecating Secure Sockets Layer Version 3.0"].
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

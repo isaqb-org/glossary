@@ -12,7 +12,6 @@ root-certificates of a defined list of CAs. These CAs then check the identity
 of a given internet domain owner and digitally sign his certificate for the use
 with <<term-tls,TLS>>.
 
-Category: Security
 
 
 // end::EN[]
@@ -31,7 +30,6 @@ CA überprüfen dann die Identität eines gegebenen
 Internet-Domaininhabers und signieren sein Zertifikat digital für die
 Verwendung mit <<term-tls,TLS>>.
 
-Kategorie: Sicherheit
 
 
 

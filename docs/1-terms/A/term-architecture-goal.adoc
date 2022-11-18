@@ -8,7 +8,7 @@
 
 Hence, the architecture needs to be designed in a way to fulfill this architectural goal. These goals often have _long term character_ in contrast to (short term) project goals.
 
-Category: Foundation
+
 
 // end::EN[]
 
@@ -24,6 +24,6 @@ Daher ist die Architektur so zu entwerfen, dass das Architekturziel
 erfüllt wird. Diese Ziele sind im Gegensatz zu (kurzfristigen)
 Projektzielen häufig _langfristig_.
 
-Kategorie: Grundlegend
+
 
 // end::DE[]

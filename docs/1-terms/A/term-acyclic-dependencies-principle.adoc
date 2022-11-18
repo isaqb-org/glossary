@@ -12,7 +12,6 @@ Although Robert C. Martin (<<martin-2003,Martin-2003>>) expressed it in terms of
 
 It can be argued that a dependence cycle, even before considering its various practical problems, is logically already as flawed as a https://en.wikipedia.org/wiki/Circular_reasoning[circular argument] or https://en.wikipedia.org/wiki/Fallacies_of_definition#Circularity[circular definition]. As a structural contradiction, a cycle can neither be an _appropriate_ nor meaningful model of the inherent nature and purpose of a system. And this conceptual divergence alone virtually guarantees for (unpredictable) problems to arise, which is exactly what a <<term-design-principle,_principled_>> approach guards against.
 
-Category: Design-Principle
 
 // end::EN[]
 
@@ -57,6 +56,5 @@ eines Systems sein. Alleine diese konzeptuelle Abweichung führt
 geradezu mit Sicherheit zur Entstehung von Problemen. Und genau das
 soll durch einen <<term-design-principle,_Prinzip_>>-Ansatz verhindert werden.
 
-Kategorie: Entwurfsprinzip
 
 // end::DE[]

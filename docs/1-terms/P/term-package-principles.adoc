@@ -18,7 +18,7 @@ Package- and SOLID Principles share the explicit goal of keeping software <<term
 
 While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal principles like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the <<term-dependency-inversion,DIP>>).
 
-Category: Design-Principle
+
 
 
 // end::EN[]
@@ -61,7 +61,7 @@ Erkenntnis, dass sinnvolle Abhängigkeiten von spezifischen/instabilen
 Konzepten zu abstrakteren/stabileren verlaufen (was sich im
 <<term-dependency-inversion,DIP>> wiederfindet).
 
-Kategorie: Entwurfsprinzip
+
 
 
 

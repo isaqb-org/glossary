@@ -21,7 +21,7 @@ These are typical examples for non-functional requirements related to security.
 
 See <<ref-anderson-2008,"What is Security Engineering - Definitions", page 11>> or <<ref-rmias-2013,RMIAS>>.
 
-Category: Security
+
 
 
 // end::EN[]
@@ -53,7 +53,7 @@ in Zusammenhang mit Sicherheit.
 
 Siehe <<ref-anderson-2008,„What is Security Engineering - Definitions", Seite 11>> oder <<ref-rmias-2013,RMIAS>>.
 
-Kategorie: Sicherheit
+
 
 
 // end::DE[] 

@@ -9,7 +9,7 @@ This perspective helps in deciding what belongs into a component and what doesn'
 
 This obviously echoes the <<term-single-responsibility-principle,Single Responsibility Principle>>. It also echoes the <<term-interface-segregation-principle,Interface Segregation Principle>>, as it ensures that clients aren't forced to depend on concepts they don't care about.
 
-Category: Design-Principle
+
 
 // end::EN[]
 
@@ -36,7 +36,7 @@ Zusammenhang zum <<term-interface-segregation-principle,Schnittstellenaufteilung
 das Prinzip sicherstellt, dass Clients nicht gezwungen werden, von
 Konzepten abzuhängen, die für sie bedeutungslos sind.
 
-Kategorie: Entwurfsprinzip
+
 
 
 

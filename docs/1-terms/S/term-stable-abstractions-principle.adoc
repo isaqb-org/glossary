@@ -11,7 +11,7 @@ The SAP can sound like a circular argument until the underlying idea shines thro
 
 The SAP is closely related to the <<term-stable-dependencies-principle,SDP>>. Their combination amounts to a more general and arguably more profound version of the <<term-dependency-inversion,DIP>>: Specific concepts naturally depend on more *abstract* ones because they are composed or derived from more general-purpose building blocks. And dependent concepts are naturally more *specific* because they are defined by more information than their dependencies (assuming there are <<term-acyclic-dependencies-principle,no dependence cycles>>).
 
-Category: Design-Principle
+
 
 // end::EN[]
 
@@ -49,7 +49,7 @@ davon abgeleitet sind. Und abhängige Konzepte sind natürlich
 Abhängigkeiten definiert sind (vorausgesetzt es gibt 
 <<term-acyclic-dependencies-principle,keine Abhängigkeitszyklen>>).
 
-Kategorie: Entwurfsprinzip
+
 
 
 // end::DE[] 

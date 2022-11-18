@@ -9,7 +9,7 @@ Following ISO/IEC/IEEE 42010 a concern is defined as (system) interest in a syst
 
 Note, a concern pertains to any influence on a system in its environment, including developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
 
-Category: ISO-IEC-IEEE-42010
+
 
 
 // end::EN[]
@@ -30,7 +30,7 @@ Umgebung, wie Entwicklungs-, Geschäfts- und Betriebseinflüsse sowie
 technologische, organisatorische, politische, wirtschaftliche,
 rechtlichen, regulatorische, ökologische und soziale Einflüsse.
 
-Kategorie: ISO-IEC-IEEE-42010
+
 
 
 

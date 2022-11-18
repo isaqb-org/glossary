@@ -6,7 +6,7 @@ Degree to which a product can perform its required functions efficiently while s
 Is a sub-characteristic of: <<term-compatibility-quality-attribute,compatibility>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-Category: Quality, ISO 25010
+
 
 // end::EN[]
 
@@ -19,7 +19,7 @@ auf andere Produkte seine geforderten Funktionen effizient erfüllen
 kann. Teilmerkmal von: <<term-compatibility-quality-attribute,Kompatibilität>>. Vgl. Website
 von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010,[ISO 25010].
 
-Kategorie: Qualität, ISO 25010
+
 
 
 // end::DE[] 
