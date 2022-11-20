@@ -121,10 +121,13 @@ task renderEN(type: RenderCurriculumTask,
     }
 }
 
-task recreateTermStructures() {
-    exec {
-        executable "bash"
-        args "-c", "./src/bash/sortTermsAlphabetically.sh"
+// Executed by: ./gradlew -q recreateTermStructures
+tasks.register("recreateTermStructures") {
+    doLast {
+        exec {
+            executable "bash"
+            args "-c", "./src/bash/sortTermsAlphabetically.sh"
+        }
     }
 }
 
