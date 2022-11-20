@@ -112,6 +112,7 @@ task renderDE(type: RenderCurriculumTask,
     doLast {
         addSuffixToCurriculum("-de")
     }
+    dependsOn "sortTermsAlphabetically"
 }
 
 task renderEN(type: RenderCurriculumTask,
@@ -121,16 +122,10 @@ task renderEN(type: RenderCurriculumTask,
     }
 }
 
-// Executed by: ./gradlew -q recreateTermStructures
-tasks.register("recreateTermStructures") {
-    doLast {
-        exec {
-            executable "bash"
-            args "-c", "./src/bash/sortTermsAlphabetically.sh"
-        }
-    }
-}
-
 apply from: 'scripts/generateTermTables.gradle'
+
+// Executed by: ./gradlew -q sortTermsAlphabetically
+apply from: 'scripts/sortTermsAlphabetically.gradle'
+
 
 defaultTasks "buildDocs"
