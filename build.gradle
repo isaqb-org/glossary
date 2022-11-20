@@ -121,6 +121,13 @@ task renderEN(type: RenderCurriculumTask,
     }
 }
 
+task recreateTermStructures() {
+    exec {
+        executable "bash"
+        args "-c", "./src/bash/sortTermsAlphabetically.sh"
+    }
+}
+
 apply from: 'scripts/generateTermTables.gradle'
 
 defaultTasks "buildDocs"

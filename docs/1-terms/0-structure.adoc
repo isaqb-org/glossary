@@ -5,12 +5,12 @@
 
 // tag::DE[]
 == Begriffe
+
+include::0-structure-DE.adoc[{include_configuration}]
 // end::DE[]
 
 // tag::EN[]
 == Terms
-// end::EN[]
-
 
 include::A/0-structure.adoc[]
 include::B/0-structure.adoc[]
@@ -38,4 +38,6 @@ include::W/0-structure.adoc[]
 // include::X/0-structure.adoc[]
 // include::Y/0-structure.adoc[]
 // include::Z/0-structure.adoc[]
+
+// end::EN[]
 
