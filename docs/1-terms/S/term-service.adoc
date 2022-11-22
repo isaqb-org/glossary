@@ -9,7 +9,7 @@ A service optimally abstracts the internal, technical function to such an extent
 
 Typical examples of externally accessible services are web services, network services, system services or telecommunications services.
 
-(based on [Wikipedia](https://de.m.wikipedia.org/wiki/Dienst_(Informatik))
+(based on link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
 // end::EN[]
 
@@ -22,8 +22,6 @@ Idealerweise abstrahiert ein Dienst die interne, technische Funktion soweit, das
 
 Typische Beispiele für extern erreichbare Dienste sind Webservices, Netzwerkdienste, Systemdienste oder auch Telekommunikationsdienste.
 
-// Siehe auch <<term-service-oriented-architecture,Serviceorientierte Architektur (SOA)>> sowie <<term-service-based-architecture,Service-basierte Architektur>>
-
-(basierend auf [Wikipedia](https://de.m.wikipedia.org/wiki/Dienst_(Informatik))
+(basierend auf link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
 // end::DE[] 
