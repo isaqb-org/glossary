@@ -120,11 +120,10 @@ task renderEN(type: RenderCurriculumTask,
     doLast {
         addSuffixToCurriculum("-en")
     }
+    dependsOn "sortTermsAlphabetically"
 }
 
 apply from: 'scripts/generateTermTables.gradle'
-
-// Executed by: ./gradlew -q sortTermsAlphabetically
 apply from: 'scripts/sortTermsAlphabetically.gradle'
 
 
