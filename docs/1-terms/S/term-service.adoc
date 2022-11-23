@@ -2,16 +2,26 @@
 
 // tag::EN[]
 ==== Service
-t.b.d.
 
+A service is a technical, autonomous unit that bundles related functionalities, typically on a topic, and makes them available for use by other <term-building-block, building blocks>> via a well-defined interface.
+
+A service optimally abstracts the internal, technical function to such an extent that it is not necessary to know or even understand internal implementation details in order to use the service.
+
+Typical examples of externally accessible services are web services, network services, system services or telecommunications services.
+
+(based on link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
 // end::EN[]
 
 // tag::DE[]
 ==== Dienst
 
-zu erledigen
+Ein Dienst oder Service beschreibt eine technische, autarke Einheit, die zusammenhängende Funktionalitäten, typischerweise zu einem Themenkomplex, bündelt und über eine klar definierte Schnittstelle zur Nutzung durch andere <<term-building-block,Bausteine>> zur Verfügung stellt.
 
+Idealerweise abstrahiert ein Dienst die interne, technische Funktion soweit, dass es für die Nutzung des Dienstes nicht notwendig ist, interne Implementierungsdetails zu kennen oder gar zu verstehen.
 
+Typische Beispiele für extern erreichbare Dienste sind Webservices, Netzwerkdienste, Systemdienste oder auch Telekommunikationsdienste.
+
+(basierend auf link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
 // end::DE[] 
