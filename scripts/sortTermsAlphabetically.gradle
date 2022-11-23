@@ -1,0 +1,164 @@
+import static groovy.io.FileType.FILES
+import java.util.regex.Matcher
+
+class Term {
+    String term
+    String captionEN
+    String captionDE
+    String includeFragment
+
+    Term(String term, String captionEN, String captionDE, String includeFragment) {
+        this.term = term
+        this.captionEN = captionEN
+        this.captionDE = captionDE
+        this.includeFragment = includeFragment
+    }
+}
+
+/** This task collects all term captions and creates language dependent alphabetically ordered structure file
+ *
+ * Overall approach:
+ * 1. collect all terms to include into structure file
+ *   1.1. traverse all ascii doc files inside /docs/1-terms/
+ *   1.2. for each term file:
+ *     1.2.1 extract term-anchor and language specific caption
+ *     1.2.2 create Term-Object with language specific captions and ascii doc fragment to include
+ *     1.2.3 add Term-Object into terms set
+ *   1.3. add "Letter Captions" as Term-Object into terms set (ascii doc fragment is level-2 caption with Letter)
+ * 2. create language specific structure file (loop for each language supported)
+ *   2.1. sort terms set language specific
+ *   2.2. create structure file "0-structure-<<language-code>> in directory /docs/1-terms
+ *
+ * Details about 1.2.1: Extraction of term-anchor and language specific caption
+ * 1.2.1.1 term-anchor
+ *   Each term file has a term-anchor at the files head, e.g. '[#term-blackbox]'
+ *   So the first match of regex '[#.*?]' contains the term-anchor.
+ *   To be a bit more gentle, any characters before and after the anchor can be conceivable and allowed.
+ *   To make matching non-greed, add ?
+ *   This results in .*?[#.*?].*?
+ *   To make the term as group 1 add brackets, .*?([#.*?]).*?
+ *
+ * 1.2.1.2 language specific caption
+ *   Language specific captions are the first level-3 caption within the specific language block
+ *   // tag::EN[]
+ *   ...
+ *   ==== Black Box
+ *   ...
+ *   // end::EN[]
+ *
+ *   To find this block with one regex, regex evaluation must be multi-line, dot-match-all, case-insensitiv (?msi)
+ *
+ *   Regex for language specific start tag: 'TAG::'+languageCode+'\\[\\]'
+ *   Regex for caption (line starting '^' with '====' and any character '.*' until the first '?' end of line '$'): (^====.*?$)
+ *   Regex for language specific end tag: 'END::'+languageCode+'\\[\\]'
+ *   Regex for anything but as little as possible until the next part matchs: '.*?'
+ *
+ *   Combination of this regex into one:
+ *     <start tag> <anything but non greedy> <caption> <anything but non greedy> <end tag>
+ *   results into
+ *     '(?msi)TAG::'+languageCode+'\\[\\].*?(^====.*?$).*?END::'+languageCode+'\\[\\]'
+ *
+ * To execute this task, start gradle as follows:
+ *  './gradlew -q sortTermsAlphabetically'
+ *
+ */
+task sortTermsAlphabetically(
+        description: 'collect terms and create an alphabetically ordered structure',
+        group: 'isaqb-glossary'
+) {
+    doLast {
+        println "start task sortTermsAlphabetically"
+        logger.lifecycle("start task sortTermsAlphabetically")
+        def terms = createTermsContent()
+
+        sortTermsEN(terms)
+        writeTermsStructure(terms, "EN")
+
+        sortTermsDE(terms)
+        writeTermsStructure(terms, "DE")
+
+        logger.lifecycle("done task sortTermsAlphabetically")
+        println "done task sortTermsAlphabetically"
+    }
+
+    ext.createTermsContent = {
+        def terms = collectTerms()
+        List alphabet = ('A'..'Z').collect { it }
+        alphabet.each(
+                letter -> terms.add(new Term(/==== $letter/, /==== $letter/, /==== $letter/, /=== $letter/))
+        )
+        return terms
+    }
+
+    ext.collectTerms = {
+        def termsFolder = new File(projectDir, '/docs/1-terms')
+        def terms = []
+
+        termsFolder.traverse(type: FILES) { file ->
+
+            if (file.name ==~ 'term.*[.](ad|adoc|asciidoc)$') {
+                logger.debug( "Learning term from file: " + file.getAbsolutePath() )
+                def content = file.text
+
+                def term
+                def refPath = termsFolder.toPath().relativize( file.toPath() ).toFile()
+                def includeFragment = "include::${refPath}[{include_configuration}]";
+                def caption_EN
+                def caption_DE
+
+                if (content =~ ~/.*?(\[#.*?\]).*?/) {
+                    term = Matcher.lastMatcher[0][1]
+                } else {
+                    term = refPath;
+                }
+                def languageCode;
+                languageCode = 'EN'
+                if (content =~ ~('(?msi)TAG::'+languageCode+'\\[\\].*?(^====.*?$).*?END::'+languageCode+'\\[\\]') ) {
+                    def caption = Matcher.lastMatcher[0][1];
+                    caption_EN = caption.replaceAll('\\s{2,}', ' ') // shrink multiple spaces into one
+                } else {
+                    caption_EN = "==== $term (EN)";
+                }
+                languageCode = 'DE'
+                if (content =~ ~('(?msi)TAG::'+languageCode+'\\[\\].*?(^====.*?$).*?END::'+languageCode+'\\[\\]') ) {
+                    def caption = Matcher.lastMatcher[0][1];
+                    caption_DE = caption.replaceAll('\\s{2,}', ' ') // shrink multiple spaces into one
+                } else {
+                    caption_DE = "==== $term (DE)"
+                }
+
+                logger.debug( "TERM $term EN $caption_EN DE $caption_DE $includeFragment" )
+                terms.add(new Term(term, caption_EN, caption_DE, includeFragment))
+            }
+        }
+
+        return terms
+    }
+}
+
+ext.sortTermsEN = { terms ->
+    terms.sort { a, b ->
+        a.captionEN.compareToIgnoreCase(b.captionEN)
+    }
+}
+
+ext.sortTermsDE = { terms ->
+    terms.sort { a, b ->
+        a.captionDE.compareToIgnoreCase(b.captionDE)
+    }
+}
+
+ext.writeTermsStructure = { terms, languageCode ->
+    def termsFolder = new File(projectDir, '/docs/1-terms')
+    def outFile = new File(termsFolder, "/0-structure-${languageCode}.adoc")
+    logger.debug( "Structure file: " + outFile.getAbsolutePath() )
+
+    outFile.createNewFile()
+
+    outFile.withWriter('UTF-8') { writer ->
+        writer.writeLine("// This file is autogenerated by task sortTermAlphabetically - please do not modify manually!\n")
+        terms.each(
+            term -> writer.writeLine(term.includeFragment)
+        )
+    }
+}
