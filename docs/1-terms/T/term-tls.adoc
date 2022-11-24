@@ -10,7 +10,7 @@ It is widely used for secure communication on the internet and the foundation fo
 
 TLS started as an update to its predecessor SSL (Secure Socket Layer) Version
 3.0 and should be used now instead of SSL 
-link:https://tools.ietf.org/html/rfc7568[see RFC7568 "Deprecating Secure Sockets Layer Version 3.0"].
+link:https://www.rfc-editor.org/rfc/rfc7568[see RFC7568 "Deprecating Secure Sockets Layer Version 3.0"].
 
 
 
@@ -28,7 +28,7 @@ Kommunikation im Internet genutzt und bildet die Grundlage für HTTPS.
 
 TLS begann als Update seines Vorgängers SSL (Secure Socket Layer)
 Version 3.0 und sollte nun statt SSL verwendet werden 
-link:https://tools.ietf.org/html/rfc7568[siehe RFC7568 „Deprecating Secure Sockets Layer Version 3.0"].
+link:https://www.rfc-editor.org/rfc/rfc7568[siehe RFC7568 „Deprecating Secure Sockets Layer Version 3.0"].
 
 
 

@@ -7,7 +7,7 @@ Architectural view showing the technical infrastructure where a system or artifa
 deployed and executed.
 
 "This view defines the physical environment in which the system is intended to run, including the hardware environment your system needs (e.g., processing nodes, network interconnections, and disk storage facilities), the technical environment requirements for each node (or node type) in the system, and the mapping of your software elements to the runtime environment that will execute them."
-  (as defined by link:http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Rozanski+2011])
+  (as defined by link:https://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Rozanski+2011])
 
 // end::EN[]
 
@@ -24,7 +24,7 @@ Speicherkapazitäten), der technischen Umgebungsanforderungen für jeden
 Knoten (oder Knotentyp) im System und des Mappings Ihrer
 Softwareelemente in Bezug auf die Laufzeitumgebung, die sie ausführt."
 (Übersetztes englisches Zitat von
-link:http://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Rozanski+2011])
+link:https://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Rozanski+2011])
 
 
 

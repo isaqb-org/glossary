@@ -35,7 +35,7 @@ called _concepts_ or even _solution patterns_. Principles (concepts) are the fou
 
 
 The _Software Engineering Institute_
-maintains a link:http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[collection of further definitions]
+maintains a link:https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[collection of further definitions]
 
 Although the term often refers to the _software architecture of an IT system_, it is also used to refer to _software architecture as an engineering science_.
 
@@ -77,7 +77,7 @@ Die Schlüsselbegriffe dieser Definition bedürfen einer Erläuterung:
     *Konzepte* oder sogar *Lösungsmuster* genannt. Prinzipien (Konzepte)
     bilden die Grundlage für *konzeptionelle Integrität*.
 
-Das *Software Engineering Institute* führt eine link:http://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[Sammlung weiterer Definitionen]
+Das *Software Engineering Institute* führt eine link:https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[Sammlung weiterer Definitionen]
 
 Auch wenn der Begriff sich oft auf die _Softwarearchitektur eines
 IT-Systems_ bezieht, wird er auch benutzt, um sich auf
