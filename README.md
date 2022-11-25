@@ -1,4 +1,3 @@
-
 # iSAQB Glossary of Software Architecture Terminology
 
 >NOTE: As of November 2022, we migrate the content of this book from Markdown to AsciiDoc, to enable a more flexible output generation pipeline.
@@ -31,8 +30,20 @@ Our build and generation infrastructure can theoretically support an arbitrary n
 
 
 ## Suggestions Welcome
-
 We welcome suggestions and critique of any kind: Just [open an issue](https://github.com/isaqb-org/glossary/issues) here on Github!
+
+## Checkout and Build
+Make sure to clone the repository including its submodules:
+
+```bash
+Via SSH:
+git clone git@github.com:isaqb-org/glossary.git --recursive
+
+Via HTTPS:
+git clone https://github.com/isaqb-org/glossary.git --recursive
+```
+You can then build the glossary via `./gradlew buildDocs` to build both the English and German version.
+
 
 ## Source Code Organization
 
