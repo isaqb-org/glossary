@@ -7,7 +7,7 @@
 
 "Development approach that _cycles_ through development phases,
 from gathering requirements to delivering functionality in a working release."
-(quoted from http://c2.com/cgi/wiki?IterativeDevelopment[c2-wiki])
+(quoted from https://wiki.c2.com/?IterativeDevelopment[c2-wiki])
 
 Such cycles are repeated to improve either functionality, quality or both.
 
@@ -23,7 +23,7 @@ Contrast to the <<term-waterfall-development,_Waterfall Development_>>.
 Zusammenstellung der Anforderungen bis zur Bereitstellung der
 Funktionalität in einem funktionierenden Release in _Zyklen_
 durchlaufen werden.&quot; (Übersetztes englisches Zitat von
-http://c2.com/cgi/wiki?IterativeDevelopment[c2-wiki]).
+https://wiki.c2.com/?IterativeDevelopment[c2-wiki]).
 
 Diese Zyklen werden zur Verbesserung von Funktionalität, Qualität oder
 beidem wiederholt.

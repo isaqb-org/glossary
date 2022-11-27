@@ -17,7 +17,7 @@ Maß, in dem ein Produkt, während es sich eine gemeinsame Umgebung und
 Ressourcen mit anderen Produkten teilt, ohne nachteilige Auswirkungen
 auf andere Produkte seine geforderten Funktionen effizient erfüllen
 kann. Teilmerkmal von: <<term-compatibility-quality-attribute,Kompatibilität>>. Vgl. Website
-von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010,[ISO 25010].
+von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
 

@@ -7,7 +7,7 @@ Standardized order of artifacts used in software development.
 It can help base other files, especially documents in a predefines
 structure without prescribing the content of these single files.
 
-A well known example of such templates is link:https://arc42.de/[arc42]
+A well known example of such templates is link:https://www.arc42.de/[arc42]
 
 // end::EN[]
 
@@ -19,7 +19,7 @@ Softwareentwicklung verwendet werden. Templates können dabei helfen,
 andere Dateien, insbesondere Dokumente, in eine vordefinierte Struktur
 einzubetten, ohne den Inhalt dieser einzelnen Dateien vorzugeben.
 
-Ein sehr bekanntes Template ist link:https://arc42.de/[arc42]
+Ein sehr bekanntes Template ist link:https://www.arc42.de/[arc42]
 
 
 

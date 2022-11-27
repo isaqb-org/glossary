@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Model Driven Architecture (MDA)
 
-link:http://www.omg.org/mda/[Model Driven Architecture (MDA)] is an OMG-Standard for model based software development.
+link:https://www.omg.org/mda/[Model Driven Architecture (MDA)] is an OMG-Standard for model based software development.
 Definition: "An approach to IT system specification that separates the specification of functionality from the specification of the implementation of that functionality on a specific technology platform."
 
 // end::EN[]
@@ -11,7 +11,7 @@ Definition: "An approach to IT system specification that separates the specifica
 // tag::DE[]
 ==== Modellgetriebene Architektur
 
-link:http://www.omg.org/mda/[Modellgetriebene Architektur / Model Driven Architecture (MDA)]
+link:https://www.omg.org/mda/[Modellgetriebene Architektur / Model Driven Architecture (MDA)]
 ist ein
 OMG-Standard für die modellbasierte Softwareentwicklung. Definition:
 Ein Ansatz zur IT-Systemspezifikation, bei dem die Spezifikation der
