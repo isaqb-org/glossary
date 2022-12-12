@@ -12,3 +12,4 @@ docs/2-translations/gen-*
 .gradle
 build
 generated
+docs/1-terms/0-structure-*.adoc
