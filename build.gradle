@@ -96,7 +96,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
                 'pdf-style'         : 'isaqb',
                 'stylesheet'        : '../html-theme/adoc-github.css',
                 'stylesheet-dir'    : '../html-theme',
-                'front-cover-image': '../cover/cover.pdf'
+                'front-cover-image': '../cover/cover_' + language + '.pdf'
         ]
     }
 }
