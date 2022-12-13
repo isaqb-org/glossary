@@ -135,7 +135,7 @@ Currently the content is maintained by volunteers from the [iSAQB e.V.](http://i
 
 You can become contributor (and will be added to the Leanpub contributor page) if you:
 
-1. Fix 3 or more issues from the Github issue list
+1. Fix 3 or more issues from the GitHub issue list
 2. Open 5 significant issues (typos, spelling mistakes, simple formating issues and
   other trivial stuff does not qualify as _significant_).
 3. Provide significant input by mail or other means to existing authors.
