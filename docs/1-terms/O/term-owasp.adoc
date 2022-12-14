@@ -11,14 +11,12 @@ of web security. See [https://www.owasp.org/](https://www.owasp.org/).
 The OWASP-Top-10 is a frequently referenced list of attack categories based on
 the projects data survey.
 
-
-
 // end::EN[]
 
 // tag::DE[]
 ==== OWASP
 
-Das Open Web Application Security Project ist eine 2001
+Das **Open Web Application Security Project** ist eine 2001
 gegründete, weltweite, gemeinnützige Onlineorganisation zur
 Verbesserung der Softwaresicherheit. Es ist eine reichhaltige Quelle
 für Informationen und beste Praktiken im Bereich Websicherheit. Siehe
@@ -27,7 +25,4 @@ für Informationen und beste Praktiken im Bereich Websicherheit. Siehe
 Die OWASP-Top-10 ist eine häufig angeführte Liste von
 Angriffskategorien basierend auf der Datenerhebung des Projekts.
 
-
-
-
-// end::DE[] 
+// end::DE[]

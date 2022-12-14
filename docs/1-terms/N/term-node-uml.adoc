@@ -3,8 +3,7 @@
 // tag::EN[]
 ==== Node (in UML)
 
-A processing resource (execution environment, processor, machine, virtual machine,
-  application server) where artifacts can be deployed and executed.
+A processing resource (execution environment, processor, machine, virtual machine, application server) where artifacts can be deployed and executed.
 
 
 // end::EN[]
@@ -16,5 +15,4 @@ Eine Verarbeitungsressource (Ausführungsumgebung, Prozessor, Maschine,
 virtuelle Maschine, Anwendungsserver) zur Verteilung und Ausführung
 von Artefakten.
 
-
-// end::DE[] 
+// end::DE[]
