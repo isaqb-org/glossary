@@ -12,7 +12,7 @@ An architectural style, proposing to divide large systems into small units.
 ==== Microservice
 
 Architekturstil, der die Unterteilung von großen Systemen in kleine
-Einheiten vorschlägt. „Microservices müssen als virtuelle Maschinen,
+Einheiten vorschlägt. "Microservices müssen als virtuelle Maschinen,
 als leichtere Alternativen, wie Docker-Container, oder als
 individuelle Prozesse implementiert werden. Dadurch können sie leicht
 einzeln in Produktion genommen werden." (Übersetztes englisches Zitat
@@ -21,4 +21,4 @@ von link:https://microservices-book.com/[Eberhard Wolff].
 
 
 
-// end::DE[] 
+// end::DE[]

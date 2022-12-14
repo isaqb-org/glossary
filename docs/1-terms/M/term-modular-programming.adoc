@@ -11,24 +11,20 @@ Modules have _interfaces_ expressing the elements provided and required by the m
 The elements defined in the interface are detectable by other modules."
  (quoted from link:https://en.wikipedia.org/wiki/Modular_programming[Wikipedia])
 
-
-
 // end::EN[]
 
 // tag::DE[]
 ==== Modulare Programmierung
 
-„Softwareentwurfstechnik, die die Funktionalität eines Programms in
-unabhängige, austauschbare *Module* unterteilt, so dass jedes Modul
+"Softwareentwurfstechnik, die die Funktionalität eines Programms in
+unabhängige, austauschbare _Module_ unterteilt, sodass jedes Modul
 alles enthält, was zur Ausführung von nur einem Aspekt der gewünschten
 Funktionalität erforderlich ist.
 
-Module haben *Schnittstellen*, die die vom Modul bereitgestellten und
+Module haben _Schnittstellen_, die die vom Modul bereitgestellten und
 benötigten Elemente angeben. Die in der Schnittstelle definierten
 Elemente können von anderen Modulen erkannt werden." (Übersetztes
 englisches Zitat aus
 link:https://en.wikipedia.org/wiki/Modular_programming[Wikipedia])
 
-
-
-// end::DE[] 
+// end::DE[]
