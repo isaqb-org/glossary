@@ -3,7 +3,6 @@
 // tag::EN[]
 ==== Entity
 
-
 Entity is a building block of <<term-DDD,Domain-Driven Design>>. An entity is a core object of a business domain with unchangeable identity and a clearly defined lifecycle. Entities map their state to <<term-value-object,value objects>> and are almost always persistent.
 
 
@@ -12,14 +11,10 @@ Entity is a building block of <<term-DDD,Domain-Driven Design>>. An entity is a 
 // tag::DE[]
 ==== Entität
 
-
-
 Eine Entität ist ein Baustein des <<term-DDD,Domain-Driven Designs>>. Eine Entität ist ein Kernobjekt einer
 Geschäftsdomäne mit einer unveränderlichen Identität und einem klar
 definierten Lebenszyklus. Entitäten mappen ihren Zustand
 auf <<term-value-object,Wertobjekte>> und sind fast
 immer persistent.
 
-
-
-// end::DE[] 
+// end::DE[]

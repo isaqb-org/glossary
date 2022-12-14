@@ -12,7 +12,7 @@ limited memory and processing resources, small size.
 // tag::DE[]
 ==== Eingebettete Systeme
 
-In ein größeres mechanisches oder elektrisches System *eingebettetes*
+In ein größeres mechanisches oder elektrisches System _eingebettetes_
 System. Eingebettete Systeme haben häufig
 Echtzeit-Recheneinschränkungen. Typische Eigenschaften von
 eingebetteten Systemen sind niedriger
@@ -20,4 +20,4 @@ Stromverbrauch, begrenzter Speicher und begrenzte
 Verarbeitungsressourcen sowie geringe Größe.
 
 
-// end::DE[] 
+// end::DE[]
