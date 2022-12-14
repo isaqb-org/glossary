@@ -17,7 +17,7 @@ deployed and executed.
 Architektursicht, die die technische Infrastruktur, in der ein System
 oder Artefakte verteilt und ausgeführt werden, zeigt.
 
-„Diese Sicht definiert die physische Umgebung, in der das System
+"Diese Sicht definiert die physische Umgebung, in der das System
 laufen soll, einschließlich der Hardwareumgebung, die Ihr System
 benötigt (z.B. Verarbeitungsknoten, Netzwerkverbindungen und
 Speicherkapazitäten), der technischen Umgebungsanforderungen für jeden
@@ -28,4 +28,4 @@ link:https://www.viewpoints-and-perspectives.info/home/viewpoints/deployment/[Ro
 
 
 
-// end::DE[] 
+// end::DE[]
