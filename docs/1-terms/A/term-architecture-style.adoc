@@ -24,8 +24,10 @@ However, from a practical point of view this distinction is not essential.
 ==== Architekturstil
 
 Beschreibung von Element- und Beziehungstypen zusammen mit
-Einschränkungen ihrer Nutzungsweise. Häufig
-_Architekturmuster_ genannt. Beispiele: Pipes und Filter,
+Einschränkungen ihrer Nutzungsweise. Häufig <<term-architecture-pattern,Architekturmuster>> genannt. Beispiele: Pipes und Filter,
 Model-View-Controller, Schichten.
+
+// FIXME @alxlo Kommentar übersetzen
+
 
 // end::DE[]

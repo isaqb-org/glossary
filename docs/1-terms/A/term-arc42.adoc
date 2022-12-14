@@ -4,7 +4,7 @@
 
 ==== arc42
 
-Free and open source https://arc42.org[template] for communication and documentation of software architectures.
+Free and open-source https://arc42.org[template] for communication and documentation of software architectures.
 arc42 consists of 12 (optional) parts or sections.
 
 

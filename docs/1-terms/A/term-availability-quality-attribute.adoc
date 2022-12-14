@@ -16,7 +16,6 @@ Refer to https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 250
 
 Maß, in dem ein System, ein Produkt oder eine Komponente einsatzfähig
 und zugänglich sind, wenn sie benötigt werden. Teilmerkmal von:
-<<term-reliability-quality-attribute,Zuverlässigkeit>>. Vgl. Website von https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO
-25010].
+<<term-reliability-quality-attribute,Zuverlässigkeit>>. Vgl. Website von https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 // end::DE[]

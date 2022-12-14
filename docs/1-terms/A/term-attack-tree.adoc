@@ -34,7 +34,7 @@ jedem Knoten analysiert werden. Mögliche Beispiele sind die
 geschätzten Kosten eines Angriffs oder die Frage der Möglichkeit eines
 Angriffsansatzes mittels Einbeziehung von Gegenmaßnahmen.
 
-Siehe https://www.schneier.com/academic/archives/1999/12/attack_trees.html[Bruce Schneier zu „Modeling security threats&quot;].
+Siehe https://www.schneier.com/academic/archives/1999/12/attack_trees.html[Bruce Schneier zu "Modeling security threats"].
 
 
 

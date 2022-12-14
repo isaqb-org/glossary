@@ -4,7 +4,7 @@
 
 ==== Accredited Training Provider
 
-<<term-training-provider,Training Provider>> with valid <<term-accreditation,accreditation>> issued by the iSAQB(R).
+<<term-training-provider,Training Provider>> with valid <<term-accreditation,accreditation>> issued by the iSAQB®.
 
 // end::EN[]
 
@@ -13,6 +13,6 @@
 ==== Akkreditierter Schulungsanbieter
 
 <<term-training-provider,Schulungsanbieter>> mit gültiger <<term-accreditation,Akkreditierung>>
-des iSAQB(R).
+des iSAQB®.
 
 // end::DE[]

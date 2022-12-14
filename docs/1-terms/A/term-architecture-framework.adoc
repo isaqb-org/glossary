@@ -9,7 +9,6 @@ Conventions, principles and practices for the description of architectures estab
 Examples are:
 
 * Generalised Enterprise Reference Architecture and Methodologies (GERAM) [ISO 15704] is an architecture framework.
-
 * Reference Model of Open Distributed Processing (RM-ODP) [ISO/IEC 10746] is an architecture framework.
 
 
@@ -29,7 +28,6 @@ Beispiele:
 
 * Generalised Enterprise Reference Architecture and Methodologies
 (GERAM) [ISO 15704] ist ein Architektur-Framework.
-
 * Reference Model of Open Distributed Processing (RM-ODP) [ISO/IEC
 10746] ist ein Architektur-Framework.
 
