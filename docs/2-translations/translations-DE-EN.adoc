@@ -2,7 +2,7 @@
 [#section-translations-DE-EN]
 === German to English
 
-In this section we collect the iSAQB translation of the terms
+In this section we collect the iSAQB® translation of the terms
 from German to English.
 
 [CAUTION]
