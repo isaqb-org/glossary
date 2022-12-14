@@ -25,6 +25,4 @@ Implementierung.
 Der Begriff <<term-encapsulation,Kapselung>> wird
 häufig austauschbar mit Verbergen von Informationen verwendet.
 
-
-
-// end::DE[] 
+// end::DE[]

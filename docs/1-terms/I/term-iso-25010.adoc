@@ -22,6 +22,4 @@ link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO-Website
 Eine Liste der in der ISO 25010 Norm definierten Qualitätsmerkmale
 findet sich unter <<term-iso-25010,ISO 25010>>.
 
-
-
-// end::DE[] 
+// end::DE[]

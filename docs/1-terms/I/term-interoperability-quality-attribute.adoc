@@ -6,8 +6,6 @@ Degree to which two or more systems, products or components can exchange informa
 Is a sub-characteristic of: <<term-compatibility-quality-attribute,compatibility>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,11 +14,7 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 Maß, in dem zwei oder mehr Systeme, Produkte oder Komponenten
 Informationen austauschen und die ausgetauschten Informationen nutzen
 können. Teilmerkmal von: <<term-compatibility-quality-attribute,Kompatibilität>>. Vgl. Website
-von 
+von
 link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

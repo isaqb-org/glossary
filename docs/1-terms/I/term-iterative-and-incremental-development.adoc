@@ -12,8 +12,6 @@ e.g. Scrum and XP.
 // tag::DE[]
 ==== Iterative und inkrementelle Entwicklung
 
-Kombination von iterativen und inkrementellen Ansätzen zur
-Softwareentwicklung. Sie sind wesentliche Bestandteile verschiedener
-*agiler* Entwicklungsansätze, z.B. Scrum und XP.
+Kombination von iterativen und inkrementellen Ansätzen zur Softwareentwicklung. Sie sind wesentliche Bestandteile verschiedener _agiler_ Entwicklungsansätze, z.B. Scrum und XP.
 
-// end::DE[] 
+// end::DE[]

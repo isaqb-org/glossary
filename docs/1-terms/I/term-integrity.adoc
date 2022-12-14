@@ -1,20 +1,16 @@
 [#term-integrity]
 
 // tag::EN[]
-==== Integrity 
+==== Integrity
 
 Various meanings:
 
-
-
-One of the basic <<term-security-goals,Security Goals>> which means maintaining and assuring accuracy and completeness of data. Usually this is achieved by the usage of cryptographic algorithms to create a digital signature.
-
-
+One of the basic <<term-security-goals,security goals>> which means maintaining and assuring accuracy and completeness of data. Usually this is achieved by the usage of cryptographic algorithms to create a digital signature.
 
 Data or behavioral integrity:
 
-  * Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Montonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
-  * Degree, to which a system behaves coherent, replicable and reasonable.
+* Degree to which clients (of a database) get identical results for identical queries (e.g. Monotonic-Read-Consistency, Monotonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
+* Degree, to which a system behaves coherent, replicable and reasonable.
 
 See also <<term-consistency,consistency>>.
 
@@ -26,28 +22,17 @@ See also <<term-consistency,consistency>>.
 
 Verschiedene Bedeutungen:
 
-
-
 Eines der grundlegenden <<term-security-goals,Schutzziele>>, das die
 Aufrechterhaltung und Gewährleistung der Richtigkeit und
 Vollständigkeit der Daten bezeichnet. Dies wird üblicherweise durch
-den Einsatz von kryptographischen Algorithmen zur Erstellung einer
+den Einsatz von kryptografischen Algorithmen zur Erstellung einer
 digitalen Signatur erreicht.
 
+Daten- oder Verhaltensintegrität:
 
-
-Daten- oder Verhaltensintegrität: 
-
-* Maß, in dem Clients (einer
-Datenbank) bei identischen Abfragen identische Ergebnisse erhalten
-(z.B. Monotonic-Read-Consistency, Montonic-Write-Consistency,
-Read-Your-Writes-Consistency etc.)
-
-* Maß, in dem ein System sich
-kohärent, reproduzierbar und vernünftig verhält.
+* Maß, in dem Clients (einer Datenbank) bei identischen Abfragen identische Ergebnisse erhalten (z.B. Monotonic-Read-Consistency, Monotonic-Write-Consistency, Read-Your-Writes-Consistency etc.)
+* Maß, in dem ein System sich kohärent, reproduzierbar und vernünftig verhält.
 
 Siehe auch <<term-consistency,Konsistenz>>.
 
-
-
-// end::DE[] 
+// end::DE[]

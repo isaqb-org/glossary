@@ -10,13 +10,12 @@ ones so that clients will only need to know about methods that they actually use
 // end::EN[]
 
 // tag::DE[]
-==== Schnittstellenaufteilungsprinzip (ISP)
+==== Schnittstellenaufteilungsprinzip (Interface Secration Principle, ISP)
 
 Bausteine (Klassen, Komponenten) sollen nicht gezwungen werden, von
 Methoden abzuhängen, die sie nicht nutzen. Nach dem ISP werden größere
 Schnittstellen in kleinere und (client)spezifischere Schnittstellen
-aufgeteilt, so dass Clients nur Methoden
-kennen müssen, die sie tatsächlich nutzen.
+aufgeteilt, sodass Clients nur Methoden kennen müssen, die sie tatsächlich nutzen.
 
 
-// end::DE[] 
+// end::DE[]
