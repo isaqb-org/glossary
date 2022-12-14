@@ -22,13 +22,7 @@ Brown, Simon: _Software Architecture For Developers_,
 Leanpub Publishing. Very practical and pragmatic.
 
 
-{#ref-buschmann-1996}
-##### Buschmann+1996
-Also known as POSA-1.
 
-Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Patterns: Pattern-Oriented Software Architecture 1_, 1st edition, 1996, John Wiley & Sons.
-
-Most likely the most famous and groundbreaking book on architecture patterns.
 
 {#ref-buschmann-2007}
 ##### Buschmann+2007
