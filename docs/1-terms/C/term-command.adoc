@@ -3,18 +3,13 @@
 // tag::EN[]
 ==== Command
 
-Design pattern in which an object is used to encapsulate
-an action. This action might be invoked or executed at a later time.
+Design pattern in which an object is used to encapsulate an action. This action might be invoked or executed at a later time.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Kommando
 
-Entwurfsmuster, bei dem ein Objekt zur Kapselung einer Aktion genutzt
-wird. Diese Aktion kann später aufgerufen oder
-ausgeführt werden.
+Entwurfsmuster, bei dem ein Objekt zur Kapselung einer Aktion genutzt wird. Diese Aktion kann später aufgerufen oder ausgeführt werden.
 
-
-
-// end::DE[] 
+// end::DE[]

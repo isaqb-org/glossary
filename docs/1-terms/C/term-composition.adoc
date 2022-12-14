@@ -3,23 +3,18 @@
 // tag::EN[]
 ==== Composition
 
-Combine simpler elements (e.g. functions, data types,
-  building blocks) to build more complicated, powerful or
-more responsible ones.
+Combine simpler elements (e.g. functions, data types, building blocks) to build more complicated, powerful or more responsible ones.
 
-  In UML: When the owning element is destroyed, so are the contained elements.
+In UML: When the owning element is destroyed, so are the contained elements.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Komposition
 
-Kombination von einfacheren Elementen (z.B. Funktionen, Datentypen,
-Bausteinen) zu komplizierteren, leistungsstärkeren oder stärker
-verantwortlichen Elementen.
+Kombination von einfacheren Elementen (z.B. Funktionen, Datentypen, Bausteinen) zu komplizierteren, leistungsstärkeren oder stärker verantwortlichen Elementen.
 
-In UML: Wenn das enthaltende Element
-vernichtet wird, werden auch die enthaltenen Elemente vernichtet.
+In UML: Wenn das enthaltende Element vernichtet wird, werden auch die enthaltenen Elemente vernichtet.
 
 
-// end::DE[] 
+// end::DE[]

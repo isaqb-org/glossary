@@ -10,8 +10,7 @@ elements might be affected by a single concept. That means that implementors
 of e.g. implementation units (building blocks) should adhere to the corresponding
 concept.
 
-Concepts form the basis for _conceptual integrity_.
-
+Concepts form the basis for <<term-conceptual-integrity,conceptual integrity>>.
 
 // end::EN[]
 
@@ -26,8 +25,6 @@ Architekturelemente von einem einzigen Konzept betroffen sein können.
 Das heißt, dass Implementierer von z.B. Implementierungseinheiten
 (Bausteinen) das entsprechende Konzept einhalten sollen.
 
-Konzepte bilden die Basis für *konzeptionelle Integrität*.
+Konzepte bilden die Basis für <<term-conceptual-integrity,konzeptionelle Integrität>>.
 
-
-
-// end::DE[] 
+// end::DE[]

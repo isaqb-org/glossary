@@ -3,11 +3,8 @@
 // tag::EN[]
 ==== Confidentiality
 
-One of the basic <<term-security-goals,[Security Goals>> describing a system to
+One of the basic <<term-security-goals,Security Goals>> describing a system to
 disclose and make information only available to authorized parties.
-
-
-
 
 
 // end::EN[]
@@ -23,4 +20,4 @@ bereitstellt.
 
 
 
-// end::DE[] 
+// end::DE[]

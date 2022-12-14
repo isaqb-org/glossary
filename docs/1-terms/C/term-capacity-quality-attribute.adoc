@@ -7,8 +7,6 @@ Degree to which the maximum limits of a product or system parameter meet require
 Is a sub-characteristic of: <<term-performance-efficiency-quality-attribute,performance efficiency>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,11 +14,6 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 
 Maß, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den
 Anforderungen entsprechen. Teilmerkmal von: <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>.
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO
-25010].
+Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

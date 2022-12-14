@@ -21,7 +21,7 @@ Note, a concern pertains to any influence on a system in its environment, includ
 Einschränkungen, Absichten oder Bestrebungen eines Stakeholders für
 diese Architektur. (<<rozanski-11>>, Kapitel 8)
 
-Gemäß ISO/IEC/IEEE 42010 ist Belang definiert als (System) Interesse
+Gemäß ISO/IEC/IEEE 42010 ist Belang definiert als (System-)Interesse
 an einem System, das für einen oder mehrere Stakeholder relevant ist
 (gemäß Definition in ISO/IEC/IEEE 42010).
 
@@ -34,4 +34,4 @@ rechtlichen, regulatorische, ökologische und soziale Einflüsse.
 
 
 
-// end::DE[] 
+// end::DE[]

@@ -16,7 +16,7 @@ Based upon a link:https://agilemodeling.com/artifacts/constraint.htm[definition 
 
 Eine Einschränkung des Freiheitsgrads bei der Erstellung, dem Entwurf,
 der Implementierung oder der sonstigen Bereitstellung einer Lösung.
-Einschränkungen sind häufig *globale Anforderungen*, wie begrenzte
+Einschränkungen sind häufig _globale Anforderungen_, wie begrenzte
 Entwicklungsressourcen oder eine Entscheidung der Geschäftsleitung,
 die einschränkt, wie ein System geplant, entworfen, entwickelt oder
 betrieben wird.
@@ -25,4 +25,4 @@ Gestützt auf eine link:https://agilemodeling.com/artifacts/constraint.htm[Defin
 
 
 
-// end::DE[] 
+// end::DE[]
