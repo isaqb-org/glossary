@@ -6,7 +6,7 @@
 Shows the statical structure of the system,
 how its source code is organized.
 Usually a hierarchical manner, starting from the [<<term-context-view,context view>>].
-Complemented by one or several [<<term-runtime-view,runtime scenarios>>].
+Complemented by one or several [<<term-runtime-view,runtime views>>].
 
 // end::EN[]
 
@@ -16,9 +16,7 @@ Complemented by one or several [<<term-runtime-view,runtime scenarios>>].
 Zeigt die statische Struktur des Systems, die Organisationsweise des
 Quellcodes. Üblicherweise hierarchisch, ausgehend von der
 [<<term-context-view,Kontextabgrenzung>>]. Ergänzt durch ein oder mehrere
-[<<term-runtime-view,Laufzeitszenarien>>].
-
-
+[<<term-runtime-view,Laufzeitsichten>>].
 
 // end::DE[]
 
