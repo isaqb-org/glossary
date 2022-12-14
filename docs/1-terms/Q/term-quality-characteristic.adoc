@@ -3,13 +3,13 @@
 // tag::EN[]
 ==== Quality Characteristic
 
-synonym: <<term-quality-attribute, _quality attribute_>>.
+synonym: <<term-quality-attribute,quality attribute>>.
 
 //end::EN[]
 
 //tag::DE[]
 ==== Qualitätseigenschaft
 
-Synonym: <<term-quality-attribute, _Qualitätsmerkmal_>>.
+Synonym: <<term-quality-attribute,Qualitätsmerkmal>>.
 
 // end::DE[]

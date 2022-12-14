@@ -8,26 +8,23 @@ usually involving <<term-asymmetric-cryptography,asymmetric cryptography>>. The
 term "public" refers most of the time to the used type of cryptographic key and
 not necessarily to infrastructure open to a public audience. To prevent
 semantic confusion the terms "open PKI" or "closed PKI" can be used, see
-<<ref-anderson-2008,Anderson, Chapter 21.4.5.7 PKI, page 672>>.
+<<ref-anderson-2008>> Chapter 21.4.5.7 PKI, page 672.
 
 PKI is usually based on a <<term-ca,CA>> or a <<term-web-of-trust,Web-of-Trust>>.
-
-
-
 
 // end::EN[]
 
 // tag::DE[]
 ==== PKI
 
-Abkürzung von Public-Key-Infrastruktur. Ein Konzept zum Management
+Abkürzung von **Public-Key-Infrastruktur**. Ein Konzept zum Management
 von digitalen Zertifikaten, das üblicherweise [asymmetrische
-Kryptographie](#term-asymmetric-cryptography) nutzt. Der Begriff „public" (öffentlich)
+Kryptographie](#term-asymmetric-cryptography) nutzt. Der Begriff "public" (öffentlich)
 bezieht sich zumeist auf die Art des verwendeten
 Kryptographieschlüssels und nicht notwendigerweise auf eine öffentlich
 zugängliche Infrastruktur. Zur Vermeidung von Begriffsverwirrungen
-kann „offene PKI" oder „geschlossene PKI" verwendet werden, vgl.
-<<ref-anderson-2008,Anderson, Kapitel 21.4.5.7 PLI, Seite 672>>.
+kann "offene PKI" oder "geschlossene PKI" verwendet werden, vgl.
+<<ref-anderson-2008>> Kapitel 21.4.5.7 PLI, Seite 672.
 
 Eine PKI basiert in der Regel auf einer <<term-ca,CA>> oder einem
 <<term-web-of-trust,Netz des Vertrauens>>.
@@ -36,4 +33,4 @@ Eine PKI basiert in der Regel auf einer <<term-ca,CA>> oder einem
 
 
 
-// end::DE[] 
+// end::DE[]

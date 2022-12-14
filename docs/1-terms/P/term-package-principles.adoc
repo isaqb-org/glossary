@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Package Principles
 
-Fundamental principles for designing the structure of software systems (<<martin-2003,Martin-2003>>):
+Fundamental principles for designing the structure of software systems (<<martin-2003>>):
 
 * <<term-reuse-release-equivalence-principle,Reuse/Release Equivalence Principle (REP)>>
 * <<term-common-reuse-principle,Common Reuse Principle (CRP)>>
@@ -12,9 +12,9 @@ Fundamental principles for designing the structure of software systems (<<martin
 * <<term-stable-dependencies-principle,Stable Dependencies Principle (SDP)>>
 * <<term-stable-abstractions-principle,Stable Abstractions Principle (SAP)>>
 
-Robert C. Martin, who coined the "<<term-solid-principles,SOLID>>" acronym, also [introduced the Package Principles](link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Robert C. Martin]) and frequently reiterated both in conjunction. Whereas the SOLID Principles target the level of classes, the Package Principles target the level of larger components that contain multiple classes and might get deployed independently.
+Robert C. Martin, who coined the "<<term-solid-principles,SOLID>>" acronym, also link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[introduced the package principles]) and frequently reiterated both in conjunction. Whereas the SOLID principles target the level of classes, the package principles target the level of larger components that contain multiple classes and might get deployed independently.
 
-Package- and SOLID Principles share the explicit goal of keeping software <<term-maintainability-quality-attribute,maintainable>> and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity.
+Package and SOLID principles share the explicit goal of keeping software <<term-maintainability-quality-attribute,maintainable>> and avoiding the symptoms of degraded design: rigidity, fragility, immobility, and viscosity.
 
 While Martin expressed the Package Principles in terms of large-scale components, they apply at other scales as well. Their core are universal principles like low coupling, high cohesion, single responsibility, hierarchical (acyclic) decomposition, and the insight that meaningful dependencies go from specific/unstable concepts to more abstract/stable ones (which echoes the <<term-dependency-inversion,DIP>>).
 
@@ -27,24 +27,19 @@ While Martin expressed the Package Principles in terms of large-scale components
 ==== Packaging-Prinzipien
 
 Grundsätze für die Gestaltung der Struktur von Softwaresystemen
-(<<martin-2003,Martin-2003>>):
+(<<martin-2003>>):
 
--   <<term-reuse-release-equivalence-principle,Reuse-Release-Equivalence-Prinzip (REP)>>
+* <<term-reuse-release-equivalence-principle,Reuse-Release-Equivalence-Prinzip (REP)>>
+* <<term-common-reuse-principle,Common-Reuse-Prinzip (CRP)>>
+* <<term-common-closure-principle,Common-Closure-Prinzip (CCP)>>
+* <<term-acyclic-dependencies-principle,Acyclic-Dependencies-Prinzip (ADP)>>
+* <<term-stable-dependencies-principle,Stable-Dependencies-Prinzip (SDP)>>
+* <<term-stable-abstractions-principle,Stable-Abstractions-Prinzip (SAP)>>
 
--   <<term-common-reuse-principle,Common-Reuse-Prinzip (CRP)>>
-
--   <<term-common-closure-principle,Common-Closure-Prinzip (CCP)>>
-
--   <<term-acyclic-dependencies-principle,Acyclic-Dependencies-Prinzip (ADP)>>
-
--   <<term-stable-dependencies-principle,Stable-Dependencies-Prinzip (SDP)>>
-
--   <<term-stable-abstractions-principle,Stable-Abstractions-Prinzip (SAP)>>
-
-Robert C. Martin, der das Akronym „<<term-solid-principles,SOLID>>" geprägt
-hat, hat auch die [Packaging-Prinzipien eingeführt](link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Robert C. Martin])
+Robert C. Martin, der das Akronym "<<term-solid-principles,SOLID>>" geprägt
+hat, hat auch die link:http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod[Packaging-Prinzipien eingeführt]
 und häufig beide zusammen angeführt. Während die SOLID-Prinzipien auf
-die Klassen-Ebene abzielen, beziehen sich die Packaging-Prinzipien auf
+die Klassenebene abzielen, beziehen sich die Packaging-Prinzipien auf
 die Ebene größerer Komponenten, die mehrere Klassen enthalten und
 eventuell unabhängig verteilt werden.
 
@@ -61,8 +56,4 @@ Erkenntnis, dass sinnvolle Abhängigkeiten von spezifischen/instabilen
 Konzepten zu abstrakteren/stabileren verlaufen (was sich im
 <<term-dependency-inversion,DIP>> wiederfindet).
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

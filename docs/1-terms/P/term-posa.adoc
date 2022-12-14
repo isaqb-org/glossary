@@ -6,8 +6,6 @@
 Pattern-oriented Software Architecture. Series of books on software architecture
 patterns.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,6 +14,4 @@ patterns.
 Pattern-oriented Software Architecture.
 Buchreihe zu Softwarearchitekturmustern.
 
-
-
-// end::DE[] 
+// end::DE[]

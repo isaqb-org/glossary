@@ -1,6 +1,6 @@
 [#term-pseudo-randomness]
 
- // tag::EN[]
+// tag::EN[]
 ==== Pseudo-Randomness
 
 Often used in conjunction with pseudo-random-number-generators. Gathering
@@ -11,8 +11,6 @@ data and create random values based on this seed. The data will be generated
 by random, but will always be the same if the generator is initialized with an
 identical seed. This is called pseudo-randomness and is less performance
 intensive.
-
-
 
 // end::EN[]
 
@@ -29,7 +27,4 @@ werden zufällig erzeugt, aber sind immer gleich, wenn der Generator
 mit dem gleichen Startwert initialisiert wird. Dies wird als
 Pseudo-Zufälligkeit bezeichnet und ist weniger leistungsintensiv.
 
-
-
-
-// end::DE[] 
+// end::DE[]

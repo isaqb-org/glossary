@@ -50,8 +50,8 @@ The Standard <<term-iso-25010,ISO-25010>> defines the following quality attribut
 It might be helpful to distinguish between the following types of quality attributes:
 
 * _runtime quality attributes_ (which can be observed at execution time of the system),
-* non-runtime quality attributes_ (which cannot be observed as the system executes) and
-* business quality attributes (cost, schedule, marketability, appropriateness for organization)
+* _non-runtime quality attributes_ (which cannot be observed as the system executes) and
+* _business quality attributes_ (cost, schedule, marketability, appropriateness for organization)
 
 Examples of runtime quality attributes are functional suitability, performance efficiency, security, reliability, usability and interoperability.
 
@@ -64,9 +64,7 @@ Examples of non-runtime quality attributes are modifiability, portability, under
 ==== Qualitätsmerkmal
 
 Die Softwarequalität ist das Maß, in dem ein System die gewünschte
-Kombination von _Merkmalen_ besitzt.
-
-(Siehe: <<term-software-quality,Softwarequalität>>).
+Kombination von _Merkmalen_ besitzt. (Siehe: <<term-software-quality,Softwarequalität>>).
 
 In der <<term-iso-25010,ISO-25010>> Norm sind folgende Qualitätsmerkmale
 definiert:
@@ -110,20 +108,16 @@ definiert:
 ** <<term-installability-quality-attribute,Installierbarkeit>>
 ** <<term-replaceability-quality-attribute,Austauschbarkeit>>
 
-
 Es kann hilfreich sein, zwischen folgenden Typen von Merkmalen zu unterscheiden:
 
--   *Laufzeit-Qualitätsmerkmalen* (die während der Ausführungszeit des
-    Systems beobachtet werden können),
+* _Laufzeitqualitätsmerkmale_, die während der Ausführungszeit des Systems beobachtet werden können,
+* _Nicht-Laufzeitqualitätsmerkmale_, die während der Ausführung des
+    Systems nicht beobachtet werden können, und
+* _Geschäftsqualitätsmerkmalen_, wie Kosten, Zeitplan, Marktfähigkeit,
+    Eignung für Unternehmen.
 
--   Nicht-Laufzeit-Qualitätsmerkmalen (die während der Ausführung des
-    Systems nicht beobachtet werden können) und
+Beispiele für Laufzeitqualitätsmerkmale sind Leistungseffizienz, Sicherheit, Zuverlässigkeit, Benutzungsfreundlichkeit und Robustheit.
 
--   Geschäftsqualitätsmerkmalen (Kosten, Zeitplan, Marktfähigkeit,
-    Eignung für Unternehmen)
+Beispiele für Nicht-Laufzeitqualitätsmerkmale sind Modifizierbarkeit, Portierbarkeit, Wiederverwendbarkeit und Testbarkeit.
 
-Beispiele für Laufzeit-Qualitätsmerkmale sind Leistungseffizienz, Sicherheit, Zuverlässigkeit, Benutzungsfreundlichkeit und Robustheit.
-
-Beispiele für Nicht-Laufzeit-Qualitätsmerkmale sind Modifizierbarkeit, Portierbarkeit, Wiederverwendbarkeit und Testbarkeit.
-
-// end::DE[] 
+// end::DE[]
