@@ -11,22 +11,6 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Glossar ode
 This section contains references that are cited in the glossary or one of the curriculuae.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-====
-// end::REMARK[]
 
 **A**
 
