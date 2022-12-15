@@ -25,18 +25,8 @@ miteinander verbundene Teile (Modell / model, Präsentation / view und
 Steuerung / controller), um die folgenden Verantwortlichkeiten zu
 trennen:
 
--   Das Modell verwaltet Daten und Logik des Systems. Die „Wahrheit",
-    die von einer oder vielen Präsentationen gezeigt oder angezeigt
-    wird. Das Modell kennt seine Präsentationen nicht (und ist nicht von
-    ihnen abhängig).
+* Das Modell verwaltet Daten und Logik des Systems. Die "Wahrheit", die von einer oder vielen Präsentationen gezeigt oder angezeigt wird. Das Modell kennt seine Präsentationen nicht (und ist nicht von ihnen abhängig).
+* Die Präsentation kann eine Reihe von (beliebigen) Output-Darstellungen der (Modell-)Informationen sein. Mehrere Präsentationen desselben Modells sind möglich.
+* Die Steuerung akzeptiert (Benutzer-)Eingaben und wandelt diese in Befehle für das Modell oder die Präsentation um.
 
--   Die Präsentation kann eine Reihe von (beliebigen)
-    Outputdarstellungen der (Modell-) Informationen sein. Mehrere
-    Präsentationen desselben Modells sind möglich.
-
--   Die Steuerung akzeptiert (Benutzer-) Eingaben und wandelt diese in
-    Befehle für das Modell oder die Präsentation um.
-
-
-
-// end::DE[] 
+// end::DE[]

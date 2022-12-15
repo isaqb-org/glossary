@@ -13,6 +13,4 @@ see <<term-building-block,Building Block>> or <<term-component,Component>>
 
 Siehe <<term-building-block,Baustein>> oder <<term-component,Komponente>>
 
-
-
-// end::DE[] 
+// end::DE[]

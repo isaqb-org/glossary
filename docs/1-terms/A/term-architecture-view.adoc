@@ -26,14 +26,11 @@ Eine Darstellung eines Systems aus einer spezifischen Perspektive.
 Wichtige und bekannte Sichten:
 
 * <<term-context-view,Kontextabgrenzung>>
-
 * Bausteinsicht
-
 * Laufzeitsicht
-
 * Verteilungssicht
 
-<<bass>>und <<rozanski-11>> erörtern dieses Konzept ausführlich.
+<<bass>> und <<rozanski-11>> erörtern dieses Konzept ausführlich.
 
 Laut ISO/IEC/IEEE 42010 ist eine Architektursicht ein Arbeitsergebnis, das die Architektur eines Systems aus der Perspektive spezifischer Systembelange darstellt (gemäß Definition in ISO/IEC/IEEE 42010).
 

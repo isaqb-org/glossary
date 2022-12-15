@@ -5,8 +5,6 @@
 
 A (usually written) artifact conveying information.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -14,5 +12,4 @@ A (usually written) artifact conveying information.
 
 Ein (üblicherweise schriftliches) Artefakt zur Informationsvermittlung.
 
-
-// end::DE[] 
+// end::DE[]

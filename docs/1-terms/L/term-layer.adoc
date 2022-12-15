@@ -12,11 +12,8 @@ Layers are related to each other by the ordered relation _allowed to use_.
 // tag::DE[]
 ==== Schicht
 
-Zusammenstellung von Bausteinen oder Komponenten die (zusammen)
-anderen Schichten einen kohärenten Satz an Services
-bieten. Die Beziehung zwischen Schichten wird
-durch die geordnete Beziehung *erlaubt zu nutzen* geregelt.
+Zusammenstellung von Bausteinen oder Komponenten die (zusammen) anderen Schichten einen kohärenten Satz an Services bieten. Die Beziehung zwischen Schichten wird durch die geordnete Beziehung _erlaubt zu nutzen_ geregelt.
 
 
 
-// end::DE[] 
+// end::DE[]

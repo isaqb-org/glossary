@@ -13,11 +13,11 @@ of another filter without modifying values or order of data.
 // tag::DE[]
 ==== Pipe
 
-Verbindung im „Pipes und Filter"-Architekturstil, die Datenströme oder
+Verbindung im "Pipes und Filter"-Architekturstil, die Datenströme oder
 -blöcke von der Ausgabe eines Filters zur Eingabe eines anderen
 Filters überträgt, ohne Werte oder die
 Datenreihenfolge zu verändern.
 
 
 
-// end::DE[] 
+// end::DE[]

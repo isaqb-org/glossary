@@ -13,6 +13,4 @@ See <<term-coupling,coupling>>.
 
 Siehe <<term-coupling,Kopplung>>.
 
-
-
-// end::DE[] 
+// end::DE[]

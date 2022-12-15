@@ -6,8 +6,6 @@ Degree to which an asset can be used in more than one system, or in building oth
 Is a sub-characteristic of: <<term-maintainability-quality-attribute,maintainability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -15,11 +13,7 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 
 Maß, in dem ein Asset in mehr als einem System oder zum Aufbau anderer
 Assets genutzt werden kann. Teilmerkmal von:
-<<term-maintainability-quality-attribute,Wartbarkeit>>. 
+<<term-maintainability-quality-attribute,Wartbarkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

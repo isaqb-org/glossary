@@ -14,13 +14,13 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 ==== Qualitätsmerkmal Modularität
 
 Maß, inwieweit ein System oder Computerprogramm aus diskreten
-Komponenten besteht, so dass eine Änderung an einer Komponente
+Komponenten besteht, sodass eine Änderung an einer Komponente
 minimale Auswirkungen auf andere Komponenten hat. Teilmerkmal von:
-<<term-maintainability-quality-attribute,Wartbarkeit>>. 
+<<term-maintainability-quality-attribute,Wartbarkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
 
 
 
-// end::DE[] 
+// end::DE[]

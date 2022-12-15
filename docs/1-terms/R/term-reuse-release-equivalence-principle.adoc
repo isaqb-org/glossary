@@ -3,15 +3,12 @@
 // tag::EN[]
 ==== Reuse/Release Equivalence Principle
 
-A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). It demands that large components are "released" and under version control, in particular if the system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
+A fundamental principle for designing the structure of software systems (also see <<term-package-principles,package principles>>). It demands that large components are "released" and under version control, in particular if the system uses them from multiple points. Even if we don't release them publicly, we should extract such components from the system and provide them through an external dependency manager with proper version control.
 
 The REP contains two different insights:
 
 1. On the large scale, <<term-modularity-quality-attribute,modularity>> and <<term-coupling,low coupling>> require more than type separation.
 2. <<term-reusability-quality-attribute,Reusability>> of components (even if all "reuse" is internal) translates to overall <<term-maintainability-quality-attribute,maintainability>>.
-
-
-
 
 // end::EN[]
 
@@ -20,7 +17,7 @@ The REP contains two different insights:
 
 Ein Grundsatz für die Gestaltung der Struktur von Softwaresystemen
 (siehe auch <<term-package-principles,Packaging-Prinzipien>>). Es verlangt einen
-„Release" und eine Versionskontrolle von großen Komponenten,
+"Release" und eine Versionskontrolle von großen Komponenten,
 insbesondere wenn das System sie von mehreren Punkten aus nutzt. Auch
 wenn sie nicht öffentlich herausgegeben werden, sollten diese
 Komponenten aus dem System extrahiert werden und durch einen externen
@@ -30,13 +27,6 @@ Das REP enthält zwei unterschiedliche Erkenntnisse:
 
 1. Im großen Maßstab erfordern <<term-modularity-quality-attribute,Modularität>> und
    <<term-coupling,lose Kopplung>> mehr als Typentrennung.
+2. Die <<term-reusability-quality-attribute,Wiederverwendbarkeit>> von Komponenten (auch wenn die gesamte "Wiederverwendung" intern erfolgt) führt zu allgemeiner <<term-maintainability-quality-attribute,Wartbarkeit>>.
 
-2. Die <<term-reusability-quality-attribute,Wiederverwendbarkeit>> von Komponenten (auch wenn
-    die gesamte „Wiederverwendung" intern erfolgt) führt zu allgemeiner
-    <<term-maintainability-quality-attribute,Wartbarkeit>>.
-
-
-
-
-
-// end::DE[] 
+// end::DE[]

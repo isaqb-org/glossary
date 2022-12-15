@@ -7,8 +7,6 @@
 
 Note, the environment of a system includes developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -22,8 +20,4 @@ Betriebseinflüsse sowie technologische, organisatorische, politische,
 wirtschaftliche, rechtliche, regulatorische, ökologische und soziale
 Einflüsse ein.
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

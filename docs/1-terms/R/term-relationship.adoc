@@ -8,8 +8,6 @@ an architecture. Different types of relationship are used within
 architectures, e.g. call, notification, ownership, containment,
 creation or inheritance.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -21,6 +19,4 @@ unterschiedliche Arten von Beziehungen verwendet, z.B. Aufruf,
 Benachrichtigung, Besitz, Containment,
 Erzeugung oder Vererbung.
 
-
-
-// end::DE[] 
+// end::DE[]

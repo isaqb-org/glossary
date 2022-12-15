@@ -14,8 +14,7 @@ Aggregate is a building block of <<term-DDD,Domain-Driven Design>>. Aggregates a
 
 ==== Aggregat
 
-Ein Aggregat ist ein Baustein des <<term-DDD,Domain-Driven
-Designs>>. Aggregate sind komplexe Objektstrukturen, die
+Ein Aggregat ist ein Baustein des <<term-DDD,Domain-Driven Designs>>. Aggregate sind komplexe Objektstrukturen, die
 aus <<term-entity,Entitäten>> und <<term-value-object,Wertobjekten>>
 bestehen. Jedes Aggregat hat eine Root-Entität und wird in Bezug auf
 Änderungen als Einheit betrachtet. Aggregate stellen die Konsistenz

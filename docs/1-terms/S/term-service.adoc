@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Service
 
-A service is a technical, autonomous unit that bundles related functionalities, typically on a topic, and makes them available for use by other <term-building-block, building blocks>> via a well-defined interface.
+A service is a technical, autonomous unit that bundles related functionalities, typically on a topic, and makes them available for use by other <<term-building-block, building blocks>> via a well-defined interface.
 
 A service optimally abstracts the internal, technical function to such an extent that it is not necessary to know or even understand internal implementation details in order to use the service.
 
@@ -24,4 +24,4 @@ Typische Beispiele für extern erreichbare Dienste sind Webservices, Netzwerkdie
 
 (basierend auf link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
-// end::DE[] 
+// end::DE[]

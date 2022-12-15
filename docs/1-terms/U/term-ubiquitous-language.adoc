@@ -2,7 +2,7 @@
 
 // tag::EN[]
 ==== Ubiquitous Language
-A concept of <<term-DDD,Domain-Driven Design>>: The ubiquitous language is a language that is structured around the <<term-domain-model,domain model>>. It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
+A concept of <<term-DDD,Domain-driven Design>>: The ubiquitous language is a language that is structured around the <<term-domain-model,domain model>>. It is used by all team members to connect all the activities of the team with the software. The ubiquitous language is a living thing that is evolving during a project and will be changed during the whole live cycle of the software.
 
 
 // end::EN[]
@@ -10,7 +10,7 @@ A concept of <<term-DDD,Domain-Driven Design>>: The ubiquitous language is a lan
 // tag::DE[]
 ==== Allgegenwärtige Sprache
 
-Ein Konzept von <<term-DDD,Domain-Driven Design>>: Eine
+Ein Konzept von <<term-DDD,Domain-driven Design>>: Eine
 allgegenwärtige Sprache ist eine Sprache, die um das
 <<term-domain-model,Domänenmodell>> strukturiert ist. Sie wird von allen
 Teammitgliedern zur Verbindung aller Aktivitäten des Teams mit der
@@ -18,4 +18,4 @@ Software genutzt. Die allgegenwärtige Sprache ist lebendig, entwickelt
 sich während eines Projekts weiter und verändert sich während des
 gesamten Lebenszyklus der Software.
 
-// end::DE[] 
+// end::DE[]

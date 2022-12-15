@@ -1,4 +1,4 @@
-# iSAQB Glossary of Software Architecture Terminology
+# iSAQB® Glossary of Software Architecture Terminology
 
 >NOTE: As of November 2022, we migrate the content of this book from Markdown to AsciiDoc, to enable a more flexible output generation pipeline.
 > 
@@ -6,20 +6,20 @@
 >
 >Please be patient - the new version should be available January 2023 latest.
 
-A comprehensive glossary of software architecture terminology, many of them used in the iSAQB foundation and advanced level curricula.
+A comprehensive glossary of software architecture terminology, many of them used in the iSAQB® foundation and advanced level curricula.
 
 ![](./images/glossary-cover-small.jpg)
 
-This repository contains the sources for the published version of the iSAQB glossary, in various formats:
+This repository contains the sources for the published version of the iSAQB® glossary, in various formats:
 
 * [Leanpub (https://leanpub.com/isaqbglossary)](https://leanpub.com/isaqbglossary), which was the original format
-* (planned) pdf from the iSAQB download page at Github
+* (planned) pdf from the iSAQB® download page at Github
 * (planned) online-html
 
 We also keep our reference translations, currently between English <-> German, these are [generated](#generating-the-translation-tables) from a JSON document into the markdown book source. 
 
-This book is made possible by **collaborative effort** of several [iSAQB e.V.](http://isaqb.org) members.
-It's intended to **support the non-profit interests** of the iSAQB and the software architecture community in general.
+This book is made possible by **collaborative effort** of several [iSAQB® e.V.](http://isaqb.org) members.
+It's intended to **support the non-profit interests** of the iSAQB® and the software architecture community in general.
 
 ## Natural Languages: English and German
 
@@ -126,10 +126,10 @@ This will yield the following output (captured from the pdf version, will look d
 ## Contributors
 
 The initial version of this glossary has been contributed by [Gernot Starke](http://gernotstarke.de).
-Prior versions of the (German) iSAQB glossary had been compiled and  edited by Dr. Ulrich Becker, Wolfgang Fahl, Phillip Ghadir, Dr. Peter Hruschka, Dr. Carola Lilienthal, Martin Roesch and others.
+Prior versions of the (German) iSAQB® glossary had been compiled and  edited by Dr. Ulrich Becker, Wolfgang Fahl, Phillip Ghadir, Dr. Peter Hruschka, Dr. Carola Lilienthal, Martin Roesch and others.
 
 
-Currently the content is maintained by volunteers from the [iSAQB e.V.](http://isaqb.org), a non-profit volunteer association - see the contributors list of this repository.
+Currently the content is maintained by volunteers from the [iSAQB® e.V.](http://isaqb.org), a non-profit volunteer association - see the contributors list of this repository.
 
 #### How to Become Contributor
 

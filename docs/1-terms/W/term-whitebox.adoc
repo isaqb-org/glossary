@@ -6,7 +6,7 @@
 
 Shows the internal structure of a system or building block, made up from blackboxes and the internal/external relationships and interfaces.
 
-See also <<term-blackbox,Black Box>>.
+See also <<term-blackbox,black box>>.
 
 // end::EN[]
 
@@ -17,6 +17,6 @@ See also <<term-blackbox,Black Box>>.
 
 Zeigt die interne Struktur eines aus Blackboxes bestehenden Systems oder Bausteins und die internen/externen Beziehungen/Schnittstellen.
 
-Siehe auch <<term-blackbox,Black Box>>.
+Siehe auch <<term-blackbox,Blackbox>>.
 
-// end::DE[] 
+// end::DE[]

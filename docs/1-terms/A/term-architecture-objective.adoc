@@ -11,6 +11,7 @@ See <<term-architecture-goal,architecture goal>>.
 // tag::DE[]
 
 ==== Architecture Objective
+// FIXME
 TODO
 
 // end::DE[]

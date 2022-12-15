@@ -19,10 +19,10 @@ access policy."
 
 ==== Autorisierung
 
-„Autorisierung ist der Vorgang der Spezifizierung von Zugriffsrechten
+"Autorisierung ist der Vorgang der Spezifizierung von Zugriffsrechten
 für Ressourcen in Zusammenhang mit Informationssicherheit und
 Computersicherheit im Allgemeinen und mit Zugriffskontrolle im
-Besonderen. Förmlicher bezeichnet „autorisieren" die Festlegung einer
+Besonderen. Förmlicher bezeichnet "autorisieren" die Festlegung einer
 Zugrissrichtlinie."
 
 (Übersetztes englisches Zitat aus

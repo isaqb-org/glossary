@@ -5,7 +5,7 @@
 
 Design pattern in which an abstraction is decoupled from its implementation,
 so that the two can vary independently. In case you find that incomprehensible
-(as most people) - have a look
+(as most people)—have a look
 link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[here]
 
 
@@ -17,14 +17,8 @@ link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[
 ====  Brücke
 
 Entwurfsmuster, bei dem eine Abstraktion von ihrer Implementierung
-entkoppelt ist, so dass beide unabhängig voneinander variieren können.
-Wenn Ihnen das (wie den meisten Menschen) unverständlich erscheint --
-sehen
-link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[hier]
-nach.
-
-
-
+entkoppelt ist, sodass beide unabhängig voneinander variieren können.
+Wenn Ihnen das (wie den meisten Menschen) unverständlich erscheint – sehen Sie
+link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[hier] nach.
 
 // end::DE[]
-

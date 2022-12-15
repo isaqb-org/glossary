@@ -12,8 +12,7 @@ Definition: "An approach to IT system specification that separates the specifica
 ==== Modellgetriebene Architektur
 
 link:https://www.omg.org/mda/[Modellgetriebene Architektur / Model Driven Architecture (MDA)]
-ist ein
-OMG-Standard für die modellbasierte Softwareentwicklung. Definition:
+ist ein OMG-Standard für die modellbasierte Softwareentwicklung. Definition:
 Ein Ansatz zur IT-Systemspezifikation, bei dem die Spezifikation der
 Funktionalität von der Spezifikation der Implementierung dieser
 Funktionalität auf einer spezifischen Technologieplattform getrennt
@@ -21,4 +20,4 @@ wird.
 
 
 
-// end::DE[] 
+// end::DE[]

@@ -28,36 +28,26 @@ Architects apply perspectives iteratively to the system's _architectural views_ 
 Eine Perspektive dient der Berücksichtigung einer Reihe von
 zusammenhängenden Qualitätseigenschaften und Belangen eines Systems.
 
-Architekten wenden Perspektiven iterativ auf die *Architektursichten*
+Architekten wenden Perspektiven iterativ auf die _Architektursichten_
 eines Systems an, um die Auswirkungen von
-*Architekturentwurfsentscheidungen* über mehrere *Blickwinkel* und
-*Architektursichten* hinweg zu beurteilen.
+_Architekturentwurfsentscheidungen_ über mehrere _Blickwinkel_ und
+_Architektursichten_ hinweg zu beurteilen.
 
-<<rozanski-11>> verbindet mit dem Begriff *Perspektive* auch
+<<rozanski-11>> verbindet mit dem Begriff _Perspektive_ auch
 Aktivitäten, Taktiken und Richtlinien, die zu berücksichtigen sind,
 wenn ein System eine Reihe von zusammenhängenden
 Qualitätseigenschaften erfüllen soll, und schlägt folgende
 Perspektiven vor:
 
--   Zugänglichkeit
+* Zugänglichkeit
+* Verfügbarkeit und Resilienz
+* Entwicklungsressource
+* Weiterentwicklung
+* Internationalisierung
+* Standort
+* Performance und Skalierbarkeit
+* Regulierung
+* Sicherheit
+* Benutzerfreundlichkeit
 
--   Verfügbarkeit und Resilienz
-
--   Entwicklungsressource
-
--   Weiterentwicklung
-
--   Internationalisierung
-
--   Standort
-
--   Performance und Skalierbarkeit
-
--   Regulierung
-
--   Sicherheit
-
--   Benutzerfreundlichkeit
-
-
-// end::DE[] 
+// end::DE[]

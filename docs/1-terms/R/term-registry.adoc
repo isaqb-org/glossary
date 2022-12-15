@@ -4,8 +4,7 @@
 ==== Registry
 
 "A well-known object that other objects can use to find common objects and services." (quoted from
-  link:https://martinfowler.com/eaaCatalog/registry.html[PoEAA]). Often implemented as a _Singleton_ (also a
-    well-known design pattern.)
+link:https://martinfowler.com/eaaCatalog/registry.html[PoEAA]). Often implemented as a <<term-singleton,singleton>> (also a well-known design pattern).
 
 
 // end::EN[]
@@ -13,13 +12,13 @@
 // tag::DE[]
 ==== Registry
 
-„Sehr bekanntes Objekt, das andere Objekte nutzen können, um
+"Sehr bekanntes Objekt, das andere Objekte nutzen können, um
 gemeinsame Objekte und Dienste zu finden." (Übersetztes englisches
 Zitat
 link:https://martinfowler.com/eaaCatalog/registry.html[PoEAA]).
-Häufig als *Singleton* (auch ein bekanntes Entwurfsmuster)
+Häufig als <<term-singleton,Singleton>> (auch ein bekanntes Entwurfsmuster)
 implementiert.
 
 
 
-// end::DE[] 
+// end::DE[]

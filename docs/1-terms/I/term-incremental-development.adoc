@@ -3,16 +3,16 @@
 // tag::EN[]
 ==== Incremental Development
 
-see [_iterative and incremental development_](#term-iterative-and-incremental-development).
+See <<term-iterative-and-incremental-development,iterative and incremental development>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Inkrementelle Entwicklung
 
-Siehe [_iterative und inkrementelle Entwicklung_](#term-iterative-and-incremental-development).
+Siehe <<term-iterative-and-incremental-development,iterative und inkrementelle Entwicklung>>.
 
 
 
 
-// end::DE[] 
+// end::DE[]

@@ -6,7 +6,7 @@
 
 _Architecture Tradeoff Analysis Method_. Qualitative architecture evaluation method,
 based upon a (hierarchical) quality tree and concrete quality scenarios.
-Basic idea: Compare fine-grained quality scenarios ("quality-requirements")
+Basic idea: Compare fine-grained quality scenarios ("<<term-quality-requirement,quality-requirements>>")
 with the corresponding architectural approaches to identify risks and trade-offs.
 
 // end::EN[]
@@ -18,7 +18,7 @@ with the corresponding architectural approaches to identify risks and trade-offs
 _Architecture Tradeoff Analysis Method_. Qualitative
 Architekturbewertungsmethode, basierend auf einem (hierarchischen)
 Qualitätsbaum und konkreten Qualitätsszenarien. Grundidee: Vergleich
-feinkörniger Qualitätsszenarien („Qualitätsanforderungen") mit den
+feinkörniger Qualitätsszenarien ("<<term-quality-requirement,Qualitätsanforderungen>>") mit den
 entsprechenden Architekturansätzen zur Identifizierung von Risiken und
 Kompromissen.
 

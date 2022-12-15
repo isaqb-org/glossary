@@ -5,7 +5,6 @@
 
 Explanation of the reasoning or arguments that lie behind an architecture decision.
 
-
 // end::EN[]
 
 // tag::DE[]
@@ -15,5 +14,4 @@ Erläuterung der Argumentation oder Argumente,
 die einer Architekturentscheidung zugrunde liegen.
 
 
-
-// end::DE[] 
+// end::DE[]

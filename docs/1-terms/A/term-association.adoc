@@ -20,7 +20,7 @@ See <<term-coupling,coupling>>, <<term-dependency,dependency>> and
 
 Definiert eine Beziehung zwischen Objekten (im Allgemeinen zwischen
 Modulen). Jede Assoziation lässt sich durch Kardinalitäten und
-(Rollen-) Namen im Detail beschreiben.
+(Rollen-)Namen im Detail beschreiben.
 
 Siehe <<term-coupling,Kopplung>>, <<term-dependency,Abhängigkeit>> und
 <<term-relationship,Beziehung>>

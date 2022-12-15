@@ -9,7 +9,7 @@ assessing if a system or its architecture can meet the desired or required quali
 Instead of calculating or measuring certain characteristics of systems or architectures,
 qualitative evaluation is concerned with risks, trade-offs and sensitivity points.
 
-See also <<term-assessment,_assessment_>>.
+See also <<term-assessment,assessment>>.
 
 
 // end::EN[]
@@ -26,8 +26,8 @@ Statt mit der Berechnung oder Messung bestimmter Eigenschaften von
 Systemen oder Architekturen befasst sich die qualitative Bewertung mit
 Risiken, Kompromissen und Sensitivitätspunkten.
 
-Siehe auch <<term-assessment,*Beurteilung*>>.
+Siehe auch <<term-assessment,Beurteilung>>.
 
 
 
-// end::DE[] 
+// end::DE[]

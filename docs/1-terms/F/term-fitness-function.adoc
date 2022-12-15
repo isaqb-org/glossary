@@ -2,16 +2,16 @@
 
 // tag::EN[]
 ==== Fitness Function
-"An architectural fitness function provides an objective integrity assessment of some architectural characteristics." (<<ref-ford-2017,Ford+2017>>).
+"An architectural fitness function provides an objective integrity assessment of some architectural characteristics." (<<ref-ford-2017>>).
 
-A fitness function is derived from manual evaluations and automated tests and shows to which extent architectural or quality requirements are met. 
+A fitness function is derived from manual evaluations and automated tests and shows to which extent architectural or quality requirements are met.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Fitnessfunktion
-"Eine architektonische Fitnessfunktion bietet eine objektive Integritätsbewertung einiger architektonischer Merkmale." (<<ref-ford-2017,Ford+2017>>).
+"Eine architektonische Fitnessfunktion bietet eine objektive Integritätsbewertung einiger architektonischer Merkmale." (<<ref-ford-2017>>).
 
 Eine Fitnessfunktion wird aus manuellen Bewertungen und automatisierten Tests abgeleitet und zeigt, inwieweit die Architektur- oder Qualitätsanforderungen erfüllt werden.
 
-// end::DE[] 
+// end::DE[]

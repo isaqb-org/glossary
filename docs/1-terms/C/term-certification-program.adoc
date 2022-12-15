@@ -2,22 +2,17 @@
 
 // tag::EN[]
 ==== Certification Program
-The iSAQB(R) CPSA(R) certification program, including its organizational components, documents (training documents, contracts) and processes.
+The iSAQB® CPSA® certification program, including its organizational components, documents (training documents, contracts) and processes.
 
-The copyrighted abbreviation and term CPSA(R) means *Certified Professional for Software Architecture*.
+The copyrighted abbreviation and term CPSA® means *Certified Professional for Software Architecture*.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Zertifizierungsprogramm
 
-Das iSAQB(R)/CPSA(R)-Zertifizierungsprogramm einschließlich seiner
-organisatorischen Komponenten, Dokumente (Schulungsunterlagen,
-Verträge) und Prozesse.
+Das iSAQB® CPSA®-Zertifizierungsprogramm, einschließlich seiner organisatorischen Komponenten, Dokumente (Schulungsunterlagen, Verträge) und Prozesse.
 
-Die urheberrechtliche geschützte Abkürzung CPSA(R) steht für
-*Certified Professional for Software Architecture*.
+Die urheberrechtliche geschützte Abkürzung CPSA® steht für *Certified Professional for Software Architecture*.
 
-
-
-// end::DE[] 
+// end::DE[]

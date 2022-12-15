@@ -3,13 +3,12 @@
 // tag::EN[]
 ==== Encapsulation
 
-Encapsulation has two slightly distinct notions, and sometimes to the combination thereof:
+Encapsulation has two slightly distinct notions, and sometimes the combination thereof:
 
-  * restricting access to some of the object's components
-  * bundling of data with the methods or functions operating on that data
+* restricting access to some of the object's components
+* bundling of data with the methods or functions operating on that data
 
-  Encapsulation is a mechanism for <<term-information-hiding,information hiding>>.
-
+Encapsulation is a mechanism for <<term-information-hiding,information hiding>>.
 
 // end::EN[]
 
@@ -19,13 +18,9 @@ Encapsulation has two slightly distinct notions, and sometimes to the combinatio
 Kapselung bezeichnet zwei leicht unterschiedliche Konzepte und
 manchmal eine Kombination der beiden:
 
--   Einschränkung des Zugriffs auf einige Komponenten des Objekts
-
--   Bündelung von Daten mit Methoden oder Funktionen, die auf diese
-    Daten angewandt werden
+* Einschränkung des Zugriffs auf einige Komponenten des Objekts
+* Bündelung von Daten mit Methoden oder Funktionen, die auf diese Daten angewandt werden
 
 Kapselung ist ein Mechanismus zum <<term-information-hiding,Verbergen von Informationen>>.
 
-
-
-// end::DE[] 
+// end::DE[]

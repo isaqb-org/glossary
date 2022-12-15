@@ -11,12 +11,10 @@
 // tag::DE[]
 ==== Singleton
 
-„Entwurfsmuster, das die Instanziierung einer Klasse auf ein Objekt
+"Entwurfsmuster, das die Instanziierung einer Klasse auf ein Objekt
 beschränkt. Dies ist sinnvoll, wenn genau ein
 Objekt benötigt wird, um Aktionen im System zu koordinieren."
 (Übersetztes englisches Zitat aus
 link:https://en.wikipedia.org/wiki/Singleton_pattern[Wikipedia].)
 
-
-
-// end::DE[] 
+// end::DE[]

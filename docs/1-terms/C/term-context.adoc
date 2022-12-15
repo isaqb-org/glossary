@@ -10,12 +10,11 @@ Another definition from arc42:
 
 Distinguish between _business_ and _technical_ context:
 
-* The **business** context (formerly called _logical_ context) shows the external relationships from a business- or non-technical perspective. 
+* The **business** context (formerly called _logical_ context) shows the external relationships from a business- or non-technical perspective.
 It abstracts from technical, hardware or implementation details.
 Input-/Output relationships are named by their _business meaning_ instead of their technical properties.
-
-* The **technical** context shows technical details, like transmission channel, technical protocoll, IP-address, bus or similar hardware details. 
-Embedded systems, for example, often care for hardware-related information very early in development. 
+* The **technical** context shows technical details, like transmission channel, technical protocol, IP-address, bus or similar hardware details.
+Embedded systems, for example, often care for hardware-related information very early in development.
 
 
 // end::EN[]
@@ -23,7 +22,7 @@ Embedded systems, for example, often care for hardware-related information very 
 // tag::DE[]
 ==== Kontext (eines Systems)
 
-„Definiert die Beziehungen, Abhängigkeiten und Interaktionen zwischen
+"Definiert die Beziehungen, Abhängigkeiten und Interaktionen zwischen
 dem System und seiner Umgebung: Menschen, Systeme und externe
 Entitäten, mit denen es interagiert." (Übersetztes englisches Zitat
 aus link:https://www.viewpoints-and-perspectives.info/home/viewpoints/context/[Rozanski-Woods])
@@ -36,9 +35,8 @@ Unterscheide zwischen _geschäftlichem_ und _technischem_ Kontext:
 * Der **geschäftliche** Kontext (früher _logischer_ Kontext genannt) zeigt die externen Beziehungen aus einer geschäftlichen oder nicht-technischen Perspektive.
 Er abstrahiert von technischen, Hardware- oder Implementierungsdetails.
 Input-/Output-Beziehungen werden nach ihrer _geschäftlichen Bedeutung_ benannt und nicht nach ihren technischen Eigenschaften.
-
 * Der **technische** Kontext zeigt technische Details, wie Übertragungskanäle, technische Protokolle, IP-Adressen, Busse oder ähnliche Hardware-Details.
 Eingebettete Systeme zum Beispiel interessieren sich oft schon sehr früh in der Entwicklung für hardwarebezogene Informationen.
 
 
-// end::DE[] 
+// end::DE[]

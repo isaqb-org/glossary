@@ -2,9 +2,9 @@
 
 Here you find translations of the terms  between English and German (see below) and <<section-translations-DE-EN,German-to-English>> (next section).
 
-Several of these terms are based in the legal and organizational foundations of the iSAQB association (and therefore not related to software architecture).
+Several of these terms are based in the legal and organizational foundations of the iSAQB® association (and therefore not related to software architecture).
 
-The following translations are maintained[^generateTranslation] in a simple JSON input file, contained within this books' open source https://github.com/isaqb-org/glossary[Github repository].
+The following translations are maintained[^generateTranslation] in a simple JSON input file, contained within this books' open source https://github.com/isaqb-org/glossary[GitHub repository].
 
 [^generateTranslation]: The documentation found in https://github.com/isaqb-org/glossary contains all information required to generate the translation tables. Currently, only English and German are supported.
  The translation tables are maintained in JSON format, suggestions for improvements are highly welcome!
@@ -19,6 +19,8 @@ Please note: This translation table is not supposed to be complete, several Engl
 // end::EN[]
 
 // tag::DE[]
+
+// FIXME
 
 TODO
 // end::DE[]

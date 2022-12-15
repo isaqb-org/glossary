@@ -5,9 +5,6 @@
 
 See <<term-security-goals,Security Goals>>
 
-
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,7 +13,4 @@ See <<term-security-goals,Security Goals>>
 Siehe <<#term-security-goals,Schutzziele>>
 
 
-
-
-
-// end::DE[] 
+// end::DE[]

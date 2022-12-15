@@ -6,20 +6,15 @@ Degree of effectiveness and efficiency with which test criteria can be establish
 Is a sub-characteristic of: <<term-maintainability-quality-attribute,maintainability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-
-
 // end::EN[]
 
 // tag::DE[]
 ==== Qualitätsmerkmal Testbarkeit
 
-Maß an Effektivität und Effizienz mit dem Testkriterien für ein
+Maß an Effektivität und Effizienz, mit welchem Testkriterien für ein
 System, ein Produkt oder eine Komponente festgelegt und Tests
 durchgeführt werden können, um zu ermitteln, ob diese Kriterien
-erfüllt sind. Teilmerkmal von: <<term-maintainability-quality-attribute,Wartbarkeit>>. 
+erfüllt sind. Teilmerkmal von: <<term-maintainability-quality-attribute,Wartbarkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-
-
-
-// end::DE[] 
+// end::DE[]

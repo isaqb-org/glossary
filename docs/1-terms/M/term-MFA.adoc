@@ -5,8 +5,6 @@
 
 For Multi-Factor-Authentication see <<term-authentication,Authentication>>.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -14,6 +12,4 @@ For Multi-Factor-Authentication see <<term-authentication,Authentication>>.
 
 Für Multi-Faktor-Authentifizierung siehe <<term-authentication,Authentifizierung>>.
 
-
-
-// end::DE[] 
+// end::DE[]

@@ -5,9 +5,6 @@
 
 Correspondences can be governed by correspondence rules. Correspondence rules are used to enforce relations within an architecture description (or between architecture descriptions) (as defined in ISO/IEC/IEEE 42010).
 
-
-
-
 Synonym: <<term-integrity,Integrity>>, homogeneity, conceptual integrity.
 
 // end::EN[]
@@ -20,10 +17,7 @@ Korrespondenzregeln werden genutzt, um Beziehungen innerhalb einer
 Architekturbeschreibung (oder zwischen Architekturbeschreibungen)
 durchzusetzen (gemäß Definition in ISO/IEC/IEEE 42010).
 
+Synonym: <<term-integrity,Integrität>>, Homogenität, konzeptionelle Integrität.
 
 
-Synonym: <<term-integrity,Integrität>>,
-Homogenität, konzeptionelle Integrität.
-
-
-// end::DE[] 
+// end::DE[]

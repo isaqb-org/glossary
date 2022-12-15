@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Heuristic
 
-Informal rule, rule-of-thumb. Any way of problem solving not guaranteed to be optimal,
+Informal rule, rule-of-thumb. Any way of problem-solving not guaranteed to be optimal,
 but somehow sufficient. Examples from link:http://www.vincehuston.org/ood/oo_design_heuristics.html[Object-Oriented Design] or link:https://www.nngroup.com/articles/ten-usability-heuristics/[User Interface Design].
 
 // end::EN[]
@@ -13,11 +13,10 @@ but somehow sufficient. Examples from link:http://www.vincehuston.org/ood/oo_des
 
 Informelle Regel, Faustformel. Möglichkeit zur Problemlösung, die
 nicht mit Sicherheit optimal, aber in gewisser Weise ausreichend ist.
-Beispiele aus dem link:http://www.vincehuston.org/ood/oo_design_heuristics.html[Objektorientierten
-Entwurf]
+Beispiele aus dem link:http://www.vincehuston.org/ood/oo_design_heuristics.html[objektorientierten Entwurf]
 oder
 link:https://www.nngroup.com/articles/ten-usability-heuristics/[Benutzeroberflächenentwurf].
 
 
 
-// end::DE[] 
+// end::DE[]

@@ -21,6 +21,4 @@ einzubetten, ohne den Inhalt dieser einzelnen Dateien vorzugeben.
 
 Ein sehr bekanntes Template ist link:https://www.arc42.de/[arc42]
 
-
-
-// end::DE[] 
+// end::DE[]

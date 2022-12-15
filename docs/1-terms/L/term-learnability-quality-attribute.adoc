@@ -6,8 +6,6 @@ Degree to which a product or system can be used by specified users to achieve sp
 Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -21,8 +19,4 @@ Teilmerkmal von:
 <<term-usability-quality-attribute,Benutzerfreundlichkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

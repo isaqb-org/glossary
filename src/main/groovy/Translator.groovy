@@ -239,7 +239,7 @@ class Translator {
     }
 
     static void main(String... args) {
-        println("\n\niSAQB Glossary Translation AsciiDoc Generator\n\n")
+        println("\n\niSAQB® Glossary Translation AsciiDoc Generator\n\n")
 
         def terms = parseFile(translationJSONSourceFile)
         if (isItCompliantToRules(terms)) {
