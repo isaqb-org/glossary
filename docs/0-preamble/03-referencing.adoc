@@ -15,3 +15,21 @@ Nearly all terms are hyperlinked with their full names, with very few examples t
 
 // end::EN[]
 
+
+// tag::DE[]
+
+=== Begriffe können referenziert werden
+Alle Begriffe im Glossar haben eindeutige URLs auf die kostenlose Onlineversion des Buches. Daher können Sie durchgängig referenziert werden, in Onlinemedien wie auch in Printmedien.
+
+Das Schema der URL ist sehr einfach:
+
+* Die Basis-URL ist `https://public.isaqb.org/glossary/glossary-de.html`
+* Wir fügen anschließend das Prefix `#term-` vor dem jeweiligen Begriff ein, der referenziert werden soll, dann den Begriff selbst, mit Bindestrichen anstelle von Leerzeichen. Allerdings ist es hierfür notwendig, den englischen Begriff zu kennen, da dieser als Anker verwendet wird.
+
+Beispiel: Unsere Beschreibung des Begriffs "Softwarearchitektur" kann wie folgt mit einem Link referenziert werden:
+`https://public.isaqb.org/glossary/glossary-de.html#term-software-architecture`
+
+Fast alle Begriffe sind über ihren vollen Namen verlinkt, nur ein paar Ausnahmen werden über ihre (gängigen) Abkürzungen verlinkt, wie etwa UML oder DDD.
+
+// end::DE[]
+
