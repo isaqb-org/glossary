@@ -7,7 +7,6 @@ Is a sub-characteristic of: <<term-reliability-quality-attribute,reliability>>.
 Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
 
 
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,11 +15,8 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 Maß, in dem ein Produkt oder System im Falle einer Unterbrechung oder
 eines Fehlers die direkt betroffenen Daten und den gewünschten
 Systemstatus wiederherstellen kann. Teilmerkmal von:
-<<term-reliability-quality-attribute,Zuverlässigkeit>>. 
+<<term-reliability-quality-attribute,Zuverlässigkeit>>.
 Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
 
 
-
-
-
-// end::DE[] 
+// end::DE[]

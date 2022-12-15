@@ -5,9 +5,6 @@
 
 See <<term-entropy,Entropy>> or <<term-pseudo-randomness,Pseudo-Randomness>>.
 
-
-
-
 // end::EN[]
 
 // tag::DE[]
@@ -16,8 +13,4 @@ See <<term-entropy,Entropy>> or <<term-pseudo-randomness,Pseudo-Randomness>>.
 Siehe <<term-entropy,Entropie>> oder
 <<term-pseudo-randomness,Pseudo-Zufälligkeit>>.
 
-
-
-
-
-// end::DE[] 
+// end::DE[]

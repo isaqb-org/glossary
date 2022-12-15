@@ -4,8 +4,8 @@
 ==== Repository
 
 In architecture documentation: A place where artifacts are stored before an automatic build process collects them into one consistent document.
-In <<term-DDD,Domain-Driven Design>>: Repository is a building block of <<term-DDD,Domain-Driven Design>>. A repository hides technical details of the infrastructure layer to the domain layer. Repositories return <<term-entity,entities>> that are persisted in the database.
 
+In <<term-DDD,domain-driven design>>: Repository is a building block of <<term-DDD,domain-driven design>>. A repository hides technical details of the infrastructure layer to the domain layer. Repositories return <<term-entity,entities>> that are persisted in the database.
 
 // end::EN[]
 
@@ -14,12 +14,11 @@ In <<term-DDD,Domain-Driven Design>>: Repository is a building block of <<term-D
 
 In der Architekturdokumentation: Ort, an dem Artefakte gespeichert
 werden, ehe sie durch einen automatischen Prozess zu einem
-konsistenten Dokument zusammengestellt werden. Im 
-<<term-DDD,Domain-Driven Design>>: 
-Die Ablage ist ein Baustein des <<term-DDD,Domain-Driven Designs>>. Eine Ablage verbirgt technische Details der
-Infrastrukturschicht vor der Domänenschicht. Ablagen geben
-<<term-entity,Entitäten>> zurück, die in der
-Datenbank bestehen.
+konsistenten Dokument zusammengestellt werden.
+
+Im <<term-DDD,Domain-driven Design>>:
+Die Ablage ist ein Baustein des <<term-DDD,Domain-Driven Designs>>. Eine Ablage verbirgt technische Details der Infrastrukturschicht vor der Domänenschicht. Ablagen geben
+<<term-entity,Entitäten>> zurück, die in der Datenbank bestehen.
 
 
-// end::DE[] 
+// end::DE[]

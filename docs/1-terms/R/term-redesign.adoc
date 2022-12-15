@@ -4,15 +4,14 @@
 ==== Redesign
 The alteration of software units in such a way that they fulfill a similar purpose as before, but in a different manner and possibly by different means. Often mistakenly called refactoring.
 
-
 // end::EN[]
 
 // tag::DE[]
 ==== Redesign
 
-Die Veränderung von Softwareeinheiten, so dass sie den gleichen Zweck
+Die Veränderung von Softwareeinheiten, sodass sie den gleichen Zweck
 wie zuvor erfüllen, jedoch auf andere Weise und gegebenenfalls mit
 anderen Mitteln. Häufig fälschlicherweise Refactoring genannt.
 
 
-// end::DE[] 
+// end::DE[]
