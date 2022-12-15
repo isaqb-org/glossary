@@ -20,9 +20,9 @@ signatures.
 
 // tag::DE[]
 
-==== Asymmetrische Kryptographie
+==== Asymmetrische Kryptografie
 
-Algorithmen der asymmetrischen Kryptographie sind so ausgelegt, dass
+Algorithmen der asymmetrischen Kryptografie sind so ausgelegt, dass
 zur Verschlüsselung und zur Entschlüsselung unterschiedliche Schlüssel
 verwendet werden. Der Schlüssel für die Verschlüsselung wird
 "öffentlicher Schlüssel" genannt und der Schlüssel für die
@@ -32,7 +32,7 @@ Informationen verwendet werden; diese können nur von der Partei, die
 im Besitz des privaten Schlüssels für die Entschlüsselung ist, gelesen
 werden. Siehe <<schneier-96>>.
 
-Asymmetrische Kryptographie ist die Grundlage für <<term-pki,PKI>>
+Asymmetrische Kryptografie ist die Grundlage für <<term-pki,PKI>>
 und digitale Signaturen.
 
 

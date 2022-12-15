@@ -19,7 +19,7 @@ intensive.
 
 Häufig in Verbindung mit Pseudozufallszahlengeneratoren verwendet. Die
 Erzeugung von Zufälligkeit mit hoher <<term-entropy,Entropie>> ist
-ressourcenintensiv und, abgesehen von Kryptographie, nicht für viele
+ressourcenintensiv und, abgesehen von Kryptografie, nicht für viele
 Anwendungen erforderlich. Zur Behebung dieses Problems werden
 Pseudozufallszahlengeneratoren mit einen Daten-Startwert initialisiert
 und erzeugen basierend auf diesem Startwert zufällige Werte. Die Daten

@@ -19,9 +19,9 @@ PKI is usually based on a <<term-ca,CA>> or a <<term-web-of-trust,Web-of-Trust>>
 
 Abkürzung von **Public-Key-Infrastruktur**. Ein Konzept zum Management
 von digitalen Zertifikaten, das üblicherweise [asymmetrische
-Kryptographie](#term-asymmetric-cryptography) nutzt. Der Begriff "public" (öffentlich)
+Kryptografie](#term-asymmetric-cryptography) nutzt. Der Begriff "public" (öffentlich)
 bezieht sich zumeist auf die Art des verwendeten
-Kryptographieschlüssels und nicht notwendigerweise auf eine öffentlich
+Kryptografieschlüssels und nicht notwendigerweise auf eine öffentlich
 zugängliche Infrastruktur. Zur Vermeidung von Begriffsverwirrungen
 kann "offene PKI" oder "geschlossene PKI" verwendet werden, vgl.
 <<ref-anderson-2008>> Kapitel 21.4.5.7 PLI, Seite 672.
