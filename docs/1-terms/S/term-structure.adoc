@@ -24,9 +24,7 @@ in einem System. Strukturen bestehen aus Bausteinen
 
 In der Softwarearchitektur werden Strukturen häufig in
 <<term-architecture-view,Architektursichten>>, z.B. der
-<<term-building-block-view,Bausteinsicht>> verwendet. Ein Dokumentationstemplate
+<<term-building-block-view,Bausteinsicht>>, verwendet. Ein Dokumentationstemplate
 (z.B. <<term-arc42,arc42>>) ist auch eine Art Struktur.
-
-
 
 // end::DE[]

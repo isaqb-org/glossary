@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Stable Abstractions Principle
 
-A fundamental principle for designing the structure of software systems (also see <<term-package-principles,Package Principles>>). It demands that the abstractness of components is proportional to their stability. The closely related <<term-stable-dependencies-principle,SDP>> also explains the notion of *stability* in this context.
+A fundamental principle for designing the structure of software systems (also see <<term-package-principles,package principles>>). It demands that the abstractness of components is proportional to their stability. The closely related <<term-stable-dependencies-principle,SDP>> also explains the notion of **stability** in this context.
 
 We want components that represent abstract concepts and responsibilities to require little or no modification because many conceptually more specific (concrete) components depend on them. And we want components that should or could not easily change to be at least abstract enough so we can extend them. This relates to the <<term-open-close-principle,OCP>>.
 
@@ -46,10 +46,8 @@ des <<term-dependency-inversion,DIP>>: Spezifische Konzepte hängen natürlich v
 *abstrakteren* ab, da sie aus universaleren Bausteinen bestehen oder
 davon abgeleitet sind. Und abhängige Konzepte sind natürlich
 *spezifischer*, weil sie durch mehr Informationen als ihre
-Abhängigkeiten definiert sind (vorausgesetzt es gibt 
+Abhängigkeiten definiert sind (vorausgesetzt es gibt
 <<term-acyclic-dependencies-principle,keine Abhängigkeitszyklen>>).
 
 
-
-
-// end::DE[] 
+// end::DE[]

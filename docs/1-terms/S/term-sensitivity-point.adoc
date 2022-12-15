@@ -9,7 +9,6 @@ For example, if one component is responsible for both runtime performance _and_ 
 
 Casually said, if you mess up a sensitivity point, you will most often have more than one problem.
 
-
 // end::EN[]
 
 // tag::DE[]
@@ -17,13 +16,11 @@ Casually said, if you mess up a sensitivity point, you will most often have more
 
 (In der qualitativen Bewertung, wie ATAM): Element des
 Architektursystems, das mehrere Qualitätsmerkmale beeinflusst. Wenn
-beispielsweise eine Komponente sowohl für die Laufzeitleistung *als
-auch* die Robustheit verantwortlich ist, ist diese Komponente ein
+beispielsweise eine Komponente _sowohl_ für die Laufzeitleistung _als
+auch_ die Robustheit verantwortlich ist, ist diese Komponente ein
 Sensitivitätspunkt.
 
 Salopp gesagt, wenn man einen Sensitivitätspunkt in den Sand setzt,
 hat man zumeist mehr als ein Problem.
 
-
-
-// end::DE[] 
+// end::DE[]

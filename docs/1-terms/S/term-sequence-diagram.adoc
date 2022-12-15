@@ -9,7 +9,7 @@ between elements. As parallel vertical lines it shows
 the lifespan of objects or components, horizontal lines
 depict interactions between these components. See the following example.
 
-.[Example of Sequence Diagram]
+.Example of Sequence Diagram
 image::sequence-diagram-sample.png
 
 // end::EN[]
@@ -24,8 +24,7 @@ vertikalen Linien stellen die Lebensspanne von Objekten oder
 Komponenten dar, und die horizontalen Linien zeigen die Interaktionen
 zwischen diesen Komponenten. Siehe folgendes Beispiel.
 
-.[Beispiel eines Sequenzdiagramms]
+.Beispiel eines Sequenzdiagramms
 image::sequence-diagram-sample.png
 
-
-// end::DE[] 
+// end::DE[]
