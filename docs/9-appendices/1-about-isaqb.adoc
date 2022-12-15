@@ -3,7 +3,7 @@
 // tag::EN[]
 === The iSAQB® e.{nbsp}V. Association
 
-The International Software Architecture Qualification Board  (iSAQB® e.{nbsp}V., http://isaqb.org) is a non-profit organization with members from industry, development and consulting firms,  education, academia and other organizations.
+The International Software Architecture Qualification Board (iSAQB® e.{nbsp}V., http://isaqb.org) is a non-profit organization with members from industry, development and consulting firms, education, academia and other organizations.
 
 It is established as an _association_ (e.{nbsp}V.) according to German law with the following objectives:
 
@@ -14,7 +14,7 @@ It is established as an _association_ (e.{nbsp}V.) according to German law with 
 
 iSAQB® defines and prescribes training and examination regulations, but does not carry out any training or examinations itself. iSAQB® trainings are carried out by (licensed) training and examination organizations.
 
-iSAQB® monitors and audits the quality of these trainings and  all associated processes (e.g. certification procedures).
+iSAQB® monitors and audits the quality of these trainings and all associated processes (e.g. certification procedures).
 
 // end::EN[]
 

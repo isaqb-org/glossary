@@ -1,7 +1,7 @@
 [#term-building-block]
 
 // tag::EN[]
-====  Building Block
+==== Building Block
 
 General or abstract term for all kinds of artifacts from which software is constructed.
 Part of the statical structure (<<term-building-block-view,Building Block View>>)
@@ -16,7 +16,7 @@ Component, module, package, namespace, class, file, program, subsystem, function
 // end::EN[]
 
 // tag::DE[]
-====  Baustein
+==== Baustein
 
 Allgemeiner oder abstrakter Begriff für alle Arten von Artefakten, aus
 denen Software aufgebaut ist. Teil der statischen Struktur

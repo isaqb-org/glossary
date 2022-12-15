@@ -1,7 +1,7 @@
 [#term-c4-model]
 
 // tag::EN[]
-====  C4 Model
+==== C4 Model
 The link:https://c4model.com/[C4 Model for Software Architecture Documentation]
 was developed by Simon Brown.
 It consists of a hierarchical set of software architecture diagrams for context, containers, components, and code.
@@ -19,4 +19,4 @@ Es besteht aus einer hierarchischen verknüpften Menge an Softwarearchitekturdia
 Die Hierarchie der C4 Diagramme stellt verschiedene Abstraktionslevel bereit, wobei jedes ist für andere Leser relevant ist.
 
 
-// end::DE[] 
+// end::DE[]

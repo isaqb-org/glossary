@@ -28,8 +28,8 @@ Wrapper fügen zusätzliche Verantwortlichkeiten dynamisch zu einem Objekt hinzu
 ====
 Anmerkung (Gernot Starke)
 
-Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff  finden, spielen im realen Leben häufig keine Rolle.
-Das _Wrapping_  einer Komponente oder eines Bausteins muss in einem einzelnen Softwaresystem eine klare Bedeutung haben.
+Die winzigen Unterschiede, die sich in der Literatur zu diesem Begriff finden, spielen im realen Leben häufig keine Rolle.
+Das _Wrapping_ einer Komponente oder eines Bausteins muss in einem einzelnen Softwaresystem eine klare Bedeutung haben.
 ====
 
 // end::DE[]

@@ -1,7 +1,7 @@
 [#term-building-block-view]
 
 // tag::EN[]
-====  Building Block View
+==== Building Block View
 
 Shows the statical structure of the system,
 how its source code is organized.
@@ -11,7 +11,7 @@ Complemented by one or several [<<term-runtime-view,runtime views>>].
 // end::EN[]
 
 // tag::DE[]
-====  Bausteinsicht
+==== Bausteinsicht
 
 Zeigt die statische Struktur des Systems, die Organisationsweise des
 Quellcodes. Üblicherweise hierarchisch, ausgehend von der

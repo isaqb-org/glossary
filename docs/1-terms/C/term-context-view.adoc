@@ -4,7 +4,7 @@
 ==== Context View
 
 Shows the complete system as one <<term-blackbox,blackbox>> within its environment. This can be done from a business perspective (<<term-business-context,_business context_>>) and/or from a technical or deployment perspective (<<term-technical-context,_technical context_>>).
-The context view (or context diagram) shows the boundary between a system  and its environment, showing the entities in its environment (its neighbors) with which it interacts.
+The context view (or context diagram) shows the boundary between a system and its environment, showing the entities in its environment (its neighbors) with which it interacts.
 
 Neighbors can either be other software, hardware (like sensors), humans, user-roles or even organizations using the system.
 

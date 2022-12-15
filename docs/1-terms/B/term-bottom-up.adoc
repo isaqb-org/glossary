@@ -1,7 +1,7 @@
 [#term-bottom-up]
 
 // tag::EN[]
-====  Bottom-Up Approach
+==== Bottom-Up Approach
 
 Direction of work (or strategy of processing) for modeling and design.
 Starting with something detailed or concrete,
@@ -14,7 +14,7 @@ These elements are then linked together to form larger subsystems." (quote from 
 // end::EN[]
 
 // tag::DE[]
-====  Bottom-up-Ansatz
+==== Bottom-up-Ansatz
 
 Arbeitsrichtung (oder Bearbeitungsstrategie) für Modellierung und
 Entwurf. Ausgehend von detaillierten oder konkreten Aspekten wird auf

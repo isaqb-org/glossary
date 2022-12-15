@@ -39,7 +39,7 @@ public class Horse implements Animal {
 Mehrere Bedeutungen, je nach Kontext:
 
 1. Grenze, über die zwei Bausteine hinweg interagieren oder miteinander kommunizieren.
-2. Entwurfskonstrukt, welches eine Abstraktion des Verhaltens konkreter Komponenten bereitstellt und mögliche Interaktionen sowie Einschränkungen für die Interaktionen mit diesen Komponenten  deklariert.
+2. Entwurfskonstrukt, welches eine Abstraktion des Verhaltens konkreter Komponenten bereitstellt und mögliche Interaktionen sowie Einschränkungen für die Interaktionen mit diesen Komponenten deklariert.
 
 Ein Beispiel für die zweite Bedeutung ist das Programmiersprachenkonstrukt Interface aus der objektorientierten Sprache Java(tm):
 

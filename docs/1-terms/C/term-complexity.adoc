@@ -23,8 +23,8 @@ o.Ä. mit vielen Teilen, in dem diese Teile auf unterschiedliche Weise
 miteinander interagieren, verwendet." (Übersetztes englisches Zitat
 aus Wikipedia.)
 
--   _Essenzielle_ Komplexität ist der Kern des Problems, das es zu lösen gilt, und besteht aus den Teilen der Software, die wirklich schwierige Probleme sind. Den meisten Softwareproblemen wohnt eine gewisse Komplexität inne.
--  _Akzidentelle_ Komplexität ist alles, was sich nicht notwendigerweise direkt auf die Lösung bezieht, mit dem wir uns aber dennoch befassen müssen.
+- _Essenzielle_ Komplexität ist der Kern des Problems, das es zu lösen gilt, und besteht aus den Teilen der Software, die wirklich schwierige Probleme sind. Den meisten Softwareproblemen wohnt eine gewisse Komplexität inne.
+- _Akzidentelle_ Komplexität ist alles, was sich nicht notwendigerweise direkt auf die Lösung bezieht, mit dem wir uns aber dennoch befassen müssen.
 
 (Übersetztes englisches Zitat von link:http://codebetter.com/markneedham/2010/03/18/essential-and-accidental-complexity/[Mark Needham])
 
