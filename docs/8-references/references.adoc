@@ -96,7 +96,7 @@ Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
 - [[[posa2, Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.]]] Pattern-Oriented Software Architecture, volume 2: _Patterns for Concurrent and Networked Objects_, Wiley & Sons, 2000
 
-- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons.  Comprehensive suervey of modern cryptography.
+- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons.  Comprehensive survey of modern cryptography.
 
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 

@@ -8,7 +8,7 @@ The International Software Architecture Qualification Board  (iSAQB® e.V., http
 It is established as an _association_ (e.V.) according to German law with the following objectives:
 
 * Creating and maintaining consistent *curricula* for software architects.
-* *Defining certification examinations* based upon the various CPSA curricula
+* *Defining certification examinations* based upon the various CPSA® curricula
 * *Ensuring high quality of teaching* for software architects
 * Ensuring a high quality of its software architecture certifications
 
