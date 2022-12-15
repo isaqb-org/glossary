@@ -6,7 +6,7 @@
 Standards to describe (and evaluate) _software product quality_.
 "The quality model determines which quality characteristics will be taken into account when evaluating the properties of a software product." (quote from the link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO website])
 
-For a list of quality attributes defined by the ISO 25010 standard, refer to <<term-iso-25010,ISO 25010>>
+For a list of quality attributes defined by the ISO 25010 standard, refer to <<ref-iso-25010>>
 
 // end::EN[]
 
@@ -20,6 +20,6 @@ werden. (Übersetztes englisches Zitat von der
 link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO-Website])
 
 Eine Liste der in der ISO 25010 Norm definierten Qualitätsmerkmale
-findet sich unter <<term-iso-25010,ISO 25010>>.
+findet sich unter <<ref-iso-25010>>.
 
 // end::DE[]
