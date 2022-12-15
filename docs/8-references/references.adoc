@@ -72,7 +72,7 @@ Prentice Hall, 2003
 
 - [[[martin-solid, SOLID-principles]]] Martin, Robert: SOLID-principles.
 S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin.
-Some of the original papers have been moved around onto various locations - see https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+Some original papers have been moved around onto various locations - see link:https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)[Wikipedia]
 
 - [[[ref-mcgraw-2006, McGraw-2006]]] Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
 Covering the whole process of software design from a security perspective by the means of risk management, code reviews, risk analysis, penetration testing, security testing abuse case development.

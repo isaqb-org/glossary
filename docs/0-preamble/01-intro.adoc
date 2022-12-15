@@ -17,6 +17,6 @@ Finally, this book contains numerous <<section-references,references>> to books 
 This book is work in progress.
 ====
 
-Errors or omissions can also be reported in our issue tracker on https://github.com/isaqb-org/glossary/issues[Github], where the authors maintain the original sources for this book.
+Errors or omissions can also be reported in our issue tracker on link:https://github.com/isaqb-org/glossary/issues[GitHub], where the authors maintain the original sources for this book.
 
 // end::EN[]

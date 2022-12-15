@@ -9,7 +9,7 @@
 In case find errors, omissions or typos, or want to contribute additional content -
 please feel free to do this via one of the following ways:
 
-1. Open an issue in our https://github.com/isaqb-org/glossary/issues[Github repository]
+1. Open an issue in our https://github.com/isaqb-org/glossary/issues[GitHub repository]
 2. Fork the repository and create a pull request.
 3. Write an email to the authors,
 
