@@ -1,10 +1,12 @@
 [#term-workflow-management-system]
 
+// FIXME Source?
+
 // tag::EN[]
 
 ==== Workflow Management System (WFMS)
 
-&quot;Provides an infrastructure for the set-up, performance and monitoring of a defined sequence of tasks, arranged as a workflow.&quot;
+"Provides an infrastructure for the set-up, performance and monitoring of a defined sequence of tasks, arranged as a workflow."
 (quoted from Wikipedia)
 
 // end::EN[]
@@ -13,8 +15,7 @@
 
 ==== Workflow-Management-System (WFMS)
 
-&quot;Bietet eine Infrastruktur für die Einrichtung, Durchführung und Überwachung einer festgelegten Abfolge von Aufgaben in Form eines Workflows.
-&quot; (Übersetztes englisches Zitat aus
+"Bietet eine Infrastruktur für die Einrichtung, Durchführung und Überwachung einer festgelegten Abfolge von Aufgaben in Form eines Workflows." (Übersetztes englisches Zitat aus
 Wikipedia)
 
-// end::DE[] 
+// end::DE[]

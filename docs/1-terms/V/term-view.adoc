@@ -4,7 +4,7 @@
 
 ==== View
 
-see: <<term-architecture-view,architecture view>>
+See <<term-architecture-view,architecture view>>.
 
 // end::EN[]
 
@@ -12,6 +12,6 @@ see: <<term-architecture-view,architecture view>>
 
 ==== Sicht
 
-Siehe: <<term-architecture-view,Architektursicht>>
+Siehe <<term-architecture-view,Architektursicht>>.
 
-// end::DE[] 
+// end::DE[]

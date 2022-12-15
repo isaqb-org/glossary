@@ -9,28 +9,22 @@ secure the communication of two partys by the means of the
 It is widely used for secure communication on the internet and the foundation for HTTPS.
 
 TLS started as an update to its predecessor SSL (Secure Socket Layer) Version
-3.0 and should be used now instead of SSL 
+3.0 and should be used now instead of SSL
 link:https://www.rfc-editor.org/rfc/rfc7568[see RFC7568 "Deprecating Secure Sockets Layer Version 3.0"].
-
-
-
 
 // end::EN[]
 
 // tag::DE[]
 ==== TLS
 
-Transport-Layer-Security (Transportschichtsicherheit)
-bezeichnet eine Reihe von Protokollen zum kryptographischen Schutz der
+**T**ransport-**L**ayer-**S**ecurity (Transportschichtsicherheit)
+bezeichnet eine Reihe von Protokollen zum kryptografischen Schutz der
 Kommunikation von zwei Parteien mit den Mitteln der
 <<term-cia-triad,CIA-Triade>>. Es wird sehr häufig zur sicheren
 Kommunikation im Internet genutzt und bildet die Grundlage für HTTPS.
 
 TLS begann als Update seines Vorgängers SSL (Secure Socket Layer)
-Version 3.0 und sollte nun statt SSL verwendet werden 
-link:https://www.rfc-editor.org/rfc/rfc7568[siehe RFC7568 „Deprecating Secure Sockets Layer Version 3.0"].
+Version 3.0 und sollte nun statt SSL verwendet werden
+link:https://www.rfc-editor.org/rfc/rfc7568[siehe RFC7568 "Deprecating Secure Sockets Layer Version 3.0"].
 
-
-
-
-// end::DE[] 
+// end::DE[]

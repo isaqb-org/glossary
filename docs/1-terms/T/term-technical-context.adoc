@@ -3,12 +3,11 @@
 // tag::EN[]
 ==== Technical Context
 
-Shows the complete system as one <<term-blackbox,blackbox>> within its environment from a technical or deployment perspective. 
+Shows the complete system as one <<term-blackbox,blackbox>> within its environment from a technical or deployment perspective.
 This includes, in particular, technical interfaces and communication channels as well as the relevant technical details of the neighboring systems.
-The technical context thus supplements the (business context)(#term-business-context)) by mapping domain-specific interactions with neighboring systems to e.g. specific communication channels and technical protocols.
+The technical context thus supplements the <<term-business-context,business context>> by mapping domain-specific interactions with neighboring systems to e.g. specific communication channels and technical protocols.
 
-See <<term-context-view,Context View>>.
-
+See <<term-context-view,context view>>.
 
 // end::EN[]
 
@@ -17,9 +16,9 @@ See <<term-context-view,Context View>>.
 
 Zeigt das vollständige System als eine <<term-blackbox,Blackbox>> innerhalb seiner Umgebung aus einer technischen bzw. Verteilungsperspektive.
 Dazu gehören insbesondere technische Schnittstellen und Kommunikationskanäle sowie die relevanten technischen Details der Nachbarsysteme.
-Damit ergänzt der technische Kontext den (fachlicher Kontext)(#term-business-context)) um die Zuordnung der fachlichen Interaktionen mit Nachbarsystemen zu z. B. spezifischen Kommunikationskanälen und technischen Protokollen.
+Damit ergänzt der technische Kontext den <<term-business-context,fachlichen Kontext>> um die Zuordnung der fachlichen Interaktionen mit Nachbarsystemen zu z. B. spezifischen Kommunikationskanälen und technischen Protokollen.
 
 Siehe <<term-context-view,Kontextabgrenzung>>.
 
 
-// end::DE[] 
+// end::DE[]
