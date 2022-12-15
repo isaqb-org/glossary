@@ -2,7 +2,7 @@
 
 === License
 
-image:0-preamble/cc-by.png[]
+image::0-preamble/cc-by.png[]
 
 This book is licensed under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
 The following is only a brief summary and no substitution for the real license.
