@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Observer
 
-(Design pattern) "...  in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods." (quoted from link:https://en.wikipedia.org/wiki/Observer_pattern[Wikipedia])
+(Design pattern) "... in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods." (quoted from link:https://en.wikipedia.org/wiki/Observer_pattern[Wikipedia])
 
 The Observer pattern is a key pattern to complement the <<term-model-view-controller,model-view-controller (MVC)>> architectural pattern.
 

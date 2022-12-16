@@ -11,20 +11,20 @@ Definition quoted from link:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspec
 (National Institute of Standards and Technology).
 
 The NIST definition contains the following five characteristics (quoted but abbreviated
-  from the aforementioned NIST source too):
+ from the aforementioned NIST source too):
 
-* On-demand self-service: A  consumer can unilaterally provision computing
-capabilities, such as server  time  and  network  storage,
-without  requiring  human interaction with each service provider.
+* On-demand self-service: A consumer can unilaterally provision computing
+capabilities, such as server time and network storage,
+without requiring human interaction with each service provider.
 * Broad network access: Capabilities are available over the network and
-accessed through standard mechanisms  that  promote  use  by  heterogeneous
+accessed through standard mechanisms that promote use by heterogeneous
 client  platforms.
-* Resource pooling: The  provider’s  computing  resources  are  pooled  to  serve
-multiple consumers using  a  multi-tenant  model,  with  different  physical  and
+* Resource pooling: The provider’s computing resources are pooled to serve
+multiple consumers using a multi-tenant model, with different physical and
 virtual resources dynamically assigned and reassigned according to consumer demand.
 There is location independence in that the customer generally has no control or
 knowledge over the exact location of the provided resources but may be able to
-specify location at a higher level of abstraction  (e.g.,  country,  state,  or  datacenter).
+specify location at a higher level of abstraction (e.g., country, state, or datacenter).
 Examples of resources include storage, processing, memory, and network bandwidth.
 * Rapid elasticity: Capabilities can be elastically provisioned and released,
 in some cases automatically, to scale rapidly commensurate with demand.

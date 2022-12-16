@@ -1,7 +1,7 @@
 [#term-broker]
 
 // tag::EN[]
-====  Broker
+==== Broker
 
 An architecture pattern used to structure distributed software systems with decoupled
 components that interact by (usually remote) service invocations.
@@ -12,7 +12,7 @@ as well as for transmitting results and exceptions.
 // end::EN[]
 
 // tag::DE[]
-====  Broker
+==== Broker
 
 Ein Architekturmuster zur Strukturierung von verteilten
 Softwaresystemen mit entkoppelten Komponenten, die über (üblicherweise

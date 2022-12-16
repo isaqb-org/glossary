@@ -6,8 +6,8 @@
 (command query responsibility segregation): Separate the elements manipulating
 (_command_) data from those just reading (_query_). This separation enables
 different optimization strategies for reading and writing data (for example,
-  it's much easier to cache data that's read-only than to cache data that's
-  also altered.)
+ it's much easier to cache data that's read-only than to cache data that's
+ also altered.)
 
 There's an interesting link:https://leanpub.com/cqrs[eBook by Mark Nijhof]
 on this subject.
@@ -30,4 +30,4 @@ Es gibt ein interessantes link:https://leanpub.com/cqrs[eBook von Mark Nijhof] z
 
 
 
-// end::DE[] 
+// end::DE[]

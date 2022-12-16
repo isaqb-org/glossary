@@ -1,7 +1,7 @@
 [#term-bridge]
 
 // tag::EN[]
-====  Bridge
+==== Bridge
 
 Design pattern in which an abstraction is decoupled from its implementation,
 so that the two can vary independently. In case you find that incomprehensible
@@ -14,7 +14,7 @@ link:https://www.cs.sjsu.edu/~pearce/modules/patterns/platform/bridge/index.htm[
 // end::EN[]
 
 // tag::DE[]
-====  Brücke
+==== Brücke
 
 Entwurfsmuster, bei dem eine Abstraktion von ihrer Implementierung
 entkoppelt ist, sodass beide unabhängig voneinander variieren können.

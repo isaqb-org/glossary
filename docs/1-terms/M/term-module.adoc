@@ -6,14 +6,14 @@
 (see also <<term-modular-programming,Modular programming>>)
 
 1. structural element or building block, usually regarded as a _black box_ with
-  a clearly defined responsibility. It encapsulates data and code and
-  provides public interfaces, so clients can access its functionality.
-  This meaning has first been
-  described in a groundbreaking and fundamental paper from David L. Parnas:
-  link:http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf[On the Criteria to be Used in Decomposing Software into Modules]
+ a clearly defined responsibility. It encapsulates data and code and
+ provides public interfaces, so clients can access its functionality.
+ This meaning has first been
+ described in a groundbreaking and fundamental paper from David L. Parnas:
+ link:http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf[On the Criteria to be Used in Decomposing Software into Modules]
 2. In several programming languages, _module_ is a construct for aggregating
-  smaller programming units, e.g. in Python. In other languages (like Java),
-  modules are called _packages_.
+ smaller programming units, e.g. in Python. In other languages (like Java),
+ modules are called _packages_.
 3. The CPSA®-Advanced Level is currently divided into several modules, which can be learned or taught separately and in any order. The exact relationships between these modules and the contents of these modules are defined in the respective curricula.
 
 // end::EN[]
@@ -23,19 +23,19 @@
 
 (Siehe auch <<term-modular-programming,Modulare Programmierung>>)
 
-1.  Strukturelement oder Baustein, üblicherweise als _Blackbox_
-    angesehen, mit einer klar definierten Verantwortlichkeit. Kapselt
-    Daten und Code und bietet öffentliche Schnittstellen, sodass
-    Clients auf seine Funktionalität zugreifen können. Diese Bedeutung
-    wurde erstmals in einem bahnbrechenden Grundlagenpapier von David L.
-    Parnas beschrieben: link:http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf[On the Criteria to be Used in Decomposing Software into Modules]
-2.  In mehreren Programmiersprachen ist ein _Modul_ ein Konstrukt zur
-    Zusammenstellung kleinerer Programmiereinheiten, z.B. in Python. In
-    anderen Sprachen (wie Java) werden Module _Pakete_ genannt.
-3.  Das CPSA®-Advanced Level ist derzeit in mehrere Module unterteilt,
-    die getrennt und in beliebiger Reihenfolge gelernt oder unterrichtet
-    werden können. Die genauen Beziehungen zwischen diesen Modulen und
-    die Inhalte dieser Module sind in den jeweiligen Lehrplänen
-    festgelegt.
+1. Strukturelement oder Baustein, üblicherweise als _Blackbox_
+  angesehen, mit einer klar definierten Verantwortlichkeit. Kapselt
+  Daten und Code und bietet öffentliche Schnittstellen, sodass
+  Clients auf seine Funktionalität zugreifen können. Diese Bedeutung
+  wurde erstmals in einem bahnbrechenden Grundlagenpapier von David L.
+  Parnas beschrieben: link:http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf[On the Criteria to be Used in Decomposing Software into Modules]
+2. In mehreren Programmiersprachen ist ein _Modul_ ein Konstrukt zur
+  Zusammenstellung kleinerer Programmiereinheiten, z.B. in Python. In
+  anderen Sprachen (wie Java) werden Module _Pakete_ genannt.
+3. Das CPSA®-Advanced Level ist derzeit in mehrere Module unterteilt,
+  die getrennt und in beliebiger Reihenfolge gelernt oder unterrichtet
+  werden können. Die genauen Beziehungen zwischen diesen Modulen und
+  die Inhalte dieser Module sind in den jeweiligen Lehrplänen
+  festgelegt.
 
 // end::DE[]

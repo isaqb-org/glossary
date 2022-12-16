@@ -112,9 +112,9 @@ Es kann hilfreich sein, zwischen folgenden Typen von Merkmalen zu unterscheiden:
 
 * _Laufzeitqualitätsmerkmale_, die während der Ausführungszeit des Systems beobachtet werden können,
 * _Nicht-Laufzeitqualitätsmerkmale_, die während der Ausführung des
-    Systems nicht beobachtet werden können, und
+  Systems nicht beobachtet werden können, und
 * _Geschäftsqualitätsmerkmalen_, wie Kosten, Zeitplan, Marktfähigkeit,
-    Eignung für Unternehmen.
+  Eignung für Unternehmen.
 
 Beispiele für Laufzeitqualitätsmerkmale sind Leistungseffizienz, Sicherheit, Zuverlässigkeit, Benutzungsfreundlichkeit und Robustheit.
 

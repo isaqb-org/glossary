@@ -21,7 +21,7 @@ One of the most comprehensive books about information security available.
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
-Although the title suggests otherwise, a quite  fundamental (and sometimes abstract) book.
+Although the title suggests otherwise, a quite fundamental (and sometimes abstract) book.
 The authors have a strong background in ultra-large scale (often military) systems - so their advice might sometimes conflict with small or lean kinds of projects.
 - [[[buschmann1996,Buschmann+1996]]] Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Patterns: Pattern-Oriented Software Architecture 1_, 1st edition, 1996, John Wiley & Sons.
 
@@ -100,7 +100,7 @@ Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
 - [[[posa2, Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.]]] Pattern-Oriented Software Architecture, volume 2: _Patterns for Concurrent and Networked Objects_, Wiley & Sons, 2000
 
-- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons.  Comprehensive survey of modern cryptography.
+- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons. Comprehensive survey of modern cryptography.
 
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 
