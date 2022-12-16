@@ -7,7 +7,7 @@ image::0-preamble/cc-by.png[]
 This book is licensed under a link:https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
 The following is only a brief summary and no substitution for the real license.
 
-The cc-4.0-by license means that you might:
+The **CC BY 4.0** license means that you might:
 
 * Share — copy and redistribute the material in any medium or format
 * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
@@ -20,3 +20,25 @@ You must:
 * Indicate if (and which) changes were made with respect to the original.
 
 // end::EN[]
+
+
+// tag::DE[]
+
+=== License
+
+image::0-preamble/cc-by.png[]
+
+Dieses Buch ist unter der  link:https://creativecommons.org/licenses/by/4.0/[Creative Commons Namensnennung 4.0 International] lizenziert. Der folgende Text ist eine kurze Zusammenfassung und kein Ersatz für die vollständige Lizenz.
+
+Die **CC BY 4.0** Lizenz erlaubt Ihnen Folgendes:
+
+* Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+* Bearbeiten — das Material remixen, verändern und darauf aufbauen, und zwar für beliebige Zwecke, sogar kommerziell.
+* Der Lizenzgeber kann diese Freiheiten nicht widerrufen, solange Sie sich an die Lizenzbedingungen halten.
+
+Unter folgenden Bedingungen:
+
+* Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen (https://creativecommons.org/licenses/by/4.0/) und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+* Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+
+// end::DE[]
