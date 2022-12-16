@@ -6,7 +6,7 @@ It can serve as a reference for preparation for the iSAQB® e.{nbsp}V.
 _Certified Professional for Software Architecture - Foundation Level_©.
 
 Please be aware: This glossary is *not* intended to be a primer or course book
-on software architecture, just a collection of definitions (and links to further information).
+on software architecture, but just a collection of definitions and links to further information.
 
 Furthermore, you find proposals for <<section-translations,translations>> of the iSAQB® terminology, currently between English and German (and vice-versa).
 
