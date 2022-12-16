@@ -8,6 +8,22 @@ Several of the terms contained in this book have been commented by one or severa
 ====
 ###### Comment (Gernot Starke)
 
-Some terms might be especially important, or sometimes there are some subtle aspects involved. Comments like these give a personal opinion and do *not* necessarily reflect the iSAQB.
+Some terms might be especially important, or sometimes there are some subtle aspects involved. Comments like these give a personal opinion and do *not* necessarily reflect the iSAQB®.
 ====
 // end::EN[]
+
+// tag::DE[]
+
+=== Persönliche Kommentare
+
+Einige der Begriffe in diesem Buch wurden von einem:r oder mehreren Autor:innen kommentiert:
+
+[NOTE]
+====
+###### Kommentar (Gernot Starke)
+
+Einige Begriffe mögen besonders wichtig sein, manchmal sind ein paar dezente Aspekte betroffen.
+Kommentare wie dieser hier spiegeln eine persönliche Meinung wider und sind **nicht** notwendigerweise die Meinung des iSAQB®.
+====
+
+// end::DE[]
