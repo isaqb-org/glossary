@@ -22,11 +22,11 @@ Errors or omissions can also be reported in our issue tracker on link:https://gi
 // end::EN[]
 
 // tag::DE[]
-Dieses Buch beinhaltet ein Glossar für _Begriffe rund um Softwarearchitektur_.
+Hier finden Sie ein Glossar für _Begriffe rund um Softwarearchitektur_.
 
-Es kann als Literaturquelle für die Vorbereitung zur Prüfung zum _Certified Professional for Software Architecture - Foundation Level®_ des iSAQB® e.{nbsp}V. verwendet werden.
+Es ist als Quelle für die Vorbereitung zur Prüfung zum _Certified Professional for Software Architecture - Foundation Level®_ des iSAQB® e.{nbsp}V. konzipiert.
 
-Bitte beachten Sie: Dieses Glossar ist **nicht** als Primer oder Lehrbuch zu Softwarearchitektur gedacht, es ist einfach nur eine Sammlung von Definitionen (sowie von Links zu weiterführenden Informationen).
+Bitte beachten Sie: Dieses Glossar ist **nicht** als Einführung oder Lehrbuch zu Softwarearchitektur gedacht, es ist lediglich eine Sammlung von Definitionen (sowie von Links zu weiterführenden Informationen).
 
 Außerdem finden Sie Vorschläge für <<section-translations,Übersetzungen>> der iSAQB® Fachausdrücke, aktuell für Deutsch nach Englisch und andersherum.
 
