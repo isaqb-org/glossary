@@ -8,6 +8,7 @@ of the term _Software Architecture_.
 
 The following definition has been proposed by the link:https://en.wikipedia.org/wiki/IEEE_1471[IEEE 1471] standard:
 
+[NOTE]
 ====
 Software Architecture: the fundamental organization of a system
 embodied in its components, their relationships to each
@@ -17,6 +18,7 @@ its design and evolution.
 
 The new standard ISO/IEC/IEEE 42010:2011 has adopted and revised the definition as follows:
 
+[NOTE]
 ====
 Architecture: (system) fundamental concepts or properties of a system
 in its environment embodied in its elements, relationships, and in
@@ -57,6 +59,7 @@ schlägt folgende Definition vor:
 
 // FIXME translate!
 
+[NOTE]
 ====
 Softwarearchitektur: die grundlegende Organisation eines Systems, wie sie sich in dessen Komponenten, deren Beziehungen zueinander und zur Umgebung sowie den Grundsätzen für Entwurf, Entwicklung und Evolution widerspiegelt.
 ====
@@ -66,6 +69,7 @@ folgendermaßen übernommen und überarbeitet:
 
 // FIXME translate!
 
+[NOTE]
 ====
 Architecture: (system) fundamental concepts or properties of a system
 in its environment embodied in its elements, relationships, and in
