@@ -4,7 +4,8 @@
 ==== Functional Correctness Quality Attribute
 Degree to which a product or system provides the correct results with the needed degree of precision.
 Is a sub-characteristic of: <<term-functional-suitability-quality-attribute,functional suitability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -14,8 +15,10 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 ==== Qualitätsmerkmal funktionale Korrektheit
 
 Maß, in dem ein Produkt oder System die korrekten Ergebnisse mit dem
-benötigten Grad an Präzision liefert. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+benötigten Grad an Präzision liefert.
+Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

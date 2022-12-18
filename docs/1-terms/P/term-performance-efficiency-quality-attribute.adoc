@@ -8,7 +8,7 @@ Resources can include other software products, the software and hardware configu
 
 Is composed of the following sub-characteristics: <<term-time-behaviour-quality-attribute,time behaviour>>, <<term-resource-utilization-quality-attribute,resource utilization>>, <<term-capacity-quality-attribute,capacity>>.
 
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -26,8 +26,9 @@ Speichermedien) umfassen.
 
 Es besteht aus folgenden Teilmerkmalen:
 <<term-time-behaviour-quality-attribute,Zeitverhalten>>, <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>>,
-<<term-capacity-quality-attribute,Kapazität>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+<<term-capacity-quality-attribute,Kapazität>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

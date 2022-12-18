@@ -4,7 +4,8 @@
 ==== Fault Tolerance Quality Attribute
 Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
 Is a sub-characteristic of: <<term-reliability-quality-attribute,reliability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -15,8 +16,9 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 
 Maß, in dem ein System, ein Produkt oder eine Komponente trotz
 Hardware- oder Softwarefehlern wie vorgesehen funktioniert.
-Teilmerkmal von: <<term-reliability-quality-attribute,Zuverlässigkeit>>. Vgl. Website von
-link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Teilmerkmal von: <<term-reliability-quality-attribute,Zuverlässigkeit>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

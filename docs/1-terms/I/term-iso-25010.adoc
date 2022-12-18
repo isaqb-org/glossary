@@ -3,21 +3,35 @@
 // tag::EN[]
 ==== ISO 25010
 
-Standards to describe (and evaluate) _software product quality_.
-"The quality model determines which quality characteristics will be taken into account when evaluating the properties of a software product." (quote from the link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO website])
+Official name:
 
-For a list of quality attributes defined by the ISO 25010 standard, refer to <<ref-iso-25010>>
+Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE)
+
+It is a standards to describe _software product quality_.
+
+ISO proposes a hierarchical model of product quality, with currently (standard version 2011) 8 top-level attributes:
+
+image::1_architecture/ISO-25010-EN.png
+
+The future version of the ISO standard will contain 9 of these attributes.
+
+For a list of quality attributes defined by the ISO 25010 standard, refer to <<ref-iso-25010>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== ISO 25010
 
-Normen zur Beschreibung (und Bewertung) von *Softwareproduktqualität*.
-Das Qualitätsmodell legt fest, welche Qualitätseigenschaften bei der
-Bewertung der Eigenschaften eines Softwareprodukts berücksichtigt
-werden. (Übersetztes englisches Zitat von der
-link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO-Website])
+N
+Systems and Software Engineering - Systems and Software Quality Requirements and Evaluation (SQuaRE)
+
+Es handelt sich um eine Norm zur Beschreibung der _Softwareproduktqualität_.
+
+ISO schlägt ein hierarchisches Modell der Produktqualität vor, mit derzeit (Standardversion 2011) 8 Top-Level-Attributen.
+
+image::1_architecture/ISO-25010-EN.png
+
+Die zukünftige Version des ISO-Standards (die Stand 2022 noch im Draft-Status ist) enthält 9 dieser Attribute.
 
 Eine Liste der in der ISO 25010 Norm definierten Qualitätsmerkmale
 findet sich unter <<ref-iso-25010>>.

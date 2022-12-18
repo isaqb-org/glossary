@@ -4,16 +4,17 @@
 ==== Reusability Quality Attribute
 Degree to which an asset can be used in more than one system, or in building other assets.
 Is a sub-characteristic of: <<term-maintainability-quality-attribute,maintainability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Qualitätsmerkmal Wiederverwendbarkeit
 
-Maß, in dem ein Asset in mehr als einem System oder zum Aufbau anderer
-Assets genutzt werden kann. Teilmerkmal von:
-<<term-maintainability-quality-attribute,Wartbarkeit>>.
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Maß, in dem ein Asset in mehr als einem System oder zum Aufbau anderer Assets genutzt werden kann.
+Teilmerkmal von: <<term-maintainability-quality-attribute,Wartbarkeit>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 // end::DE[]

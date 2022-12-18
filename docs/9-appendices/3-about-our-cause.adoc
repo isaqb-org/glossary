@@ -17,5 +17,5 @@ Together, we forged a vast network of concerned members and partner organization
 
 EFF is a donor-funded US 501(c)(3) nonprofit organization that depends on your support to continue fighting for users."
 
-(Quote from link:http://eff.org/about[eff.org/about])
+(Quote from https://eff.org/about[eff.org/about])
 // end::EN[]
