@@ -4,7 +4,8 @@
 ==== Integrity Quality Attribute
 Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
 Is a sub-characteristic of: <<term-security-quality-attribute,security>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 // end::EN[]
@@ -12,11 +13,12 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 // tag::DE[]
 ==== Qualitätsmerkmal Integrität
 
-Maß, in dem ein System, ein Produkt oder eine Komponente den
-unbefugten Zugriff auf Computerprogramme oder Daten oder deren
-unbefugte Abänderung verhindert. Teilmerkmal von:
+Maß, in dem ein System, ein Produkt oder eine Komponente den  unbefugten Zugriff auf Computerprogramme oder Daten oder deren  unbefugte Abänderung verhindert.
+
+Teilmerkmal von:
 <<term-security-quality-attribute,Sicherheit>>.
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+
+Siehe auch <<ref-iso-25010>>.
 
 
 // end::DE[]

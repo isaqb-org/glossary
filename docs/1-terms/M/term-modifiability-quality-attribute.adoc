@@ -4,7 +4,8 @@
 ==== Modifiability Quality Attribute
 Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
 Is a sub-characteristic of: <<term-maintainability-quality-attribute,maintainability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -16,8 +17,9 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 Maß, in dem ein Produkt oder System effektiv und effizient modifiziert
 werden kann, ohne dass Fehler eingebracht werden oder die bestehende
 Produktqualität beeinträchtigt wird. Teilmerkmal von:
-<<term-maintainability-quality-attribute,Wartbarkeit>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+<<term-maintainability-quality-attribute,Wartbarkeit>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

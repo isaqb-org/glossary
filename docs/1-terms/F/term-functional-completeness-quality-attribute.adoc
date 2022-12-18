@@ -4,7 +4,8 @@
 ==== Functional Completeness Quality Attribute
 Degree to which the set of functions covers all the specified tasks and user objectives.
 Is a sub-characteristic of: <<term-functional-suitability-quality-attribute,functional suitability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -14,8 +15,9 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 ==== Qualitätsmerkmal funktionale Vollständigkeit
 
 Maß, in dem der Satz von Funktionen alle spezifizierten Aufgaben und
-Benutzerziele abdeckt. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Benutzerziele abdeckt. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 // end::DE[] 

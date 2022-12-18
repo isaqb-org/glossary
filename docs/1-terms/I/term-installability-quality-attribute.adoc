@@ -4,7 +4,8 @@
 ==== Installability Quality Attribute
 Degree of effectiveness and efficiency with which a product or system can be successfully installed and/or uninstalled in a specified environment.
 Is a sub-characteristic of: <<term-portability-quality-attribute,portability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -16,8 +17,9 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 Maß der Effektivität und Effizienz, mit dem ein Produkt oder ein
 System in einer spezifizierten Umgebung erfolgreich installiert
 und/oder deinstalliert werden kann. Teilmerkmal von:
-<<term-portability-quality-attribute,Portierbarkeit>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+<<term-portability-quality-attribute,Portierbarkeit>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

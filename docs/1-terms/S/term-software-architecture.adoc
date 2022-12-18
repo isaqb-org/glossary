@@ -40,7 +40,7 @@ called <<term-concept,concepts>> or even _solution patterns_. Principles (concep
 
 
 The _Software Engineering Institute_
-maintains a link:https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[collection of further definitions]
+maintains a https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[collection of further definitions]
 
 Although the term often refers to the _software architecture of an IT system_, it is also used to refer to _software architecture as an engineering science_.
 
@@ -48,7 +48,7 @@ Although the term often refers to the _software architecture of an IT system_, i
 // end::EN[]
 
 // tag::DE[]
-==== Softwarearchitektur:
+==== Softwarearchitektur
 
 Es gibt mehrere(!) gültige und plausible Definitionen des Begriffs
 _Softwarearchitektur_. Die link:https://en.wikipedia.org/wiki/IEEE_1471[IEEE 1471] Norm
@@ -57,10 +57,7 @@ schlägt folgende Definition vor:
 // FIXME translate!
 
 ====
-Software Architecture: the fundamental organization of a system
-embodied in its components, their relationships to each
-other and to the environment and the principles guiding
-its design and evolution.
+Softwarearchitektur: die grundlegende Organisation eines Systems, wie sie sich in dessen Komponenten, deren Beziehungen zueinander und zur Umgebung sowie den Grundsätzen für Entwurf, Entwicklung und Evolution widerspiegelt.
 ====
 
 In der neuen Norm ISO/IEC/IEEE 42010:2011 wurden die Definitionen
@@ -96,8 +93,7 @@ bilden die Grundlage für <<term-conceptual-integrity,konzeptionelle Integrität
 
 Das _Software Engineering Institute_ führt eine link:https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[Sammlung weiterer Definitionen].
 
-Auch wenn der Begriff sich oft auf die _Softwarearchitektur eines IT-Systems_ bezieht, wird er auch benutzt, um sich auf
-_Softwarearchitektur als Ingenieursdisziplin_ zu beziehen.
+Der Begriff bezieht sich sowohl auf die _Softwarearchitektur eines IT-Systems_, wie auch benutzt, um sich auf _Softwarearchitektur als Ingenieursdisziplin_ zu beziehen (also als Aufgabe oder Rolle in Entwicklungsprojekten oder -organisationen).
 
 
 

@@ -6,7 +6,8 @@
 
 Degree to which users can recognize whether a product or system is appropriate for their needs.
 Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
-Refer to https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 // end::EN[]
@@ -18,8 +19,8 @@ Refer to https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 250
 Maß, in dem Benutzer erkennen können, ob ein Produkt oder System für
 ihre Bedürfnisse geeignet ist. Teilmerkmal von:
 <<term-usability-quality-attribute,Benutzerfreundlichkeit>>.
-Vgl. Website von https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO
-25010].
+
+Siehe auch <<ref-iso-25010>>.
 
 
 // end::DE[]

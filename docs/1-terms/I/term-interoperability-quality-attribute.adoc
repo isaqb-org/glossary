@@ -4,7 +4,8 @@
 ==== Interoperability Quality Attribute
 Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
 Is a sub-characteristic of: <<term-compatibility-quality-attribute,compatibility>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 // end::EN[]
 
@@ -13,8 +14,8 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 
 Maß, in dem zwei oder mehr Systeme, Produkte oder Komponenten
 Informationen austauschen und die ausgetauschten Informationen nutzen
-können. Teilmerkmal von: <<term-compatibility-quality-attribute,Kompatibilität>>. Vgl. Website
-von
-link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+können. Teilmerkmal von: <<term-compatibility-quality-attribute,Kompatibilität>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 // end::DE[]
