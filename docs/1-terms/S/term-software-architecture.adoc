@@ -51,7 +51,8 @@ Although the term often refers to the _software architecture of an IT system_, i
 ==== Softwarearchitektur
 
 Es gibt mehrere(!) gültige und plausible Definitionen des Begriffs
-_Softwarearchitektur_. Die link:https://en.wikipedia.org/wiki/IEEE_1471[IEEE 1471] Norm
+_Softwarearchitektur_.
+Die link:https://en.wikipedia.org/wiki/IEEE_1471[IEEE 1471] Norm
 schlägt folgende Definition vor:
 
 // FIXME translate!
