@@ -4,7 +4,8 @@
 ==== Functional Suitability Quality Attribute
 Degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions. 
 Is composed of the following sub-characteristics: <<term-functional-completeness-quality-attribute,functional completeness>>, <<term-functional-correctness-quality-attribute,functional correctness>>, <<term-functional-appropriateness-quality-attribute,functional appropriateness>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -19,9 +20,10 @@ Bedingungen Funktionen liefert, die festgelegte und vorausgesetzte
 Erfordernisse erfüllen. Es besteht aus folgenden Teilmerkmalen:
 <<term-functional-completeness-quality-attribute,funktionale Vollständigkeit>>,
 <<term-functional-correctness-quality-attribute,funktionale Korrektheit>>, 
-<<term-functional-appropriateness-quality-attribute,funktionale Angemessenheit>>. 
+<<term-functional-appropriateness-quality-attribute,funktionale Angemessenheit>>.
 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Siehe auch <<ref-iso-25010>>.
+
 
 
 

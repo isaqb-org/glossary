@@ -4,7 +4,9 @@
 ==== Confidentiality Quality Attribute
 Degree to which a product or system ensures that data are accessible only to those authorized to have access.
 Is a sub-characteristic of: <<term-security-quality-attribute,security>>.
-Refer to https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -17,7 +19,8 @@ Refer to https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 250
 Maß, in dem ein Produkt oder System sicherstellt, dass nur
 zugriffsberechtigte Zugriff auf die Daten haben. Teilmerkmal von:
 <<term-security-quality-attribute,Sicherheit>>.
-Vgl. Website von https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+
+Siehe auch <<ref-iso-25010>>.
 
 
 // end::DE[]

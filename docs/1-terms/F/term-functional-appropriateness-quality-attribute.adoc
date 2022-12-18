@@ -4,7 +4,8 @@
 ==== Functional Appropriateness Quality Attribute
 Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
 Is a sub-characteristic of: <<term-functional-suitability-quality-attribute,functional suitability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 
 
@@ -14,8 +15,9 @@ Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[IS
 ==== Qualitätsmerkmal funktionale Angemessenheit
 
 Maß, in dem die Funktionen die Erfüllung von spezifizierten Aufgaben
-und Zielen ermöglichen. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>. 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+und Zielen ermöglichen. Teilmerkmal von: <<term-functional-suitability-quality-attribute,Funktionale Eignung>>.
+
+Siehe auch <<ref-iso-25010>>.
 
 
 

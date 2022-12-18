@@ -4,7 +4,8 @@
 ==== User Interface Aesthetics Quality Attribute
 Degree to which a user interface enables pleasing and satisfying interaction for the user.
 Is a sub-characteristic of: <<term-usability-quality-attribute,usability>>.
-Refer to link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010] website.
+
+Refer to <<ref-iso-25010>>.
 
 // end::EN[]
 
@@ -15,6 +16,6 @@ Maß, in dem eine Benutzeroberfläche dem Benutzer eine angenehme und
 zufriedenstellende Interaktion ermöglicht. Teilmerkmal von:
 <<term-usability-quality-attribute,Benutzerfreundlichkeit>>.
 
-Vgl. Website von link:https://iso25000.com/index.php/en/iso-25000-standards/iso-25010[ISO 25010].
+Siehe auch <<ref-iso-25010>>.
 
 // end::DE[]
