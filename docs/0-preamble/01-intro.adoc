@@ -1,7 +1,7 @@
 // tag::EN[]
 This book contains a glossary of _software architecture terminology_.
 
-It can serve as a reference for preparation for the iSAQB® e.{nbsp}V.
+It can aid in preparation for the iSAQB® e.{nbsp}V.
  examination
 _Certified Professional for Software Architecture - Foundation Level_©.
 
@@ -24,7 +24,7 @@ Errors or omissions can also be reported in our issue tracker on link:https://gi
 // tag::DE[]
 Hier finden Sie ein Glossar für _Begriffe rund um Softwarearchitektur_.
 
-Es ist als Quelle für die Vorbereitung auf die Prüfung zum _Certified Professional for Software Architecture - Foundation Level®_ des iSAQB® e.{nbsp}V. konzipiert.
+Es ist als Hilfsmittel für die Vorbereitung auf die Prüfung zum _Certified Professional for Software Architecture - Foundation Level®_ des iSAQB® e.{nbsp}V. konzipiert.
 
 Bitte beachten Sie: Dieses Glossar ist **nicht** als Einführung oder Lehrbuch zu Softwarearchitektur gedacht, sondern lediglich als eine Sammlung von Definitionen sowie von Links zu weiterführenden Informationen.
 
@@ -37,6 +37,6 @@ Zu guter Letzt beinhaltet dieses Buch zahlreiche <<section-references,Verweise>>
 Dieses Buch ist in Arbeit und unfertig.
 ====
 
-Sie können Fehler oder Auslassungen in unserem Issue-Tracker auf link:https://github.com/isaqb-org/glossary/issues[GitHub] melden, wo die Autoren die Quellen für dieses Buch verwalten.
+Sie können Fehler oder Auslassungen in unserem Issue-Tracker auf link:https://github.com/isaqb-org/glossary/issues[GitHub] melden, wo wir die Quellen für dieses Buch verwalten.
 
 // end::DE[]
