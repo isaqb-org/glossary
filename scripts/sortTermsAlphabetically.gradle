@@ -86,7 +86,7 @@ task sortTermsAlphabetically(
         description: 'collect terms and create an alphabetically ordered structure',
         group: 'isaqb-glossary'
 ) {
-    String relativeTermsFolder = '../docs/1-terms';
+    String relativeTermsFolder = 'docs/1-terms';
 
     doLast {
         println "start task sortTermsAlphabetically"
