@@ -7,15 +7,11 @@ A trainer is a person who conducts a training course himself, provided that this
 // end::EN[]
 
 // tag::DE[]
-==== Schulungsleiter
+==== Schulungsleiter:in
 
-Ein Trainer ist eine Person, die eine Schulung selbst leitet, mit der
-Maßgabe, dass diese im Rahmen einer einem akkreditierten
-<<term-training-provider,Schulungsanbieter>> gewährten Akkreditierung durchgeführt wird.
-Entsprechend dürfen akkreditierte Schulungsanbieter nur
-CPSA®-Schulungen mit akkreditierten Schulungsleitern organisieren und
-durchführen. Nur akkreditierte Schulungsanbieter können
-<<term-accreditation,Akkreditierungen>> von Schulungsleitern beantragen.
+Ein(e) Trainer:in ist eine Person, die eine Schulung selbst leitet, mit der  Maßgabe, dass diese im Rahmen einer einem akkreditierten <<term-training-provider,Schulungsanbieter>> gewährten Akkreditierung durchgeführt wird.
+Entsprechend dürfen akkreditierte Schulungsanbieter nur CPSA®-Schulungen mit akkreditierten Schulungsleiter:innen organisieren und durchführen.
+Nur akkreditierte Schulungsanbieter können <<term-accreditation,Akkreditierungen>> von Schulungsleiter:innenn beantragen.
 
 
 // end::DE[]
