@@ -10,11 +10,13 @@ The iSAQB® CPSA® education programme is divided into (currently) two Training 
 // tag::DE[]
 ==== Schulungslevel
 
-Das iSAQB® CPSA® Schulungsprogramm ist (derzeit) in zwei Schulungslevel
-gegliedert: *Foundation Level* und *Advanced Level*. Die
-Schulungslevel sollten aufeinander aufbauendes Wissen enthalten. Die
-genauen Beziehungen untereinander und die Inhalte dieser
-Schulungslevel sind in den jeweiligen Lehrplänen festgelegt.
+Das iSAQB® CPSA® Schulungsprogramm ist (derzeit) in zwei Schulungslevel gegliedert:
+
+1. *Foundation Level* und
+2. *Advanced Level*.
+
+Die  Schulungslevel sollten aufeinander aufbauendes Wissen enthalten.
+Die genauen Beziehungen untereinander und die Inhalte dieser Schulungslevel sind in den jeweiligen Lehrplänen festgelegt.
 
 
 // end::DE[]
