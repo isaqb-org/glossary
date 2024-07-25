@@ -1,0 +1,25 @@
+[#term-visitor]
+
+// tag::EN[]
+==== Visitor
+
+Design pattern for representing operations to be performed on the elements of an object
+structure. Visitor lets you define a new operation without changing the
+classes of the elements on which it operates.
+(Quoted from <<gof>>.)
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Visitor
+
+Entwurfsmuster, um Operation zu modellieren, die auf den Elementen einer Objektstruktur
+durchgeführt werden. Visitor erlaubt die Definitione neuer Operation, ohne bestehende
+Klassen zu ändern.
+(Nach <<gof>>.)
+
+
+
+// end::DE[]
+
