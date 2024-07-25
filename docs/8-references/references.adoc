@@ -75,6 +75,8 @@ A classic on design patterns.
 
 **M**
 
+- [[[maguire, Maguire 2019]]] Sandy Maguire: Algebra-Driven Design:  Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.
+
 - [[[martin-2003, Martin-2003]]] Martin, Robert C.: _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2003
 
@@ -115,3 +117,7 @@ Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 - [[[tornhill-2015, Tornhill-2015]]] Adam Tornhill: Your Code as a Crime Scene.
 Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs. Pragmatic Programmers, 2015.
 <https://www.adamtornhill.com>
+
+**Y**
+
+- [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>

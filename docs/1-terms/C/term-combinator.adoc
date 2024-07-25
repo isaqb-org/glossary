@@ -1,0 +1,23 @@
+[#term-combinator]
+
+// tag::EN[]
+==== Combinator
+
+Design pattern to build complex functions or objects by combining simpler ones.
+For some domain object of type T, look for operations with both input and output type T.
+See <<yorgey>> and <<maguire>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Kombinator
+
+Entwurfsmuster zum Aufbau komplexer Funktionen oder Objekte durch die Kombination
+einfacherer Funktionen oder Objekte.
+Gegeben ein Domänenobjekt vom Typ T, suche nach Operationen,
+die als Ein- und Ausgabe ebenfalls den Typ T haben.
+Siehe <<yorgey>> and <<maguire>>.
+
+// end::DE[]
+
+
