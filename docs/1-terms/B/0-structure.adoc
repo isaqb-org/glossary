@@ -1,6 +1,7 @@
 
 === B
 
+include::term-blackboard.adoc[{include_configuration}]
 include::term-blackbox.adoc[{include_configuration}]
 include::term-bottom-up.adoc[{include_configuration}]
 include::term-bounded-context.adoc[{include_configuration}]
