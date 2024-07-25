@@ -12,7 +12,7 @@ build families of related systems. (Quoted from <<buschmann1996>>, also see <<te
 // end::EN[]
 
 // tag::DE[]
-==== Pipes und Filters
+==== Pipes und Filter
 
 Das Architekturmuster "Pipes und Filter" bietet eine Struktur für Systeme, die Datenströme
 verarbeiten. Jeder Verarbeitungsschritt wird als eine Filterkomponente gekapselt, dabei werden

@@ -1,10 +1,10 @@
 [#term-presentation-abstraction-control]
 
 // tag::EN[]
-==== Presentation-Abstraction-Constrol (PAC)
+==== Presentation-Abstraction-Control (PAC)
 
-Architecture pattern used for structuring software systems into a hierarchy of cooperating
-agents. Each agent is divided into three distinct components:
+Architecture pattern used for structuring interactive software systems into a hierarchy of
+cooperating agents. Each agent is divided into three distinct components:
 
 * Presentation is the user interface part of the agent.
 * Abstraction handles domain logic and data.
@@ -13,9 +13,9 @@ agents. Each agent is divided into three distinct components:
 // end::EN[]
 
 // tag::DE[]
-==== Presentation-Abstraction-Constrol (PAC)
+==== Presentation-Abstraction-Control (PAC)
 
-Architekturmuster, welches ein Softwaresystemen in eine Hierarchie von kooperierenden
+Architekturmuster, welches ein interaktives Softwaresystemen in eine Hierarchie von kooperierenden
 Agenten aufteilt. Jeder Agent besteht aus drei verschiedene Komponenten:
 
 * Presentation ist die Benutzeroberfläche des Agenten.

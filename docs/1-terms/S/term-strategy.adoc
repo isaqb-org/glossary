@@ -14,9 +14,9 @@ clients that use it.
 
 ==== Strategy
 
-Entwurfsmuster für die Definition einer Familie von Algorithmen, wobei jeder einzelne gekapselt und
-austauschbar ist. Mit Strategy können wir eine konkreten Algorithmus unabhängig vom Nutzer
-ändern.
+Entwurfsmuster für die Definition einer Familie von Algorithmen, wobei jeder einzelne
+Algorithmus gekapselt und austauschbar ist. Mit Strategy kann ein konkreter
+Algorithmus unabhängig vom Nutzer geändert werden.
 (Zitiert aus <<gof>>.)
 
 // end::DE[]

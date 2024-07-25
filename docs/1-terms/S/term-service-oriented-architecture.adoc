@@ -10,7 +10,7 @@ See <<term-service>>.
 // end::EN[]
 
 // tag::DE[]
-==== Plugin
+==== Serviceorientierte Architektur
 
 Architekturparadigma, das sich auf die Bereitstellung abstrakter Services anstatt konkreter
 Implementierungen fokusiert. Services ermöglichen Wiederverwendung über

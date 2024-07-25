@@ -14,7 +14,7 @@ an algorithm without changing the algorithm's structure. (Quoted from <<gof>>.)
 ==== Template Method
 
 Entwurfsmuster, das das Skelett eines Algorithmus in einer Operation definiert, wobei einige Schritte
-an Unterklassen verschoben werden. Mit Template Method können Unterklassen bestimmte Schritte
+in Unterklassen verschoben werden. Mit Template Method können Unterklassen bestimmte Schritte
 eines Algorithmus neu definieren, ohne die Struktur des Algorithmus zu verändern.
 (Zitiert aus <<gof>>.)
 

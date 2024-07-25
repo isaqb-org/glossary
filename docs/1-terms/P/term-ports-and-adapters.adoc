@@ -4,8 +4,8 @@
 ==== Ports and Adapters
 
 Architecture pattern that concentrates the domain logic in the center of the system.
-Ports connect the domain logic with to the outside world, independent from a specific technology.
-Different adapters may be attached to ports to translate requests and responses for a certain technology.
+Ports connect the domain logic with the outside world, independent from a specific technology.
+Different adapters attach to ports to translate requests and responses for a certain technology.
 This approach allows an application to be driven by different agents
 (e.g. users, programs, automated tests), and to be developed and tested in isolation from its
 production environment. See <<cockburn>>, <<lange21>>, <<hombergs>>.

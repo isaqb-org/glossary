@@ -10,7 +10,7 @@ the following responsibilities:
 * Model manages data and domain logic of the system. Does not depend on the view
 and the view model.
 * View is the visible user interface of the application (or parts thereof).
-* View Model serves as an intermediary between the View and the Model and holds the UI logic.
+* ViewModel serves as an intermediary between the View and the Model and holds the UI logic.
 May depend on the model but not on the view.
 
 
@@ -23,10 +23,10 @@ May depend on the model but not on the view.
 Architekturmuster, das häufig zur Implementierung von Benutzeroberflächen verwendet wird.
 Es unterteilt eine Anwendung in drei Teile (Model, View, und ViewModel):
 
-* Das Modell verwaltet die Daten und die Domänenlogik des Systems. Hängt nicht von View
-und View-Model ab.
+* Model verwaltet die Daten und die Domänenlogik des Systems. Hängt nicht von View
+und ViewModel ab.
 * View ist die sichtbare Benutzeroberfläche der Anwendung (oder Teilen davon).
-* View-Model dient als Vermittler zwischen View und Model und enthält die UI-Logik.
+* ViewModel dient als Vermittler zwischen View und Model und enthält die UI-Logik.
 Kann vom Model abhängen, aber nicht vom View.
 
 

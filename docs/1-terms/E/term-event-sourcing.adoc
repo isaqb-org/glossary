@@ -4,7 +4,7 @@
 
 ==== Event Sourcing
 
-Event sourcing is a software architecture pattern where changes to the application's state are
+Architecture pattern where changes to the application's state are
 captured as a series of immutable events. Instead of storing just the current state of the
 application,  every state change is recorded as an event in an append-only log.
 
@@ -14,7 +14,7 @@ application,  every state change is recorded as an event in an append-only log.
 
 ==== Event Sourcing
 
-Event Sourcing ist ein Architekturmuster, bei dem Änderungen am Zustand der Anwendung
+Architekturmuster, bei dem Änderungen am Zustand der Anwendung
 als eine Serie von unveränderlichen Ereignissen erfasst werden. Anstatt nur den aktuellen
 Zustand der Anwendung zu speichern, wird jede Zustandsänderung als Ereignis
 in einem "append-only"-Log festgehalten.

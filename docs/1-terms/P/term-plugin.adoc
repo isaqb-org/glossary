@@ -4,7 +4,7 @@
 ==== Plugin
 
 Architecture pattern that allows the extension of an application's functionality without
-modifying its core codebase. This is achieved by enabling external modules, known as plugins,
+modifying its core. This is achieved by enabling external modules, known as plugins,
 to add features or interact with the core application.
 
 // end::EN[]
