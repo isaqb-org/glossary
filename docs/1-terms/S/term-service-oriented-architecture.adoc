@@ -1,0 +1,21 @@
+[#term-service-oriented-architecture]
+
+// tag::EN[]
+==== Service-Oriented Architecture
+
+Architectural style that focuses on providing abstract services rather than concrete
+implementations to users of the system. Services enable reuse across organizational boundaries.
+See <<term-service>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Plugin
+
+Architekturparadigma, das sich auf die Bereitstellung abstrakter Services anstatt konkreter
+Implementierungen fokusiert. Services ermöglichen Wiederverwendung über
+Organisationsgrenzen hinweg. Siehe <<term-service>>.
+
+// end::DE[]
+
+
