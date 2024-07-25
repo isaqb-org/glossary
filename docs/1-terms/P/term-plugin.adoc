@@ -1,0 +1,19 @@
+[#term-plugin]
+
+// tag::EN[]
+==== Plugin
+
+Architecture pattern that allows the extension of an application's functionality without
+modifying its core codebase. This is achieved by enabling external modules, known as plugins,
+to add features or interact with the core application.
+
+// end::EN[]
+
+// tag::DE[]
+==== Plugin
+
+Architekturmuster, das die Erweiterung der Funktionalität einer Anwendung ermöglicht, ohne
+den Kern der Anwendung zu verändern. Dies wird durch externe Module, sogenannte Plugins,
+erreicht, welche Funktionen hinzuzufügen oder mit der Kernanwendung interagieren.
+
+// end::DE[]
