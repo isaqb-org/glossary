@@ -9,7 +9,7 @@
 Examples include:
 
 * Layers
-* Pipes-and-Filter
+* <<term-pipes-and-filters,Pipes and filters>>
 * Microservices
 * <<term-cqrs,CQRS>>
 
@@ -28,7 +28,7 @@ ihnen (<<buschmann1996>>, Seite 12). Vergleichbar mit <<term-architecture-style,
 Beispiele:
 
 * Model-View-Controller
-* Schichten
+* <<term-pipes-and-filters,Pipes und Filter>>
 * Pipes und Filter
 * <<term-cqrs,CQRS>>
 
