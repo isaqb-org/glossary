@@ -1,10 +1,10 @@
 [#term-model-view-controller]
 
 // tag::EN[]
-==== Model-View-Controller
+==== Model-View-Controller (MVC)
 
 Architecture pattern, often used to implement user interfaces. It divides a
-system into three interconnected parts (model, view and controller) to separate
+system into three interconnected parts (model, view, and controller) to separate
 the following responsibilities:
 
 * Model manages data and logic of the system. The "truth" that will be shown or
@@ -17,7 +17,7 @@ the following responsibilities:
 // end::EN[]
 
 // tag::DE[]
-==== Model-View-Controller
+==== Model-View-Controller (MVC)
 
 Architekturmuster, das häufig zur Implementierung von
 Benutzeroberflächen verwendet wird. Unterteilt ein System in drei
@@ -25,8 +25,12 @@ miteinander verbundene Teile (Modell / model, Präsentation / view und
 Steuerung / controller), um die folgenden Verantwortlichkeiten zu
 trennen:
 
-* Das Modell verwaltet Daten und Logik des Systems. Die "Wahrheit", die von einer oder vielen Präsentationen gezeigt oder angezeigt wird. Das Modell kennt seine Präsentationen nicht (und ist nicht von ihnen abhängig).
-* Die Präsentation kann eine Reihe von (beliebigen) Output-Darstellungen der (Modell-)Informationen sein. Mehrere Präsentationen desselben Modells sind möglich.
-* Die Steuerung akzeptiert (Benutzer-)Eingaben und wandelt diese in Befehle für das Modell oder die Präsentation um.
+* Das Modell verwaltet Daten und Logik des Systems. Die "Wahrheit", die von einer oder vielen
+Präsentationen gezeigt oder angezeigt wird. Das Modell kennt seine Präsentationen nicht
+(und ist nicht von ihnen abhängig).
+* Die Präsentation kann eine Reihe von (beliebigen) Output-Darstellungen der
+(Modell-)Informationen sein. Mehrere Präsentationen desselben Modells sind möglich.
+* Die Steuerung akzeptiert (Benutzer-)Eingaben und wandelt diese in Befehle für das
+Modell oder die Präsentation um.
 
 // end::DE[]

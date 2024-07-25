@@ -1,0 +1,26 @@
+[#term-model-view-update]
+
+// tag::EN[]
+==== Model-View-Update (MVU)
+
+Architecture pattern, often used to implement user interfaces. It emphasizes immutability
+and unidirectional data flow. It consists of three parts:
+
+* Model represents the application's state as an immutable data structure.
+* View is a function without side effects for rendering the model in the UI.
+* Update is a function that handles updates on the model by producing a new model instance.
+
+// end::EN[]
+
+// tag::DE[]
+==== Model-View-Update (MVU)
+
+Architekturmuster, das häufig zur Implementierung von Benutzeroberflächen verwendet wird.
+Es beruht auf unveränderbaren Daten und unidirektionalem Datenfluss. Es besteht aus drei Teilen:
+
+* Model repräsentiert den Zustand der Anwendung als unveränderbare Datenstruktur.
+* View ist eine Funktion ohne Seiteneffekte, die das Model in der UI darstellt.
+* Update ist eine Funktion, die Aktualisierungen des Models verarbeitet,
+indem sie eine neue Instanz des Models erzeugt.
+
+// end::DE[]
