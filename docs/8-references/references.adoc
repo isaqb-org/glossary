@@ -30,6 +30,7 @@ Also known as POSA-1. Most likely the most famous and groundbreaking book on arc
 **C**
 
 - [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[cockburn,Cockburn 2005]]] Cockburn, Alistair (2005-04-01): Hexagonal architecture, online <https://alistair.cockburn.us/hexagonal-architecture/> (retrieved 2024-07-25)
 
 **E**
 
@@ -53,6 +54,7 @@ A classic on design patterns.
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 - [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
+- [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 
 **I**
 
@@ -66,6 +68,7 @@ A classic on design patterns.
 
 **L**
 
+- [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
 - [[[ref-lilienthal-2019, Lilienthal-2019]]] Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
 3rd edition, dpunkt.verlag, 2019
 

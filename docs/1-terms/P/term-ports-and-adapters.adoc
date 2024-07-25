@@ -1,0 +1,32 @@
+[#term-ports-and-adapters]
+
+// tag::EN[]
+==== Ports and Adapters
+
+Architecture pattern that concentrates the domain logic in the center of the system.
+Ports connect the domain logic with to the outside world, independent from a specific technology.
+Different adapters may be attached to ports to translate requests and responses for a certain technology.
+This approach allows an application to be driven by different agents
+(e.g. users, programs, automated tests), and to be developed and tested in isolation from its
+production environment. See <<cockburn>>, <<lange21>>, <<hombergs>>.
+
+Also known as Onion-Architecture, Hexagonal-Architecture, Clean-Architecture.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Ports und Adapter (PAC)
+
+Architekturmuster, das die Domänenlogik im Zentrum des Systems hält und Verbindungen
+zur Außenwelt nur über Ports herstellt. Ports sind unabhängig von einer bestimmten Technologie.
+An die Ports können verschiedene Adapter angeschlossen werden, um Anfragen und Antworten für
+eine bestimmte Technologie bereitzustellen.
+Dieser Ansatz ermöglicht es, eine Anwendung von verschiedenen Agenten
+(z. B. Benutzer, Programme, automatisierte Tests) steuern zu lassen
+und isoliert von ihrer Produktionsumgebung zu entwickeln und testen.
+Siehe <<cockburn>>, <<lange21>>, <<hombergs>>.
+
+Auch bekannt als Onion-Architecture, Hexagonale Architektur, Clean-Architecture.
+
+// end::DE[]
