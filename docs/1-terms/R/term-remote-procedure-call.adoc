@@ -1,0 +1,28 @@
+[#term-remote-procedure-call]
+
+// tag::EN[]
+==== Remote Procedure Call (RPC)
+
+Mechanism for implementing communication between two systems, allowing a program to execute
+a procedure in another address space, commonly on another physical machine.
+This communication happens as if it were a local procedure call, abstracting away the
+complexities of the network communication. RPC is widely used in distributed systems
+and network applications.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Remote Procedure Call (RPC)
+
+Mechanismus zur Kommunikation zwischen zwei Systemen, der es einem Programm ermöglicht,
+eine Prozedur in einem anderen Adressraum auszuführen
+(in der Regel auf einer anderen Maschine).
+Die Kommunikation erfolgt dabei so, also ob es sich um einen lokalen Prozeduraufruf handelt.
+Dabei wird die Komplexität der Netzwerkkommunikation versteckt.
+RPC wird häufig in verteilten Systemen und Netzwerkanwendungen eingesetzt.
+
+// end::DE[]
+
+
+
