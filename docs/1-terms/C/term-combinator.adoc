@@ -18,7 +18,7 @@ einfacherer Funktionen oder Objekte.
 Gegeben ein Domänenobjekt vom Typ T, suche nach Operationen,
 die als Ein- und Ausgabe ebenfalls den Typ T haben.
 Auch bekannt als _closure of operation_.
-Siehe <<yorgey>> and <<maguire>>.
+Siehe <<yorgey>> und <<maguire>>.
 
 // end::DE[]
 
