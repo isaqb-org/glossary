@@ -8,9 +8,9 @@
 
 Examples include:
 
-* Layers
+* <<term-layer,Layers>>
 * <<term-pipes-and-filters,Pipes and filters>>
-* Microservices
+* <<term-microservice,Microservices>>
 * <<term-cqrs,CQRS>>
 
 // end::EN[]
@@ -27,9 +27,9 @@ ihnen (<<buschmann1996>>, Seite 12). Vergleichbar mit <<term-architecture-style,
 
 Beispiele:
 
-* Model-View-Controller
+* <<term-layer,Layers>>
 * <<term-pipes-and-filters,Pipes und Filter>>
-* Pipes und Filter
+* <<term-microservice,Microservices>>
 * <<term-cqrs,CQRS>>
 
 // end::DE[]
