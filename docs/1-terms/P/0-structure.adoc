@@ -10,6 +10,7 @@ include::term-performance-efficiency-quality-attribute.adoc[{include_configurati
 include::term-perspective.adoc[{include_configuration}]
 include::term-pikachu.adoc[{include_configuration}]
 include::term-pipe.adoc[{include_configuration}]
+include::term-product.adoc[{include_configuration}]
 include::term-pki.adoc[{include_configuration}]
 include::term-port.adoc[{include_configuration}]
 include::term-portability-quality-attribute.adoc[{include_configuration}]
