@@ -4,6 +4,7 @@
 // include::term-XX.adoc[{include_configuration}]
 
 include::term-observer.adoc[{include_configuration}]
+include::term-onion-architecture.adoc[{include_configuration}]
 include::term-open-close-principle.adoc[{include_configuration}]
 include::term-operability-quality-attribute.adoc[{include_configuration}]
 include::term-owasp.adoc[{include_configuration}]
