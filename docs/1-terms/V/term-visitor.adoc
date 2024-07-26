@@ -14,7 +14,7 @@ classes of the elements on which it operates.
 
 ==== Visitor
 
-Entwurfsmuster, um Operation zu modellieren, die auf den Elementen einer Objektstruktur
+Entwurfsmuster, um Operationen zu modellieren, die auf den Elementen einer Objektstruktur
 durchgeführt werden. Visitor erlaubt die Definitione neuer Operation, ohne bestehende
 Klassen zu ändern.
 (Nach <<gof>>.)
