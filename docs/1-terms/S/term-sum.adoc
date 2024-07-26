@@ -1,0 +1,34 @@
+[#term-sum]
+
+// tag::EN[]
+==== Sum
+
+Sum data is data that can be one of several distinct, but fixed types.
+Also known as *discriminated union*, *dijoint union*,
+*mixed data* or *or data*.
+
+Example:
+
+A *geometric shape* is one of the following:
+
+- a square, or
+- a circle, or
+- a triangle
+
+// end::EN[]
+
+// tag::DE[]
+==== Summe
+
+Summendaten sind solche, bei denen ein Wert zu einem von mehreren
+verschiedenen aber festehenden Typen gehört.  Auch als *direkte Summe*
+oder *gemischte Daten* oder *Oder_Daten* bezeichnet.
+
+Beispiel:
+
+Eine *geometrische Figur* ist eine der folgenden:
+
+- ein Quadrat oder
+- ein Kreis oder
+- ein Dreieck
+// end::DE[]

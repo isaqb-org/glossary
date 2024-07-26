@@ -1,0 +1,37 @@
+[#term-product]
+
+// tag::EN[]
+==== Product
+
+Product data is data whose values have several, fixed attributes.
+Also known as *records*, *structs*, *tuples* or *and data*.
+
+Example:
+
+An *address* has the following attributes:
+
+- name, and
+- street, and
+- street number, and
+- city, and
+- zip code
+
+// end::EN[]
+
+// tag::DE[]
+==== Produkt
+
+Produktdaten sind solche, deren Werte mehrere, feststehende Attribute
+haben.  Auch als *Records*, *Structs*, *Tupel* oder *Und-Daten* bezeichnet.
+
+Beispiel:
+
+Eine *Adresse* hat die folgenden Attribute:
+
+- Name und
+- Straße und
+- Hausnummer und
+- Stadt und
+- Postleitzahl
+
+// end::DE[]
