@@ -1,0 +1,25 @@
+[#term-strategy]
+
+// tag::EN[]
+==== Strategy
+
+Design pattern for defining a family of algorithms, encapsulate each one, and make them
+interchangeable. Strategy lets the algorithm vary independently from
+clients that use it.
+(Quoted from <<gof>>.)
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Strategy
+
+Entwurfsmuster für die Definition einer Familie von Algorithmen, wobei jeder einzelne
+Algorithmus gekapselt und austauschbar ist. Mit Strategy kann ein konkreter
+Algorithmus unabhängig vom Nutzer geändert werden.
+(Zitiert aus <<gof>>.)
+
+// end::DE[]
+
+
+

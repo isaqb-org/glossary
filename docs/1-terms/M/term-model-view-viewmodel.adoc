@@ -1,0 +1,33 @@
+[#term-model-view-viewmodel]
+
+// tag::EN[]
+==== Model-View-ViewModel (MVVM)
+
+Architecture pattern, often used to implement user interfaces. It divides a
+system into three interconnected parts (model, view, and view model) to separate
+the following responsibilities:
+
+* Model manages data and domain logic of the system. Does not depend on the view
+and the view model.
+* View is the visible user interface of the application (or parts thereof).
+* ViewModel serves as an intermediary between the View and the Model and holds the UI logic.
+May depend on the model but not on the view.
+
+
+
+// end::EN[]
+
+// tag::DE[]
+==== Model-View-ViewModel (MVVM)
+
+Architekturmuster, das häufig zur Implementierung von Benutzeroberflächen verwendet wird.
+Es unterteilt eine Anwendung in drei Teile (Model, View, und ViewModel):
+
+* Model verwaltet die Daten und die Domänenlogik des Systems. Hängt nicht von View
+und ViewModel ab.
+* View ist die sichtbare Benutzeroberfläche der Anwendung (oder Teilen davon).
+* ViewModel dient als Vermittler zwischen View und Model und enthält die UI-Logik.
+Kann vom Model abhängen, aber nicht vom View.
+
+
+// end::DE[]

@@ -6,15 +6,18 @@
 Instead of having your objects or a factory creating a dependency,
 you pass the needed dependencies to the constructor or via property setters.
 You therefore make the creation of specific dependencies _somebody else's problem_.
+Often used to ensure the <<term-dependency-inversion,dependency inversion principle>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Abhängigkeitsinjektion / Dependency Injection (DI)
 
-Statt dass Ihre Objekte oder eine Fabrik eine Abhängigkeit erzeugen,
-übergeben Sie die benötigten Abhängigkeiten an den Konstruktor oder
-über Eigenschaft-Setter. Damit machen Sie die Erzeugung
+Objekte erzeugen abhängige Objekte nicht selbst, stattdessen werden
+die benötigten Abhängigkeiten an den Konstruktor übergeben oder via
+Setter gesetzt. Damit wird die Erzeugung
 von spezifischen Abhängigkeiten zum _Problem anderer Leute_.
+Wird oft benutzt um das
+<<term-dependency-inversion,Abhängigkeits-Umkehr-Prinzip>> sicherzustellen.
 
 // end::DE[]

@@ -1,0 +1,20 @@
+[#term-interpreter]
+
+// tag::EN[]
+==== Interpreter
+
+Design pattern that represents domain objects or domain-specific languages as syntax.
+An interpreter function then provides a semantic interpretation of domain objects separately
+from the objects.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Interpreter
+
+Entwurfsmuster, das Domänenobjekte oder domänenspezifische Sprachen als Syntax darstellt.
+Eine Interpreterfunktion liefert dann eine semantische Interpretation der Domänenobjekte getrennt
+von den Objekten.
+
+// end::DE[]

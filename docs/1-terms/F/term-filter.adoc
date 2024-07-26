@@ -3,19 +3,19 @@
 // tag::EN[]
 ==== Filter
 
-Part of the pipe-and-filter architectural style that creates or transforms data.
+Part of the pipes and filters architectural pattern used to create or transform data.
 Filters are typically executed independently of other filters.
-
+See <<term-pipes-and-filters, pipes and filters>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Filter
 
-Teil des "Pipes und Filter"-Architekturstils, der Daten erzeugt oder
-transformiert. Filter werden üblicherweise unabhängig von anderen
+Teil des "Pipes und Filter"-Architekturpatterns, welches genutzt wird, um Daten zu erzeugen oder
+transformieren. Filter werden üblicherweise unabhängig von anderen
 Filtern ausgeführt.
-
+Siehe <<term-pipes-and-filters, Pipes und Filter>>
 
 
 // end::DE[]

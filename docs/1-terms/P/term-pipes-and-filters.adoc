@@ -1,0 +1,23 @@
+[#term-pipes-and-filters]
+
+// tag::EN[]
+==== Pipes and Filters
+
+The Pipes and Filters architectural pattern provides a structure for systems that process
+a stream of data. Each processing step is encapsulated in a filter component. Data is
+passed through pipes between adjacent filters. Recombining filters allows you to
+build families of related systems. (Quoted from <<buschmann1996>>, also see <<term-pipe,pipe>> and
+<<term-filter,filter>>.)
+
+// end::EN[]
+
+// tag::DE[]
+==== Pipes und Filter
+
+Das Architekturmuster "Pipes und Filter" bietet eine Struktur für Systeme, die Datenströme
+verarbeiten. Jeder Verarbeitungsschritt wird als eine Filterkomponente gekapselt, dabei werden
+die Daten zwischen benachbarten Filtern durch Pipes geleitet. Andere Kombinationen
+der Filter führt zu einer Variente des Systems. (Zitiert aus <<buschmann1996>>,
+siehe auch <<term-pipe,Pipe>> und <<term-filter,Filter>>.)
+
+// end::DE[]

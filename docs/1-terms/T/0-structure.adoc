@@ -5,6 +5,7 @@
 
 include::term-technical-context.adoc[{include_configuration}]
 include::term-template.adoc[{include_configuration}]
+include::term-template-method.adoc[{include_configuration}]
 include::term-temporal-coupling.adoc[{include_configuration}]
 include::term-testability-quality-attribute.adoc[{include_configuration}]
 include::term-time-behaviour-quality-attribute.adoc[{include_configuration}]

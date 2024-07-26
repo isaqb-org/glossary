@@ -6,14 +6,25 @@
 Grouping of building blocks or components that (together) offer a
 cohesive set of services to other layers.
 Layers are related to each other by the ordered relation _allowed to use_.
+Two common kinds of layers are _abstraction layers_ to hide details
+(example: ISO/OSI network layers, or "hardware abstraction layer",
+see https://en.wikipedia.org/wiki/Hardware_abstraction) and layers that
+(physically) separate functionality or responsibility
+(see https://en.wikipedia.org/wiki/Multitier_architecture).
 
 // end::EN[]
 
 // tag::DE[]
 ==== Schicht
 
-Zusammenstellung von Bausteinen oder Komponenten die (zusammen) anderen Schichten einen kohärenten Satz an Services bieten. Die Beziehung zwischen Schichten wird durch die geordnete Beziehung _erlaubt zu nutzen_ geregelt.
-
+Zusammenstellung von Bausteinen oder Komponenten die (zusammen) anderen Schichten
+einen kohärenten Satz an Services bieten. Die Beziehung zwischen Schichten wird
+durch die geordnete Beziehung _erlaubt zu nutzen_ geregelt.
+Zwei häufigen Arten von Schichten sind _Abstraktionschichten_ zum Verstecken von Details
+(Beispiel: ISO/OSI-Netzwerkschichten oder „Hardware-Abstraktionsschicht“,
+siehe https://en.wikipedia.org/wiki/Hardware_abstraction) und Schichten, die
+(physikalisch) Funktionen oder Verantwortlichkeiten trennen
+(siehe https://de.wikipedia.org/wiki/Schichtenarchitektur).
 
 
 // end::DE[]

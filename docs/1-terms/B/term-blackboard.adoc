@@ -1,0 +1,24 @@
+[#term-blackboard]
+
+// tag::EN[]
+
+==== Blackboard
+
+Architectural pattern that is useful for problems for which no
+deterministic solution strategies are known. In blackboard, several specialized subsystems
+assemble their knowledge to build a possibly partial or approximate solution.
+(Quoted from <<buschmann1996>>)
+
+// end::EN[]
+
+// tag::DE[]
+==== Blackboard
+
+Architekturmuster, welches oft für Probleme benutzt wird, die keine
+deterministische Lösungsstrategien erlauben. Mehrere spezialisierte Teilsysteme
+fügen im Blackboard
+ihr Wissen zusammen, um eine möglicherweise partielle oder ungefähre Lösung zu erarbeiten.
+(Zitiert aus <<buschmann1996>>)
+
+// end::DE[]
+
