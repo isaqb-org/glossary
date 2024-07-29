@@ -1,0 +1,15 @@
+[#term-closure-of-operation]
+
+// tag::EN[]
+==== Closure of Operation
+
+See <<term-combinator,Combinator>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Closure of Operation
+
+Siehe <<term-combinator,Kombinator>>.
+
+// end::DE[]

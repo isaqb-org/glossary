@@ -5,7 +5,7 @@
 
 Design pattern to build complex functions or objects by combining simpler ones.
 For some domain object of type T, look for operations with both input and output type T.
-Also know as _closure of operation_.
+Also known as _closure of operation_.
 See <<yorgey>> and <<maguire>>.
 
 // end::EN[]

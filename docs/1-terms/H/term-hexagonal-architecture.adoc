@@ -1,0 +1,15 @@
+[#term-hexagonal-architecture]
+
+// tag::EN[]
+==== Hexagonal Architecture
+
+See <<term-ports-and-adapters,Ports and Adapters>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Hexagonale Architektur
+
+See <<term-ports-and-adapters,Ports und Adapter>>.
+
+// end::DE[]

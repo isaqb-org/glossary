@@ -1,0 +1,15 @@
+[#term-onion-architecture]
+
+// tag::EN[]
+==== Onion Architecture
+
+See <<term-ports-and-adapters,Ports and Adapters>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Onion Architektur
+
+See <<term-ports-and-adapters,Ports und Adapter>>.
+
+// end::DE[]
