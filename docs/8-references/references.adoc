@@ -108,6 +108,8 @@ Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
 - [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons. Comprehensive survey of modern cryptography.
 
+- [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
+
 - [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
 
 **T**

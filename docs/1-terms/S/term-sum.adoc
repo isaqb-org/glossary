@@ -15,6 +15,8 @@ A *geometric shape* is one of the following:
 - a circle, or
 - a triangle
 
+Also see <<sperberwehr>>.
+
 // end::EN[]
 
 // tag::DE[]
@@ -31,4 +33,7 @@ Eine *geometrische Figur* ist eine der folgenden:
 - ein Quadrat oder
 - ein Kreis oder
 - ein Dreieck
+
+Siehe auch <<sperberwehr>>.
+
 // end::DE[]
