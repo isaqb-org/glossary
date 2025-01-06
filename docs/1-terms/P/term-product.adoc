@@ -16,6 +16,8 @@ An *address* has the following attributes:
 - city, and
 - zip code
 
+Also see <<sperberwehr>>.
+
 // end::EN[]
 
 // tag::DE[]
@@ -33,5 +35,7 @@ Eine *Adresse* hat die folgenden Attribute:
 - Hausnummer und
 - Stadt und
 - Postleitzahl
+
+Siehe auch <<sperberwehr>>.
 
 // end::DE[]
