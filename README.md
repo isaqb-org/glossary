@@ -1,10 +1,6 @@
 # iSAQB® Glossary of Software Architecture Terminology
 
->NOTE: As of November 2022, we migrate the content of this book from Markdown to AsciiDoc, to enable a more flexible output generation pipeline.
-> 
->During this (rather lengthy) migration, only the Leanpub version of the glossary is available - which has been published 2020 (if I remember correctly).
->
->Please be patient - the new version should be available January 2023 latest.
+>NOTE: We migrated the content of this book from Markdown to AsciiDoc, to enable a more flexible output generation pipeline and be consistent with other iSAQB publications.
 
 A comprehensive glossary of software architecture terminology, many of them used in the iSAQB® foundation and advanced level curricula.
 
@@ -52,9 +48,9 @@ You can then build the glossary via `./gradlew buildDocs` to build both the Engl
 * Consider both EN and DE version
 ## Book Generation (aka "build")
 
-Between 2014 and Oct 2022, preview and production builds had to be triggered via the Leanpub website.
-
 From November 2022, we build the glossary and all output formats with Gradle, based upon AsciiDoc.
+
+The Leanpub version has to be uploaded to the publisher manually.
 
 ## About Translation tables
 
