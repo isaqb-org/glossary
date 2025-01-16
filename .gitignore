@@ -8,6 +8,7 @@ docs/2-translations/gen-*
 .classpath
 .project
 .vscode/settings.json
+.code-workspace
 # build files
 .gradle
 build
