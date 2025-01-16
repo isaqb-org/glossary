@@ -14,13 +14,13 @@ This section contains references that are cited in the glossary or one of the cu
 
 **A**
 
-- [[[ref-anderson-2008, Anderson-2008]]] Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
+- [[[ref-anderson-2008, Anderson 2008]]] Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
 One of the most comprehensive books about information security available.
 
 **B**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
+- [[[bachmann,Bachmann+2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
+- [[[bass,Bass+2022]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. 4th edition 2022, Addison-Wesley.
 Although the title suggests otherwise, a quite fundamental (and sometimes abstract) book.
 The authors have a strong background in ultra-large scale (often military) systems - so their advice might sometimes conflict with small or lean kinds of projects.
 - [[[buschmann1996,Buschmann+1996]]] Buschmann, Frank/Meunier, Regine/Rohnert, Hans/Sommerlad, Peter: _A System of Patterns: Pattern-Oriented Software Architecture 1_, 1st edition, 1996, John Wiley & Sons.
@@ -29,12 +29,12 @@ Also known as POSA-1. Most likely the most famous and groundbreaking book on arc
 
 **C**
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[clements,Clements+2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 - [[[cockburn,Cockburn 2005]]] Cockburn, Alistair (2005-04-01): Hexagonal architecture, online <https://alistair.cockburn.us/hexagonal-architecture/> (retrieved 2024-07-25)
 
 **E**
 
-- [[[ref-evans-2004, Evans-2004]]] Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ 1st edition, Addison-Wesley, 2004.
+- [[[ref-evans-2004, Evans 2004]]] Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ 1st edition, Addison-Wesley, 2004.
 
 **F**
 
@@ -52,7 +52,7 @@ A classic on design patterns.
 
 **H**
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[hargis,Hargis+2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 - [[[hofmeister, Hofmeister+2000]]] Hofmeister, Christine/Nord, Robert/Soni, Dilip]]]: _Applied Software Architecture,_ 1st edition, Addison-Wesley, 1999
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 
@@ -69,7 +69,7 @@ A classic on design patterns.
 **L**
 
 - [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
-- [[[ref-lilienthal-2019, Lilienthal-2019]]] Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
+- [[[ref-lilienthal-2019, Lilienthal 2019]]] Lilienthal, Carola: _Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen_
 3rd edition, dpunkt.verlag, 2019
 
 
@@ -77,46 +77,46 @@ A classic on design patterns.
 
 - [[[maguire, Maguire 2019]]] Sandy Maguire: Algebra-Driven Design:  Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.
 
-- [[[martin-2003, Martin-2003]]] Martin, Robert C.: _Agile Software Development: Principles, Patterns and Practices_,
+- [[[martin-2003, Martin 2003]]] Martin, Robert C.: _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2003
 
 - [[[martin-solid, SOLID-principles]]] Martin, Robert: SOLID-principles.
 S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin.
 Some original papers have been moved around onto various locations - see link:https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)[Wikipedia]
 
-- [[[ref-mcgraw-2006, McGraw-2006]]] Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
+- [[[ref-mcgraw-2006, McGraw 2006]]] Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
 Covering the whole process of software design from a security perspective by the means of risk management, code reviews, risk analysis, penetration testing, security testing abuse case development.
 
 **P**
 
-- [[[ref-parnas-1972, Parnas-1972]]] Parnas, David:
+- [[[ref-parnas-1972, Parnas 1972]]] Parnas, David:
 _On the criteria to be used in decomposing systems into modules"_, Communications of the ACM, volume 15, issue 12, Dec 1972.
 One of the most influential articles ever written in software engineering, introducing encapsulation and modularity. Thank you, David!
 
 
 **R**
 
-- [[[ref-rmias-2013, RMIAS-2013]]] Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & Security, 2013 Eight International Conference on Availability, Reliability and Security (ARES), DOI: 10.1109/ARES.2013.72, <http://users.cs.cf.ac.uk/Y.V.Cherdantseva/RMIAS.pdf>
+- [[[ref-rmias-2013, Cherdantseva+2013]]] Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & Security, 2013 Eight International Conference on Availability, Reliability and Security (ARES), DOI: 10.1109/ARES.2013.72, <http://users.cs.cf.ac.uk/Y.V.Cherdantseva/RMIAS.pdf>
 Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
-- [[[rozanski-11, Rozanski & Woods 2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley. Presents a set of architectural viewpoints and perspectives.
+- [[[rozanski-11, Rozanski+2011]]] Eoin Woods and Nick Rozanski: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. 2nd edition 2011, Addison-Wesley. Presents a set of architectural viewpoints and perspectives.
 
 
 **S**
 
-- [[[posa2, Schmidt, Douglas C/Stal, Michael/Rohnert, Hans/Buschmann, Frank.]]] Pattern-Oriented Software Architecture, volume 2: _Patterns for Concurrent and Networked Objects_, Wiley & Sons, 2000
+- [[[posa2, Schmidt+2000]]] D. C. Schmidt, M. Stal, H. Rohnert, and F. Buschmann, _Pattern-Oriented Software Architecture, Volume 2: Patterns for Concurrent and Networked Objects_. New York, NY, USA: Wiley & Sons, 2000.
 
-- [[[schneier-96, Schneier, Bruce]]] Applied Cryptography, 2nd Edition 1996, John Wiley & Sons. Comprehensive survey of modern cryptography.
+- [[[schneier-96,  Schneier 1996]]] B. Schneier, _Applied Cryptography_, 2nd ed. New York, NY, USA: John Wiley & Sons, 1996.
 
 - [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
 
-- [[[starke,Starke 2019]]] Starke, G. Effektive Software-Architekturen - Ein praktischer Leitfaden. 9. Auflage 2019, Carl Hanser Verlag.
+- [[[starke,  Starke 2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024.
 
 **T**
 
 - [[[tanenbaum-2016, Tanenbaum+2016]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms, 2016. <https://www.distributed-systems.net/>
 
-- [[[tornhill-2015, Tornhill-2015]]] Adam Tornhill: Your Code as a Crime Scene.
+- [[[tornhill-2015, Tornhill 2015]]] Adam Tornhill: Your Code as a Crime Scene.
 Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs. Pragmatic Programmers, 2015.
 <https://www.adamtornhill.com>
 
