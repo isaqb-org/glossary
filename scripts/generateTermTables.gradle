@@ -13,14 +13,15 @@ repositories {
 }
 
 dependencies {
-    implementation platform('org.apache.groovy:groovy-bom:4.0.5')
+    implementation platform('org.apache.groovy:groovy-bom:4.0.24')
     implementation 'org.apache.groovy:groovy'
     testImplementation platform("org.spockframework:spock-bom:2.3-groovy-4.0")
     testImplementation "org.spockframework:spock-core"
-    testImplementation "org.apache.groovy:groovy-json:4.0.3"
+    testImplementation "org.apache.groovy:groovy-json:3.0.23"
 }
 
-task generateTables(dependsOn: compileGroovy, type: JavaExec) {
+tasks.register('generateTables', JavaExec) {
+    dependsOn compileGroovy
     jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
                '--add-opens', 'java.base/java.io=ALL-UNNAMED',
                '--add-opens', 'java.base/java.util=ALL-UNNAMED']
