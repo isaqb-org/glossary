@@ -29,9 +29,13 @@ dependencies {
     testImplementation "org.apache.groovy:groovy-json:3.0.23"
 }
 
-application {
+tasks.register('createFiles', JavaExec) {
+
+    mustRunAfter("sortTermsAlphabetically", "generateTranslationTables")
+    classpath = sourceSets.main.runtimeClasspath
+
     mainClass.set("org.isaqb.asciidoc.Main")
-    applicationDefaultJvmArgs = [
+    jvmArgs = [
         """-DprojectVersion=${project.version}""",
         """-DcurriculumFileName=${curriculumFileName}""",
         """-DversionDate=${versionDate}""",
@@ -40,20 +44,23 @@ application {
         """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
 }
 
-task generateTranslationTables (type: JavaExec) {
+tasks.register('generateTranslationTables', JavaExec) {
     dependsOn tasks.compileGroovy
     jvmArgs = ['--add-opens', 'java.base/java.lang=ALL-UNNAMED',
-    '--add-opens', 'java.base/java.io=ALL-UNNAMED',
-    '--add-opens', 'java.base/java.util=ALL-UNNAMED']
+               '--add-opens', 'java.base/java.io=ALL-UNNAMED',
+               '--add-opens', 'java.base/java.util=ALL-UNNAMED']
     classpath = sourceSets.main.runtimeClasspath
     mainClass = 'Translator'
 }
+
+apply from: 'scripts/sortTermsAlphabetically.gradle'
+apply from: 'scripts/generateTermTables.gradle'
 
 
 tasks.register('buildDocs') {
     description = 'Grouping task for generating all languages in several formats'
     group = 'documentation'
-    dependsOn "generateTranslationTables", "run"
+    dependsOn "sortTermsAlphabetically", "generateTranslationTables", "createFiles"
 }
 
 defaultTasks "buildDocs"
