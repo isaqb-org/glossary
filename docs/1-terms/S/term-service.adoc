@@ -11,6 +11,8 @@ Typical examples of externally accessible services are web services, network ser
 
 (based on link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
 
+Services can be organized to primarily offer procedures (i.e. link:https://en.wikipedia.org/wiki/Web_service[web services], link:https://en.wikipedia.org/wiki/SOAP[SOAP] or link:https://en.wikipedia.org/wiki/GraphQL[GraphQL]) or resources (i.e. link:https://en.wikipedia.org/wiki/REST[REST]).
+
 // end::EN[]
 
 // tag::DE[]
@@ -23,5 +25,7 @@ Idealerweise abstrahiert ein Dienst die interne, technische Funktion soweit, das
 Typische Beispiele für extern erreichbare Dienste sind Webservices, Netzwerkdienste, Systemdienste oder auch Telekommunikationsdienste.
 
 (basierend auf link:https://de.wikipedia.org/wiki/Dienst_(Informatik)[Wikipedia])
+
+Dienste können so organisiert sein, dass sie primär Prozeduren anbieten (i.e. link:https://de.wikipedia.org/wiki/Webservice[Webservices], link:https://de.wikipedia.org/wiki/SOAP[SOAP] oder link:https://de.wikipedia.org/wiki/GraphQL[GraphQL]) oder Ressourcen (i.e. link:https://de.wikipedia.org/wiki/Representational_State_Transfer[REST]).
 
 // end::DE[]
