@@ -4,3 +4,4 @@
 // include::term-XX.adoc[{include_configuration}]
 
 include::term-kerckhoffs-principle.adoc[{include_configuration}]
+include::term-kiss-principle.adoc[{include_configuration}]

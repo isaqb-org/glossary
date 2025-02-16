@@ -1,0 +1,21 @@
+[#term-kiss-principle]
+
+// tag::EN[]
+==== KISS
+
+KISS ("Keep It Simple, Stupid") is a software development principle
+that encourages keeping systems and code as simple as possible.
+The goal is to avoid unnecessary complexity,
+improve maintainability, and reduce potential sources of errors.
+
+// end::EN[]
+
+// tag::DE[]
+==== KISS Prinzip
+
+KISS („Keep It Simple, Stupid“) ist ein Prinzip aus der Softwareentwicklung,
+das dazu ermutigt, Systeme und Code so einfach wie möglich zu halten.
+Ziel ist es, unnötige Komplexität zu vermeiden,
+die Wartbarkeit zu verbessern und Fehlerquellen zu reduzieren.
+
+// end::DE[]
