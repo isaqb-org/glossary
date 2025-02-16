@@ -1,0 +1,25 @@
+[#term-yagni-principle]
+
+// tag::EN[]
+
+==== YAGNI
+
+YAGNI ("You Ain’t Gonna Need It") is a principle from Extreme Programming (XP)
+that advises against implementing functionality
+unless it is actually needed.
+The goal is to reduce unnecessary complexity
+and keep the codebase simple and maintainable.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== YAGNI
+
+YAGNI („You Ain’t Gonna Need It“) ist ein Prinzip aus Extreme Programming (XP),
+das besagt, dass Funktionalität nur dann implementiert werden sollte,
+wenn sie tatsächlich benötigt wird – und nicht auf Vorrat.
+Ziel ist es, unnötige Komplexität zu vermeiden
+und den Code schlank und wartbar zu halten.
+
+// end::DE[]
