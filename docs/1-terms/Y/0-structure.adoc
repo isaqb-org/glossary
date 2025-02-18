@@ -1,0 +1,6 @@
+=== Y
+
+// Template for newly added terms
+// include::term-XX.adoc[{include_configuration}]
+
+include::term-yagni-principle.adoc[{include_configuration}]
