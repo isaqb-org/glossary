@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Hyrums Law
 
-Hyrums Law (named after Google engineer Hyrum Wright) states that with a large enough number of consumers, every observable behavior of your interface will be dependended upon by somebody.
+Hyrums Law (named after Google engineer Hyrum Wright) states that with a large enough number of consumers, every observable behavior of your interface will be depended upon by somebody.
 The implication of Hyrums Law is that every version that changes observable behavior has the potential to break consumers, even if it's a change that is covered by a forward-compatible design of the interface.
 https://www.youtube.com/watch?v=5Wdgjw6IGDM[Here's a video with Hyrum Wright speaking about "Hyrum's Law: Hyrum Wright on Programming over Time".]
 
