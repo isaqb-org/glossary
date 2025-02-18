@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=5Wdgjw6IGDM[Here's a video with Hyrum Wright spe
 // tag::DE[]
 ==== Hyrums Law
 
-Hyrums Law (benannt nach dem Google-Ingenieur Hyrum Wright) besagt, dass bei einer ausreichend großen Anzahl von Nutzern irgendjemand von jedem beobachtbare Verhalten einer Schnittstelle abhängen wird.
+Hyrums Law (benannt nach dem Google-Ingenieur Hyrum Wright) besagt, dass bei einer ausreichend großen Anzahl von Nutzern irgendjemand von jedem beobachtbaren Verhalten einer Schnittstelle abhängen wird.
 Die Implikation von Hyrums Gesetz ist, dass jede Version, die beobachtbares Verhalten ändert, das Potenzial hat, Verbraucher zu brechen, selbst wenn es eine Änderung ist, die durch ein vorwärtskompatibles Design der Schnittstelle abgedeckt ist.
 https://www.youtube.com/watch?v=5Wdgjw6IGDM[Hier ist ein (englisches) Video in dem Hyrum Wright über Hyrums Law spricht: "Hyrum's Law: Hyrum Wright on Programming over Time".]
 
