@@ -1,0 +1,17 @@
+[#term-goodharts-law]
+
+// tag::EN[]
+==== Goodharts Law
+
+Goodharts Law (named after British economist Charles Goodhart,) states that "when a measure becomes a target, it ceases to be a good measure."
+The reasoning behind this is that once a measure is used as a metric for some kind of performance, there will be some focus on improving the metric instead of following the initial rationale, which was improving that which is measured by the metric.
+
+// end::EN[]
+
+// tag::DE[]
+==== Goodharts Law
+
+Goodharts Law (benannt nach dem britischen Wirtschaftswissenschaftler Charles Goodhart) besagt, dass "wenn ein Messwert ein Ziel wird, hört er auf, eine guter Messwert zu sein".
+Dahinter steht die Überlegung, dass, sobald ein Messwert als Maßstab für eine bestimmte Art von Leistung verwendet wird, ein Schwerpunkt auf die Verbesserung des Messwerts gelegt werden wird, anstatt dem ursprünglichen Grundgedanken zu folgen, der darin bestand, das zu verbessern, was durch den Messwert gemessen wird.
+
+// end::DE[]
