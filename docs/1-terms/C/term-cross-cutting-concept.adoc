@@ -3,19 +3,13 @@
 // tag::EN[]
 ==== Cross-Cutting Concept
 
-See <<term-concept,concept>>.
-
-Synonym: principle, rule.
-
+A solution approach to address a specific <<term-cross-cutting-concern,cross-cutting concern>>.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Querschnittskonzept
 
-Siehe <<term-concept,Konzept>>
-
-Synonym: Prinzip, Regel.
-
+Ein Lösungsansatz, um ein spezifisches <<term-cross-cutting-concern,Querschnittsthema>> zu handhaben.
 
 // end::DE[] 
