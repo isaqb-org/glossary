@@ -3,22 +3,20 @@
 // tag::EN[]
 ==== Cross-Cutting Concern
 
-Functionality of the architecture or system that affects several elements.
+A topic from the problem space that concerns multiple parts, elements, processes, activities or stakeholders of the system.
 Examples of such concerns are logging, transactions, security, exception handling, caching etc.
 
-Often these concerns will be addressed in systems via <<term-concept,concepts>>.
+Often these concerns will be addressed in systems via <<term-cross-cutting-concept,cross-cutting concepts>>.
 
 
 // end::EN[]
 
 // tag::DE[]
-==== Querschnittsbelang
+==== Querschnittsthema
 
-Funktionalität der Architektur oder des Systems, die mehrere Elemente
-betrifft. Beispiele für diese Belange sind Logging, Transaktionen,
-Sicherheit, Ausnahmebehandlung, Caching etc.
+Ein Thema des Problemraums, das mehrere Teile, Elemente, Prozesse, Aktivitäten oder Stakeholder des Systems betrifft.
+Beispiele für solche Themen sind Logging, Transaktionen, Sicherheit, Ausnahmebehandlung, Caching etc.
 
-Siehe auch <<term-concept,Konzept>>.
-
+Oft werden solche Themen in Systemen durch <<term-cross-cutting-concept,Querschnittskonzepte>> behandelt.
 
 // end::DE[] 
