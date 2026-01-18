@@ -17,6 +17,6 @@ Dieses Entwurfsprinzip stellt sicher, dass Zustände nicht auftreten können, di
 Dies wird vorzugsweise erreicht, indem die Typen, das Datenschema oder das Datenbankschema entsprechend gestaltet werden.
 Falls dies nicht möglich ist, sollte das System die Zustände vor der Konstruktion validieren, nicht hinterher.
 
-See link:https://blog.janestreet.com/effective-ml-revisited/[Effective ML Revisited], link:https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/[Designing with types: Making illegal states unrepresentable], https://inside.java/2024/06/03/dop-v1-1-illegal-states/[Make Illegal States Unrepresentable - Data-Oriented Programming], link:https://funktionale-programmierung.de/2023/01/19/kotlin-validation.html[Funktionale Validierung in Kotlin], and https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/[Parse, don’t validate].
+Siehe link:https://blog.janestreet.com/effective-ml-revisited/[Effective ML Revisited], link:https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable/[Designing with types: Making illegal states unrepresentable], https://inside.java/2024/06/03/dop-v1-1-illegal-states/[Make Illegal States Unrepresentable - Data-Oriented Programming], link:https://funktionale-programmierung.de/2023/01/19/kotlin-validation.html[Funktionale Validierung in Kotlin], and https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/[Parse, don’t validate].
 // end::DE[]
 
