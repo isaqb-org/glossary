@@ -1,0 +1,23 @@
+[#term-invariant]
+
+// tag::EN[]
+==== Invariant
+
+A condition or property that must always remain true throughout the lifetime of a system, component, or object, regardless of which operations are performed.
+Invariants represent guarantees about system state that are actively maintained and protected by <<term-make-illegal-states-unrepresentable,making illegal states unrepresentable>> or by actively preventing state transitions that would violate the invariant.
+
+They differ from validations in their scope and enforcement: while validations check whether data meets certain criteria (at input boundaries or elsewhere), invariants are structural guarantees that prevent the system from ever reaching invalid states.
+Algebraic data types, especially <<term-sum,sum types>> and <<term-product,product types>>, help enforce invariants at design- and compile-time rather than runtime.
+
+// end::EN[]
+
+// tag::DE[]
+==== Invariante
+
+Eine Bedingung oder Eigenschaft, die während der gesamten Lebensdauer eines Systems, einer Komponente oder eines Objekts immer wahr bleiben muss, unabhängig davon, welche Operationen ausgeführt werden.
+Invarianten stellen Garantien über den Systemzustand dar, die aktiv aufrechterhalten und geschützt werden, indem sie <<term-make-illegal-states-unrepresentable,illegale Zustände nicht darstellbar machen>> oder aktiv Zustandsübergänge verhindern, welche die Invariante verletzen würden.
+
+Sie unterscheiden sich von Validierungen in ihrem Geltungsbereich und ihrer Durchsetzung: Während Validierungen prüfen, ob Daten bestimmte Kriterien erfüllen (an Input-Grenzen oder anderswo), sind Invarianten strukturelle Garantien, die verhindern, dass das System jemals ungültige Zustände erreicht.
+Algebraische Datentypen, insbesondere <<term-sum,Summentypen>> und <<term-product,Produkttypen>>, helfen dabei, Invarianten zur Design- und Compile-Zeit statt zur Laufzeit durchzusetzen.
+
+// end::DE[]
