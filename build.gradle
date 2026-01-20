@@ -31,14 +31,10 @@ dependencies {
     testImplementation 'org.spockframework:spock-core'
 }
 
-tasks.register('createFiles') {
-    dependsOn 'generateTranslationTables', 'sortTermsAlphabetically', ':gradle-tools:buildDocs'
-}
-
 // Ensure buildDocs runs AFTER the preparation tasks
 gradle.projectsEvaluated {
     project(':gradle-tools').tasks.named('buildDocs') {
-        mustRunAfter(':generateTranslationTables', ':sortTermsAlphabetically')
+        dependsOn ':generateTranslationTables', ':sortTermsAlphabetically'
     }
 }
 
