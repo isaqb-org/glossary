@@ -4,3 +4,6 @@
 [submodule "pdf-theme"]
 	path = pdf-theme
 	url = https://github.com/isaqb-org/pdf-theme
+[submodule "gradle-tools"]
+	path = gradle-tools
+	url = https://github.com/isaqb-org/gradle-tools
