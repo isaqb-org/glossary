@@ -38,7 +38,7 @@ git clone git@github.com:isaqb-org/glossary.git --recursive
 Via HTTPS:
 git clone https://github.com/isaqb-org/glossary.git --recursive
 ```
-You can then build the glossary via `./gradlew buildDocs` to build both the English and German version.
+You can then build the glossary via `./gradle-tools/gradlew buildDocs` to build both the English and German version.
 
 
 ## Source Code Organization

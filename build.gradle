@@ -1,47 +1,41 @@
-import java.text.SimpleDateFormat
-
 plugins {
-    id "java"
-    id "application"
     id "groovy"
 }
 
-def group = "org.isaqb"
-def releaseVersion = System.getenv("RELEASE_VERSION")
-def localVersion = "LocalBuild"
-project.version = releaseVersion == null ? localVersion : releaseVersion
-def curriculumFileName = "glossary"
-def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
-def languages = ["DE", "EN"]
+ext {
+    curriculumFileName = "glossary"
+
+    // if you only have one single language, remove either DE or EN. If you want support for other
+    // translations, make sure to add them here.
+    languages = ["DE", "EN"]
+
+    // you can define several additional tags that will each be used to create a separate resulting
+    // html and pdf file. The following example will build files without the REMARKS suffix (regular files)
+    // and those with the REMARKS-suffix. It will then also render content which is enclosed in
+    // ifeval::["{suffix}" == "REMARKS"] .... endif::[]
+    //
+    // suffixTags = ["REMARKS"]
+    suffixTags = [""]
+}
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation("org.asciidoctor:asciidoctorj:2.5.10")
-    implementation("org.asciidoctor:asciidoctorj-pdf:2.3.9")
     implementation platform('org.apache.groovy:groovy-bom:4.0.24')
     implementation 'org.apache.groovy:groovy'
-    implementation 'org.apache.groovy:groovy-json:3.0.23'
-    testImplementation platform("org.spockframework:spock-bom:2.3-groovy-4.0")
-    testImplementation "org.spockframework:spock-core"
-    testImplementation "org.apache.groovy:groovy-json:3.0.23"
+    implementation 'org.apache.groovy:groovy-json'
+
+    testImplementation platform('org.spockframework:spock-bom:2.3-groovy-4.0')
+    testImplementation 'org.spockframework:spock-core'
 }
 
-tasks.register('createFiles', JavaExec) {
-
-    mustRunAfter("sortTermsAlphabetically", "generateTranslationTables")
-    classpath = sourceSets.main.runtimeClasspath
-
-    mainClass.set("org.isaqb.asciidoc.Main")
-    jvmArgs = [
-        """-DprojectVersion=${project.version}""",
-        """-DcurriculumFileName=${curriculumFileName}""",
-        """-DversionDate=${versionDate}""",
-        """-Dlanguages=${languages.join(',')}""",
-        """--add-opens""", """java.base/sun.nio.ch=ALL-UNNAMED""",
-        """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
+// Ensure buildDocs runs AFTER the preparation tasks
+gradle.projectsEvaluated {
+    project(':gradle-tools').tasks.named('buildDocs') {
+        dependsOn ':generateTranslationTables', ':sortTermsAlphabetically'
+    }
 }
 
 tasks.register('generateTranslationTables', JavaExec) {
@@ -55,12 +49,3 @@ tasks.register('generateTranslationTables', JavaExec) {
 
 apply from: 'scripts/sortTermsAlphabetically.gradle'
 apply from: 'scripts/generateTermTables.gradle'
-
-
-tasks.register('buildDocs') {
-    description = 'Grouping task for generating all languages in several formats'
-    group = 'documentation'
-    dependsOn "sortTermsAlphabetically", "generateTranslationTables", "createFiles"
-}
-
-defaultTasks "buildDocs"
