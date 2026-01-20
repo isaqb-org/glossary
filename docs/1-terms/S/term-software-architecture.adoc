@@ -38,7 +38,7 @@ to its environment: data, control flow or events are transferred to
 and from maybe different kinds of neighbours.
 * Principles: Rules or conventions that hold for a system or several parts of it.
 Decision or definition, usually valid for several elements of the system. Often
-called <<term-concept,concepts>> or even _solution patterns_. Principles (concepts) are the foundation for <<term-conceptual-integrity,conceptual integrity>>.
+called <<term-cross-cutting-concept,crosss-cutting concepts>> or even _solution patterns_. Principles (concepts) are the foundation for <<term-conceptual-integrity,conceptual integrity>>.
 
 
 The _Software Engineering Institute_
@@ -93,7 +93,7 @@ unterschiedliche Arten von Nachbarn und von diesen übertragen.
 * Prinzipien: Regeln oder Konventionen, die für ein System oder
 mehrere Teile eines Systems gelten. Entscheidung oder Definition,
 die in der Regel für mehrere Elemente des Systems gültig ist. Häufig
-<<term-concept,Konzepte>> oder sogar _Lösungsmuster_ genannt. Prinzipien (Konzepte)
+<<term-cross-cutting-concept,Querschnittskonzepte>> oder sogar _Lösungsmuster_ genannt. Prinzipien (Konzepte)
 bilden die Grundlage für <<term-conceptual-integrity,konzeptionelle Integrität>>.
 
 Das _Software Engineering Institute_ führt eine link:https://www.sei.cmu.edu/architecture/start/glossary/classicdefs.cfm[Sammlung weiterer Definitionen].
