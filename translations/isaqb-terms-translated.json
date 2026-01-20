@@ -1,854 +1,901 @@
 [
-  {
-    "en": "Accessibility",
-    "de": [
-      "Barrierefreiheit",
-      "Zugänglichkeit"
-    ]
-  },
-  {
-    "en": "Accountability",
-    "de": [
-      "Rechenschaft",
-      "Verantwortlichkeit"
-    ]
-  },
-  {
-    "en": "Accreditation contract",
-    "de": "Akkreditierungsvertrag"
-  },
-  {
-    "en": "Accreditation fee",
-    "de": "Akkreditierungsgebühr"
-  },
-  {
-    "en": "Action",
-    "de": "Maßnahme"
-  },
-  {
-    "en": "Adaptability",
-    "de": "Adaptierbarkeit"
-  },
-  {
-    "en": "Adaption",
-    "de": "Anpassung"
-  },
-  {
-    "en": "Adequacy",
-    "de": "Angemessenheit"
-  },
-  {
-    "en": "Analysability",
-    "de": "Analysierbarkeit"
-  },
-  {
-    "en": "Approach",
-    "de": "Ansatz"
-  },
-  {
-    "en": "Appropriateness",
-    "de": "Angemessenheit"
-  },
-  {
-    "en": "Appropriateness Recognizability",
-    "de": [
-      "Erkennbarkeit der Brauchbarkeit",
-      "Verständlichkeit"
-    ]
-  },
-  {
-    "en": "Architectural objective",
-    "de": "Architekturziel"
-  },
-  {
-    "en": "Architectural pattern",
-    "de": "Architekturmuster"
-  },
-  {
-    "en": "Architectural view",
-    "de": [
-      "Architektursicht",
-      "Sicht"
-    ]
-  },
-  {
-    "en": "Architecture assessment",
-    "de": [
-      "Architekturanalyse",
-      "Architekturbewertung"
-    ]
-  },
-  {
-    "en": "Architecture evaluation",
-    "de": [
-      "Architekturbewertung",
-      "Architekturanalyse"
-    ]
-  },
-  {
-    "en": "Architecture objective",
-    "de": "Architekturziel"
-  },
-  {
-    "en": "Articles of assocation",
-    "de": "Satzung des Vereins"
-  },
-  {
-    "en": "Artifact",
-    "de": "Artefakt"
-  },
-  {
-    "en": "Aspect",
-    "de": [
-      "Aspekt",
-      "Belang"
-    ]
-  },
-  {
-    "en": "Assessment",
-    "de": [
-      "Bewertung",
-      "Begutachtung",
-      "Einschätzung",
-      "Untersuchung"
-    ]
-  },
-  {
-    "en": "Association",
-    "de": [
-      "Verein",
-      "Beziehung"
-    ]
-  },
-  {
-    "en": "Attack Tree",
-    "de": "Angriffsbäume"
-  },
-  {
-    "en": "Authenticity",
-    "de": "Authentifizierbarkeit"
-  },
-  {
-    "en": "Availability",
-    "de": "Verfügbarkeit"
-  },
-  {
-    "en": "Bounded Context",
-    "de": "Kontextgrenze"
-  },
-  {
-    "en": "Building block",
-    "de": "Baustein"
-  },
-  {
-    "en": "Building block view",
-    "de": "Bausteinsicht"
-  },
-  {
-    "en": "Business",
-    "de": [
-      "Fachlichkeit",
-      "Domäne"
-    ]
-  },
-  {
-    "en": "Business architecture",
-    "de": [
-      "fachliche Architektur",
-      "Geschäftsarchitektur"
-    ]
-  },
-  {
-    "en": "Business context",
-    "de": "Fachlicher Kontext"
-  },
-  {
-    "en": "Cabinet (as methaphor for template)",
-    "de": "Schrank (als Metapher für Template)"
-  },
-  {
-    "en": "Capacity",
-    "de": "Kapazität"
-  },
-  {
-    "en": "Cash audit",
-    "de": "Rechnungsprüfung"
-  },
-  {
-    "en": "Cash auditor",
-    "de": "Rechnungsprüfer"
-  },
-  {
-    "en": "Certification authority",
-    "de": "Zertifizierungsstelle"
-  },
-  {
-    "en": "Certification body",
-    "de": "Zertifizierungsstelle"
-  },
-  {
-    "en": "Chairman",
-    "de": "Vorsitzender"
-  },
-  {
-    "en": "Channel",
-    "de": "Kanal"
-  },
-  {
-    "en": "Cohesion",
-    "de": [
-      "Kohäsion",
-      "innerer Zusammenhalt"
-    ]
-  },
-  {
-    "en": "Commensurability",
-    "de": [
-      "Angemessenheit",
-      "Messbarkeit",
-      "Vergleichbarkeit"
-    ]
-  },
-  {
-    "en": "Compatibility",
-    "de": "Kompatibilität"
-  },
-  {
-    "en": "Compliance",
-    "de": [
-      "Erfüllung",
-      "Einhaltung"
-    ]
-  },
-  {
-    "en": "Component",
-    "de": [
-      "Baustein",
-      "Komponente"
-    ]
-  },
-  {
-    "en": "Confidentiality",
-    "de": "Vertraulichkeit"
-  },
-  {
-    "en": "Constraint",
-    "de": [
-      "Randbedingung",
-      "Einschränkung"
-    ]
-  },
-  {
-    "en": "Concern",
-    "de": "Belang"
-  },
-  {
-    "en": "Context (of a term)",
-    "de": "Einordnung (eines Begriffes) in einen Zusammenhang"
-  },
-  {
-    "en": "Context view",
-    "de": "Kontextabgrenzung"
-  },
-  {
-    "en": "Coupling",
-    "de": [
-      "Kopplung",
-      "Abhängigkeit"
-    ]
-  },
-  {
-    "en": "Co-Existence",
-    "de": "Koexistenz"
-  },
-  {
-    "en": "Cross-cutting",
-    "de": "Querschnittlich"
-  },
-  {
-    "en": "Curriculum",
-    "de": "Lehrplan"
-  },
-  {
-    "en": "Decomposition",
-    "de": "Zerlegung"
-  },
-  {
-    "en": "Dependency",
-    "de": [
-      "Abhängigkeit",
-      "Beziehung"
-    ]
-  },
-  {
-    "en": "Deployment",
-    "de": "Verteilung"
-  },
-  {
-    "en": "Deployment unit",
-    "de": "Verteilungsartefakt"
-  },
-  {
-    "en": "Deployment view",
-    "de": "Verteilungssicht"
-  },
-  {
-    "en": "Deputy chairman",
-    "de": "Stellvertretender Vorsitzender"
-  },
-  {
-    "en": "Design",
-    "de": "Entwurf"
-  },
-  {
-    "en": "Design approach",
-    "de": [
-      "Entwurfsansatz",
-      "Entwurfsmethodik"
-    ]
-  },
-  {
-    "en": "Design decision",
-    "de": "Entwurfsentscheidung"
-  },
-  {
-    "en": "Design principle",
-    "de": "Entwurfsprinzip"
-  },
-  {
-    "en": "Domain",
-    "de": [
-      "Fachdomäne",
-      "Fachlicher Bereich",
-      "Geschäftsbereich"
-    ]
-  },
-  {
-    "en": "Domain event",
-    "de": "Fachliches Event"
-  },
-  {
-    "en": "Domain-related architecture",
-    "de": "fachliche Architektur"
-  },
-  {
-    "en": "Drawing Tool",
-    "de": "Mal-/Zeichenprogramm"
-  },
-  {
-    "en": "Economicalness",
-    "de": [
-      "Sparsamkeit",
-      "Wirtschaftlichkeit"
-    ]
-  },
-  {
-    "en": "Embedded",
-    "de": "Eingebettet"
-  },
-  {
-    "en": "Encapsulation",
-    "de": "Kapselung"
-  },
-  {
-    "en": "Enterprise IT architecture",
-    "de": "Unternehmens-IT-Architektur"
-  },
-  {
-    "en": "Estimation",
-    "de": "Schätzung"
-  },
-  {
-    "en": "Evaluation",
-    "de": "Bewertung"
-  },
-  {
-    "en": "Examination question",
-    "de": "Prüfungsfrage"
-  },
-  {
-    "en": "Examination rules and regulations",
-    "de": "Prüfungsordnung"
-  },
-  {
-    "en": "Examination sheet",
-    "de": "Prüfungsbogen"
-  },
-  {
-    "en": "Examination task",
-    "de": "Prüfungsaufgabe"
-  },
-  {
-    "en": "Examiner",
-    "de": "Prüfer"
-  },
-  {
-    "en": "Examinee",
-    "de": "Prüfling"
-  },
-  {
-    "en": "Executive board",
-    "de": "Vorstand"
-  },
-  {
-    "en": "Fault Tolerance",
-    "de": "Fehlertoleranz"
-  },
-  {
-    "en": "Fees rules and regulations",
-    "de": "Gebührenordnung"
-  },
-  {
-    "en": "Fitness Function",
-    "de": "Fitnessfunktion"
-  },
-  {
-    "en": "Functional Appropriateness",
-    "de": "Funktionale Angemessenheit"
-  },
-  {
-    "en": "Functional Completeness",
-    "de": "Funktionale Vollständigkeit"
-  },
-  {
-    "en": "Functional Correctness",
-    "de": "Funktionale Korrektheit"
-  },
-  {
-    "en": "Functional Suitability",
-    "de": "Funktionale Eignung"
-  },
-  {
-    "en": "General meeting",
-    "de": "Mitgliederversammlung"
-  },
-  {
-    "en": "Improvement",
-    "de": "Verbesserung"
-  },
-  {
-    "en": "Improvement action",
-    "de": "Verbesserungsmaßnahme"
-  },
-  {
-    "en": "Influencing Factor",
-    "de": "Einflussfaktor"
-  },
-  {
-    "en": "Information hiding principle",
-    "de": "Geheimnisprinzip"
-  },
-  {
-    "en": "Installability",
-    "de": "Installierbarkeit"
-  },
-  {
-    "en": "Integrity",
-    "de": "Integrität"
-  },
-  {
-    "en": "Interdependency (between design decisions)",
-    "de": "Abhängigkeit (zwischen Entwurfsentscheidungen)"
-  },
-  {
-    "en": "Interface",
-    "de": "Schnittstelle"
-  },
-  {
-    "en": "Interface description",
-    "de": [
-      "Schnittstellenbeschreibung",
-      "Schnittstellendokumentation"
-    ]
-  },
-  {
-    "en": "Interoperability",
-    "de": "Interoperabilität"
-  },
-  {
-    "en": "Learnability",
-    "de": "Erlernbarkeit"
-  },
-  {
-    "en": "Learning goal",
-    "de": "Lernziel"
-  },
-  {
-    "en": "Licensee",
-    "de": "Lizenznehmer"
-  },
-  {
-    "en": "License fee",
-    "de": "Akkreditierungsgebühr"
-  },
-  {
-    "en": "Licensing agreement",
-    "de": [
-      "Lizenzvertrag",
-      "Lizenzvereinbarung",
-      "Akkreditierungsvertrag"
-    ]
-  },
-  {
-    "en": "Local court",
-    "de": "Amtsgericht"
-  },
-  {
-    "en": "Maintainability",
-    "de": "Wartbarkeit"
-  },
-  {
-    "en": "Maturity",
-    "de": "Reifegrad"
-  },
-  {
-    "en": "Means for describing",
-    "de": "Beschreibungsmittel"
-  },
-  {
-    "en": "Means for documenting",
-    "de": "Beschreibungsmittel"
-  },
-  {
-    "en": "Measurability",
-    "de": "Messbarkeit"
-  },
-  {
-    "en": "Members' meeting",
-    "de": "Mitgliederversammlung"
-  },
-  {
-    "en": "message-driven",
-    "de": "Nachrichten-zentrisch"
-  },
-  {
-    "en": "Modifiability",
-    "de": "Modifizierbarkeit"
-  },
-  {
-    "en": "Module",
-    "de": [
-      "Komponente",
-      "Modul",
-      "Baustein"
-    ]
-  },
-  {
-    "en": "Modeling Tool",
-    "de": "Modellierungswerkzeug"
-  },
-  {
-    "en": "Modularity",
-    "de": "Modularität"
-  },
-  {
-    "en": "Node",
-    "de": "Knoten"
-  },
-  {
-    "en": "Non-exclusive license",
-    "de": "Einfache Lizenz"
-  },
-  {
-    "en": "Non-profit",
-    "de": "Gemeinnützig"
-  },
-  {
-    "en": "Non-repudiation",
-    "de": "Nichtabstreitbarkeit"
-  },
-  {
-    "en": "Normal case",
-    "de": "Normalfall"
-  },
-  {
-    "en": "Notification",
-    "de": "Benachrichtigung"
-  },
-  {
-    "en": "Objective",
-    "de": "Ziel"
-  },
-  {
-    "en": "Operability",
-    "de": "Bedienbarkeit"
-  },
-  {
-    "en": "Operational processes",
-    "de": "Betriebsprozesse (von Software)"
-  },
-  {
-    "en": "Pattern",
-    "de": "Muster"
-  },
-  {
-    "en": "Pattern language",
-    "de": [
-      "Mustersprache",
-      "Musterfamilie"
-    ]
-  },
-  {
-    "en": "Performance Efficiency",
-    "de": [
-      "Leistungseffizienz",
-      "Performance"
-    ]
-  },
-  {
-    "en": "Perspective",
-    "de": "Perspektive"
-  },
-  {
-    "en": "Portability",
-    "de": "Portierbarkeit"
-  },
-  {
-    "en": "Principle",
-    "de": [
-      "Prinzip",
-      "Konzept"
-    ]
-  },
-  {
-    "en": "Quality attribute",
-    "de": [
-      "Qualitätsmerkmal",
-      "Qualitätseigenschaft"
-    ]
-  },
-  {
-    "en": "Quality characteristic",
-    "de": [
-      "Qualitätsmerkmal",
-      "Qualitätseigenschaft"
-    ]
-  },
-  {
-    "en": "Quality feature",
-    "de": [
-      "Qualitätsmerkmal",
-      "Qualitätseigenschaft"
-    ]
-  },
-  {
-    "en": "Rationale",
-    "de": [
-      "Begründung",
-      "Erklärung"
-    ]
-  },
-  {
-    "en": "Real-time system",
-    "de": "Echtzeitsystem"
-  },
-  {
-    "en": "Recoverability",
-    "de": "Widerherstellbarkeit"
-  },
-  {
-    "en": "Registered trademark",
-    "de": "Marke (gesetzlich geschützt)"
-  },
-  {
-    "en": "Relationship",
-    "de": "Beziehung"
-  },
-  {
-    "en": "Relationship (kind of)",
-    "de": "Beziehungsart"
-  },
-  {
-    "en": "Reliability",
-    "de": "Zuverlässigkeit"
-  },
-  {
-    "en": "Replaceability",
-    "de": "Austauschbarkeit"
-  },
-  {
-    "en": "Repository",
-    "de": "Ablage"
-  },
-  {
-    "en": "Requirement",
-    "de": "Anforderung"
-  },
-  {
-    "en": "resilient",
-    "de": [
-      "unverwüstlich",
-      "selbstwiederherstellend"
-    ]
-  },
-  {
-    "en": "Resolution",
-    "de": "Beschluss"
-  },
-  {
-    "en": "Resource Utilization",
-    "de": "Ressourcenverbrauch"
-  },
-  {
-    "en": "Responsibility",
-    "de": "Verantwortlichkeit"
-  },
-  {
-    "en": "responsive",
-    "de": "reaktionsfähig"
-  },
-  {
-    "en": "Reusability",
-    "de": "Wiederverwendbarkeit"
-  },
-  {
-    "en": "Rights of use",
-    "de": "Nutzungsrecht"
-  },
-  {
-    "en": "Runtime",
-    "de": "Laufzeit"
-  },
-  {
-    "en": "Runtime view",
-    "de": "Laufzeitsicht"
-  },
-  {
-    "en": "Security",
-    "de": "Sicherheit"
-  },
-  {
-    "en": "Security Goals",
-    "de": [
-      "Schutzziele",
-      "Sachziele"
-    ]
-  },
-  {
-    "en": "Skill",
-    "de": [
-      "Fähigkeit",
-      "Fertigkeit"
-    ]
-  },
-  {
-    "en": "Specification (of software architecture)",
-    "de": "Beschreibung (von Softwarearchitektur)"
-  },
-  {
-    "en": "sponsoring (board) member",
-    "de": "materiell förderndes Mitglied"
-  },
-  {
-    "en": "statutory",
-    "de": "satzungsgemäß"
-  },
-  {
-    "en": "Structure",
-    "de": "Struktur"
-  },
-  {
-    "en": "Task",
-    "de": "Aufgabe"
-  },
-  {
-    "en": "Team regulations",
-    "de": "Arbeitsgruppenordnung"
-  },
-  {
-    "en": "Technical context",
-    "de": "Technischer Kontext"
-  },
-  {
-    "en": "Term",
-    "de": "Begriff"
-  },
-  {
-    "en": "Testability",
-    "de": "Testbarkeit"
-  },
-  {
-    "en": "Thriftyness",
-    "de": [
-      "Sparsamkeit",
-      "Wirtschaftlichkeit"
-    ]
-  },
-  {
-    "en": "Time Behaviour",
-    "de": "Zeitverhalten"
-  },
-  {
-    "en": "Tools",
-    "de": [
-      "Arbeitsmittel",
-      "Werkzeug"
-    ]
-  },
-  {
-    "en": "Tools-and-material-approach",
-    "de": "Werkzeug-Material-Ansatz"
-  },
-  {
-    "en": "Tradeoff",
-    "de": [
-      "Kompromiss",
-      "Abwägung",
-      "Wechselwirkung"
-    ]
-  },
-  {
-    "en": "Training provider",
-    "de": "Schulungsanbieter"
-  },
-  {
-    "en": "Treasurer",
-    "de": "Schatzmeister"
-  },
-  {
-    "en": "Ubiquitous language",
-    "de": "Allgegenwärtige Sprache"
-  },
-  {
-    "en": "Usability",
-    "de": [
-      "Benutzbarkeit",
-      "Benutzerfreundlichkeit"
-    ]
-  },
-  {
-    "en": "User Error Protection",
-    "de": "Schutz vor Fehlbedienung"
-  },
-  {
-    "en": "User Interface Aesthetics",
-    "de": "Ästhetik der Benutzeroberfläche"
-  },
-  {
-    "en": "Uses relationship",
-    "de": [
-      "Benutzt-Beziehung",
-      "Nutzungsbeziehung"
-    ]
-  },
-  {
-    "en": "View",
-    "de": ["Sicht","Architektursicht"]
-  },
-  {
-    "en": "Working group",
-    "de": "Arbeitsgruppe"
-  },
-  {
-    "en": "Working group head",
-    "de": "Arbeitsgruppenleiter"
-  },
-  {
-    "en": "Workflow management",
-    "de": "Ablaufsteuerung"
-  },
-  { "en": "Working environment",
-    "de": "Arbeitsumgebung"
-  }
-
+    {
+        "en": "Accessibility",
+        "de":
+        [
+            "Barrierefreiheit",
+            "Zugänglichkeit"
+        ]
+    },
+    {
+        "en": "Accountability",
+        "de":
+        [
+            "Rechenschaft",
+            "Verantwortlichkeit"
+        ]
+    },
+    {
+        "en": "Accreditation contract",
+        "de": "Akkreditierungsvertrag"
+    },
+    {
+        "en": "Accreditation fee",
+        "de": "Akkreditierungsgebühr"
+    },
+    {
+        "en": "Action",
+        "de": "Maßnahme"
+    },
+    {
+        "en": "Adaptability",
+        "de": "Adaptierbarkeit"
+    },
+    {
+        "en": "Adaption",
+        "de": "Anpassung"
+    },
+    {
+        "en": "Adequacy",
+        "de": "Angemessenheit"
+    },
+    {
+        "en": "Analysability",
+        "de": "Analysierbarkeit"
+    },
+    {
+        "en": "Approach",
+        "de": "Ansatz"
+    },
+    {
+        "en": "Appropriateness",
+        "de": "Angemessenheit"
+    },
+    {
+        "en": "Appropriateness Recognizability",
+        "de":
+        [
+            "Erkennbarkeit der Brauchbarkeit",
+            "Verständlichkeit"
+        ]
+    },
+    {
+        "en": "Architectural objective",
+        "de": "Architekturziel"
+    },
+    {
+        "en": "Architectural pattern",
+        "de": "Architekturmuster"
+    },
+    {
+        "en": "Architectural view",
+        "de":
+        [
+            "Architektursicht",
+            "Sicht"
+        ]
+    },
+    {
+        "en": "Architecture assessment",
+        "de":
+        [
+            "Architekturanalyse",
+            "Architekturbewertung"
+        ]
+    },
+    {
+        "en": "Architecture evaluation",
+        "de":
+        [
+            "Architekturbewertung",
+            "Architekturanalyse"
+        ]
+    },
+    {
+        "en": "Architecture objective",
+        "de": "Architekturziel"
+    },
+    {
+        "en": "Articles of assocation",
+        "de": "Satzung des Vereins"
+    },
+    {
+        "en": "Artifact",
+        "de": "Artefakt"
+    },
+    {
+        "en": "Aspect",
+        "de":
+        [
+            "Aspekt",
+            "Belang"
+        ]
+    },
+    {
+        "en": "Assessment",
+        "de":
+        [
+            "Bewertung",
+            "Begutachtung",
+            "Einschätzung",
+            "Untersuchung"
+        ]
+    },
+    {
+        "en": "Association",
+        "de":
+        [
+            "Verein",
+            "Beziehung"
+        ]
+    },
+    {
+        "en": "Attack Tree",
+        "de": "Angriffsbäume"
+    },
+    {
+        "en": "Authenticity",
+        "de": "Authentifizierbarkeit"
+    },
+    {
+        "en": "Availability",
+        "de": "Verfügbarkeit"
+    },
+    {
+        "en": "Bounded Context",
+        "de": "Kontextgrenze"
+    },
+    {
+        "en": "Building block",
+        "de": "Baustein"
+    },
+    {
+        "en": "Building block view",
+        "de": "Bausteinsicht"
+    },
+    {
+        "en": "Business",
+        "de":
+        [
+            "Fachlichkeit",
+            "Domäne"
+        ]
+    },
+    {
+        "en": "Business architecture",
+        "de":
+        [
+            "fachliche Architektur",
+            "Geschäftsarchitektur"
+        ]
+    },
+    {
+        "en": "Business context",
+        "de": "Fachlicher Kontext"
+    },
+    {
+        "en": "Cabinet (as methaphor for template)",
+        "de": "Schrank (als Metapher für Template)"
+    },
+    {
+        "en": "Capacity",
+        "de": "Kapazität"
+    },
+    {
+        "en": "Cash audit",
+        "de": "Rechnungsprüfung"
+    },
+    {
+        "en": "Cash auditor",
+        "de": "Rechnungsprüfer"
+    },
+    {
+        "en": "Certification authority",
+        "de": "Zertifizierungsstelle"
+    },
+    {
+        "en": "Certification body",
+        "de": "Zertifizierungsstelle"
+    },
+    {
+        "en": "Chairman",
+        "de": "Vorsitzender"
+    },
+    {
+        "en": "Channel",
+        "de": "Kanal"
+    },
+    {
+        "en": "Cohesion",
+        "de":
+        [
+            "Kohäsion",
+            "innerer Zusammenhalt"
+        ]
+    },
+    {
+        "en": "Commensurability",
+        "de":
+        [
+            "Angemessenheit",
+            "Messbarkeit",
+            "Vergleichbarkeit"
+        ]
+    },
+    {
+        "en": "Compatibility",
+        "de": "Kompatibilität"
+    },
+    {
+        "en": "Compliance",
+        "de":
+        [
+            "Erfüllung",
+            "Einhaltung"
+        ]
+    },
+    {
+        "en": "Component",
+        "de":
+        [
+            "Baustein",
+            "Komponente"
+        ]
+    },
+    {
+        "en": "Confidentiality",
+        "de": "Vertraulichkeit"
+    },
+    {
+        "en": "Constraint",
+        "de":
+        [
+            "Randbedingung",
+            "Einschränkung"
+        ]
+    },
+    {
+        "en": "Concern",
+        "de": "Belang"
+    },
+    {
+        "en": "Context (of a term)",
+        "de": "Einordnung (eines Begriffes) in einen Zusammenhang"
+    },
+    {
+        "en": "Context view",
+        "de": "Kontextabgrenzung"
+    },
+    {
+        "en": "Coupling",
+        "de":
+        [
+            "Kopplung",
+            "Abhängigkeit"
+        ]
+    },
+    {
+        "en": "Co-Existence",
+        "de": "Koexistenz"
+    },
+    {
+        "en": "Cross-cutting",
+        "de": "Querschnittlich"
+    },
+    {
+        "en": "Curriculum",
+        "de": "Lehrplan"
+    },
+    {
+        "en": "Decomposition",
+        "de": "Zerlegung"
+    },
+    {
+        "en": "Dependency",
+        "de":
+        [
+            "Abhängigkeit",
+            "Beziehung"
+        ]
+    },
+    {
+        "en": "Deployment",
+        "de": "Verteilung"
+    },
+    {
+        "en": "Deployment unit",
+        "de": "Verteilungsartefakt"
+    },
+    {
+        "en": "Deployment view",
+        "de": "Verteilungssicht"
+    },
+    {
+        "en": "Deputy chairman",
+        "de": "Stellvertretender Vorsitzender"
+    },
+    {
+        "en": "Design",
+        "de": "Entwurf"
+    },
+    {
+        "en": "Design approach",
+        "de":
+        [
+            "Entwurfsansatz",
+            "Entwurfsmethodik"
+        ]
+    },
+    {
+        "en": "Design decision",
+        "de": "Entwurfsentscheidung"
+    },
+    {
+        "en": "Design principle",
+        "de": "Entwurfsprinzip"
+    },
+    {
+        "en": "Domain",
+        "de":
+        [
+            "Fachdomäne",
+            "Fachlicher Bereich",
+            "Geschäftsbereich"
+        ]
+    },
+    {
+        "en": "Domain event",
+        "de": "Fachliches Event"
+    },
+    {
+        "en": "Domain-related architecture",
+        "de": "fachliche Architektur"
+    },
+    {
+        "en": "Drawing Tool",
+        "de": "Mal-/Zeichenprogramm"
+    },
+    {
+        "en": "Economicalness",
+        "de":
+        [
+            "Sparsamkeit",
+            "Wirtschaftlichkeit"
+        ]
+    },
+    {
+        "en": "Embedded",
+        "de": "Eingebettet"
+    },
+    {
+        "en": "Encapsulation",
+        "de": "Kapselung"
+    },
+    {
+        "en": "Enterprise IT architecture",
+        "de": "Unternehmens-IT-Architektur"
+    },
+    {
+        "en": "Estimation",
+        "de": "Schätzung"
+    },
+    {
+        "en": "Evaluation",
+        "de": "Bewertung"
+    },
+    {
+        "en": "Examination question",
+        "de": "Prüfungsfrage"
+    },
+    {
+        "en": "Examination rules and regulations",
+        "de": "Prüfungsordnung"
+    },
+    {
+        "en": "Examination sheet",
+        "de": "Prüfungsbogen"
+    },
+    {
+        "en": "Examination task",
+        "de": "Prüfungsaufgabe"
+    },
+    {
+        "en": "Examiner",
+        "de": "Prüfer"
+    },
+    {
+        "en": "Examinee",
+        "de": "Prüfling"
+    },
+    {
+        "en": "Executive board",
+        "de": "Vorstand"
+    },
+    {
+        "en": "Fault Tolerance",
+        "de": "Fehlertoleranz"
+    },
+    {
+        "en": "Fees rules and regulations",
+        "de": "Gebührenordnung"
+    },
+    {
+        "en": "Fitness Function",
+        "de": "Fitnessfunktion"
+    },
+    {
+        "en": "Functional Appropriateness",
+        "de": "Funktionale Angemessenheit"
+    },
+    {
+        "en": "Functional Completeness",
+        "de": "Funktionale Vollständigkeit"
+    },
+    {
+        "en": "Functional Correctness",
+        "de": "Funktionale Korrektheit"
+    },
+    {
+        "en": "Functional Suitability",
+        "de": "Funktionale Eignung"
+    },
+    {
+        "en": "General meeting",
+        "de": "Mitgliederversammlung"
+    },
+    {
+        "en": "Improvement",
+        "de": "Verbesserung"
+    },
+    {
+        "en": "Improvement action",
+        "de": "Verbesserungsmaßnahme"
+    },
+    {
+        "en": "Influencing Factor",
+        "de": "Einflussfaktor"
+    },
+    {
+        "en": "Information hiding principle",
+        "de": "Geheimnisprinzip"
+    },
+    {
+        "en": "Installability",
+        "de": "Installierbarkeit"
+    },
+    {
+        "en": "Integrity",
+        "de": "Integrität"
+    },
+    {
+        "en": "Interdependency (between design decisions)",
+        "de": "Abhängigkeit (zwischen Entwurfsentscheidungen)"
+    },
+    {
+        "en": "Interface",
+        "de": "Schnittstelle"
+    },
+    {
+        "en": "Interface description",
+        "de":
+        [
+            "Schnittstellenbeschreibung",
+            "Schnittstellendokumentation"
+        ]
+    },
+    {
+        "en": "Invariant",
+        "de": "Invariante"
+    },
+    {
+        "en": "Interoperability",
+        "de": "Interoperabilität"
+    },
+    {
+        "en": "Learnability",
+        "de": "Erlernbarkeit"
+    },
+    {
+        "en": "Learning goal",
+        "de": "Lernziel"
+    },
+    {
+        "en": "Licensee",
+        "de": "Lizenznehmer"
+    },
+    {
+        "en": "License fee",
+        "de": "Akkreditierungsgebühr"
+    },
+    {
+        "en": "Licensing agreement",
+        "de":
+        [
+            "Lizenzvertrag",
+            "Lizenzvereinbarung",
+            "Akkreditierungsvertrag"
+        ]
+    },
+    {
+        "en": "Local court",
+        "de": "Amtsgericht"
+    },
+    {
+        "en": "Maintainability",
+        "de": "Wartbarkeit"
+    },
+    {
+        "en": "Maturity",
+        "de": "Reifegrad"
+    },
+    {
+        "en": "Means for describing",
+        "de": "Beschreibungsmittel"
+    },
+    {
+        "en": "Means for documenting",
+        "de": "Beschreibungsmittel"
+    },
+    {
+        "en": "Measurability",
+        "de": "Messbarkeit"
+    },
+    {
+        "en": "Members' meeting",
+        "de": "Mitgliederversammlung"
+    },
+    {
+        "en": "message-driven",
+        "de": "Nachrichten-zentrisch"
+    },
+    {
+        "en": "Modifiability",
+        "de": "Modifizierbarkeit"
+    },
+    {
+        "en": "Module",
+        "de":
+        [
+            "Komponente",
+            "Modul",
+            "Baustein"
+        ]
+    },
+    {
+        "en": "Modeling Tool",
+        "de": "Modellierungswerkzeug"
+    },
+    {
+        "en": "Modularity",
+        "de": "Modularität"
+    },
+    {
+        "en": "Node",
+        "de": "Knoten"
+    },
+    {
+        "en": "Non-exclusive license",
+        "de": "Einfache Lizenz"
+    },
+    {
+        "en": "Non-profit",
+        "de": "Gemeinnützig"
+    },
+    {
+        "en": "Non-repudiation",
+        "de": "Nichtabstreitbarkeit"
+    },
+    {
+        "en": "Normal case",
+        "de": "Normalfall"
+    },
+    {
+        "en": "Notification",
+        "de": "Benachrichtigung"
+    },
+    {
+        "en": "Objective",
+        "de": "Ziel"
+    },
+    {
+        "en": "Operability",
+        "de": "Bedienbarkeit"
+    },
+    {
+        "en": "Operational processes",
+        "de": "Betriebsprozesse (von Software)"
+    },
+    {
+        "en": "Pattern",
+        "de": "Muster"
+    },
+    {
+        "en": "Pattern language",
+        "de":
+        [
+            "Mustersprache",
+            "Musterfamilie"
+        ]
+    },
+    {
+        "en": "Performance Efficiency",
+        "de":
+        [
+            "Leistungseffizienz",
+            "Performance"
+        ]
+    },
+    {
+        "en": "Perspective",
+        "de": "Perspektive"
+    },
+    {
+        "en": "Portability",
+        "de": "Portierbarkeit"
+    },
+    {
+        "en": "Principle",
+        "de":
+        [
+            "Prinzip",
+            "Konzept"
+        ]
+    },
+    {
+        "en": "Quality attribute",
+        "de":
+        [
+            "Qualitätsmerkmal",
+            "Qualitätseigenschaft"
+        ]
+    },
+    {
+        "en": "Quality characteristic",
+        "de":
+        [
+            "Qualitätsmerkmal",
+            "Qualitätseigenschaft"
+        ]
+    },
+    {
+        "en": "Quality feature",
+        "de":
+        [
+            "Qualitätsmerkmal",
+            "Qualitätseigenschaft"
+        ]
+    },
+    {
+        "en": "Rationale",
+        "de":
+        [
+            "Begründung",
+            "Erklärung"
+        ]
+    },
+    {
+        "en": "Real-time system",
+        "de": "Echtzeitsystem"
+    },
+    {
+        "en": "Recoverability",
+        "de": "Widerherstellbarkeit"
+    },
+    {
+        "en": "Registered trademark",
+        "de": "Marke (gesetzlich geschützt)"
+    },
+    {
+        "en": "Relationship",
+        "de": "Beziehung"
+    },
+    {
+        "en": "Relationship (kind of)",
+        "de": "Beziehungsart"
+    },
+    {
+        "en": "Reliability",
+        "de": "Zuverlässigkeit"
+    },
+    {
+        "en": "Replaceability",
+        "de": "Austauschbarkeit"
+    },
+    {
+        "en": "Repository",
+        "de": "Ablage"
+    },
+    {
+        "en": "Requirement",
+        "de": "Anforderung"
+    },
+    {
+        "en": "resilient",
+        "de":
+        [
+            "unverwüstlich",
+            "selbstwiederherstellend"
+        ]
+    },
+    {
+        "en": "Resolution",
+        "de": "Beschluss"
+    },
+    {
+        "en": "Resource Utilization",
+        "de": "Ressourcenverbrauch"
+    },
+    {
+        "en": "Responsibility",
+        "de": "Verantwortlichkeit"
+    },
+    {
+        "en": "responsive",
+        "de": "reaktionsfähig"
+    },
+    {
+        "en": "Reusability",
+        "de": "Wiederverwendbarkeit"
+    },
+    {
+        "en": "Rights of use",
+        "de": "Nutzungsrecht"
+    },
+    {
+        "en": "Runtime",
+        "de": "Laufzeit"
+    },
+    {
+        "en": "Runtime view",
+        "de": "Laufzeitsicht"
+    },
+    {
+        "en": "Security",
+        "de": "Sicherheit"
+    },
+    {
+        "en": "Security Goals",
+        "de":
+        [
+            "Schutzziele",
+            "Sachziele"
+        ]
+    },
+    {
+        "en": "Skill",
+        "de":
+        [
+            "Fähigkeit",
+            "Fertigkeit"
+        ]
+    },
+    {
+        "en": "Specification (of software architecture)",
+        "de": "Beschreibung (von Softwarearchitektur)"
+    },
+    {
+        "en": "sponsoring (board) member",
+        "de": "materiell förderndes Mitglied"
+    },
+    {
+        "en": "statutory",
+        "de": "satzungsgemäß"
+    },
+    {
+        "en": "Structure",
+        "de": "Struktur"
+    },
+    {
+        "en": "Task",
+        "de": "Aufgabe"
+    },
+    {
+        "en": "Team regulations",
+        "de": "Arbeitsgruppenordnung"
+    },
+    {
+        "en": "Technical context",
+        "de": "Technischer Kontext"
+    },
+    {
+        "en": "Term",
+        "de": "Begriff"
+    },
+    {
+        "en": "Testability",
+        "de": "Testbarkeit"
+    },
+    {
+        "en": "Thriftyness",
+        "de":
+        [
+            "Sparsamkeit",
+            "Wirtschaftlichkeit"
+        ]
+    },
+    {
+        "en": "Time Behaviour",
+        "de": "Zeitverhalten"
+    },
+    {
+        "en": "Tools",
+        "de":
+        [
+            "Arbeitsmittel",
+            "Werkzeug"
+        ]
+    },
+    {
+        "en": "Tools-and-material-approach",
+        "de": "Werkzeug-Material-Ansatz"
+    },
+    {
+        "en": "Tradeoff",
+        "de":
+        [
+            "Kompromiss",
+            "Abwägung",
+            "Wechselwirkung"
+        ]
+    },
+    {
+        "en": "Training provider",
+        "de": "Schulungsanbieter"
+    },
+    {
+        "en": "Treasurer",
+        "de": "Schatzmeister"
+    },
+    {
+        "en": "Ubiquitous language",
+        "de": "Allgegenwärtige Sprache"
+    },
+    {
+        "en": "Usability",
+        "de":
+        [
+            "Benutzbarkeit",
+            "Benutzerfreundlichkeit"
+        ]
+    },
+    {
+        "en": "User Error Protection",
+        "de": "Schutz vor Fehlbedienung"
+    },
+    {
+        "en": "User Interface Aesthetics",
+        "de": "Ästhetik der Benutzeroberfläche"
+    },
+    {
+        "en": "Uses relationship",
+        "de":
+        [
+            "Benutzt-Beziehung",
+            "Nutzungsbeziehung"
+        ]
+    },
+    {
+        "en": "View",
+        "de":
+        [
+            "Sicht",
+            "Architektursicht"
+        ]
+    },
+    {
+        "en": "Working group",
+        "de": "Arbeitsgruppe"
+    },
+    {
+        "en": "Working group head",
+        "de": "Arbeitsgruppenleiter"
+    },
+    {
+        "en": "Workflow management",
+        "de": "Ablaufsteuerung"
+    },
+    {
+        "en": "Working environment",
+        "de": "Arbeitsumgebung"
+    }
 ]

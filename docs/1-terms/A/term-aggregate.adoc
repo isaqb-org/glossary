@@ -4,7 +4,7 @@
 
 ==== Aggregate
 
-Aggregate is a building block of <<term-DDD,Domain-Driven Design>>. Aggregates are complex object structures that are made of <<term-entity,entities>> and <<term-value-object,value objects>>. Each aggregate has a root entity and is regarded as one unit when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with invariants.
+Aggregate is a building block of <<term-DDD,Domain-Driven Design>>. Aggregates are complex object structures that are made of <<term-entity,entities>> and <<term-value-object,value objects>>. Each aggregate has a root entity and is regarded as one unit when it comes to changes. An aggregate ensure consistency and integrity of its contained entities with <<term-invariant,invariants>>.
 
 
 
@@ -18,7 +18,7 @@ Ein Aggregat ist ein Baustein des <<term-DDD,Domain-Driven Designs>>. Aggregate 
 aus <<term-entity,Entitäten>> und <<term-value-object,Wertobjekten>>
 bestehen. Jedes Aggregat hat eine Root-Entität und wird in Bezug auf
 Änderungen als Einheit betrachtet. Aggregate stellen die Konsistenz
-und Integrität ihrer enthaltenen Entitäten mit Invarianten sicher.
+und Integrität ihrer enthaltenen Entitäten mit <<term-invariant,Invarianten>> sicher.
 
 
 // end::DE[]
