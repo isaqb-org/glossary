@@ -49,5 +49,3 @@ tasks.register('generateTranslationTables', JavaExec) {
 
 apply from: 'scripts/sortTermsAlphabetically.gradle'
 apply from: 'scripts/generateTermTables.gradle'
-
-defaultTasks "createFiles"
