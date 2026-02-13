@@ -75,7 +75,7 @@ If a single (English) term has multiple translations, as in line 6 (`de: ["Archi
 This file is parsed, lightly validated for syntax errors and then converted  to AsciiDoc, one table per language, currently German ("de") and English ("en").
 
 ### Generating the Translation Tables
-You can build the translation tables by calling `./gradlew generateTranslationTables` (on unix or osx) or `.\gradlew.bat generateTranslationTables` from the command line.
+You can build the translation tables by calling `./gradle-tools/gradlew generateTranslationTables` (on unix or osx) or `.\gradle-tools\gradlew.bat generateTranslationTables` from the command line.
 
 (of course you could use your own installed Gradle, if you prefer so)
 
