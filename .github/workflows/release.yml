@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need full history for tags
+
+      - name: Compute version tag
+        id: version
+        run: |
+          TODAY=$(date -u +"%Y.%m.%d")
+          # List existing tags for today, extract build numbers, find max
+          LAST_BUILD=$(git tag -l "${TODAY}-*" | sed "s/${TODAY}-//" | sort -n | tail -1)
+          if [ -z "$LAST_BUILD" ]; then
+            BUILD=1
+          else
+            BUILD=$((LAST_BUILD + 1))
+          fi
+          TAG="${TODAY}-${BUILD}"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+
+      - name: Create and push tag
+        run: |
+          git tag "${{ steps.version.outputs.tag }}"
+          git push origin "${{ steps.version.outputs.tag }}"
