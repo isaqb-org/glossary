@@ -1,0 +1,107 @@
+// tag::EN[]
+
+=== Stop Calling It "Quality Requirement"
+
+The term "quality" is central to iSAQB's approach to software
+architecture. In the context of our curricula, "a quality is an
+attribute or a property characteristic of an object."
+https://en.wikipedia.org/wiki/Quality_(philosophy)[[Wikipedia]] The
+idea is this: We slice the qualities of a software system into a
+taxonomy of categories, and then apply a toolbox of techniques -
+sometimes sorted by category - to evolve the architecture. Two
+prominent such taxonomies are
+https://www.iso.org/standard/78176.html[ISO 25010:2023] and
+https://quality.arc42.org/[Q42], and they identify categories - called
+"dimensions" in Q42 - such as performance or security.
+
+These taxonomies can serve as guides or checklists as to what
+qualities to cover in requirements engineering, or to make the subject
+of quality scenarios. They also remind us that we need to
+look beyond functionality when it comes to requirements and
+architecture evaluation.
+
+So far so good.  
+
+Now it's not just the term "quality" that features heavily in iSAQB's
+terminology, but more specifically "quality requirement". Before you
+read on, stop for a moment and see if you can come up with a
+definition of the term. Chances are it's "a requirement that's not a
+purely functional requirement". (We try to avoid the term
+"non-functional requirement".)
+
+Unfortunately, this is problematic. Consider the ISO 25010 
+taxonomie: its leftmost category is called "functional
+suitability". While the term is a bit stilted (it was called
+"functionality" in ISO 9126, ISO 25010's predecessor standard) and it
+indeed refers to functionality. (If you think it doesn't, consider how
+you would measure any of its sub-categories without referring to
+functionality.)  In other words, "functionality" is a quality of a
+software system, both intuitively (of course it's a property of a
+software system!)  and authoritatively. Consequently, the term
+"quality requirement" cannot sensibly exclude functional
+requirements. Indeed, most uses of the term "quality requirement" can
+be replaced by simply "requirement", and that's what we did for the
+2025 revision of the iSAQB Foundation curriculum.
+
+This leaves you a bit in a lurch if you've been using the term in ways
+that are important to you. What you should do depends on the
+context. In most situations, you should just say what quality or
+qualities you're referring to - just say "performance requirement" or
+"security requirement".
+
+// end::EN[]
+
+// tag::DE[]
+
+=== Nenn es nicht "Qualitätsanforderung"
+
+Das Wort "Qualität" ist zentral für die Herangehensweise des iSAQB an
+Softwarearchitektur.  Im Kontext unserer Curricula ist "Qualität" ein
+anderes Wort für "Merkmal"
+https://en.wikipedia.org/wiki/Quality_(philosophy)[[Wikipedia]]
+Die Idee ist diese hier: Wir teilen die Qualitäten eines
+Softwaresystems in eine Taxonomie von Kategorien ein, und wenden dann
+einen Werkzeugkasten von Techniken an - manchmal nach Kategorie sortiert
+- um die Architektur weiterzuentwickeln.  Zwei prominente solche
+Taxonomien sind https://www.iso.org/standard/78176.html[ISO 25010:2023] and
+https://quality.arc42.org/[Q42]. Beide führen Kategorien -
+in Q42 "Dimensionen" genannt - wie Performance oder Security auf.
+
+Diese Taxonomien dienen als Leitfäden oder Checklisten für die Auswahl
+von Qualitäten bei der Anforderungserhebung, oder um sie zum Thema von
+Qualitätsszenarien zu machen. Sie erinnern uns außerdem daran, dass
+wir jenseits der Funktionalität schauen müssen, wenn es um
+Anforderungen und Architekturbewertung geht.
+
+So weit, so gut.
+
+Jetzt ist es aber so, dass nicht nur der Begriff "Qualität" eine
+gewichtige Rolle in der iSAQB-Terminologie spielt, sondern auch
+spezifischer "Qualitätsanforderung". Bevor Sie weiterlesen, halten Sie
+kurz inne und überlegen, ob Sie eine Definition dieses Begriffs im
+Kopf haben. Wahrscheinlich ist sie "eine Anforderung, die keine reine
+funktionale Anforderungf ist". (Wir versuchen, den Begriff
+"nicht-funktionale Anforderung" zu vermeiden.)
+
+Leider ist dass problematisch. Betrachten wir die ISO-25010-Taxonomie:
+die Kategorie am linken Rand heißt "funktionale Eignung". Der Begriff
+ist etwas gestelzt (er hieß "Funktionalität" in ISO 9126, dem
+Vorgängestandard von ISO 25010) und er bezieht sich tatsächlich auf
+Funktionalität.  (Wenn Sie das anders sehen, denken Sie darüber nach,
+wie sie die Qualitäten der Unterkategorien von "funktionale Eignung"
+messen würden, ohne sich auf die Funktionalität zu beziehen.)  Anders
+gesagt ist "Funktionalität" eine Qualität des Softwaresystems, sowohl
+intuitiv gesehen (natürlich ist es ein Merkmal eines Softwaresystems!)
+und offiziell. Deswegen kann der Begriff "Qualitätsanforderung"
+vernünftigerweise funktionale Anforderungen nicht ausschließen. In der
+Tat können die meisten Vorkommen des Begriffs "Qualitätsanforderung"
+einfach durch "Anforderung" ersetzt werden, und das haben wir für die
+Revision von 2025 des iSAQB-Foundation-Curriculums auch getan.
+
+Das lässt Sie ein bisschen im Stich, falls Sie den Begriff auf eine
+Art verwenden, die Ihnen wichtig ist.  Was Sie tun sollten, hängt vom
+Kontext ab.  In den meisten Situationen sollten Sie benennen, welche
+Qualität oder Qualitäten Sie meinen - sagen Sie einfach
+"Performance-Anforderung" oder "Security-Anforderung".
+
+// end::DE[]
