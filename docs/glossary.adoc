@@ -26,6 +26,9 @@ toc::[]
 include::0-preamble/0-structure.adoc[{include_configuration}]
 
 <<<
+include::posts/0-structure.adoc[{include_configuration}]
+
+<<<
 :sectnums:
 include::1-terms/0-structure.adoc[{include_configuration}]
 
