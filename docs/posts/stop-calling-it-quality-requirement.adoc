@@ -15,12 +15,11 @@ https://quality.arc42.org/[Q42], and they identify categories - called
 "dimensions" in Q42 - such as performance or security.
 
 These taxonomies can serve as guides or checklists as to what
-qualities to cover in requirements engineering, or to make the subject
-of quality scenarios. They also remind us that we need to
+qualities to cover in requirements engineering, or to make the subject of quality scenarios. They also remind us that we need to
 look beyond functionality when it comes to requirements and
 architecture evaluation.
 
-So far so good.  
+So far so good.
 
 Now it's not just the term "quality" that features heavily in iSAQB's
 terminology, but more specifically "quality requirement". Before you
@@ -29,25 +28,46 @@ definition of the term. Chances are it's "a requirement that's not a
 purely functional requirement". (We try to avoid the term
 "non-functional requirement".)
 
-Unfortunately, this is problematic. Consider the ISO 25010 
-taxonomie: its leftmost category is called "functional
+Unfortunately, this is problematic. Consider the ISO 25010
+taxonomy: its leftmost category is called "functional
 suitability". While the term is a bit stilted (it was called
 "functionality" in ISO 9126, ISO 25010's predecessor standard) and it
 indeed refers to functionality. (If you think it doesn't, consider how
 you would measure any of its sub-categories without referring to
 functionality.)  In other words, "functionality" is a quality of a
-software system, both intuitively (of course it's a property of a
-software system!)  and authoritatively. Consequently, the term
-"quality requirement" cannot sensibly exclude functional
-requirements. Indeed, most uses of the term "quality requirement" can
-be replaced by simply "requirement", and that's what we did for the
-2025 revision of the iSAQB Foundation curriculum.
+software system, at least intuitively (of course it's a property of a
+software system!) and, under the prevailing reading of ISO 25010,
+authoritatively as well. Consequently, the term "quality requirement"
+cannot sensibly exclude functional requirements. Indeed, most uses of
+the term "quality requirement" can be replaced by simply "requirement",
+and that's what we did for the 2025 revision of the iSAQB Foundation
+curriculum.
 
 This leaves you a bit in a lurch if you've been using the term in ways
 that are important to you. What you should do depends on the
 context. In most situations, you should just say what quality or
 qualities you're referring to - just say "performance requirement" or
 "security requirement".
+
+That said, the case against the term is not a case against the
+underlying concern of treating qualities with special care. Practitioners working on information systems
+frequently find that qualities such as performance, security, or
+maintainability fly under the radar: stakeholders focus on
+functionality, and important quality aspects surface late, when
+addressing them is expensive.
+The value of taxonomies like ISO 25010 and Q42 lies precisely in prompting us to look beyond functionality.
+The problem is not the concern.
+It is the imprecise term that was used to carry it.
+
+So where does this leave us? The problem with "quality requirement" is not that the concept is useless.
+It is that the term obscures more than it clarifies.
+Our recommendation is simple: be specific.
+Say "performance requirement", "security constraint", or "usability goal".
+If you are early in the process and do not yet know how to measure
+something, say so explicitly: name the quality, flag it as a known
+gap, and treat it as a starting point for further specification.
+
+When everyone in the room knows which quality you are talking about and what "good enough" means (or at least what it will take to find out), you are having the right conversation.
 
 // end::EN[]
 
@@ -59,49 +79,57 @@ Das Wort "Qualität" ist zentral für die Herangehensweise des iSAQB an
 Softwarearchitektur.  Im Kontext unserer Curricula ist "Qualität" ein
 anderes Wort für "Merkmal"
 https://en.wikipedia.org/wiki/Quality_(philosophy)[[Wikipedia]]
-Die Idee ist diese hier: Wir teilen die Qualitäten eines
+Die Idee ist folgende: Wir teilen die Qualitäten eines
 Softwaresystems in eine Taxonomie von Kategorien ein, und wenden dann
-einen Werkzeugkasten von Techniken an - manchmal nach Kategorie sortiert
-- um die Architektur weiterzuentwickeln.  Zwei prominente solche
-Taxonomien sind https://www.iso.org/standard/78176.html[ISO 25010:2023] and
-https://quality.arc42.org/[Q42]. Beide führen Kategorien -
-in Q42 "Dimensionen" genannt - wie Performance oder Security auf.
+einen Werkzeugkasten von Methoden an, um die Architektur weiterzuentwickeln.  Zwei bekannte Taxonomien sind https://www.iso.org/standard/78176.html[ISO 25010:2023] und
+https://quality.arc42.org/[Q42]. Beide enthalten Kategorien -
+in Q42 "Dimensionen" genannt - wie Performance oder Security.
 
 Diese Taxonomien dienen als Leitfäden oder Checklisten für die Auswahl
-von Qualitäten bei der Anforderungserhebung, oder um sie zum Thema von
-Qualitätsszenarien zu machen. Sie erinnern uns außerdem daran, dass
-wir jenseits der Funktionalität schauen müssen, wenn es um
+von Qualitäten bei der Anforderungserhebung, oder um sie in
+Qualitätsszenarien zu thematisieren. Sie erinnern uns außerdem daran, dass wir über Funktionalität hinaus blicken müssen, wenn es um
 Anforderungen und Architekturbewertung geht.
 
 So weit, so gut.
 
 Jetzt ist es aber so, dass nicht nur der Begriff "Qualität" eine
 gewichtige Rolle in der iSAQB-Terminologie spielt, sondern auch
-spezifischer "Qualitätsanforderung". Bevor Sie weiterlesen, halten Sie
-kurz inne und überlegen, ob Sie eine Definition dieses Begriffs im
-Kopf haben. Wahrscheinlich ist sie "eine Anforderung, die keine reine
-funktionale Anforderungf ist". (Wir versuchen, den Begriff
+spezifischer der Begriff "Qualitätsanforderung". Bevor Sie weiterlesen, halten Sie bitte kurz inne und überlegen, ob Sie eine Definition dieses Begriffs vor Augen haben. Wahrscheinlich lautet sie "eine Anforderung, die keine reine
+funktionale Anforderung ist". (Wir versuchen, den Begriff
 "nicht-funktionale Anforderung" zu vermeiden.)
 
-Leider ist dass problematisch. Betrachten wir die ISO-25010-Taxonomie:
-die Kategorie am linken Rand heißt "funktionale Eignung". Der Begriff
-ist etwas gestelzt (er hieß "Funktionalität" in ISO 9126, dem
-Vorgängestandard von ISO 25010) und er bezieht sich tatsächlich auf
-Funktionalität.  (Wenn Sie das anders sehen, denken Sie darüber nach,
-wie sie die Qualitäten der Unterkategorien von "funktionale Eignung"
-messen würden, ohne sich auf die Funktionalität zu beziehen.)  Anders
-gesagt ist "Funktionalität" eine Qualität des Softwaresystems, sowohl
-intuitiv gesehen (natürlich ist es ein Merkmal eines Softwaresystems!)
-und offiziell. Deswegen kann der Begriff "Qualitätsanforderung"
-vernünftigerweise funktionale Anforderungen nicht ausschließen. In der
-Tat können die meisten Vorkommen des Begriffs "Qualitätsanforderung"
-einfach durch "Anforderung" ersetzt werden, und das haben wir für die
-Revision von 2025 des iSAQB-Foundation-Curriculums auch getan.
+Leider ist das problematisch. Betrachten wir die ISO-25010-Taxonomie:
+die Kategorie am linken Rand ist mit "funktionale Eignung" betitelt. Der Begriff ist etwas sperrig (in ISO 9126, dem Vorgängerstandard von ISO 25010 lautete er noch "Funktionalität" ) und bezieht sich tatsächlich auf Funktionalität.  (Wenn Sie das anders sehen, überlegen Sie bitte kurz, wie Sie die Qualitäten der Unterkategorien von "funktionale Eignung" messen würden, ohne sich auf konkrete  Funktionalität zu beziehen.)
+Anders gesagt ist "Funktionalität" eine Qualität des Softwaresystems.
+Zumindest intuitiv (natürlich ist es ein Merkmal eines Softwaresystems!) und nach der vorherrschenden Lesart von ISO 25010 ebenso verbindlich.
+Deswegen kann der Begriff "Qualitätsanforderung" vernünftigerweise
+funktionale Anforderungen nicht ausschließen. In der Tat können die
+meisten Vorkommen des Begriffs "Qualitätsanforderung" einfach durch
+"Anforderung" ersetzt werden, und das haben wir für die Revision von
+2025 des iSAQB-Foundation-Curriculums auch getan.
 
-Das lässt Sie ein bisschen im Stich, falls Sie den Begriff auf eine
-Art verwenden, die Ihnen wichtig ist.  Was Sie tun sollten, hängt vom
-Kontext ab.  In den meisten Situationen sollten Sie benennen, welche
+Das lässt einen ein wenig im Regen stehen, wenn man den Begriff bisher in Zusammenhängen verwendet hat, die einem wichtig sind.
+Was Sie tun sollten, hängt vom Kontext ab.
+In den meisten Situationen sollten Sie benennen, welche
 Qualität oder Qualitäten Sie meinen - sagen Sie einfach
 "Performance-Anforderung" oder "Security-Anforderung".
+
+Das heißt aber nicht, dass das zugrundeliegende Anliegen, Anforderungen an Qualitäten mit besonderer Zuwendung zu bedenken, hinfällig ist.
+Gerade Praktiker*innen im Bereich von Informationssystemen erleben
+häufig, dass Qualitäten wie Performance, Security oder Wartbarkeit unter dem Radar fliegen: Stakeholder konzentrieren sich auf Funktionalität und wichtige Qualitätsaspekte tauchen (zu) spät auf.
+Oft erst dann, wenn ihre Berücksichtigung teuer ist. Der Wert von Taxonomien wie ISO 25010 und Q42 liegt genau darin, uns zu veranlassen, über Funktionalität hinauszuschauen. Das Problem ist nicht das Anliegen. Es ist der unscharfe Begriff mit dem es transportiert wurde.
+
+
+Was bedeutet das nun für uns? Das Problem mit "Qualitätsanforderung"
+ist nicht, dass das Konzept nutzlos ist, sondern dass der Begriff mehr verschleiert als klärt. Unsere Empfehlung ist einfach: Seien Sie
+spezifisch. Sagen Sie "Performance-Anforderung", "Security-Einschränkung"
+oder "Usability-Ziel". Wenn Sie am Anfang des Prozesses stehen und noch
+nicht wissen, wie Sie etwas messen können, sagen Sie das explizit –
+benennen Sie die Qualität, markieren Sie sie als bekannte Lücke, und
+behandeln Sie sie als Ausgangspunkt für weitere Spezifikation.
+
+Wenn alle im Raum wissen, über welche Qualität gesprochen wird – und
+was "gut genug" bedeutet, oder zumindest was es braucht, um das
+herauszufinden – dann führen Sie das richtige Gespräch.
 
 // end::DE[]
