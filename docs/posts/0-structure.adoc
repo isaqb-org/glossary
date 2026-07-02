@@ -1,0 +1,12 @@
+// tag::DE[]
+== Artikel
+// end::DE[]
+
+// tag::EN[]
+== Posts
+// end::EN[]
+
+
+
+include::stop-calling-it-quality-requirement.adoc[{include_configuration}]
+
