@@ -3,17 +3,23 @@
 // tag::EN[]
 ==== Quality Requirement
 
-Characteristic or attribute of a component of a system. Examples include
-runtime performance, safety, security, reliability or maintainability.
-See also <<term-software-quality,software quality>>.
+Ill-defined term that may refer either to:
+
+- a requirement on a specified <<term-software-property,property>>, or to
+- a requirement on a specified non-functional <<term-software-property,property>>.
+
+Don't use.
 
 // end::EN[]
 
 // tag::DE[]
 ==== Qualitätsanforderung
 
-Eigenschaft oder Merkmal einer Komponente eines Systems. Beispiele
-sind Laufzeitleistung, Schutz, Sicherheit, Zuverlässigkeit oder
-Wartbarkeit. Siehe auch <<term-software-quality,Softwarequalität>>.
+Unklarer Begriff, der sich beziehen kann auf:
+
+- eine Anforderung auf eine spezifizierte  <<term-software-property,Eigenschaft>>, oder
+- eine Anforderung auf eine spezifizierte nicht-funktionale <<term-software-property,Eigenschaft>>.
+
+Nicht verwenden.
 
 // end::DE[]

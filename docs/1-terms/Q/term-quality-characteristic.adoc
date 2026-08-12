@@ -3,13 +3,13 @@
 // tag::EN[]
 ==== Quality Characteristic
 
-synonym: <<term-quality-attribute,quality attribute>>.
+A quality characteristic is an inherent <<term-software-property,property>>.
 
 //end::EN[]
 
 //tag::DE[]
-==== Qualitätseigenschaft
+==== Qualitätsmerkmal
 
-Synonym: <<term-quality-attribute,Qualitätsmerkmal>>.
+Ein Qualitätsmerkmal ist eine inhärente <<term-software-property,Eigenschaft>>.
 
 // end::DE[]
