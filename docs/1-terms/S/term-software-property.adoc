@@ -1,0 +1,37 @@
+[#term-software-property]
+
+// tag::EN[]
+==== Software property
+
+A software porperty is an aspect of the system that can be subject to requirements.
+
+Software properties come in two flavors:
+
+- properties _inherent_ to the software system, and
+- properties _assigned_ to the software system such as price, delivery date etc.
+
+Inherent properties are also called <<term-quality-characteristic,quality characteristics>>.
+
+Properties of a system comprise functional and non-functional properties.
+Functional properties describe the relationship between input and output, while non-functional properties describe aspects of the system not easily characterized as such.
+(This distinction is vague at best and confusing at worst, since many non-functional properties - such as speed - can be expressed as functional ones via appropriate measures.)
+
+// end::EN[]
+
+// tag::DE[]
+==== Softwareeigenschaft
+
+Eine Softwareeigenschaft ist ein Aspekt eines Systems, der Anforderungen zugänglich ist.
+
+Es gibt zwei Arten von Softwareeigenschaften:
+
+- Eigenschaften, die dem Softwaresystem _inhärent_ sind, und
+- Eigenschaften, die dem Softwaresystem _zugewiesen_ werden, wie zum Beispiel Preis, Lieferdatum etc.
+
+Inhärente Eigenschaften heißen auch <<term-quality-characteristic,Qualitätsmerkmale>>.
+
+Zu den Eigenschaften eines Systems gehören _funktionale_ und _nicht-funktionale_ Eigenschaften.
+Funktionale Eigenschaften beschreiben die Beziehung zwischen Eingabe und Ausgabe, während nicht-funktionale Eigenschaften Aspekte des Systems beschreiben, die nicht unmittelbar so beschrieben werden können.
+(Diese Unterscheidung ist bestenfalls vage und schlimmstenfalls verwirrend, weil viele nicht-funktionale Eigenschaften - wie zum Beispiel Geschwindigkeit - durch geeignete Maße als funktionale Eigenschaften ausgedrückt werden können.)
+
+// end::DE[]

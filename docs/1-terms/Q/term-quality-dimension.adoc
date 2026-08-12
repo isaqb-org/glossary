@@ -1,0 +1,18 @@
+[#term-quality-dimension]
+
+// tag::EN[]
+
+==== Quality Dimension
+
+A quality dimension is a category of <<term-quality-characteristic,quality characteristics>> in a <<term-quality-model,quality model>>.
+
+// end::EN[]
+
+// tag::DE[]
+
+==== Qualitätsdimension
+
+Eine Qualitätsdimension ist eine Kategorie von <<term-quality-characteristic,Qualitätsmerkmalen>> in einem <<term-quality-model,Qualitätsmodell>>.
+
+// end::DE[]
+

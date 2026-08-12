@@ -14,6 +14,7 @@ This section contains references that are cited in the glossary or one of the cu
 
 **A**
 
+- [[[ref-q42, Arc42 Quality Model]]] _The Arc42 Quality Model_. <https://quality.arc42.org/>
 - [[[ref-anderson-2008, Anderson 2008]]] Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed Systems, 2nd edition 2008, John Wiley & Sons.
 One of the most comprehensive books about information security available.
 
