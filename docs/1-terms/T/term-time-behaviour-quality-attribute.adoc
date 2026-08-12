@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Time Behaviour Quality Attribute
 Degree to which the response and processing times and throughput rates of a product or system, when performing its functions, meet requirements.
-Is a sub-characteristic of: <<term-performance-efficiency-quality-attribute,performance efficiency>>.
+Is a sub-characteristic of: <<term-performance-efficiency-quality-dimension,performance efficiency>>.
 
 Refer to <<ref-iso-25010>>.
 
@@ -16,7 +16,7 @@ Refer to <<ref-iso-25010>>.
 Maß, in dem die Antwort- und Verarbeitungszeiten und
 Durchsatzgeschwindigkeiten eines Produkts oder System bei der
 Erfüllung seiner Funktionen den Anforderungen entsprechen. Teilmerkmal
-von: <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>.
+von: <<term-performance-efficiency-quality-dimension,Leistungseffizienz>>.
 
 Siehe auch <<ref-iso-25010>>.
 
