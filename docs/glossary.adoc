@@ -4,7 +4,6 @@ include::config/setup.adoc[]
 
 = {curriculum-header-title}
 :toc: left
-
 ifeval::["{language}" == "DE"]
 :toc-title: Inhaltsverzeichnis
 endif::[]
