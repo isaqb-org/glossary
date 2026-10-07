@@ -4,6 +4,9 @@
 :imagesdir: images
 :!chapter-signifier:
 
+ifdef::prepress[]
+:media: prepress
+endif::[]
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
