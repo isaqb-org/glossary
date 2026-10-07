@@ -18,10 +18,12 @@ endif::[]
 
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB® Glossar für Begriffe rund um Softwarearchitektur
+:front-cover-image: image:cover-de.pdf[page=1]
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-header-title: iSAQB® Glossary of Software Architecture Terminology
+:front-cover-image: image:cover-en.pdf[page=1]
 endif::[]
 
 // you might want to output some internal information...
