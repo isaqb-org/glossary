@@ -4,6 +4,12 @@
 :learning-goals: Lernziele
 :references: Referenzen und Quellen
 :examples: Beispiele
+:copyright-title: Lizenz
+// German low-high typographic quotes
+:lq: „
+:rq: “
+:lsq: ‚
+:rsq: ‘
 // end::DE[]
 
 // tag::EN[]
@@ -12,4 +18,10 @@
 :learning-goals: Learning Goals
 :references: References and Resources
 :examples: Examples
+:copyright-title: License
+// English typographic quotes
+:lq: “
+:rq: ”
+:lsq: ‘
+:rsq: ’
 // end::EN[]
