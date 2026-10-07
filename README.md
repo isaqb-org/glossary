@@ -2,6 +2,13 @@
 
 A comprehensive glossary of software architecture terminology, many of them used in the iSAQB® foundation and advanced level curricula.
 
+== Status
+image:https://github.com/isaqb-org/glossary/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
+image:https://img.shields.io/github/last-commit/isaqb-org/glossary/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/glossary.svg["Contributors",link="https://github.com/isaqb-org/glossary/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/glossary.svg["Issues",link="https://github.com/isaqb-org/glossary/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/glossary.svg["Issues closed",link="https://github.com/isaqb-org/glossary/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
 This repository contains the sources for the published version of the iSAQB® glossary, in various formats:
 
 * [Leanpub (https://leanpub.com/isaqbglossary)](https://leanpub.com/isaqbglossary), which was the original format
