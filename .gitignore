@@ -4,13 +4,11 @@ docs/2-translations/gen-*
 # IDE files
 .idea
 .DS_Store
-.settings/org.eclipse.buildship.core.prefs
 .classpath
 .project
 .vscode/settings.json
 .code-workspace
 # build files
-.gradle
 build
 generated
 docs/1-terms/0-structure-*.adoc

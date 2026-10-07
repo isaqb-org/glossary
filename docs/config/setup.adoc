@@ -2,42 +2,37 @@
 :icons: font
 :sectnumlevels: 0
 :imagesdir: images
-:chapter-label: 
+:!chapter-signifier:
 
-// if the attribute ":withRemarks:" is set, we amend every content-include
-// by ";REMARK", so that the sections tagged "REMARK" are always included.
-:withRemarks!:
-:remarks:
-ifdef::withRemarks[]
-:remarks: ;REMARK
-endif::withRemarks[]
+ifdef::prepress[]
+:media: prepress
+endif::[]
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: EN
 
 // ":include_configuration:" always consists of the language, optionally
-// followed by ";REMARK"
 // additional markers might be configured here!
-:include_configuration: tags=**;{language}{remarks};!*
+:include_configuration: tags=**;{language};!*
 
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB® Glossar für Begriffe rund um Softwarearchitektur
+:front-cover-image: image:cover-de.pdf[page=1]
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-header-title: iSAQB® Glossary of Software Architecture Terminology
+:front-cover-image: image:cover-en.pdf[page=1]
 endif::[]
 
-// you might want to output some internal information...
-ifdef::debug_adoc[]
-[NOTE]
-====
-Current configuration:
-
-* Language(s): {language}
-* Document version: {document-version}
-* Include-configuration: {include_configuration}
-* Image directory: {imagesdir}
-====
-endif::debug_adoc[]
+// title definitions for proper formatting in PDF and HTML – DO NOT TOUCH
+ifdef::backend-pdf[]
+:title-break: :{sp}
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
+:title-break: pass:q[<br>]
+:toc: left
+endif::[]

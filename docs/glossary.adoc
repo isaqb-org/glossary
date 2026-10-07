@@ -4,15 +4,9 @@ include::config/setup.adoc[]
 
 = {curriculum-header-title}
 :toc: left
-
 ifeval::["{language}" == "DE"]
 :toc-title: Inhaltsverzeichnis
 endif::[]
-
-// document-version fallback, should usually be overwritten by the build process,
-// e.g. build.gradle
-:document-version: 2022.1
-
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 

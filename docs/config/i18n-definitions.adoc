@@ -1,15 +1,27 @@
 // tag::DE[]
-:lang: DE
+:lang: de
 :basics: Grundlegendes
 :learning-goals: Lernziele
 :references: Referenzen und Quellen
 :examples: Beispiele
+:copyright-title: Lizenz
+// German low-high typographic quotes
+:lq: „
+:rq: “
+:lsq: ‚
+:rsq: ‘
 // end::DE[]
 
 // tag::EN[]
-:lang: EN
+:lang: en
 :basics: Essentials
 :learning-goals: Learning Goals
 :references: References and Resources
 :examples: Examples
+:copyright-title: License
+// English typographic quotes
+:lq: “
+:rq: ”
+:lsq: ‘
+:rsq: ’
 // end::EN[]

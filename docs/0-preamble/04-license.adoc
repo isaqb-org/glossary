@@ -1,6 +1,6 @@
 // tag::EN[]
 
-=== License
+=== {copyright-title}
 
 image::0-preamble/cc-by.png[]
 
