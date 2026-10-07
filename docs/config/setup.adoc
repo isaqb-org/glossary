@@ -2,7 +2,7 @@
 :icons: font
 :sectnumlevels: 0
 :imagesdir: images
-:chapter-label: 
+:!chapter-signifier:
 
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
