@@ -9,7 +9,7 @@ on:
     branches: [ main ]
     tags:
       - "[2-9][0-9][0-9][0-9]\\.[0-1][0-9]\\.[0-3][0-9]\\-[0-9]+"
-
+  workflow_dispatch:
 jobs:
   call_workflow_build:
     uses: isaqb-org/github-workflows/.github/workflows/build_main.yml@main-ruby

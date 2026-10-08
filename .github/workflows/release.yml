@@ -1,18 +1,23 @@
 name: Release
 
 on:
-  push:
+  workflow_run:
+    workflows: ["CI - Releases and Main"]
+    types: [completed]
     branches: [main]
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   tag:
+    if: github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
         with:
+          ref: ${{ github.event.workflow_run.head_sha }}
           fetch-depth: 0  # need full history for tags
 
       - name: Compute version tag
@@ -33,3 +38,8 @@ jobs:
         run: |
           git tag "${{ steps.version.outputs.tag }}"
           git push origin "${{ steps.version.outputs.tag }}"
+
+      - name: Trigger build on the tag
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build_main.yml --ref "${{ steps.version.outputs.tag }}"
