@@ -1,0 +1,15 @@
+[#term-efficient-quality-dimension]
+
+// tag::EN[]
+==== Efficient (Quality Dimension)
+
+In <<ref-q42>>, "efficient" is a <<term-quality-dimension,quality dimension>> reffering to producing desired results with little or no waste.
+
+// end::EN[]
+
+// tag::DE[]
+==== Effizient (Qualitätsdimension)
+
+In <<ref-q42>>, "effizient" ist eine <<term-quality-dimension,Qualitätsdimension>>, die sich darauf bezieht, mit wenig oder keiner Verschwendung gewünschte Resultate zu erzielen.
+
+// end::DE[] 
