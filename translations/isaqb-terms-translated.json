@@ -16,14 +16,6 @@
         ]
     },
     {
-        "en": "Accreditation contract",
-        "de": "Akkreditierungsvertrag"
-    },
-    {
-        "en": "Accreditation fee",
-        "de": "Akkreditierungsgebühr"
-    },
-    {
         "en": "Action",
         "de": "Maßnahme"
     },
@@ -96,10 +88,6 @@
         "de": "Architekturziel"
     },
     {
-        "en": "Articles of assocation",
-        "de": "Satzung des Vereins"
-    },
-    {
         "en": "Artifact",
         "de": "Artefakt"
     },
@@ -123,11 +111,7 @@
     },
     {
         "en": "Association",
-        "de":
-        [
-            "Verein",
-            "Beziehung"
-        ]
+        "de": "Beziehung"
     },
     {
         "en": "Attack Tree",
@@ -180,26 +164,6 @@
     {
         "en": "Capacity",
         "de": "Kapazität"
-    },
-    {
-        "en": "Cash audit",
-        "de": "Rechnungsprüfung"
-    },
-    {
-        "en": "Cash auditor",
-        "de": "Rechnungsprüfer"
-    },
-    {
-        "en": "Certification authority",
-        "de": "Zertifizierungsstelle"
-    },
-    {
-        "en": "Certification body",
-        "de": "Zertifizierungsstelle"
-    },
-    {
-        "en": "Chairman",
-        "de": "Vorsitzender"
     },
     {
         "en": "Channel",
@@ -311,10 +275,6 @@
         "de": "Verteilungssicht"
     },
     {
-        "en": "Deputy chairman",
-        "de": "Stellvertretender Vorsitzender"
-    },
-    {
         "en": "Design",
         "de": "Entwurf"
     },
@@ -384,40 +344,8 @@
         "de": "Bewertung"
     },
     {
-        "en": "Examination question",
-        "de": "Prüfungsfrage"
-    },
-    {
-        "en": "Examination rules and regulations",
-        "de": "Prüfungsordnung"
-    },
-    {
-        "en": "Examination sheet",
-        "de": "Prüfungsbogen"
-    },
-    {
-        "en": "Examination task",
-        "de": "Prüfungsaufgabe"
-    },
-    {
-        "en": "Examiner",
-        "de": "Prüfer"
-    },
-    {
-        "en": "Examinee",
-        "de": "Prüfling"
-    },
-    {
-        "en": "Executive board",
-        "de": "Vorstand"
-    },
-    {
         "en": "Fault Tolerance",
         "de": "Fehlertoleranz"
-    },
-    {
-        "en": "Fees rules and regulations",
-        "de": "Gebührenordnung"
     },
     {
         "en": "Fitness Function",
@@ -438,10 +366,6 @@
     {
         "en": "Functional Suitability",
         "de": "Funktionale Eignung"
-    },
-    {
-        "en": "General meeting",
-        "de": "Mitgliederversammlung"
     },
     {
         "en": "Improvement",
@@ -500,27 +424,6 @@
         "de": "Lernziel"
     },
     {
-        "en": "Licensee",
-        "de": "Lizenznehmer"
-    },
-    {
-        "en": "License fee",
-        "de": "Akkreditierungsgebühr"
-    },
-    {
-        "en": "Licensing agreement",
-        "de":
-        [
-            "Lizenzvertrag",
-            "Lizenzvereinbarung",
-            "Akkreditierungsvertrag"
-        ]
-    },
-    {
-        "en": "Local court",
-        "de": "Amtsgericht"
-    },
-    {
         "en": "Maintainability",
         "de": "Wartbarkeit"
     },
@@ -539,10 +442,6 @@
     {
         "en": "Measurability",
         "de": "Messbarkeit"
-    },
-    {
-        "en": "Members' meeting",
-        "de": "Mitgliederversammlung"
     },
     {
         "en": "message-driven",
@@ -774,24 +673,12 @@
         "de": "Beschreibung (von Softwarearchitektur)"
     },
     {
-        "en": "sponsoring (board) member",
-        "de": "materiell förderndes Mitglied"
-    },
-    {
-        "en": "statutory",
-        "de": "satzungsgemäß"
-    },
-    {
         "en": "Structure",
         "de": "Struktur"
     },
     {
         "en": "Task",
         "de": "Aufgabe"
-    },
-    {
-        "en": "Team regulations",
-        "de": "Arbeitsgruppenordnung"
     },
     {
         "en": "Technical context",
@@ -839,14 +726,6 @@
         ]
     },
     {
-        "en": "Training provider",
-        "de": "Schulungsanbieter"
-    },
-    {
-        "en": "Treasurer",
-        "de": "Schatzmeister"
-    },
-    {
         "en": "Ubiquitous language",
         "de": "Allgegenwärtige Sprache"
     },
@@ -881,14 +760,6 @@
             "Sicht",
             "Architektursicht"
         ]
-    },
-    {
-        "en": "Working group",
-        "de": "Arbeitsgruppe"
-    },
-    {
-        "en": "Working group head",
-        "de": "Arbeitsgruppenleiter"
     },
     {
         "en": "Workflow management",
