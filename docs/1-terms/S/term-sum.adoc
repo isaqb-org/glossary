@@ -4,7 +4,7 @@
 ==== Sum
 
 Sum data is data that can be one of several distinct, but fixed types.
-Also known as *discriminated union*, *dijoint union*,
+Also known as *discriminated union*, *disjoint union*,
 *mixed data* or *or data*.
 
 Example:
