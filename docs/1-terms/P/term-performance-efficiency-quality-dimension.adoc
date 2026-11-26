@@ -1,0 +1,21 @@
+[#term-performance-efficiency-quality-dimension]
+
+// tag::EN[]
+==== Performance Efficiency (Quality Dimension)
+
+In <<ref-iso-25010>>, performance efficiency is a <<term-quality-dimension,quality dimension>> related to the capability of a Softwaresystems to perform its functions within specified time and throughput parameters and be efficient in the use of resources under specified conditions. 
+
+Is composed of the following <<term-quality-characteristic,quality characteristics>>: <<term-time-behaviour-quality-attribute,time behaviour>>, <<term-resource-utilization-quality-attribute,resource utilization>>, <<term-capacity-quality-attribute,capacity>>.
+
+// end::EN[]
+
+// tag::DE[]
+==== Leistungseffizienz (Qualitätsdimension)
+
+In <<ref-iso-25010>>, Leistungseffizienz ist eine <<term-quality-dimension,Qualitätsdimension>>, die mit der Fähigkeit eines Softwaresystems zu tun hat, ihre Funktionen innerhalb spezifizierter Zeit- und Durchsatzparameter auszuführen und unter bestimmten Voraussetzungen effizient seine Ressourcen zu nutzen.
+
+Es besteht aus folgenden Teilmerkmalen:
+<<term-time-behaviour-quality-attribute,Zeitverhalten>>, <<term-resource-utilization-quality-attribute,Ressourcenverbrauch>>,
+<<term-capacity-quality-attribute,Kapazität>>.
+
+// end::DE[] 

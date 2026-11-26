@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Resource Utilization Quality Attribute
 Degree to which the amounts and types of resources used by a product or system, when performing its functions, meet requirements.
-Is a sub-characteristic of: <<term-performance-efficiency-quality-attribute,performance efficiency>>.
+Is a sub-characteristic of: <<term-performance-efficiency-quality-dimension,performance efficiency>>.
 
 Refer to <<ref-iso-25010>>.
 
@@ -15,7 +15,7 @@ Refer to <<ref-iso-25010>>.
 Maß, in dem die von einem Produkt oder einem System bei der Erfüllung
 seiner Funktionen verbrauchten Mengen und Arten von Ressourcen den
 Anforderungen entsprechen. Teilmerkmal von:
-<<term-performance-efficiency-quality-attribute,Leistungseffizienz>>.
+<<term-performance-efficiency-quality-dimension,Leistungseffizienz>>.
 
 Siehe auch <<ref-iso-25010>>.
 

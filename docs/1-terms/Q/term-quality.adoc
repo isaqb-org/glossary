@@ -3,7 +3,7 @@
 // tag::EN[]
 ==== Quality
 
-See <<term-software-quality,software quality>> and <<term-quality-attribute,quality attributes>>.
+See <<term-software-quality,software quality>>.
 
 
 // end::EN[]
@@ -11,8 +11,7 @@ See <<term-software-quality,software quality>> and <<term-quality-attribute,qual
 // tag::DE[]
 ==== Qualität
 
-Siehe <<term-software-quality,Softwarequalität>> und
-<<term-quality-attribute,Qualitätsmerkmale>>.
+Siehe <<term-software-quality,Softwarequalität>>.
 
 
 

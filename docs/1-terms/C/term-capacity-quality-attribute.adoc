@@ -4,7 +4,7 @@
 ==== Capacity Quality Attribute
 
 Degree to which the maximum limits of a product or system parameter meet requirements.
-Is a sub-characteristic of: <<term-performance-efficiency-quality-attribute,performance efficiency>>.
+Is a sub-characteristic of: <<term-performance-efficiency-quality-dimension,performance efficiency>>.
 
 Refer to <<ref-iso-25010>>.
 
@@ -14,7 +14,7 @@ Refer to <<ref-iso-25010>>.
 ==== Qualitätsmerkmal Kapazität
 
 Maß, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den
-Anforderungen entsprechen. Teilmerkmal von: <<term-performance-efficiency-quality-attribute,Leistungseffizienz>>.
+Anforderungen entsprechen. Teilmerkmal von: <<term-performance-efficiency-quality-dimension,Leistungseffizienz>>.
 
 Siehe auch <<ref-iso-25010>>.
 
